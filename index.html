@@ -1,12 +1,23 @@
 <!DOCTYPE html>
-<html lang="bs">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>FPL Stats</title>
+<title>FPL Player Lab</title>
 
 <style>
+
+:root {
+    --bg: #f5f7fb;
+    --card: #ffffff;
+    --text: #172033;
+    --muted: #7b8497;
+    --border: #e7eaf0;
+    --accent: #00a86b;
+    --accent-dark: #078457;
+    --dark: #101828;
+}
 
 * {
     box-sizing: border-box;
@@ -14,123 +25,257 @@
 
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
-    background: #f3f4f6;
-    color: #111827;
+    background: var(--bg);
+    color: var(--text);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-header {
-    background: #111827;
+/* HEADER */
+
+.header {
+    background: linear-gradient(
+        135deg,
+        #101828,
+        #18243b
+    );
+
     color: white;
-    padding: 25px;
+    padding: 28px 20px 34px;
 }
 
-header h1 {
-    margin: 0 0 8px 0;
+.header-inner {
+    max-width: 1500px;
+    margin: auto;
 }
 
-header p {
-    margin: 0;
-    opacity: 0.8;
+.logo {
+    font-size: 27px;
+    font-weight: 800;
 }
+
+.logo span {
+    color: #39d98a;
+}
+
+.subtitle {
+    margin-top: 7px;
+    color: #b8c1d1;
+}
+
+/* MAIN */
 
 .container {
-    max-width: 1600px;
-    margin: auto;
-    padding: 20px;
+    max-width: 1500px;
+    margin: -18px auto 50px;
+    padding: 0 18px;
 }
+
+/* TOP CARD */
+
+.panel {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 18px;
+    box-shadow: 0 5px 20px rgba(16,24,40,.06);
+}
+
+/* CONTROLS */
 
 .controls {
-    display: flex;
+    display: grid;
+    grid-template-columns:
+        1fr
+        180px
+        180px;
+
     gap: 10px;
-    flex-wrap: wrap;
-    margin-bottom: 20px;
 }
 
-select,
-input {
-    padding: 11px;
-    border: 1px solid #d1d5db;
-    border-radius: 8px;
+input,
+select {
+    width: 100%;
+    padding: 12px 13px;
+
+    border: 1px solid var(--border);
+    border-radius: 9px;
+
     background: white;
-    font-size: 15px;
-}
+    color: var(--text);
 
-input {
-    min-width: 240px;
-}
-
-.info {
-    margin-bottom: 15px;
     font-size: 14px;
-    color: #6b7280;
 }
 
-.table-container {
+input:focus,
+select:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+
+/* POSITION BUTTONS */
+
+.position-buttons {
+    display: flex;
+    gap: 8px;
+    margin-top: 14px;
+    flex-wrap: wrap;
+}
+
+.position-buttons button {
+    border: 1px solid var(--border);
     background: white;
-    border-radius: 10px;
+    padding: 9px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--text);
+}
+
+.position-buttons button.active {
+    background: var(--dark);
+    color: white;
+    border-color: var(--dark);
+}
+
+/* INFO */
+
+.info-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin: 22px 0 12px;
+
+    color: var(--muted);
+    font-size: 14px;
+}
+
+/* TABLE */
+
+.table-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    overflow: hidden;
+
+    box-shadow: 0 5px 20px rgba(16,24,40,.06);
+}
+
+.table-scroll {
     overflow-x: auto;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
 }
 
 table {
     width: 100%;
+    min-width: 1250px;
     border-collapse: collapse;
-    min-width: 1200px;
+}
+
+thead {
+    background: #fafbfc;
 }
 
 th {
-    background: #e5e7eb;
-    padding: 12px;
+    padding: 13px 14px;
+
+    border-bottom: 1px solid var(--border);
+
+    color: var(--muted);
+
+    font-size: 12px;
+    font-weight: 700;
+
     text-align: left;
-    position: sticky;
-    top: 0;
+
     cursor: pointer;
+
     white-space: nowrap;
+}
+
+th:hover {
+    color: var(--accent-dark);
 }
 
 td {
-    padding: 10px 12px;
-    border-bottom: 1px solid #e5e7eb;
+    padding: 13px 14px;
+
+    border-bottom: 1px solid var(--border);
+
+    font-size: 14px;
+
     white-space: nowrap;
 }
 
-tr:hover {
-    background: #f9fafb;
+tbody tr:hover {
+    background: #f8fafc;
 }
 
-.player {
-    font-weight: bold;
+/* PLAYER */
+
+.player-name {
+    font-weight: 700;
 }
+
+.club {
+    color: var(--muted);
+    font-size: 13px;
+}
+
+/* POSITIONS */
+
+.badge {
+    display: inline-block;
+
+    padding: 4px 7px;
+
+    border-radius: 6px;
+
+    background: #eef2f6;
+
+    font-size: 11px;
+    font-weight: 800;
+}
+
+/* PRICE */
+
+.price {
+    font-weight: 700;
+}
+
+/* NUMBERS */
+
+.number {
+    font-variant-numeric: tabular-nums;
+}
+
+/* LOADING */
 
 .loading {
-    padding: 30px;
+    padding: 45px;
     text-align: center;
+    color: var(--muted);
 }
 
-.error {
-    padding: 20px;
-    background: #fee2e2;
-    color: #991b1b;
-    border-radius: 8px;
-}
+/* MOBILE */
 
-@media (max-width: 700px) {
+@media(max-width: 800px) {
 
-    header {
-        padding: 18px;
+    .controls {
+        grid-template-columns: 1fr;
+    }
+
+    .header {
+        padding: 22px 15px 30px;
     }
 
     .container {
-        padding: 10px;
+        padding: 0 10px;
     }
 
-    input {
-        width: 100%;
-    }
-
-    select {
-        width: 100%;
+    .info-row {
+        align-items: flex-start;
+        gap: 10px;
+        flex-direction: column;
     }
 }
 
@@ -139,69 +284,156 @@ tr:hover {
 
 <body>
 
-<header>
+<header class="header">
 
-<h1>⚽ FPL Statistics</h1>
+<div class="header-inner">
 
-<p>
-Fantasy Premier League — sezonska statistika
-</p>
+<div class="logo">
+FPL <span>PLAYER LAB</span>
+</div>
+
+<div class="subtitle">
+All players · Season statistics · Official FPL data
+</div>
+
+</div>
 
 </header>
 
-<div class="container">
+
+<main class="container">
+
+
+<div class="panel">
 
 <div class="controls">
-
-<select id="clubFilter">
-<option value="ALL">Svi klubovi</option>
-</select>
-
-<select id="positionFilter">
-
-<option value="ALL">
-Sve pozicije
-</option>
-
-<option value="GK">
-Goalkeepers
-</option>
-
-<option value="DEF">
-Defenders
-</option>
-
-<option value="MID">
-Midfielders
-</option>
-
-<option value="FWD">
-Attackers
-</option>
-
-</select>
 
 <input
 id="search"
 type="text"
-placeholder="Pretraži igrača..."
+placeholder="Search players..."
 >
 
+<select id="club">
+
+<option value="ALL">
+All clubs
+</option>
+
+</select>
+
+<select id="sort">
+
+<option value="pts">
+Sort: Points
+</option>
+
+<option value="price">
+Sort: Price
+</option>
+
+<option value="bonus">
+Sort: Bonus
+</option>
+
+<option value="bps">
+Sort: BPS
+</option>
+
+<option value="dc">
+Sort: Defensive Contribution
+</option>
+
+<option value="xg">
+Sort: xG
+</option>
+
+<option value="xa">
+Sort: xA
+</option>
+
+<option value="xgi">
+Sort: xGI
+</option>
+
+<option value="goals">
+Sort: Goals
+</option>
+
+<option value="assists">
+Sort: Assists
+</option>
+
+<option value="minutes">
+Sort: Minutes
+</option>
+
+</select>
+
 </div>
 
-<div class="info" id="info">
-Učitavanje...
+
+<div class="position-buttons">
+
+<button
+class="active"
+data-position="ALL">
+All
+</button>
+
+<button data-position="GK">
+GKP
+</button>
+
+<button data-position="DEF">
+DEF
+</button>
+
+<button data-position="MID">
+MID
+</button>
+
+<button data-position="FWD">
+FWD
+</button>
+
 </div>
+
+</div>
+
+
+<div class="info-row">
+
+<div id="count">
+Loading players...
+</div>
+
+<div>
+Season totals
+</div>
+
+</div>
+
+
+<div class="table-card">
+
+<div class="table-scroll">
 
 <div id="content">
 
 <div class="loading">
-Učitavam FPL statistike...
+Loading FPL statistics...
 </div>
 
 </div>
 
 </div>
+
+</div>
+
+
+</main>
+
 
 <script>
 
@@ -230,75 +462,143 @@ const clubs = [
 
 ];
 
+
 let players = [];
 
-let sortColumn = null;
+let position =
+"ALL";
 
-let sortDirection = 1;
-
-
-const clubFilter =
-document.getElementById("clubFilter");
-
-const positionFilter =
-document.getElementById("positionFilter");
 
 const search =
 document.getElementById("search");
 
+const club =
+document.getElementById("club");
+
+const sort =
+document.getElementById("sort");
+
 const content =
 document.getElementById("content");
 
-const info =
-document.getElementById("info");
+const count =
+document.getElementById("count");
 
 
-clubs.forEach(club => {
+/* CLUBS */
+
+clubs.forEach(c => {
 
     const option =
     document.createElement("option");
 
-    option.value = club;
+    option.value = c;
 
     option.textContent =
-    club.replaceAll("_", " ");
+    c.replaceAll("_", " ");
 
-    clubFilter.appendChild(option);
+    club.appendChild(option);
 
 });
 
 
-function parseTXT(text, club) {
+/* LOAD ONE CLUB */
+
+async function loadClub(c) {
+
+    try {
+
+        const response =
+        await fetch(
+            `FPL_STATS/${c}.txt?t=${Date.now()}`
+        );
+
+        if (!response.ok) {
+            return [];
+        }
+
+        const text =
+        await response.text();
+
+        return parseTXT(text, c);
+
+    } catch {
+
+        return [];
+
+    }
+
+}
+
+
+/* PARSE TXT */
+
+function parseTXT(text, clubName) {
+
+    const result = [];
 
     const lines =
     text.split("\n");
 
-    const result = [];
+    let currentPosition = "";
 
-    let section = "";
-
-    for (let line of lines) {
+    for (
+        let line of lines
+    ) {
 
         line = line.trim();
 
         if (!line) continue;
 
+
         if (
-            line === "GOALKEEPERS" ||
-            line === "DEFENDERS" ||
-            line === "MIDFIELDERS" ||
-            line === "ATTACKERS"
+            line === "GOALKEEPERS"
         ) {
 
-            section = line;
+            currentPosition =
+            "GK";
 
             continue;
         }
 
+
+        if (
+            line === "DEFENDERS"
+        ) {
+
+            currentPosition =
+            "DEF";
+
+            continue;
+        }
+
+
+        if (
+            line === "MIDFIELDERS"
+        ) {
+
+            currentPosition =
+            "MID";
+
+            continue;
+        }
+
+
+        if (
+            line === "ATTACKERS"
+        ) {
+
+            currentPosition =
+            "FWD";
+
+            continue;
+        }
+
+
         if (
             line.startsWith("PLAYER") ||
-            line.startsWith("----") ||
-            line.startsWith("=") ||
+            line.startsWith("---") ||
+            line.startsWith("===") ||
             line.startsWith("FPL SEASON") ||
             line.startsWith("Updated:") ||
             line.startsWith("Current GW:") ||
@@ -312,49 +612,73 @@ function parseTXT(text, club) {
             line.startsWith("xA =") ||
             line.startsWith("xGI =")
         ) {
+
             continue;
+
         }
 
-        if (!section) continue;
+
+        if (!currentPosition)
+            continue;
+
 
         const parts =
         line.split(/\s+/);
 
-        if (parts.length < 14) continue;
+
+        if (parts.length < 14)
+            continue;
+
 
         result.push({
 
-            player: parts[0],
+            player:
+            parts[0],
 
-            pos: parts[1],
+            pos:
+            parts[1],
 
-            price: parts[2],
+            price:
+            parts[2],
 
-            pts: Number(parts[3]),
+            pts:
+            Number(parts[3]),
 
-            bonus: Number(parts[4]),
+            bonus:
+            Number(parts[4]),
 
-            bps: Number(parts[5]),
+            bps:
+            Number(parts[5]),
 
-            dc: Number(parts[6]),
+            dc:
+            Number(parts[6]),
 
-            xg: Number(parts[7]),
+            xg:
+            Number(parts[7]),
 
-            xa: Number(parts[8]),
+            xa:
+            Number(parts[8]),
 
-            xgi: Number(parts[9]),
+            xgi:
+            Number(parts[9]),
 
-            goals: Number(parts[10]),
+            goals:
+            Number(parts[10]),
 
-            assists: Number(parts[11]),
+            assists:
+            Number(parts[11]),
 
-            minutes: Number(parts[12]),
+            minutes:
+            Number(parts[12]),
 
-            ownership: parts[13],
+            ownership:
+            parts[13],
 
-            club: club.replaceAll("_", " "),
-
-            section: section
+            club:
+            clubName.replaceAll(
+                "_",
+                " "
+            )
 
         });
 
@@ -365,48 +689,22 @@ function parseTXT(text, club) {
 }
 
 
-async function loadClub(club) {
-
-    try {
-
-        const response =
-        await fetch(
-            `FPL_STATS/${club}.txt?t=${Date.now()}`
-        );
-
-        if (!response.ok) {
-            return [];
-        }
-
-        const text =
-        await response.text();
-
-        return parseTXT(text, club);
-
-    } catch (error) {
-
-        console.error(
-            club,
-            error
-        );
-
-        return [];
-
-    }
-
-}
-
+/* LOAD ALL */
 
 async function loadAll() {
 
     players = [];
 
-    for (const club of clubs) {
+    for (
+        const c of clubs
+    ) {
 
         const data =
-        await loadClub(club);
+        await loadClub(c);
 
-        players.push(...data);
+        players.push(
+            ...data
+        );
 
     }
 
@@ -415,87 +713,95 @@ async function loadAll() {
 }
 
 
+/* RENDER */
+
 function render() {
 
-    const selectedClub =
-    clubFilter.value;
-
-    const selectedPosition =
-    positionFilter.value;
-
     const query =
-    search.value.toLowerCase().trim();
+    search.value
+        .toLowerCase()
+        .trim();
+
+
+    const selectedClub =
+    club.value;
+
+
+    const selectedSort =
+    sort.value;
 
 
     let filtered =
-    players.filter(player => {
+    players.filter(p => {
+
+        if (
+            position !== "ALL" &&
+            p.pos !== position
+        ) {
+            return false;
+        }
+
 
         if (
             selectedClub !== "ALL" &&
-            player.club.replaceAll(" ", "_") !== selectedClub
+            p.club.replaceAll(
+                " ",
+                "_"
+            ) !== selectedClub
         ) {
             return false;
         }
 
-        if (
-            selectedPosition !== "ALL" &&
-            player.pos !== selectedPosition
-        ) {
-            return false;
-        }
 
         if (
             query &&
-            !player.player
+            !p.player
                 .toLowerCase()
                 .includes(query)
         ) {
             return false;
         }
 
+
         return true;
 
     });
 
 
-    if (sortColumn) {
-
-        filtered.sort((a,b) => {
+    filtered.sort(
+        (a,b) => {
 
             const A =
-            a[sortColumn];
+            a[selectedSort];
 
             const B =
-            b[sortColumn];
+            b[selectedSort];
+
 
             if (
                 typeof A === "number" &&
                 typeof B === "number"
             ) {
 
-                return (
-                    A - B
-                ) * sortDirection;
+                return B - A;
 
             }
 
-            return String(A)
+
+            return String(B)
                 .localeCompare(
-                    String(B)
-                ) * sortDirection;
+                    String(A)
+                );
 
-        });
+        }
+    );
 
-    }
 
-
-    info.textContent =
-    `Pronađeno igrača: ${filtered.length}`;
+    count.textContent =
+    `${filtered.length} players`;
 
 
     let html = `
-
-<div class="table-container">
 
 <table>
 
@@ -503,65 +809,21 @@ function render() {
 
 <tr>
 
-<th onclick="sortBy('player')">
-Player
-</th>
-
-<th onclick="sortBy('club')">
-Club
-</th>
-
-<th onclick="sortBy('pos')">
-Pos
-</th>
-
-<th onclick="sortBy('price')">
-Price
-</th>
-
-<th onclick="sortBy('pts')">
-PTS
-</th>
-
-<th onclick="sortBy('bonus')">
-Bonus
-</th>
-
-<th onclick="sortBy('bps')">
-BPS
-</th>
-
-<th onclick="sortBy('dc')">
-DC
-</th>
-
-<th onclick="sortBy('xg')">
-xG
-</th>
-
-<th onclick="sortBy('xa')">
-xA
-</th>
-
-<th onclick="sortBy('xgi')">
-xGI
-</th>
-
-<th onclick="sortBy('goals')">
-Goals
-</th>
-
-<th onclick="sortBy('assists')">
-Assists
-</th>
-
-<th onclick="sortBy('minutes')">
-Minutes
-</th>
-
-<th>
-Ownership
-</th>
+<th>PLAYER</th>
+<th>CLUB</th>
+<th>POS</th>
+<th>PRICE</th>
+<th>PTS</th>
+<th>BONUS</th>
+<th>BPS</th>
+<th>DC</th>
+<th>xG</th>
+<th>xA</th>
+<th>xGI</th>
+<th>G</th>
+<th>A</th>
+<th>MIN</th>
+<th>OWN</th>
 
 </tr>
 
@@ -571,77 +833,105 @@ Ownership
 `;
 
 
-    filtered.forEach(player => {
+    for (
+        const p of filtered
+    ) {
 
         html += `
 
 <tr>
 
-<td class="player">
-${player.player}
+<td>
+
+<div class="player-name">
+${p.player}
+</div>
+
 </td>
 
-<td>
-${player.club}
-</td>
 
 <td>
-${player.pos}
+
+<div class="club">
+${p.club}
+</div>
+
 </td>
 
-<td>
-${player.price}
-</td>
 
 <td>
-${player.pts}
+
+<span class="badge">
+${p.pos}
+</span>
+
 </td>
 
-<td>
-${player.bonus}
+
+<td class="price">
+${p.price}
 </td>
 
-<td>
-${player.bps}
+
+<td class="number">
+${p.pts}
 </td>
 
-<td>
-${player.dc}
+
+<td class="number">
+${p.bonus}
 </td>
 
-<td>
-${player.xg}
+
+<td class="number">
+${p.bps}
 </td>
 
-<td>
-${player.xa}
+
+<td class="number">
+${p.dc}
 </td>
 
-<td>
-${player.xgi}
+
+<td class="number">
+${p.xg}
 </td>
 
-<td>
-${player.goals}
+
+<td class="number">
+${p.xa}
 </td>
 
-<td>
-${player.assists}
+
+<td class="number">
+${p.xgi}
 </td>
 
-<td>
-${player.minutes}
+
+<td class="number">
+${p.goals}
 </td>
 
+
+<td class="number">
+${p.assists}
+</td>
+
+
+<td class="number">
+${p.minutes}
+</td>
+
+
 <td>
-${player.ownership}
+${p.ownership}
 </td>
 
 </tr>
 
 `;
 
-    });
+    }
 
 
     html += `
@@ -649,9 +939,6 @@ ${player.ownership}
 </tbody>
 
 </table>
-
-</div>
-
 `;
 
 
@@ -661,41 +948,57 @@ ${player.ownership}
 }
 
 
-function sortBy(column) {
-
-    if (
-        sortColumn === column
-    ) {
-
-        sortDirection *= -1;
-
-    } else {
-
-        sortColumn = column;
-
-        sortDirection = 1;
-
-    }
-
-    render();
-
-}
-
-
-clubFilter.addEventListener(
-    "change",
-    render
-);
-
-positionFilter.addEventListener(
-    "change",
-    render
-);
+/* EVENTS */
 
 search.addEventListener(
     "input",
     render
 );
+
+club.addEventListener(
+    "change",
+    render
+);
+
+sort.addEventListener(
+    "change",
+    render
+);
+
+
+document
+.querySelectorAll(
+    ".position-buttons button"
+)
+.forEach(button => {
+
+    button.addEventListener(
+        "click",
+        () => {
+
+            document
+            .querySelectorAll(
+                ".position-buttons button"
+            )
+            .forEach(b =>
+                b.classList.remove(
+                    "active"
+                )
+            );
+
+            button.classList.add(
+                "active"
+            );
+
+            position =
+            button.dataset.position;
+
+            render();
+
+        }
+    );
+
+});
 
 
 loadAll();
