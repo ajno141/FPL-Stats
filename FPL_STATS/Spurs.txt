@@ -3,7 +3,7 @@ SPURS
 =================================================================================================================================================
 
 FPL SEASON STATISTICS
-Updated: 23.08.2026 21:41:37 UTC
+Updated: 23.08.2026 22:01:42 UTC
 Current GW: 1
 Statistics through GW: 0
 
@@ -37,7 +37,7 @@ PLAYER                 POS   PRICE    PTS     BONUS   BPS      DC       xG      
 Byfield                DEF   £4.0     0       0       0        0        0        0        0        0     0     0       0.1%     
 Danso                  DEF   £5.0     0       0       0        0        0        0        0        0     0     0       0.2%     
 Davies                 DEF   £4.0     0       0       0        0        0        0        0        0     0     0       1.1%     
-Pedro Porro            DEF   £5.5     0       0       0        0        0        0        0        0     0     0       15.4%    
+Pedro Porro            DEF   £5.5     0       0       0        0        0        0        0        0     0     0       15.3%    
 Phillips               DEF   £4.5     0       0       0        0        0        0        0        0     0     0       0.0%     
 Robertson              DEF   £4.5     3       0       13       11       0        0.06     0.06     0     0     90      3.9%     
 Romero                 DEF   £5.0     0       0       0        0        0        0        0        0     0     0       0.2%     
