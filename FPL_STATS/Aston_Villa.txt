@@ -3,7 +3,7 @@ ASTON VILLA
 =================================================================================================================================================
 
 FPL SEASON STATISTICS
-Updated: 23.08.2026 21:33:03 UTC
+Updated: 23.08.2026 21:41:37 UTC
 Current GW: 1
 Statistics through GW: 0
 
@@ -37,7 +37,7 @@ A.García               DEF   £4.0     0       0       0        0        0     
 Cash                   DEF   £4.5     -1      0       -8       7        0        0        0        0     0     90      8.7%     
 Digne                  DEF   £4.5     0       0       0        0        0        0        0        0     0     0       0.1%     
 Lindelöf               DEF   £4.5     -2      0       -13      3        0        0        0        0     0     90      0.3%     
-Maatsen                DEF   £4.5     0       0       -9       9        0.04     0        0.04     0     0     81      0.8%     
+Maatsen                DEF   £4.5     0       0       -9       9        0.03     0        0.03     0     0     81      0.8%     
 Mings                  DEF   £4.5     1       0       5        1        0        0        0        0     0     16      0.4%     
 Nedeljkovic            DEF   £4.0     0       0       0        0        0        0        0        0     0     0       0.3%     
 Pau                    DEF   £4.5     0       0       -14      5        0        0        0        0     0     73      0.5%     
@@ -57,7 +57,7 @@ Bogarde                MID   £5.0     1       0       3        1        0      
 Buendía                MID   £6.0     2       0       4        7        0.13     0.09     0.22     0     0     85      1.4%     
 Burrowes               MID   £4.5     0       0       0        0        0        0        0        0     0     0       0.7%     
 Garnacho               MID   £6.0     1       0       2        0        0        0        0        0     0     4       0.6%     
-George Hemmings        MID   £4.5     2       0       12       5        0        0.02     0.02     0     0     90      0.7%     
+George Hemmings        MID   £4.5     2       0       12       5        0        0        0        0     0     90      0.7%     
 Gomes                  MID   £5.5     -2      0       -2       7        0        0.01     0.01     0     0     39      0.1%     
 Iling Jr               MID   £5.0     0       0       0        0        0        0        0        0     0     0       0.0%     
 Kamara                 MID   £5.0     2       0       9        7        0        0        0        0     0     90      0.4%     
