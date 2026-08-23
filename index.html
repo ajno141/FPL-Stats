@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -10,19 +9,16 @@
 <style>
 
 :root {
-    --bg: #f4f6f9;
+    --bg: #f4f5f7;
     --card: #ffffff;
-    --dark: #10151f;
-    --dark2: #182131;
-    --text: #182230;
-    --muted: #8a94a6;
-    --border: #e6eaf0;
+    --dark: #111827;
+    --dark2: #1b2636;
     --green: #00a86b;
-    --green2: #08c982;
-    --green-light: #e8f8f1;
+    --green-light: #e9f8f2;
     --purple: #7254e8;
-    --blue: #3b82f6;
-    --orange: #f59e0b;
+    --text: #17202d;
+    --muted: #8993a3;
+    --border: #e4e8ee;
 }
 
 * {
@@ -36,14 +32,8 @@ body {
     color: var(--text);
 }
 
-
-/* =========================================================
-   LAYOUT
-========================================================= */
-
 .app {
     min-height: 100vh;
-    display: flex;
 }
 
 
@@ -53,65 +43,52 @@ body {
 
 .sidebar {
     position: fixed;
-    left: 0;
     top: 0;
+    left: 0;
     bottom: 0;
 
-    width: 240px;
+    width: 230px;
 
-    background:
-        linear-gradient(
-            180deg,
-            #10151f,
-            #0b1018
-        );
+    background: var(--dark);
 
     color: white;
 
-    padding: 24px 14px;
+    padding: 25px 14px;
 
-    z-index: 50;
+    z-index: 20;
 }
 
 .logo {
     padding: 0 12px 30px;
 }
 
-.logo-main {
+.logo-title {
     font-size: 24px;
     font-weight: 900;
 }
 
-.logo-main span {
-    color: var(--green2);
+.logo-title span {
+    color: #00d084;
 }
 
 .logo-sub {
-    margin-top: 4px;
-    color: #737f91;
+    margin-top: 5px;
     font-size: 11px;
+    color: #768294;
 }
 
-.nav-label {
-    color: #697587;
+.nav-title {
+    color: #657184;
     font-size: 10px;
     text-transform: uppercase;
-    letter-spacing: 1px;
-
-    padding: 0 12px;
-    margin: 20px 0 8px;
+    margin: 18px 12px 8px;
 }
 
 .nav-item {
-    display: flex;
-    align-items: center;
-    gap: 11px;
-
     padding: 11px 12px;
-
-    color: #aeb7c6;
-
     border-radius: 8px;
+
+    color: #aeb7c5;
 
     font-size: 13px;
 
@@ -119,13 +96,8 @@ body {
 }
 
 .nav-item.active {
-    background: #1c2838;
+    background: var(--dark2);
     color: white;
-}
-
-.nav-icon {
-    width: 20px;
-    text-align: center;
 }
 
 
@@ -134,14 +106,9 @@ body {
 ========================================================= */
 
 .main {
-    margin-left: 240px;
-    width: calc(100% - 240px);
+    margin-left: 230px;
+    min-height: 100vh;
 }
-
-
-/* =========================================================
-   TOPBAR
-========================================================= */
 
 .topbar {
     height: 70px;
@@ -151,42 +118,51 @@ body {
     border-bottom: 1px solid var(--border);
 
     display: flex;
-    justify-content: space-between;
+
     align-items: center;
+
+    justify-content: space-between;
 
     padding: 0 28px;
 
     position: sticky;
     top: 0;
 
-    z-index: 30;
+    z-index: 10;
 }
 
-.title {
+.page-title {
     font-size: 20px;
-    font-weight: 850;
+    font-weight: 900;
 }
 
-.subtitle {
-    color: var(--muted);
-    font-size: 12px;
+.page-subtitle {
     margin-top: 4px;
+
+    font-size: 12px;
+
+    color: var(--muted);
 }
 
 .live {
     display: flex;
+
     align-items: center;
+
     gap: 7px;
 
     color: var(--muted);
+
     font-size: 12px;
 }
 
 .live-dot {
     width: 8px;
     height: 8px;
-    background: var(--green);
+
     border-radius: 50%;
+
+    background: var(--green);
 }
 
 
@@ -196,9 +172,10 @@ body {
 
 .content {
     max-width: 1700px;
+
     margin: auto;
 
-    padding: 26px;
+    padding: 25px;
 }
 
 
@@ -212,9 +189,9 @@ body {
     grid-template-columns:
         repeat(4, 1fr);
 
-    gap: 15px;
+    gap: 14px;
 
-    margin-bottom: 20px;
+    margin-bottom: 18px;
 }
 
 .summary-card {
@@ -222,33 +199,25 @@ body {
 
     border: 1px solid var(--border);
 
-    border-radius: 13px;
+    border-radius: 12px;
 
-    padding: 18px;
-
-    box-shadow:
-        0 3px 15px
-        rgba(16,24,40,.04);
+    padding: 17px;
 }
 
 .summary-label {
     color: var(--muted);
-    font-size: 11px;
-    font-weight: 700;
+
+    font-size: 10px;
+
+    font-weight: 800;
 }
 
 .summary-number {
-    margin-top: 9px;
+    margin-top: 8px;
 
     font-size: 25px;
+
     font-weight: 900;
-}
-
-.summary-description {
-    margin-top: 4px;
-
-    color: var(--muted);
-    font-size: 11px;
 }
 
 
@@ -261,11 +230,11 @@ body {
 
     border: 1px solid var(--border);
 
-    border-radius: 13px;
+    border-radius: 12px;
 
-    padding: 17px;
+    padding: 16px;
 
-    margin-bottom: 20px;
+    margin-bottom: 18px;
 }
 
 .filters {
@@ -274,26 +243,22 @@ body {
     grid-template-columns:
         2fr 1fr 1fr;
 
-    gap: 10px;
+    gap: 9px;
 }
 
 input,
 select {
-    height: 43px;
+    height: 42px;
 
     width: 100%;
 
     border: 1px solid var(--border);
 
-    border-radius: 8px;
-
-    background: #fafbfc;
+    border-radius: 7px;
 
     padding: 0 12px;
 
-    font-size: 13px;
-
-    color: var(--text);
+    background: #fafbfc;
 
     outline: none;
 }
@@ -301,7 +266,6 @@ select {
 input:focus,
 select:focus {
     border-color: var(--green);
-    background: white;
 }
 
 .positions {
@@ -309,12 +273,10 @@ select:focus {
 
     gap: 7px;
 
-    margin-top: 12px;
-
-    flex-wrap: wrap;
+    margin-top: 11px;
 }
 
-.position {
+.position-btn {
     border: 1px solid var(--border);
 
     background: white;
@@ -327,20 +289,20 @@ select:focus {
 
     font-weight: 800;
 
-    color: #687386;
-
     cursor: pointer;
 }
 
-.position.active {
+.position-btn.active {
     background: var(--green);
-    color: white;
+
     border-color: var(--green);
+
+    color: white;
 }
 
 
 /* =========================================================
-   PLAYER GRID
+   HEADER
 ========================================================= */
 
 .players-header {
@@ -348,21 +310,25 @@ select:focus {
 
     justify-content: space-between;
 
-    align-items: center;
-
     margin-bottom: 12px;
 }
 
 .players-title {
     font-size: 16px;
-    font-weight: 850;
+
+    font-weight: 900;
 }
 
 .players-count {
-    color: var(--muted);
     font-size: 12px;
+
+    color: var(--muted);
 }
 
+
+/* =========================================================
+   GRID
+========================================================= */
 
 .player-grid {
     display: grid;
@@ -373,7 +339,7 @@ select:focus {
             minmax(250px, 1fr)
         );
 
-    gap: 15px;
+    gap: 14px;
 }
 
 
@@ -386,59 +352,48 @@ select:focus {
 
     border: 1px solid var(--border);
 
-    border-radius: 14px;
+    border-radius: 13px;
 
     overflow: hidden;
 
     cursor: pointer;
 
-    transition:
-        transform .15s ease,
-        box-shadow .15s ease,
-        border-color .15s ease;
+    transition: .15s;
 }
 
 .player-card:hover {
     transform: translateY(-3px);
 
-    border-color:
-        #cbd3df;
-
     box-shadow:
-        0 10px 30px
-        rgba(16,24,40,.10);
+        0 10px 25px
+        rgba(0,0,0,.08);
 }
 
-
-/* CARD TOP */
-
 .card-top {
-    height: 125px;
+    height: 108px;
 
     background:
         linear-gradient(
             135deg,
-            #10151f,
-            #1b293b
+            #111827,
+            #243348
         );
 
     position: relative;
-
-    overflow: hidden;
 }
 
-.card-position {
+.position-tag {
     position: absolute;
 
-    left: 12px;
-    top: 11px;
-
-    padding: 5px 7px;
-
-    background:
-        rgba(255,255,255,.12);
+    left: 10px;
+    top: 10px;
 
     color: white;
+
+    background:
+        rgba(255,255,255,.13);
+
+    padding: 5px 7px;
 
     border-radius: 5px;
 
@@ -447,51 +402,33 @@ select:focus {
     font-weight: 900;
 }
 
-.card-price {
+.price-tag {
     position: absolute;
 
-    right: 12px;
-    top: 11px;
+    right: 10px;
+    top: 10px;
 
     color: white;
 
     font-size: 12px;
 
-    font-weight: 800;
+    font-weight: 900;
 }
 
-.player-photo {
+.club-crest {
     position: absolute;
 
-    bottom: 0;
-    left: 50%;
-
-    transform:
-        translateX(-50%);
-
-    height: 115px;
-
-    max-width: 105px;
+    width: 62px;
+    height: 62px;
 
     object-fit: contain;
-}
 
-.player-placeholder {
-    position: absolute;
-
-    bottom: 0;
     left: 50%;
+    top: 50%;
 
     transform:
-        translateX(-50%);
-
-    font-size: 65px;
-
-    opacity: .8;
+        translate(-50%, -50%);
 }
-
-
-/* CARD BODY */
 
 .card-body {
     padding: 13px;
@@ -499,44 +436,33 @@ select:focus {
 
 .player-name {
     font-size: 15px;
-    font-weight: 850;
+
+    font-weight: 900;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
 }
 
-.club-line {
-    display: flex;
-
-    align-items: center;
-
-    gap: 7px;
-
-    margin-top: 5px;
-
+.club-name {
     color: var(--muted);
 
     font-size: 11px;
+
+    margin-top: 5px;
 }
 
-.club-logo {
-    width: 21px;
-    height: 21px;
-
-    object-fit: contain;
-}
-
-
-/* MAIN STAT */
-
-.main-stat {
-    margin-top: 13px;
-
+.main-stats {
     display: flex;
 
     justify-content: space-between;
 
-    align-items: end;
+    margin-top: 13px;
 }
 
-.points-number {
+.big-number {
     font-size: 24px;
 
     font-weight: 900;
@@ -544,20 +470,23 @@ select:focus {
     color: var(--green);
 }
 
-.points-label {
-    color: var(--muted);
+.bps-number {
+    font-size: 24px;
 
-    font-size: 9px;
+    font-weight: 900;
 
-    text-transform: uppercase;
-
-    margin-bottom: 3px;
+    color: var(--purple);
 }
 
+.stat-label {
+    font-size: 9px;
 
-/* MINI STATS */
+    color: var(--muted);
 
-.mini-stats {
+    text-transform: uppercase;
+}
+
+.mini-grid {
     display: grid;
 
     grid-template-columns:
@@ -565,53 +494,55 @@ select:focus {
 
     gap: 5px;
 
-    margin-top: 13px;
+    margin-top: 12px;
 }
 
 .mini-stat {
-    background: #f7f8fa;
+    background: #f6f7f9;
 
-    border-radius: 7px;
+    border-radius: 6px;
 
-    padding: 7px 4px;
+    padding: 7px 3px;
 
     text-align: center;
 }
 
 .mini-value {
-    font-weight: 800;
     font-size: 12px;
+
+    font-weight: 900;
 }
 
 .mini-label {
-    margin-top: 3px;
+    font-size: 8px;
 
     color: var(--muted);
 
-    font-size: 8px;
+    margin-top: 3px;
 }
 
 
 /* =========================================================
-   DETAIL MODAL
+   MODAL
 ========================================================= */
 
 .overlay {
+    display: none;
+
     position: fixed;
 
     inset: 0;
 
     background:
-        rgba(8,12,18,.72);
+        rgba(0,0,0,.7);
 
     z-index: 100;
 
-    display: none;
+    padding: 20px;
 
     align-items: center;
-    justify-content: center;
 
-    padding: 20px;
+    justify-content: center;
 }
 
 .overlay.show {
@@ -620,6 +551,7 @@ select:focus {
 
 .modal {
     width: 100%;
+
     max-width: 850px;
 
     max-height: 92vh;
@@ -628,39 +560,27 @@ select:focus {
 
     background: white;
 
-    border-radius: 17px;
-
-    box-shadow:
-        0 25px 80px
-        rgba(0,0,0,.35);
+    border-radius: 16px;
 }
 
-
-/* MODAL HEADER */
-
-.modal-header {
-    height: 220px;
+.modal-top {
+    height: 210px;
 
     background:
         linear-gradient(
             135deg,
-            #10151f,
-            #1d2b40
+            #111827,
+            #26364d
         );
 
     position: relative;
-
-    overflow: hidden;
-
-    border-radius:
-        17px 17px 0 0;
 }
 
-.modal-close {
+.close {
     position: absolute;
 
-    top: 15px;
     right: 15px;
+    top: 15px;
 
     width: 34px;
     height: 34px;
@@ -670,83 +590,68 @@ select:focus {
     border-radius: 50%;
 
     background:
-        rgba(255,255,255,.12);
+        rgba(255,255,255,.15);
 
     color: white;
 
     font-size: 20px;
 
     cursor: pointer;
-
-    z-index: 5;
 }
 
-.modal-player-photo {
+.modal-crest {
     position: absolute;
 
-    height: 205px;
+    width: 100px;
+    height: 100px;
 
-    bottom: 0;
+    object-fit: contain;
 
     left: 50%;
+    top: 45%;
 
     transform:
-        translateX(-50%);
-}
-
-.modal-info {
-    position: absolute;
-
-    left: 25px;
-    bottom: 22px;
-
-    color: white;
+        translate(-50%, -50%);
 }
 
 .modal-name {
-    font-size: 28px;
+    position: absolute;
+
+    bottom: 18px;
+    left: 22px;
+
+    color: white;
+
+    font-size: 25px;
 
     font-weight: 900;
 }
-
-.modal-club {
-    margin-top: 5px;
-
-    color: #bdc7d5;
-
-    font-size: 13px;
-}
-
-
-/* MODAL BODY */
 
 .modal-body {
     padding: 22px;
 }
 
-.modal-stat-grid {
+.detail-grid {
     display: grid;
 
     grid-template-columns:
         repeat(4, 1fr);
 
-    gap: 10px;
+    gap: 9px;
 }
 
-.detail-stat {
+.detail {
     background: #f7f8fa;
 
-    border-radius: 9px;
+    border-radius: 8px;
 
-    padding: 13px;
+    padding: 12px;
 }
 
 .detail-label {
     color: var(--muted);
 
-    font-size: 10px;
-
-    font-weight: 700;
+    font-size: 9px;
 
     text-transform: uppercase;
 }
@@ -754,28 +659,15 @@ select:focus {
 .detail-value {
     margin-top: 7px;
 
-    font-size: 20px;
+    font-size: 19px;
 
     font-weight: 900;
 }
 
-
-/* SECTION */
-
-.detail-section {
-    margin-top: 24px;
-}
-
-.detail-section-title {
-    font-size: 14px;
-
-    font-weight: 850;
-
-    margin-bottom: 11px;
-}
-
 .detail-table {
     width: 100%;
+
+    margin-top: 20px;
 
     border-collapse: collapse;
 }
@@ -789,30 +681,10 @@ select:focus {
     font-size: 12px;
 }
 
-.detail-table td:first-child {
-    color: var(--muted);
-}
-
 .detail-table td:last-child {
     text-align: right;
 
-    font-weight: 800;
-}
-
-
-/* =========================================================
-   LOADING
-========================================================= */
-
-.loading {
-    padding: 70px 20px;
-
-    text-align: center;
-
-    color: var(--muted);
-
-    grid-column:
-        1 / -1;
+    font-weight: 900;
 }
 
 
@@ -820,43 +692,36 @@ select:focus {
    MOBILE
 ========================================================= */
 
-@media(max-width: 950px) {
+@media(max-width: 850px) {
 
     .sidebar {
-        width: 68px;
+        width: 62px;
 
         padding:
-            20px 7px;
+            20px 6px;
     }
 
-    .logo {
-        padding:
-            3px 5px 25px;
-    }
-
-    .logo-main {
+    .logo-title {
         font-size: 0;
     }
 
-    .logo-main span {
+    .logo-title span {
         font-size: 19px;
     }
 
     .logo-sub,
-    .nav-label,
-    .nav-text {
+    .nav-title {
         display: none;
     }
 
     .nav-item {
-        justify-content: center;
+        text-align: center;
+
+        font-size: 0;
     }
 
     .main {
-        margin-left: 68px;
-
-        width:
-            calc(100% - 68px);
+        margin-left: 62px;
     }
 
     .summary {
@@ -866,37 +731,18 @@ select:focus {
 
     .filters {
         grid-template-columns:
-            1fr 1fr;
+            1fr;
     }
-
 }
 
-
-@media(max-width: 600px) {
-
-    .topbar {
-        padding: 0 15px;
-    }
+@media(max-width: 550px) {
 
     .content {
-        padding: 13px;
+        padding: 12px;
     }
 
     .summary {
         gap: 8px;
-    }
-
-    .summary-card {
-        padding: 13px;
-    }
-
-    .summary-number {
-        font-size: 21px;
-    }
-
-    .filters {
-        grid-template-columns:
-            1fr;
     }
 
     .player-grid {
@@ -904,27 +750,18 @@ select:focus {
             1fr;
     }
 
-    .modal-stat-grid {
+    .detail-grid {
         grid-template-columns:
             repeat(2,1fr);
     }
 
-    .modal-header {
-        height: 190px;
-    }
-
-    .modal-player-photo {
-        height: 175px;
-    }
-
-    .modal-name {
-        font-size: 22px;
+    .topbar {
+        padding: 0 13px;
     }
 
 }
 
 </style>
-
 </head>
 
 
@@ -934,15 +771,13 @@ select:focus {
 <div class="app">
 
 
-<!-- =====================================================
-     SIDEBAR
-===================================================== -->
+<!-- SIDEBAR -->
 
 <aside class="sidebar">
 
 <div class="logo">
 
-<div class="logo-main">
+<div class="logo-title">
 FPL <span>LAB</span>
 </div>
 
@@ -953,100 +788,40 @@ Fantasy Premier League
 </div>
 
 
-<div class="nav-label">
+<div class="nav-title">
 Main
 </div>
 
-
 <div class="nav-item active">
-
-<div class="nav-icon">
-▦
-</div>
-
-<div class="nav-text">
-Player Lab
-</div>
-
+▦ &nbsp; Player Lab
 </div>
 
 
-<div class="nav-item">
-
-<div class="nav-icon">
-★
-</div>
-
-<div class="nav-text">
-Top Players
-</div>
-
-</div>
-
-
-<div class="nav-label">
+<div class="nav-title">
 Positions
 </div>
 
+<div class="nav-item">
+🧤 &nbsp; Goalkeepers
+</div>
 
 <div class="nav-item">
-
-<div class="nav-icon">
-🧤
+🛡 &nbsp; Defenders
 </div>
-
-<div class="nav-text">
-Goalkeepers
-</div>
-
-</div>
-
 
 <div class="nav-item">
-
-<div class="nav-icon">
-🛡
+◆ &nbsp; Midfielders
 </div>
-
-<div class="nav-text">
-Defenders
-</div>
-
-</div>
-
 
 <div class="nav-item">
-
-<div class="nav-icon">
-◆
-</div>
-
-<div class="nav-text">
-Midfielders
-</div>
-
-</div>
-
-
-<div class="nav-item">
-
-<div class="nav-icon">
-⚡
-</div>
-
-<div class="nav-text">
-Attackers
-</div>
-
+⚡ &nbsp; Attackers
 </div>
 
 </aside>
 
 
 
-<!-- =====================================================
-     MAIN
-===================================================== -->
+<!-- MAIN -->
 
 <main class="main">
 
@@ -1055,12 +830,12 @@ Attackers
 
 <div>
 
-<div class="title">
+<div class="page-title">
 FPL Player Lab
 </div>
 
-<div class="subtitle">
-Player statistics & performance
+<div class="page-subtitle">
+Fantasy Premier League statistics
 </div>
 
 </div>
@@ -1070,7 +845,7 @@ Player statistics & performance
 
 <span class="live-dot"></span>
 
-FPL data
+Live FPL Data
 
 </div>
 
@@ -1085,7 +860,6 @@ FPL data
 
 <div class="summary">
 
-
 <div class="summary-card">
 
 <div class="summary-label">
@@ -1096,10 +870,6 @@ PLAYERS
 class="summary-number"
 id="totalPlayers">
 -
-</div>
-
-<div class="summary-description">
-Players available
 </div>
 
 </div>
@@ -1117,10 +887,6 @@ id="totalGoals">
 -
 </div>
 
-<div class="summary-description">
-Total goals
-</div>
-
 </div>
 
 
@@ -1134,10 +900,6 @@ ASSISTS
 class="summary-number"
 id="totalAssists">
 -
-</div>
-
-<div class="summary-description">
-Total assists
 </div>
 
 </div>
@@ -1155,12 +917,7 @@ id="totalPoints">
 -
 </div>
 
-<div class="summary-description">
-Total points
 </div>
-
-</div>
-
 
 </div>
 
@@ -1170,15 +927,12 @@ Total points
 
 <div class="filters-card">
 
-
 <div class="filters">
-
 
 <input
 id="search"
 placeholder="Search player..."
 >
-
 
 <select id="club">
 
@@ -1192,47 +946,39 @@ All clubs
 <select id="sort">
 
 <option value="pts">
-Sort by Points
+Points
 </option>
 
 <option value="bonus">
-Sort by Bonus
+Bonus
 </option>
 
 <option value="bps">
-Sort by BPS
+BPS
 </option>
 
 <option value="dc">
-Sort by Defensive Contribution
+Defensive Contribution
 </option>
 
 <option value="xg">
-Sort by xG
+xG
 </option>
 
 <option value="xa">
-Sort by xA
+xA
 </option>
 
 <option value="xgi">
-Sort by xGI
+xGI
 </option>
 
 <option value="goals">
-Sort by Goals
+Goals
 </option>
 
 <option value="assists">
-Sort by Assists
-</option>
-
-<option value="minutes">
-Sort by Minutes
-</option>
-
-<option value="price">
-Sort by Price
+Assists
 </option>
 
 </select>
@@ -1242,44 +988,38 @@ Sort by Price
 
 <div class="positions">
 
-<button
-class="position active"
+<button class="position-btn active"
 data-position="ALL">
 ALL
 </button>
 
-<button
-class="position"
+<button class="position-btn"
 data-position="GK">
 GKP
 </button>
 
-<button
-class="position"
+<button class="position-btn"
 data-position="DEF">
 DEF
 </button>
 
-<button
-class="position"
+<button class="position-btn"
 data-position="MID">
 MID
 </button>
 
-<button
-class="position"
+<button class="position-btn"
 data-position="FWD">
 FWD
 </button>
 
 </div>
 
-
 </div>
 
 
 
-<!-- PLAYER HEADER -->
+<!-- PLAYERS -->
 
 <div class="players-header">
 
@@ -1296,14 +1036,17 @@ Loading...
 </div>
 
 
-
-<!-- PLAYER GRID -->
-
 <div
 class="player-grid"
 id="playerGrid">
 
-<div class="loading">
+<div
+style="
+grid-column:1/-1;
+padding:60px;
+text-align:center;
+color:#8993a3;
+">
 Loading FPL players...
 </div>
 
@@ -1318,38 +1061,31 @@ Loading FPL players...
 
 
 
-<!-- =====================================================
-     PLAYER MODAL
-===================================================== -->
+<!-- MODAL -->
 
 <div
 class="overlay"
 id="overlay">
 
-
 <div class="modal">
 
 
-<div class="modal-header">
-
+<div class="modal-top">
 
 <button
-class="modal-close"
+class="close"
 id="closeModal">
 ×
 </button>
 
 
 <img
-id="modalPhoto"
-class="modal-player-photo"
+id="modalCrest"
+class="modal-crest"
 src=""
 alt=""
-onerror="this.style.display='none'"
 >
 
-
-<div class="modal-info">
 
 <div
 class="modal-name"
@@ -1357,26 +1093,16 @@ id="modalName">
 -
 </div>
 
-<div
-class="modal-club"
-id="modalClub">
--
 </div>
-
-</div>
-
-
-</div>
-
 
 
 <div class="modal-body">
 
 
-<div class="modal-stat-grid">
+<div class="detail-grid">
 
 
-<div class="detail-stat">
+<div class="detail">
 
 <div class="detail-label">
 FPL Points
@@ -1391,7 +1117,7 @@ id="dPts">
 </div>
 
 
-<div class="detail-stat">
+<div class="detail">
 
 <div class="detail-label">
 Bonus
@@ -1406,7 +1132,7 @@ id="dBonus">
 </div>
 
 
-<div class="detail-stat">
+<div class="detail">
 
 <div class="detail-label">
 BPS
@@ -1421,7 +1147,7 @@ id="dBps">
 </div>
 
 
-<div class="detail-stat">
+<div class="detail">
 
 <div class="detail-label">
 Price
@@ -1436,7 +1162,7 @@ id="dPrice">
 </div>
 
 
-<div class="detail-stat">
+<div class="detail">
 
 <div class="detail-label">
 xG
@@ -1451,7 +1177,7 @@ id="dXg">
 </div>
 
 
-<div class="detail-stat">
+<div class="detail">
 
 <div class="detail-label">
 xA
@@ -1466,7 +1192,7 @@ id="dXa">
 </div>
 
 
-<div class="detail-stat">
+<div class="detail">
 
 <div class="detail-label">
 xGI
@@ -1481,7 +1207,7 @@ id="dXgi">
 </div>
 
 
-<div class="detail-stat">
+<div class="detail">
 
 <div class="detail-label">
 Def. Contribution
@@ -1495,64 +1221,46 @@ id="dDc">
 
 </div>
 
-
 </div>
 
-
-
-<div class="detail-section">
-
-<div class="detail-section-title">
-Performance
-</div>
 
 
 <table class="detail-table">
-
 
 <tr>
 <td>Goals</td>
 <td id="dGoals">-</td>
 </tr>
 
-
 <tr>
 <td>Assists</td>
 <td id="dAssists">-</td>
 </tr>
-
 
 <tr>
 <td>Minutes</td>
 <td id="dMinutes">-</td>
 </tr>
 
-
 <tr>
 <td>Ownership</td>
 <td id="dOwnership">-</td>
 </tr>
-
 
 <tr>
 <td>Position</td>
 <td id="dPosition">-</td>
 </tr>
 
-
 <tr>
 <td>Club</td>
 <td id="dClub">-</td>
 </tr>
 
-
 </table>
 
-</div>
-
 
 </div>
-
 
 </div>
 
@@ -1561,6 +1269,7 @@ Performance
 
 
 <script>
+
 
 /* =========================================================
    CLUBS
@@ -1594,61 +1303,34 @@ const clubs = [
 
 let players = [];
 
-let position =
-"ALL";
+let selectedPosition = "ALL";
 
 
 /* =========================================================
-   ELEMENTS
+   CLUB SELECT
 ========================================================= */
 
-const search =
-document.getElementById(
-    "search"
-);
+const clubSelect =
+document.getElementById("club");
 
-const club =
-document.getElementById(
-    "club"
-);
-
-const sort =
-document.getElementById(
-    "sort"
-);
-
-const grid =
-document.getElementById(
-    "playerGrid"
-);
-
-const count =
-document.getElementById(
-    "count"
-);
-
-
-/* =========================================================
-   CLUB FILTER
-========================================================= */
 
 clubs.forEach(
-    c => {
+    club => {
 
         const option =
         document.createElement(
             "option"
         );
 
-        option.value = c;
+        option.value = club;
 
         option.textContent =
-        c.replaceAll(
+        club.replaceAll(
             "_",
             " "
         );
 
-        club.appendChild(
+        clubSelect.appendChild(
             option
         );
 
@@ -1657,10 +1339,252 @@ clubs.forEach(
 
 
 /* =========================================================
-   PARSE TXT
+   PARSE LINE
 ========================================================= */
 
-function parseTXT(
+/*
+
+THIS IS THE IMPORTANT FIX.
+
+We DON'T use:
+
+line.split(/\s+/)
+
+because that breaks:
+
+Gabriel dos Santos MagalhãesDEF
+
+Instead we locate the position (GK/DEF/MID/FWD)
+and split everything around it.
+
+Then the remaining columns are read from the right.
+
+*/
+
+function parsePlayerLine(line, clubName) {
+
+    line =
+    line.replace(
+        /\r/g,
+        ""
+    );
+
+
+    const positionMatch =
+    line.match(
+        /(GK|DEF|MID|FWD)/
+    );
+
+
+    if (!positionMatch)
+        return null;
+
+
+    const position =
+    positionMatch[1];
+
+
+    const positionIndex =
+    positionMatch.index;
+
+
+    /*
+       Everything before the position
+       is the complete player name.
+    */
+
+    const playerName =
+    line
+    .substring(
+        0,
+        positionIndex
+    )
+    .trim();
+
+
+    if (!playerName)
+        return null;
+
+
+    /*
+       Everything after POS.
+    */
+
+    let remaining =
+    line
+    .substring(
+        positionIndex +
+        position.length
+    )
+    .trim();
+
+
+    /*
+       Split remaining columns.
+
+       Price is first,
+       then all numeric columns.
+    */
+
+    const parts =
+    remaining.split(
+        /\s+/
+    );
+
+
+    if (
+        parts.length <
+        14
+    )
+        return null;
+
+
+    const price =
+    parts[0];
+
+
+    const pts =
+    Number(parts[1]);
+
+
+    const bonus =
+    Number(parts[2]);
+
+
+    const bps =
+    Number(parts[3]);
+
+
+    const dc =
+    Number(parts[4]);
+
+
+    const xg =
+    Number(parts[5]);
+
+
+    const xa =
+    Number(parts[6]);
+
+
+    const xgi =
+    Number(parts[7]);
+
+
+    const goals =
+    Number(parts[8]);
+
+
+    const assists =
+    Number(parts[9]);
+
+
+    const minutes =
+    Number(parts[10]);
+
+
+    const ownership =
+    parts[11];
+
+
+    const form =
+    Number(parts[12]);
+
+
+    const ppg =
+    Number(parts[13]);
+
+
+    return {
+
+        player:
+        playerName,
+
+        pos:
+        position,
+
+        price:
+        price,
+
+        pts:
+        Number.isFinite(pts)
+        ? pts
+        : 0,
+
+        bonus:
+        Number.isFinite(bonus)
+        ? bonus
+        : 0,
+
+        bps:
+        Number.isFinite(bps)
+        ? bps
+        : 0,
+
+        dc:
+        Number.isFinite(dc)
+        ? dc
+        : 0,
+
+        xg:
+        Number.isFinite(xg)
+        ? xg
+        : 0,
+
+        xa:
+        Number.isFinite(xa)
+        ? xa
+        : 0,
+
+        xgi:
+        Number.isFinite(xgi)
+        ? xgi
+        : 0,
+
+        goals:
+        Number.isFinite(goals)
+        ? goals
+        : 0,
+
+        assists:
+        Number.isFinite(assists)
+        ? assists
+        : 0,
+
+        minutes:
+        Number.isFinite(minutes)
+        ? minutes
+        : 0,
+
+        ownership:
+        ownership,
+
+        form:
+        Number.isFinite(form)
+        ? form
+        : 0,
+
+        ppg:
+        Number.isFinite(ppg)
+        ? ppg
+        : 0,
+
+        club:
+        clubName.replaceAll(
+            "_",
+            " "
+        )
+
+    };
+
+}
+
+
+/* =========================================================
+   PARSE FILE
+========================================================= */
+
+function parseFile(
     text,
     clubName
 ) {
@@ -1670,114 +1594,42 @@ function parseTXT(
     const lines =
     text.split("\n");
 
-    let currentPosition = "";
-
 
     for (
-        let line of lines
+        const rawLine
+        of lines
     ) {
 
-        line =
-        line.trim();
+        const line =
+        rawLine.trimEnd();
 
 
-        if (!line)
-            continue;
-
-
-        if (
-            line ===
-            "GOALKEEPERS"
-        ) {
-
-            currentPosition =
-            "GK";
-
-            continue;
-        }
-
+        /*
+           Ignore headers.
+        */
 
         if (
-            line ===
-            "DEFENDERS"
-        ) {
-
-            currentPosition =
-            "DEF";
-
-            continue;
-        }
-
-
-        if (
-            line ===
-            "MIDFIELDERS"
-        ) {
-
-            currentPosition =
-            "MID";
-
-            continue;
-        }
-
-
-        if (
-            line ===
-            "ATTACKERS"
-        ) {
-
-            currentPosition =
-            "FWD";
-
-            continue;
-        }
-
-
-        if (
+            !line ||
             line.startsWith(
                 "PLAYER"
             ) ||
             line.startsWith(
-                "---"
+                "-"
             ) ||
             line.startsWith(
-                "==="
-            ) ||
-            line.startsWith(
-                "FPL SEASON"
+                "="
             ) ||
             line.startsWith(
                 "Updated:"
             ) ||
             line.startsWith(
-                "Current GW:"
+                "Players:"
             ) ||
             line.startsWith(
-                "Statistics through"
-            ) ||
-            line.startsWith(
-                "ALL STATISTICS"
+                "STATISTICS"
             ) ||
             line.startsWith(
                 "PTS ="
-            ) ||
-            line.startsWith(
-                "BONUS ="
-            ) ||
-            line.startsWith(
-                "BPS ="
-            ) ||
-            line.startsWith(
-                "DC ="
-            ) ||
-            line.startsWith(
-                "xG ="
-            ) ||
-            line.startsWith(
-                "xA ="
-            ) ||
-            line.startsWith(
-                "xGI ="
             )
         ) {
 
@@ -1786,74 +1638,39 @@ function parseTXT(
         }
 
 
-        if (!currentPosition)
+        /*
+           Only lines containing
+           GK / DEF / MID / FWD.
+        */
+
+        if (
+            !/\b(GK|DEF|MID|FWD)\b/.test(
+                line
+            ) &&
+            !/(GK|DEF|MID|FWD)/.test(
+                line
+            )
+        ) {
+
             continue;
 
+        }
 
-        const parts =
-        line.split(
-            /\s+/
+
+        const player =
+        parsePlayerLine(
+            line,
+            clubName
         );
 
 
-        if (
-            parts.length <
-            14
-        )
-            continue;
+        if (player) {
 
+            result.push(
+                player
+            );
 
-        result.push({
-
-            player:
-            parts[0],
-
-            pos:
-            parts[1],
-
-            price:
-            parts[2],
-
-            pts:
-            Number(parts[3]),
-
-            bonus:
-            Number(parts[4]),
-
-            bps:
-            Number(parts[5]),
-
-            dc:
-            Number(parts[6]),
-
-            xg:
-            Number(parts[7]),
-
-            xa:
-            Number(parts[8]),
-
-            xgi:
-            Number(parts[9]),
-
-            goals:
-            Number(parts[10]),
-
-            assists:
-            Number(parts[11]),
-
-            minutes:
-            Number(parts[12]),
-
-            ownership:
-            parts[13],
-
-            club:
-            clubName.replaceAll(
-                "_",
-                " "
-            )
-
-        });
+        }
 
     }
 
@@ -1879,15 +1696,23 @@ async function loadClub(
         );
 
 
-        if (!response.ok)
+        if (!response.ok) {
+
+            console.warn(
+                "Could not load:",
+                clubName
+            );
+
             return [];
+
+        }
 
 
         const text =
         await response.text();
 
 
-        return parseTXT(
+        return parseFile(
             text,
             clubName
         );
@@ -1908,35 +1733,21 @@ async function loadClub(
 
 
 /* =========================================================
-   LOAD ALL
+   LOAD EVERYTHING
 ========================================================= */
 
 async function loadAll() {
 
-    players = [];
-
-
-    const requests =
-    clubs.map(
-        loadClub
-    );
-
-
     const results =
     await Promise.all(
-        requests
+        clubs.map(
+            loadClub
+        )
     );
 
 
-    results.forEach(
-        data => {
-
-            players.push(
-                ...data
-            );
-
-        }
-    );
+    players =
+    results.flat();
 
 
     updateSummary();
@@ -1966,10 +1777,10 @@ function updateSummary() {
     )
     .textContent =
     players.reduce(
-        (s,p) =>
-        s + p.goals,
+        (sum,p) =>
+        sum + p.goals,
         0
-    ).toLocaleString();
+    );
 
 
     document
@@ -1978,10 +1789,10 @@ function updateSummary() {
     )
     .textContent =
     players.reduce(
-        (s,p) =>
-        s + p.assists,
+        (sum,p) =>
+        sum + p.assists,
         0
-    ).toLocaleString();
+    );
 
 
     document
@@ -1990,85 +1801,76 @@ function updateSummary() {
     )
     .textContent =
     players.reduce(
-        (s,p) =>
-        s + p.pts,
+        (sum,p) =>
+        sum + p.pts,
         0
-    ).toLocaleString();
+    );
 
 }
 
 
 /* =========================================================
-   PLAYER IMAGE
+   CLUB CRESTS
 ========================================================= */
 
-function playerImage(
-    player
+function getCrest(
+    club
 ) {
 
-    /*
-       FPL photo names are stored in the TXT indirectly,
-       so we use the player's name to attempt a photo URL.
-       If unavailable, the placeholder remains.
-    */
-
-    return "";
-
-}
-
-
-/* =========================================================
-   TEAM BADGE
-========================================================= */
-
-function teamBadge(
-    clubName
-) {
-
-    /*
-       Premier League team badge fallback.
-       If a badge cannot be loaded,
-       the broken image is hidden.
-    */
-
-    const codes = {
+    const ids = {
 
         "Arsenal": 3,
+
         "Aston Villa": 7,
+
         "Bournemouth": 91,
+
         "Brentford": 94,
+
         "Brighton": 36,
+
         "Burnley": 90,
+
         "Chelsea": 8,
+
         "Crystal Palace": 31,
+
         "Everton": 11,
+
         "Fulham": 54,
+
         "Leeds": 2,
+
         "Liverpool": 14,
+
         "Manchester City": 43,
+
         "Manchester United": 1,
+
         "Newcastle United": 4,
+
         "Nottingham Forest": 17,
+
         "Sunderland": 56,
+
         "Tottenham Hotspur": 6,
+
         "West Ham": 21,
+
         "Wolverhampton Wanderers": 39
 
     };
 
 
-    const code =
-    codes[clubName];
+    const id =
+    ids[club];
 
 
-    if (!code)
+    if (!id)
         return "";
 
 
-    return `
-        https://resources.premierleague.com/
-        premierleague/badges/70/t${code}.png
-    `.replace(/\s/g,"");
+    return `https://resources.premierleague.com/premierleague/badges/70/t${id}.png`;
 
 }
 
@@ -2079,29 +1881,37 @@ function teamBadge(
 
 function render() {
 
-    const query =
-    search.value
+    const search =
+    document
+    .getElementById(
+        "search"
+    )
+    .value
     .toLowerCase()
     .trim();
 
 
     const selectedClub =
-    club.value;
+    clubSelect.value;
 
 
     const selectedSort =
-    sort.value;
+    document
+    .getElementById(
+        "sort"
+    )
+    .value;
 
 
     let filtered =
     players.filter(
-        p => {
+        player => {
 
             if (
-                position !==
+                selectedPosition !==
                 "ALL" &&
-                p.pos !==
-                position
+                player.pos !==
+                selectedPosition
             )
                 return false;
 
@@ -2109,7 +1919,7 @@ function render() {
             if (
                 selectedClub !==
                 "ALL" &&
-                p.club.replaceAll(
+                player.club.replaceAll(
                     " ",
                     "_"
                 ) !==
@@ -2119,11 +1929,11 @@ function render() {
 
 
             if (
-                query &&
-                !p.player
+                search &&
+                !player.player
                 .toLowerCase()
                 .includes(
-                    query
+                    search
                 )
             )
                 return false;
@@ -2135,46 +1945,50 @@ function render() {
     );
 
 
+    /*
+       Sort.
+    */
+
     filtered.sort(
         (a,b) => {
 
-            const A =
-            a[selectedSort];
-
-            const B =
-            b[selectedSort];
-
-
-            if (
-                typeof A ===
-                "number" &&
-                typeof B ===
-                "number"
-            )
-                return B - A;
-
-
-            return String(B)
-            .localeCompare(
-                String(A)
+            return (
+                Number(
+                    b[selectedSort]
+                ) -
+                Number(
+                    a[selectedSort]
+                )
             );
 
         }
     );
 
 
-    count.textContent =
+    document
+    .getElementById(
+        "count"
+    )
+    .textContent =
     `${filtered.length} players`;
 
 
     if (
-        filtered.length ===
-        0
+        filtered.length === 0
     ) {
 
-        grid.innerHTML = `
+        document
+        .getElementById(
+            "playerGrid"
+        )
+        .innerHTML = `
 
-<div class="loading">
+<div style="
+grid-column:1/-1;
+padding:60px;
+text-align:center;
+color:#8993a3;
+">
 No players found.
 </div>
 
@@ -2185,15 +1999,19 @@ No players found.
     }
 
 
-    grid.innerHTML =
+    document
+    .getElementById(
+        "playerGrid"
+    )
+    .innerHTML =
+
     filtered
     .map(
-        (p,index) => {
+        player => {
 
-
-            const badge =
-            teamBadge(
-                p.club
+            const crest =
+            getCrest(
+                player.club
             );
 
 
@@ -2201,94 +2019,74 @@ No players found.
 
 <div
 class="player-card"
-onclick="openPlayer(${players.indexOf(p)})"
+onclick='openPlayer(${JSON.stringify(player)})'
 >
 
 
 <div class="card-top">
 
-
-<div class="card-position">
-${p.pos}
+<div class="position-tag">
+${player.pos}
 </div>
 
-
-<div class="card-price">
-${p.price}
+<div class="price-tag">
+${player.price}
 </div>
 
 
 ${
-badge
+crest
 ?
 `<img
-class="player-photo"
-src="${badge}"
-alt=""
->`
-:
-`<div class="player-placeholder">⚽</div>`
-}
-
-
-</div>
-
-
-
-<div class="card-body">
-
-
-<div class="player-name">
-${p.player}
-</div>
-
-
-<div class="club-line">
-
-
-${
-badge
-?
-`<img
-class="club-logo"
-src="${badge}"
-alt=""
-onerror="this.style.display='none'"
+class="club-crest"
+src="${crest}"
+alt="${player.club}"
 >`
 :
 ""
 }
 
-
-${p.club}
-
-
 </div>
 
 
+<div class="card-body">
 
-<div class="main-stat">
+
+<div
+class="player-name"
+title="${player.player}"
+>
+${player.player}
+</div>
+
+
+<div class="club-name">
+${player.club}
+</div>
+
+
+<div class="main-stats">
 
 <div>
 
-<div class="points-number">
-${p.pts}
+<div class="big-number">
+${player.pts}
 </div>
 
-<div class="points-label">
-FPL points
+<div class="stat-label">
+FPL Points
 </div>
 
 </div>
+
 
 <div>
 
-<div class="points-number"
-style="color:var(--purple)">
-${p.bps}
+<div class="bps-number">
+${player.bps}
 </div>
 
-<div class="points-label">
+<div class="stat-label">
 BPS
 </div>
 
@@ -2297,14 +2095,13 @@ BPS
 </div>
 
 
-
-<div class="mini-stats">
+<div class="mini-grid">
 
 
 <div class="mini-stat">
 
 <div class="mini-value">
-${p.goals}
+${player.goals}
 </div>
 
 <div class="mini-label">
@@ -2317,7 +2114,7 @@ G
 <div class="mini-stat">
 
 <div class="mini-value">
-${p.assists}
+${player.assists}
 </div>
 
 <div class="mini-label">
@@ -2330,7 +2127,7 @@ A
 <div class="mini-stat">
 
 <div class="mini-value">
-${p.xg}
+${player.xg}
 </div>
 
 <div class="mini-label">
@@ -2343,7 +2140,7 @@ xG
 <div class="mini-stat">
 
 <div class="mini-value">
-${p.xa}
+${player.xa}
 </div>
 
 <div class="mini-label">
@@ -2358,7 +2155,6 @@ xA
 
 </div>
 
-
 </div>
 
 `;
@@ -2371,35 +2167,33 @@ xA
 
 
 /* =========================================================
-   OPEN PLAYER
+   PLAYER MODAL
 ========================================================= */
 
 function openPlayer(
-    index
+    player
 ) {
-
-    const p =
-    players[index];
-
-
-    if (!p)
-        return;
-
 
     document
     .getElementById(
         "modalName"
     )
     .textContent =
-    p.player;
+    player.player;
+
+
+    const crest =
+    getCrest(
+        player.club
+    );
 
 
     document
     .getElementById(
-        "modalClub"
+        "modalCrest"
     )
-    .textContent =
-    `${p.club} · ${p.pos}`;
+    .src =
+    crest;
 
 
     document
@@ -2407,7 +2201,7 @@ function openPlayer(
         "dPts"
     )
     .textContent =
-    p.pts;
+    player.pts;
 
 
     document
@@ -2415,7 +2209,7 @@ function openPlayer(
         "dBonus"
     )
     .textContent =
-    p.bonus;
+    player.bonus;
 
 
     document
@@ -2423,7 +2217,7 @@ function openPlayer(
         "dBps"
     )
     .textContent =
-    p.bps;
+    player.bps;
 
 
     document
@@ -2431,7 +2225,7 @@ function openPlayer(
         "dPrice"
     )
     .textContent =
-    p.price;
+    player.price;
 
 
     document
@@ -2439,7 +2233,7 @@ function openPlayer(
         "dXg"
     )
     .textContent =
-    p.xg;
+    player.xg;
 
 
     document
@@ -2447,7 +2241,7 @@ function openPlayer(
         "dXa"
     )
     .textContent =
-    p.xa;
+    player.xa;
 
 
     document
@@ -2455,7 +2249,7 @@ function openPlayer(
         "dXgi"
     )
     .textContent =
-    p.xgi;
+    player.xgi;
 
 
     document
@@ -2463,7 +2257,7 @@ function openPlayer(
         "dDc"
     )
     .textContent =
-    p.dc;
+    player.dc;
 
 
     document
@@ -2471,7 +2265,7 @@ function openPlayer(
         "dGoals"
     )
     .textContent =
-    p.goals;
+    player.goals;
 
 
     document
@@ -2479,7 +2273,7 @@ function openPlayer(
         "dAssists"
     )
     .textContent =
-    p.assists;
+    player.assists;
 
 
     document
@@ -2487,7 +2281,7 @@ function openPlayer(
         "dMinutes"
     )
     .textContent =
-    p.minutes;
+    player.minutes;
 
 
     document
@@ -2495,7 +2289,7 @@ function openPlayer(
         "dOwnership"
     )
     .textContent =
-    p.ownership;
+    player.ownership;
 
 
     document
@@ -2503,7 +2297,7 @@ function openPlayer(
         "dPosition"
     )
     .textContent =
-    p.pos;
+    player.pos;
 
 
     document
@@ -2511,36 +2305,7 @@ function openPlayer(
         "dClub"
     )
     .textContent =
-    p.club;
-
-
-    const badge =
-    teamBadge(
-        p.club
-    );
-
-
-    const modalPhoto =
-    document.getElementById(
-        "modalPhoto"
-    );
-
-
-    /*
-       At the moment we use the club crest
-       as a visual fallback because our
-       TXT files do not contain the player's
-       FPL photo filename.
-    */
-
-    modalPhoto.src =
-    badge || "";
-
-
-    modalPhoto.style.display =
-    badge
-    ? "block"
-    : "none";
+    player.club;
 
 
     document
@@ -2559,24 +2324,27 @@ function openPlayer(
    CLOSE MODAL
 ========================================================= */
 
+function closeModal() {
+
+    document
+    .getElementById(
+        "overlay"
+    )
+    .classList
+    .remove(
+        "show"
+    );
+
+}
+
+
 document
 .getElementById(
     "closeModal"
 )
 .addEventListener(
     "click",
-    () => {
-
-        document
-        .getElementById(
-            "overlay"
-        )
-        .classList
-        .remove(
-            "show"
-        );
-
-    }
+    closeModal
 );
 
 
@@ -2593,14 +2361,7 @@ document
             "overlay"
         ) {
 
-            document
-            .getElementById(
-                "overlay"
-            )
-            .classList
-            .remove(
-                "show"
-            );
+            closeModal();
 
         }
 
@@ -2609,20 +2370,31 @@ document
 
 
 /* =========================================================
-   FILTERS
+   FILTER EVENTS
 ========================================================= */
 
-search.addEventListener(
+document
+.getElementById(
+    "search"
+)
+.addEventListener(
     "input",
     render
 );
 
-club.addEventListener(
+
+clubSelect
+.addEventListener(
     "change",
     render
 );
 
-sort.addEventListener(
+
+document
+.getElementById(
+    "sort"
+)
+.addEventListener(
     "change",
     render
 );
@@ -2630,7 +2402,7 @@ sort.addEventListener(
 
 document
 .querySelectorAll(
-    ".position"
+    ".position-btn"
 )
 .forEach(
     button => {
@@ -2641,7 +2413,7 @@ document
 
                 document
                 .querySelectorAll(
-                    ".position"
+                    ".position-btn"
                 )
                 .forEach(
                     b =>
@@ -2658,7 +2430,7 @@ document
                 );
 
 
-                position =
+                selectedPosition =
                 button.dataset
                 .position;
 
@@ -2667,34 +2439,6 @@ document
 
             }
         );
-
-    }
-);
-
-
-/* =========================================================
-   ESC TO CLOSE
-========================================================= */
-
-document.addEventListener(
-    "keydown",
-    event => {
-
-        if (
-            event.key ===
-            "Escape"
-        ) {
-
-            document
-            .getElementById(
-                "overlay"
-            )
-            .classList
-            .remove(
-                "show"
-            );
-
-        }
 
     }
 );
