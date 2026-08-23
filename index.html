@@ -2544,69 +2544,7 @@ document
 /* =========================================================
    START
 ========================================================= */
-/* =========================================================
-   DARK MODE
-========================================================= */
 
-const themeToggle =
-document.getElementById("themeToggle");
-
-
-function updateThemeButton() {
-
-    if (
-        document.body.classList.contains("dark")
-    ) {
-
-        themeToggle.textContent = "☀️";
-
-        themeToggle.title =
-        "Switch to light mode";
-
-    } else {
-
-        themeToggle.textContent = "🌙";
-
-        themeToggle.title =
-        "Switch to dark mode";
-
-    }
-
-}
-
-
-const savedTheme =
-localStorage.getItem("fpl-theme");
-
-
-if (savedTheme === "dark") {
-
-    document.body.classList.add("dark");
-
-}
-
-
-updateThemeButton();
-
-
-themeToggle.addEventListener(
-    "click",
-    () => {
-
-        document.body.classList.toggle("dark");
-
-        const isDark =
-        document.body.classList.contains("dark");
-
-        localStorage.setItem(
-            "fpl-theme",
-            isDark ? "dark" : "light"
-        );
-
-        updateThemeButton();
-
-    }
-});   
 loadAll();
 
 </script>
