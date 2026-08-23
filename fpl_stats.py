@@ -1,63 +1,66 @@
 import requests
 import os
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime, timezone
-
-BASE_URL = "https://fantasy.premierleague.com/api/"
-OUTPUT_FOLDER = "FPL_STATS"
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0"
-}
-
-TIMEOUT = 30
-
-# Broj istovremenih zahtjeva
-MAX_WORKERS = 12
+from datetime import datetime
 
 
 # ============================================================
-# POMOĆNE FUNKCIJE
+# SETTINGS
 # ============================================================
 
-def get_json(url):
+OUTPUT_DIR = "FPL_STATS"
 
-    response = requests.get(
-        url,
-        headers=HEADERS,
-        timeout=TIMEOUT
-    )
-
-    response.raise_for_status()
-
-    return response.json()
+API_URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
 
 
-def number(value):
+# ============================================================
+# CREATE OUTPUT FOLDER
+# ============================================================
 
-    try:
-        return float(value)
-    except (TypeError, ValueError):
-        return 0.0
-
-
-def fmt(value):
-
-    if abs(value - round(value)) < 0.0001:
-        return str(int(round(value)))
-
-    return f"{value:.2f}"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
-def price(value):
+# ============================================================
+# DOWNLOAD FPL DATA
+# ============================================================
 
-    try:
-        return f"£{float(value) / 10:.1f}"
-    except (TypeError, ValueError):
-        return "N/A"
+print("Downloading FPL data...")
+
+response = requests.get(
+    API_URL,
+    timeout=30
+)
+
+response.raise_for_status()
+
+data = response.json()
+
+print("FPL data downloaded successfully.")
 
 
-POSITIONS = {
+# ============================================================
+# BASIC DATA
+# ============================================================
+
+players = data["elements"]
+teams = data["teams"]
+positions = data["element_types"]
+
+
+# ============================================================
+# TEAM NAMES
+# ============================================================
+
+team_names = {}
+
+for team in teams:
+    team_names[team["id"]] = team["name"]
+
+
+# ============================================================
+# POSITION NAMES
+# ============================================================
+
+position_names = {
     1: "GK",
     2: "DEF",
     3: "MID",
@@ -65,697 +68,370 @@ POSITIONS = {
 }
 
 
-SECTIONS = {
-    1: "GOALKEEPERS",
-    2: "DEFENDERS",
-    3: "MIDFIELDERS",
-    4: "ATTACKERS"
-}
+# ============================================================
+# TEAM ORDER
+# ============================================================
+
+team_order = [
+    team["id"]
+    for team in teams
+]
 
 
 # ============================================================
-# DOHVATI HISTORIJU JEDNOG IGRAČA
+# FORMAT HELPERS
 # ============================================================
 
-def get_player_history(player_id):
+def safe_number(value, default=0):
 
-    url = (
-        BASE_URL
-        + f"element-summary/{player_id}/"
-    )
+    if value is None:
+        return default
 
     try:
-
-        data = get_json(url)
-
-        return player_id, data.get(
-            "history",
-            []
-        )
-
-    except Exception as error:
-
-        print(
-            f"Greška za player {player_id}: {error}"
-        )
-
-        return player_id, []
+        return float(value)
+    except:
+        return default
 
 
-# ============================================================
-# POČETAK
-# ============================================================
+def format_number(value):
 
-print("=" * 60)
-print("FPL SEASON STATISTICS")
-print("=" * 60)
+    value = safe_number(value)
 
-print("")
+    if value.is_integer():
+        return str(int(value))
 
-print("Dohvaćam osnovne FPL podatke...")
+    return f"{value:.2f}"
 
-bootstrap = get_json(
-    BASE_URL + "bootstrap-static/"
-)
 
-players = bootstrap.get(
-    "elements",
-    []
-)
+def format_price(value):
 
-teams = bootstrap.get(
-    "teams",
-    []
-)
+    value = safe_number(value)
 
-events = bootstrap.get(
-    "events",
-    []
-)
+    return f"£{value:.1f}m"
+
+
+def format_ownership(value):
+
+    value = safe_number(value)
+
+    return f"{value:.1f}%"
 
 
 # ============================================================
-# GAMEWEEK
+# PLAYER DATA
 # ============================================================
 
-finished_gameweeks = sorted(
-    event["id"]
-    for event in events
-    if event.get("finished")
-)
-
-current_gameweek = next(
-    (
-        event["id"]
-        for event in events
-        if event.get("is_current")
-    ),
-    None
-)
-
-last_finished = (
-    max(finished_gameweeks)
-    if finished_gameweeks
-    else 0
-)
-
-
-print(
-    f"Trenutni GW: {current_gameweek}"
-)
-
-print(
-    f"Zadnji završeni GW: {last_finished}"
-)
-
-print(
-    f"Ukupno završenih GW-ova: "
-    f"{len(finished_gameweeks)}"
-)
-
-print("")
-
-
-# ============================================================
-# KLUBOVI
-# ============================================================
-
-team_names = {
-
-    team["id"]:
-    team["name"]
-
-    for team in teams
-}
-
-
-# ============================================================
-# PRIPREMA
-# ============================================================
-
-season_stats = {
-
-    player["id"]: {
-
-        "minutes": 0,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "bonus": 0,
-        "bps": 0,
-        "xg": 0,
-        "xa": 0,
-        "dc": 0
-
-    }
-
-    for player in players
-}
-
-
-# ============================================================
-# DOHVAĆANJE SVIH IGRAČA
-# ============================================================
-
-print(
-    f"Dohvaćam historiju za "
-    f"{len(players)} igrača..."
-)
-
-print(
-    "Ovo može trajati nekoliko minuta."
-)
-
-print("")
-
-
-completed = 0
-
-
-with ThreadPoolExecutor(
-    max_workers=MAX_WORKERS
-) as executor:
-
-    futures = [
-
-        executor.submit(
-            get_player_history,
-            player["id"]
-        )
-
-        for player in players
-    ]
-
-
-    for future in as_completed(futures):
-
-        player_id, history = (
-            future.result()
-        )
-
-        stats = season_stats[
-            player_id
-        ]
-
-
-        # ----------------------------------------------------
-        # ZBROJI SVA ODIGRANA KOLA
-        # ----------------------------------------------------
-
-        for gw in history:
-
-            stats["minutes"] += number(
-                gw.get(
-                    "minutes",
-                    0
-                )
-            )
-
-            stats["goals"] += number(
-                gw.get(
-                    "goals_scored",
-                    0
-                )
-            )
-
-            stats["assists"] += number(
-                gw.get(
-                    "assists",
-                    0
-                )
-            )
-
-            stats["points"] += number(
-                gw.get(
-                    "total_points",
-                    0
-                )
-            )
-
-            stats["bonus"] += number(
-                gw.get(
-                    "bonus",
-                    0
-                )
-            )
-
-            stats["bps"] += number(
-                gw.get(
-                    "bps",
-                    0
-                )
-            )
-
-            stats["xg"] += number(
-                gw.get(
-                    "expected_goals",
-                    0
-                )
-            )
-
-            stats["xa"] += number(
-                gw.get(
-                    "expected_assists",
-                    0
-                )
-            )
-
-            stats["dc"] += number(
-                gw.get(
-                    "defensive_contribution",
-                    0
-                )
-            )
-
-
-        completed += 1
-
-
-        if completed % 50 == 0:
-
-            print(
-                f"Obrađeno: "
-                f"{completed}/{len(players)}"
-            )
-
-
-# ============================================================
-# FOLDER
-# ============================================================
-
-os.makedirs(
-    OUTPUT_FOLDER,
-    exist_ok=True
-)
-
-
-# ============================================================
-# GRUPIRANJE IGRAČA PO KLUBOVIMA
-# ============================================================
-
-clubs = {}
+processed_players = []
 
 
 for player in players:
+
+    player_id = player["id"]
+
+    first_name = player.get(
+        "first_name",
+        ""
+    ).strip()
+
+    second_name = player.get(
+        "second_name",
+        ""
+    ).strip()
+
+    # IMPORTANT:
+    # Keep the complete player name.
+    # This fixes names such as:
+    # De Kuyper
+    # Van de Ven
+    # etc.
+
+    full_name = (
+        first_name + " " + second_name
+    ).strip()
+
 
     team_id = player.get(
         "team"
     )
 
-    club = team_names.get(
+    position_id = player.get(
+        "element_type"
+    )
+
+
+    team_name = team_names.get(
         team_id,
-        "UNKNOWN"
-    )
-
-    if club not in clubs:
-
-        clubs[club] = []
-
-    clubs[club].append(
-        player
+        "Unknown"
     )
 
 
-# ============================================================
-# TABLICA
-# ============================================================
-
-columns = [
-
-    "PLAYER",
-    "POS",
-    "PRICE",
-    "PTS",
-    "BONUS",
-    "BPS",
-    "DC",
-    "xG",
-    "xA",
-    "xGI",
-    "G",
-    "A",
-    "MIN",
-    "OWN"
-]
-
-
-widths = {
-
-    "PLAYER": 22,
-    "POS": 5,
-    "PRICE": 8,
-    "PTS": 7,
-    "BONUS": 7,
-    "BPS": 8,
-    "DC": 8,
-    "xG": 8,
-    "xA": 8,
-    "xGI": 8,
-    "G": 5,
-    "A": 5,
-    "MIN": 7,
-    "OWN": 9
-}
-
-
-def make_table(rows):
-
-    header = " ".join(
-
-        column.ljust(
-            widths[column]
-        )
-
-        for column in columns
+    position = position_names.get(
+        position_id,
+        "UNK"
     )
 
-    separator = "-" * len(
-        header
-    )
 
-    lines = [
+    # ========================================================
+    # STATISTICS
+    # ========================================================
 
-        header,
-        separator
-    ]
+    stats = {
 
+        "id":
+        player_id,
 
-    for row in rows:
+        "name":
+        full_name,
 
-        line = " ".join(
+        "first_name":
+        first_name,
 
-            str(
-                row.get(
-                    column,
-                    "N/A"
-                )
-            )[:widths[column]].ljust(
-                widths[column]
+        "second_name":
+        second_name,
+
+        "team_id":
+        team_id,
+
+        "team":
+        team_name,
+
+        "position":
+        position,
+
+        "price":
+        safe_number(
+            player.get(
+                "now_cost"
             )
+        ) / 10,
 
-            for column in columns
+        "points":
+        safe_number(
+            player.get(
+                "total_points"
+            )
+        ),
+
+        "bonus":
+        safe_number(
+            player.get(
+                "bonus"
+            )
+        ),
+
+        "bps":
+        safe_number(
+            player.get(
+                "bps"
+            )
+        ),
+
+        "defensive_contribution":
+        safe_number(
+            player.get(
+                "defensive_contribution"
+            )
+        ),
+
+        "xg":
+        safe_number(
+            player.get(
+                "expected_goals"
+            )
+        ),
+
+        "xa":
+        safe_number(
+            player.get(
+                "expected_assists"
+            )
+        ),
+
+        "xgi":
+        safe_number(
+            player.get(
+                "expected_goal_involvements"
+            )
+        ),
+
+        "goals":
+        safe_number(
+            player.get(
+                "goals_scored"
+            )
+        ),
+
+        "assists":
+        safe_number(
+            player.get(
+                "assists"
+            )
+        ),
+
+        "minutes":
+        safe_number(
+            player.get(
+                "minutes"
+            )
+        ),
+
+        "clean_sheets":
+        safe_number(
+            player.get(
+                "clean_sheets"
+            )
+        ),
+
+        "saves":
+        safe_number(
+            player.get(
+                "saves"
+            )
+        ),
+
+        "yellow_cards":
+        safe_number(
+            player.get(
+                "yellow_cards"
+            )
+        ),
+
+        "red_cards":
+        safe_number(
+            player.get(
+                "red_cards"
+            )
+        ),
+
+        "ownership":
+        safe_number(
+            player.get(
+                "selected_by_percent"
+            )
+        ),
+
+        "transfers_in":
+        safe_number(
+            player.get(
+                "transfers_in"
+            )
+        ),
+
+        "transfers_out":
+        safe_number(
+            player.get(
+                "transfers_out"
+            )
+        ),
+
+        "form":
+        safe_number(
+            player.get(
+                "form"
+            )
+        ),
+
+        "points_per_game":
+        safe_number(
+            player.get(
+                "points_per_game"
+            )
         )
-
-        lines.append(
-            line
-        )
-
-
-    return "\n".join(
-        lines
-    )
-
-
-# ============================================================
-# PRAVLJENJE 20 FILEOVA
-# ============================================================
-
-print("")
-print("Pravim klupske datoteke...")
-
-
-for club in sorted(clubs):
-
-    print(
-        f"  → {club}"
-    )
-
-
-    by_position = {
-
-        1: [],
-        2: [],
-        3: [],
-        4: []
 
     }
 
 
-    # --------------------------------------------------------
-    # IGRAČI KLUBA
-    # --------------------------------------------------------
-
-    for player in clubs[club]:
-
-        player_id = player["id"]
-
-        stats = season_stats[
-            player_id
-        ]
-
-
-        xgi = (
-            stats["xg"]
-            +
-            stats["xa"]
-        )
-
-
-        row = {
-
-            "PLAYER": player.get(
-                "web_name",
-                "N/A"
-            ),
-
-            "POS": POSITIONS.get(
-                player.get(
-                    "element_type"
-                ),
-                "N/A"
-            ),
-
-            "PRICE": price(
-                player.get(
-                    "now_cost"
-                )
-            ),
-
-            "PTS": fmt(
-                stats["points"]
-            ),
-
-            "BONUS": fmt(
-                stats["bonus"]
-            ),
-
-            "BPS": fmt(
-                stats["bps"]
-            ),
-
-            "DC": fmt(
-                stats["dc"]
-            ),
-
-            "xG": fmt(
-                stats["xg"]
-            ),
-
-            "xA": fmt(
-                stats["xa"]
-            ),
-
-            "xGI": fmt(
-                xgi
-            ),
-
-            "G": fmt(
-                stats["goals"]
-            ),
-
-            "A": fmt(
-                stats["assists"]
-            ),
-
-            "MIN": fmt(
-                stats["minutes"]
-            ),
-
-            "OWN": (
-                str(
-                    player.get(
-                        "selected_by_percent",
-                        "N/A"
-                    )
-                )
-                + "%"
-            )
-        }
-
-
-        position = player.get(
-            "element_type"
-        )
-
-
-        if position in by_position:
-
-            by_position[
-                position
-            ].append(
-                row
-            )
-
-
-    # --------------------------------------------------------
-    # SORTIRANJE
-    # --------------------------------------------------------
-
-    for position in by_position:
-
-        by_position[position].sort(
-
-            key=lambda x:
-            x["PLAYER"].lower()
-
-        )
-
-
-    # --------------------------------------------------------
-    # FILE
-    # --------------------------------------------------------
-
-    lines = []
-
-
-    lines.append(
-        "=" * 145
+    processed_players.append(
+        stats
     )
 
-    lines.append(
-        club.upper()
+
+# ============================================================
+# GROUP PLAYERS BY TEAM
+# ============================================================
+
+players_by_team = {}
+
+
+for player in processed_players:
+
+    team_id = player["team_id"]
+
+    if team_id not in players_by_team:
+        players_by_team[team_id] = []
+
+    players_by_team[
+        team_id
+    ].append(player)
+
+
+# ============================================================
+# POSITION ORDER
+# ============================================================
+
+position_order = {
+    "GK": 1,
+    "DEF": 2,
+    "MID": 3,
+    "FWD": 4
+}
+
+
+# ============================================================
+# GENERATE TEAM FILES
+# ============================================================
+
+updated_time = datetime.now().strftime(
+    "%Y-%m-%d %H:%M:%S"
+)
+
+
+for team_id in team_order:
+
+    team_name = team_names.get(
+        team_id,
+        "Unknown"
     )
 
-    lines.append(
-        "=" * 145
+
+    team_players = players_by_team.get(
+        team_id,
+        []
     )
 
-    lines.append("")
 
-    lines.append(
-        "FPL SEASON STATISTICS"
-    )
+    # Sort:
+    # GK
+    # DEF
+    # MID
+    # FWD
+    #
+    # then alphabetically
 
-    lines.append(
-        "Updated: "
-        +
-        datetime.now(
-            timezone.utc
-        ).strftime(
-            "%d.%m.%Y %H:%M:%S UTC"
+    team_players.sort(
+        key=lambda p: (
+            position_order.get(
+                p["position"],
+                99
+            ),
+            p["name"].lower()
         )
     )
 
-    lines.append(
-        f"Current GW: {current_gameweek}"
-    )
-
-    lines.append(
-        f"Statistics through GW: "
-        f"{last_finished}"
-    )
-
-    lines.append("")
-
-    lines.append(
-        "ALL STATISTICS ARE SEASON TOTALS"
-    )
-
-    lines.append("")
-
-    lines.append(
-        "PTS = FPL Points"
-    )
-
-    lines.append(
-        "BONUS = Bonus Points"
-    )
-
-    lines.append(
-        "BPS = Bonus Points System"
-    )
-
-    lines.append(
-        "DC = Defensive Contribution"
-    )
-
-    lines.append(
-        "xG = Expected Goals"
-    )
-
-    lines.append(
-        "xA = Expected Assists"
-    )
-
-    lines.append(
-        "xGI = xG + xA"
-    )
-
-
-    # --------------------------------------------------------
-    # SEKCIJE
-    # --------------------------------------------------------
-
-    for position in [1, 2, 3, 4]:
-
-        rows = by_position[
-            position
-        ]
-
-
-        if not rows:
-            continue
-
-
-        lines.append("")
-        lines.append("")
-
-        lines.append(
-            "=" * 145
-        )
-
-        lines.append(
-            SECTIONS[position]
-        )
-
-        lines.append(
-            "=" * 145
-        )
-
-        lines.append(
-            make_table(rows)
-        )
-
-
-    # --------------------------------------------------------
-    # IME FILEA
-    # --------------------------------------------------------
 
     filename = (
-
-        club
-        .replace(
-            " ",
-            "_"
-        )
-        .replace(
-            "/",
-            "_"
-        )
+        team_name
+        .replace(" ", "_")
+        .replace("/", "_")
         + ".txt"
-
     )
 
 
     filepath = os.path.join(
-        OUTPUT_FOLDER,
+        OUTPUT_DIR,
         filename
     )
 
-
-    # --------------------------------------------------------
-    # SPREMI
-    # --------------------------------------------------------
 
     with open(
         filepath,
@@ -763,26 +439,252 @@ for club in sorted(clubs):
         encoding="utf-8"
     ) as file:
 
+
+        # ====================================================
+        # HEADER
+        # ====================================================
+
         file.write(
-            "\n".join(lines)
+            f"{team_name.upper()}\n"
+        )
+
+        file.write(
+            "=" * 145
+            + "\n"
+        )
+
+        file.write(
+            f"Updated: {updated_time}\n"
+        )
+
+        file.write(
+            f"Players: {len(team_players)}\n\n"
+        )
+
+
+        # ====================================================
+        # TABLE HEADER
+        # ====================================================
+
+        header = (
+
+            f"{'PLAYER':<28}"
+            f"{'POS':<6}"
+            f"{'PRICE':<9}"
+            f"{'PTS':<7}"
+            f"{'BONUS':<8}"
+            f"{'BPS':<8}"
+            f"{'DC':<8}"
+            f"{'xG':<9}"
+            f"{'xA':<9}"
+            f"{'xGI':<9}"
+            f"{'G':<6}"
+            f"{'A':<6}"
+            f"{'MIN':<8}"
+            f"{'OWN':<9}"
+            f"{'FORM':<8}"
+            f"{'PPG':<8}"
+        )
+
+
+        file.write(
+            header + "\n"
+        )
+
+        file.write(
+            "-" * 145
+            + "\n"
+        )
+
+
+        # ====================================================
+        # PLAYERS
+        # ====================================================
+
+        for p in team_players:
+
+            # ------------------------------------------------
+            # IMPORTANT:
+            #
+            # PLAYER name is allowed to contain spaces.
+            #
+            # Example:
+            #
+            # De Kuyper
+            # Van de Ven
+            # Morgan Rogers
+            #
+            # Nothing gets split here.
+            # ------------------------------------------------
+
+            row = (
+
+                f"{p['name']:<28}"
+                f"{p['position']:<6}"
+                f"{format_price(p['price']):<9}"
+                f"{format_number(p['points']):<7}"
+                f"{format_number(p['bonus']):<8}"
+                f"{format_number(p['bps']):<8}"
+                f"{format_number(p['defensive_contribution']):<8}"
+                f"{format_number(p['xg']):<9}"
+                f"{format_number(p['xa']):<9}"
+                f"{format_number(p['xgi']):<9}"
+                f"{format_number(p['goals']):<6}"
+                f"{format_number(p['assists']):<6}"
+                f"{format_number(p['minutes']):<8}"
+                f"{format_ownership(p['ownership']):<9}"
+                f"{format_number(p['form']):<8}"
+                f"{format_number(p['points_per_game']):<8}"
+            )
+
+
+            file.write(
+                row + "\n"
+            )
+
+
+        # ====================================================
+        # LEGEND
+        # ====================================================
+
+        file.write("\n")
+
+        file.write(
+            "=" * 145
+            + "\n"
+        )
+
+        file.write(
+            "STATISTICS LEGEND\n"
+        )
+
+        file.write(
+            "PTS = FPL Points | "
+            "BONUS = Bonus Points | "
+            "BPS = Bonus Point System | "
+            "DC = Defensive Contribution | "
+            "xG = Expected Goals | "
+            "xA = Expected Assists | "
+            "xGI = Expected Goal Involvements\n"
         )
 
 
 # ============================================================
-# GOTOVO
+# ALSO CREATE COMPLETE ALL PLAYERS FILE
 # ============================================================
 
-print("")
-print("=" * 60)
-print("USPJEŠNO ZAVRŠENO!")
-print("=" * 60)
-
-print(
-    f"Statistike do GW {last_finished}"
+all_players_file = os.path.join(
+    OUTPUT_DIR,
+    "ALL_PLAYERS.txt"
 )
 
-print(
-    f"Datoteke: {OUTPUT_FOLDER}/"
+
+all_players = sorted(
+    processed_players,
+    key=lambda p: (
+        team_order.index(
+            p["team_id"]
+        )
+        if p["team_id"] in team_order
+        else 999,
+
+        position_order.get(
+            p["position"],
+            99
+        ),
+
+        p["name"].lower()
+    )
 )
 
+
+with open(
+    all_players_file,
+    "w",
+    encoding="utf-8"
+) as file:
+
+
+    file.write(
+        "FPL ALL PLAYERS\n"
+    )
+
+    file.write(
+        "=" * 145
+        + "\n"
+    )
+
+    file.write(
+        f"Updated: {updated_time}\n"
+    )
+
+    file.write(
+        f"Total players: {len(all_players)}\n\n"
+    )
+
+
+    header = (
+
+        f"{'PLAYER':<28}"
+        f"{'TEAM':<25}"
+        f"{'POS':<6}"
+        f"{'PRICE':<9}"
+        f"{'PTS':<7}"
+        f"{'BONUS':<8}"
+        f"{'BPS':<8}"
+        f"{'DC':<8}"
+        f"{'xG':<9}"
+        f"{'xA':<9}"
+        f"{'xGI':<9}"
+        f"{'G':<6}"
+        f"{'A':<6}"
+        f"{'MIN':<8}"
+        f"{'OWN':<9}"
+    )
+
+
+    file.write(
+        header + "\n"
+    )
+
+    file.write(
+        "-" * 145
+        + "\n"
+    )
+
+
+    for p in all_players:
+
+        row = (
+
+            f"{p['name']:<28}"
+            f"{p['team']:<25}"
+            f"{p['position']:<6}"
+            f"{format_price(p['price']):<9}"
+            f"{format_number(p['points']):<7}"
+            f"{format_number(p['bonus']):<8}"
+            f"{format_number(p['bps']):<8}"
+            f"{format_number(p['defensive_contribution']):<8}"
+            f"{format_number(p['xg']):<9}"
+            f"{format_number(p['xa']):<9}"
+            f"{format_number(p['xgi']):<9}"
+            f"{format_number(p['goals']):<6}"
+            f"{format_number(p['assists']):<6}"
+            f"{format_number(p['minutes']):<8}"
+            f"{format_ownership(p['ownership']):<9}"
+        )
+
+
+        file.write(
+            row + "\n"
+        )
+
+
+print()
+print("=" * 60)
+print("FPL STATISTICS UPDATED SUCCESSFULLY")
+print("=" * 60)
+print(f"Players processed: {len(processed_players)}")
+print(f"Files saved in: {OUTPUT_DIR}")
+print(f"Updated: {updated_time}")
 print("=" * 60)
