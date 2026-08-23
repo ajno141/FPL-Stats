@@ -1,6 +1,6 @@
 FPL ALL PLAYERS
 =================================================================================================================================================
-Updated: 2026-08-23 22:12:11
+Updated: 2026-08-23 22:52:49
 Total players: 609
 
 PLAYER                      TEAM                     POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      
@@ -142,7 +142,7 @@ Malick Yalcouyé             Brighton                 MID   £4.5m    1      0  
 Matt O'Riley                Brighton                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     
 Mitoma Kaoru                Brighton                 MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Nehemiah Oriola             Brighton                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     
-Pascal Groß                 Brighton                 MID   £5.5m    2      0       18      5       0        0.27     0.27     0     0     90      14.1%    
+Pascal Groß                 Brighton                 MID   £5.5m    2      0       18      5       0        0.27     0.27     0     0     90      14.0%    
 Tom Watson                  Brighton                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Yankuba Minteh              Brighton                 MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.1%     
 Yasin Ayari                 Brighton                 MID   £5.5m    2      0       8       4       0.11     0.03     0.14     0     0     63      0.7%     
@@ -194,7 +194,7 @@ Ben Wilson                  Coventry City            GK    £4.5m    0      0   
 Carl Rushworth              Coventry City            GK    £4.5m    1      0       0       0       0        0.01     0.01     0     0     90      1.2%     
 Oliver Dovin                Coventry City            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.6%     
 Aurèle Amenda               Coventry City            DEF   £4.0m    1      0       1       9       0        0.01     0.01     0     0     90      0.9%     
-Bobby Thomas                Coventry City            DEF   £4.0m    3      0       11      10      0.02     0.01     0.03     0     0     90      8.1%     
+Bobby Thomas                Coventry City            DEF   £4.0m    3      0       11      10      0.02     0.01     0.03     0     0     90      8.0%     
 Jake Bidwell                Coventry City            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     
 Jay Dasilva                 Coventry City            DEF   £4.0m    1      0       -4      6       0        0.02     0.02     0     0     90      0.9%     
 Joel Latibeaudiere          Coventry City            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
@@ -202,7 +202,7 @@ Kaine Kesler-Hayden         Coventry City            DEF   £4.0m    0      0   
 Liam Kitching               Coventry City            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     
 Luke Woolfenden             Coventry City            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     
 Miguel Brau                 Coventry City            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
-Milan van Ewijk             Coventry City            DEF   £4.0m    1      0       -8      7       0        0.01     0.01     0     0     90      13.7%    
+Milan van Ewijk             Coventry City            DEF   £4.0m    1      0       -8      7       0        0.01     0.01     0     0     90      13.6%    
 Caleb Yirenkyi              Coventry City            MID   £5.0m    1      0       2       3       0        0        0        0     0     61      0.3%     
 Ephron Mason-Clark          Coventry City            MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     
 Frank Onyeka                Coventry City            MID   £5.0m    2      0       8       9       0        0.01     0.01     0     0     90      0.2%     
@@ -478,7 +478,7 @@ Luke Shaw                   Man Utd                  DEF   £4.5m    1      0   
 Matthijs de Ligt            Man Utd                  DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Noussair Mazraoui           Man Utd                  DEF   £4.5m    1      0       8       5       0.22     0.05     0.27     0     0     79      0.7%     
 Tyler Fredricson            Man Utd                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
-Amad Diallo                 Man Utd                  MID   £6.0m    0      0       0       0       0        0        0        0     0     0       1.5%     
+Amad Diallo                 Man Utd                  MID   £6.0m    0      0       0       0       0        0        0        0     0     0       1.4%     
 Andrey Nascimento dos SantosMan Utd                  MID   £5.0m    2      0       17      9       0        0.23     0.23     0     0     66      1.0%     
 Bendito Mantato             Man Utd                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     
 Bruno Borges Fernandes      Man Utd                  MID   £12.0m   2      0       18      6       0.08     0.26     0.34     0     0     90      50.9%    

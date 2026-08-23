@@ -1,6 +1,6 @@
 COVENTRY CITY
 =================================================================================================================================================
-Updated: 2026-08-23 22:12:11
+Updated: 2026-08-23 22:52:49
 Players: 33
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -9,7 +9,7 @@ Ben Wilson                  GK    £4.5m    0      0       0       0       0    
 Carl Rushworth              GK    £4.5m    1      0       0       0       0        0.01     0.01     0     0     90      1.2%     1       1       
 Oliver Dovin                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.6%     0       0       
 Aurèle Amenda               DEF   £4.0m    1      0       1       9       0        0.01     0.01     0     0     90      0.9%     1       1       
-Bobby Thomas                DEF   £4.0m    3      0       11      10      0.02     0.01     0.03     0     0     90      8.1%     3       3       
+Bobby Thomas                DEF   £4.0m    3      0       11      10      0.02     0.01     0.03     0     0     90      8.0%     3       3       
 Jake Bidwell                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Jay Dasilva                 DEF   £4.0m    1      0       -4      6       0        0.02     0.02     0     0     90      0.9%     1       1       
 Joel Latibeaudiere          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -17,7 +17,7 @@ Kaine Kesler-Hayden         DEF   £4.0m    0      0       0       0       0    
 Liam Kitching               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Luke Woolfenden             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Miguel Brau                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Milan van Ewijk             DEF   £4.0m    1      0       -8      7       0        0.01     0.01     0     0     90      13.7%    1       1       
+Milan van Ewijk             DEF   £4.0m    1      0       -8      7       0        0.01     0.01     0     0     90      13.6%    1       1       
 Caleb Yirenkyi              MID   £5.0m    1      0       2       3       0        0        0        0     0     61      0.3%     1       1       
 Ephron Mason-Clark          MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Frank Onyeka                MID   £5.0m    2      0       8       9       0        0.01     0.01     0     0     90      0.2%     2       2       
