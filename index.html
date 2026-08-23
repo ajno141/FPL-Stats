@@ -760,7 +760,92 @@ select:focus {
     }
 
 }
+/* =========================================================
+   DARK MODE
+========================================================= */
 
+body.dark {
+    --bg: #0b111b;
+    --card: #121a26;
+    --dark: #070c13;
+    --dark2: #172231;
+    --text: #f1f5f9;
+    --muted: #8996a8;
+    --border: #263344;
+    --green-light: #123c2e;
+}
+
+body.dark .topbar {
+    background: #0f1722;
+}
+
+body.dark .summary-card,
+body.dark .filters-card,
+body.dark .player-card,
+body.dark .modal {
+    background: #121a26;
+    border-color: #263344;
+}
+
+body.dark input,
+body.dark select {
+    background: #0c1420;
+    color: #f1f5f9;
+    border-color: #2b394b;
+}
+
+body.dark .position-btn {
+    background: #121a26;
+    color: #dce3ec;
+    border-color: #2b394b;
+}
+
+body.dark .position-btn.active {
+    background: var(--green);
+    color: white;
+}
+
+body.dark .mini-stat,
+body.dark .detail {
+    background: #0c1420;
+}
+
+body.dark .detail-table td {
+    border-color: #263344;
+}
+
+body.dark .club-name,
+body.dark .page-subtitle,
+body.dark .players-count {
+    color: #8996a8;
+}
+
+.topbar-right {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.theme-toggle {
+    width: 38px;
+    height: 38px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--card);
+    cursor: pointer;
+    font-size: 17px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: .15s;
+}
+
+.theme-toggle:hover {
+    transform: translateY(-1px);
+}
+    
 </style>
 </head>
 
@@ -2459,7 +2544,69 @@ document
 /* =========================================================
    START
 ========================================================= */
+/* =========================================================
+   DARK MODE
+========================================================= */
 
+const themeToggle =
+document.getElementById("themeToggle");
+
+
+function updateThemeButton() {
+
+    if (
+        document.body.classList.contains("dark")
+    ) {
+
+        themeToggle.textContent = "☀️";
+
+        themeToggle.title =
+        "Switch to light mode";
+
+    } else {
+
+        themeToggle.textContent = "🌙";
+
+        themeToggle.title =
+        "Switch to dark mode";
+
+    }
+
+}
+
+
+const savedTheme =
+localStorage.getItem("fpl-theme");
+
+
+if (savedTheme === "dark") {
+
+    document.body.classList.add("dark");
+
+}
+
+
+updateThemeButton();
+
+
+themeToggle.addEventListener(
+    "click",
+    () => {
+
+        document.body.classList.toggle("dark");
+
+        const isDark =
+        document.body.classList.contains("dark");
+
+        localStorage.setItem(
+            "fpl-theme",
+            isDark ? "dark" : "light"
+        );
+
+        updateThemeButton();
+
+    }
+);
 loadAll();
 
 </script>
