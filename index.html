@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>FPL Stats</title>
+
+<style>
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f3f4f6;
+    color: #111827;
+}
+
+header {
+    background: #111827;
+    color: white;
+    padding: 25px;
+}
+
+header h1 {
+    margin: 0 0 8px 0;
+}
+
+header p {
+    margin: 0;
+    opacity: 0.8;
+}
+
+.container {
+    max-width: 1600px;
+    margin: auto;
+    padding: 20px;
+}
+
+.controls {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+select,
+input {
+    padding: 11px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    background: white;
+    font-size: 15px;
+}
+
+input {
+    min-width: 240px;
+}
+
+.info {
+    margin-bottom: 15px;
+    font-size: 14px;
+    color: #6b7280;
+}
+
+.table-container {
+    background: white;
+    border-radius: 10px;
+    overflow-x: auto;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 1200px;
+}
+
+th {
+    background: #e5e7eb;
+    padding: 12px;
+    text-align: left;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+td {
+    padding: 10px 12px;
+    border-bottom: 1px solid #e5e7eb;
+    white-space: nowrap;
+}
+
+tr:hover {
+    background: #f9fafb;
+}
+
+.player {
+    font-weight: bold;
+}
+
+.loading {
+    padding: 30px;
+    text-align: center;
+}
+
+.error {
+    padding: 20px;
+    background: #fee2e2;
+    color: #991b1b;
+    border-radius: 8px;
+}
+
+@media (max-width: 700px) {
+
+    header {
+        padding: 18px;
+    }
+
+    .container {
+        padding: 10px;
+    }
+
+    input {
+        width: 100%;
+    }
+
+    select {
+        width: 100%;
+    }
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+
+<h1>⚽ FPL Statistics</h1>
+
+<p>
+Fantasy Premier League — sezonska statistika
+</p>
+
+</header>
+
+<div class="container">
+
+<div class="controls">
+
+<select id="clubFilter">
+<option value="ALL">Svi klubovi</option>
+</select>
+
+<select id="positionFilter">
+
+<option value="ALL">
+Sve pozicije
+</option>
+
+<option value="GK">
+Goalkeepers
+</option>
+
+<option value="DEF">
+Defenders
+</option>
+
+<option value="MID">
+Midfielders
+</option>
+
+<option value="FWD">
+Attackers
+</option>
+
+</select>
+
+<input
+id="search"
+type="text"
+placeholder="Pretraži igrača..."
+>
+
+</div>
+
+<div class="info" id="info">
+Učitavanje...
+</div>
+
+<div id="content">
+
+<div class="loading">
+Učitavam FPL statistike...
+</div>
+
+</div>
+
+</div>
+
+<script>
+
+const clubs = [
+
+"Arsenal",
+"Aston_Villa",
+"Bournemouth",
+"Brentford",
+"Brighton",
+"Burnley",
+"Chelsea",
+"Crystal_Palace",
+"Everton",
+"Fulham",
+"Leeds",
+"Liverpool",
+"Manchester_City",
+"Manchester_United",
+"Newcastle_United",
+"Nottingham_Forest",
+"Sunderland",
+"Tottenham_Hotspur",
+"West_Ham",
+"Wolverhampton_Wanderers"
+
+];
+
+let players = [];
+
+let sortColumn = null;
+
+let sortDirection = 1;
+
+
+const clubFilter =
+document.getElementById("clubFilter");
+
+const positionFilter =
+document.getElementById("positionFilter");
+
+const search =
+document.getElementById("search");
+
+const content =
+document.getElementById("content");
+
+const info =
+document.getElementById("info");
+
+
+clubs.forEach(club => {
+
+    const option =
+    document.createElement("option");
+
+    option.value = club;
+
+    option.textContent =
+    club.replaceAll("_", " ");
+
+    clubFilter.appendChild(option);
+
+});
+
+
+function parseTXT(text, club) {
+
+    const lines =
+    text.split("\n");
+
+    const result = [];
+
+    let section = "";
+
+    for (let line of lines) {
+
+        line = line.trim();
+
+        if (!line) continue;
+
+        if (
+            line === "GOALKEEPERS" ||
+            line === "DEFENDERS" ||
+            line === "MIDFIELDERS" ||
+            line === "ATTACKERS"
+        ) {
+
+            section = line;
+
+            continue;
+        }
+
+        if (
+            line.startsWith("PLAYER") ||
+            line.startsWith("----") ||
+            line.startsWith("=") ||
+            line.startsWith("FPL SEASON") ||
+            line.startsWith("Updated:") ||
+            line.startsWith("Current GW:") ||
+            line.startsWith("Statistics through") ||
+            line.startsWith("ALL STATISTICS") ||
+            line.startsWith("PTS =") ||
+            line.startsWith("BONUS =") ||
+            line.startsWith("BPS =") ||
+            line.startsWith("DC =") ||
+            line.startsWith("xG =") ||
+            line.startsWith("xA =") ||
+            line.startsWith("xGI =")
+        ) {
+            continue;
+        }
+
+        if (!section) continue;
+
+        const parts =
+        line.split(/\s+/);
+
+        if (parts.length < 14) continue;
+
+        result.push({
+
+            player: parts[0],
+
+            pos: parts[1],
+
+            price: parts[2],
+
+            pts: Number(parts[3]),
+
+            bonus: Number(parts[4]),
+
+            bps: Number(parts[5]),
+
+            dc: Number(parts[6]),
+
+            xg: Number(parts[7]),
+
+            xa: Number(parts[8]),
+
+            xgi: Number(parts[9]),
+
+            goals: Number(parts[10]),
+
+            assists: Number(parts[11]),
+
+            minutes: Number(parts[12]),
+
+            ownership: parts[13],
+
+            club: club.replaceAll("_", " "),
+
+            section: section
+
+        });
+
+    }
+
+    return result;
+
+}
+
+
+async function loadClub(club) {
+
+    try {
+
+        const response =
+        await fetch(
+            `FPL_STATS/${club}.txt?t=${Date.now()}`
+        );
+
+        if (!response.ok) {
+            return [];
+        }
+
+        const text =
+        await response.text();
+
+        return parseTXT(text, club);
+
+    } catch (error) {
+
+        console.error(
+            club,
+            error
+        );
+
+        return [];
+
+    }
+
+}
+
+
+async function loadAll() {
+
+    players = [];
+
+    for (const club of clubs) {
+
+        const data =
+        await loadClub(club);
+
+        players.push(...data);
+
+    }
+
+    render();
+
+}
+
+
+function render() {
+
+    const selectedClub =
+    clubFilter.value;
+
+    const selectedPosition =
+    positionFilter.value;
+
+    const query =
+    search.value.toLowerCase().trim();
+
+
+    let filtered =
+    players.filter(player => {
+
+        if (
+            selectedClub !== "ALL" &&
+            player.club.replaceAll(" ", "_") !== selectedClub
+        ) {
+            return false;
+        }
+
+        if (
+            selectedPosition !== "ALL" &&
+            player.pos !== selectedPosition
+        ) {
+            return false;
+        }
+
+        if (
+            query &&
+            !player.player
+                .toLowerCase()
+                .includes(query)
+        ) {
+            return false;
+        }
+
+        return true;
+
+    });
+
+
+    if (sortColumn) {
+
+        filtered.sort((a,b) => {
+
+            const A =
+            a[sortColumn];
+
+            const B =
+            b[sortColumn];
+
+            if (
+                typeof A === "number" &&
+                typeof B === "number"
+            ) {
+
+                return (
+                    A - B
+                ) * sortDirection;
+
+            }
+
+            return String(A)
+                .localeCompare(
+                    String(B)
+                ) * sortDirection;
+
+        });
+
+    }
+
+
+    info.textContent =
+    `Pronađeno igrača: ${filtered.length}`;
+
+
+    let html = `
+
+<div class="table-container">
+
+<table>
+
+<thead>
+
+<tr>
+
+<th onclick="sortBy('player')">
+Player
+</th>
+
+<th onclick="sortBy('club')">
+Club
+</th>
+
+<th onclick="sortBy('pos')">
+Pos
+</th>
+
+<th onclick="sortBy('price')">
+Price
+</th>
+
+<th onclick="sortBy('pts')">
+PTS
+</th>
+
+<th onclick="sortBy('bonus')">
+Bonus
+</th>
+
+<th onclick="sortBy('bps')">
+BPS
+</th>
+
+<th onclick="sortBy('dc')">
+DC
+</th>
+
+<th onclick="sortBy('xg')">
+xG
+</th>
+
+<th onclick="sortBy('xa')">
+xA
+</th>
+
+<th onclick="sortBy('xgi')">
+xGI
+</th>
+
+<th onclick="sortBy('goals')">
+Goals
+</th>
+
+<th onclick="sortBy('assists')">
+Assists
+</th>
+
+<th onclick="sortBy('minutes')">
+Minutes
+</th>
+
+<th>
+Ownership
+</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+`;
+
+
+    filtered.forEach(player => {
+
+        html += `
+
+<tr>
+
+<td class="player">
+${player.player}
+</td>
+
+<td>
+${player.club}
+</td>
+
+<td>
+${player.pos}
+</td>
+
+<td>
+${player.price}
+</td>
+
+<td>
+${player.pts}
+</td>
+
+<td>
+${player.bonus}
+</td>
+
+<td>
+${player.bps}
+</td>
+
+<td>
+${player.dc}
+</td>
+
+<td>
+${player.xg}
+</td>
+
+<td>
+${player.xa}
+</td>
+
+<td>
+${player.xgi}
+</td>
+
+<td>
+${player.goals}
+</td>
+
+<td>
+${player.assists}
+</td>
+
+<td>
+${player.minutes}
+</td>
+
+<td>
+${player.ownership}
+</td>
+
+</tr>
+
+`;
+
+    });
+
+
+    html += `
+
+</tbody>
+
+</table>
+
+</div>
+
+`;
+
+
+    content.innerHTML =
+    html;
+
+}
+
+
+function sortBy(column) {
+
+    if (
+        sortColumn === column
+    ) {
+
+        sortDirection *= -1;
+
+    } else {
+
+        sortColumn = column;
+
+        sortDirection = 1;
+
+    }
+
+    render();
+
+}
+
+
+clubFilter.addEventListener(
+    "change",
+    render
+);
+
+positionFilter.addEventListener(
+    "change",
+    render
+);
+
+search.addEventListener(
+    "input",
+    render
+);
+
+
+loadAll();
+
+</script>
+
+</body>
+</html>
