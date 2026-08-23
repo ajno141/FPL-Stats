@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-08-23 22:52:49
+Updated: 2026-08-23 23:41:02
 Players: 29
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -10,7 +10,7 @@ Illan Meslier               GK    £5.0m    0      0       0       0       0    
 Kepa Arrizabalaga Revuelta  GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Benjamin White              DEF   £5.5m    11     2       37      5       0.18     0.21     0.39     0     1     90      5.1%     11      11      
 Cristhian Mosquera          DEF   £5.5m    6      0       27      6       0        0        0        0     0     90      6.2%     6       6       
-Ezri Konsa Ngoyo            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       12.4%    0       0       
+Ezri Konsa Ngoyo            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       12.3%    0       0       
 Gabriel dos Santos MagalhãesDEF   £8.0m    5      0       21      4       0.05     0.01     0.06     0     0     90      29.6%    5       5       
 Jurriën Timber              DEF   £6.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Piero Hincapié              DEF   £5.5m    1      0       3       0       0        0        0        0     0     9       1.7%     1       1       

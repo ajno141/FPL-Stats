@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-08-23 22:52:49
+Updated: 2026-08-23 23:41:02
 Players: 27
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -28,7 +28,7 @@ Noah Okafor                 MID   £6.0m    1      0       10      5       0    
 Sean Longstaff              MID   £5.0m    1      0       3       0       0        0        0        0     0     8       0.1%     1       1       
 Tanaka Ao                   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Wilfried Gnonto             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Dominic Calvert-Lewin       FWD   £6.0m    1      0       -2      2       0.13     0        0.13     0     0     90      30.6%    1       1       
+Dominic Calvert-Lewin       FWD   £6.0m    1      0       -2      2       0.13     0        0.13     0     0     90      30.5%    1       1       
 Joël Piroe                  FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Lukas Nmecha                FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Mateo Joseph Fernández-RegatilloFWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
