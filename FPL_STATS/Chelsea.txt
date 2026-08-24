@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-08-24 22:59:22
+Updated: 2026-08-24 23:51:56
 Gameweek: GW1
 Players: 38
 
@@ -27,7 +27,7 @@ Mamadou Sarr                DEF   £4.5m    0      0       0       0       0    
 Estêvão Almeida de Oliveira GonçalvesMID   £6.5m    1      0       3       1       0        0        0        0     0     7       1.3%     1       1       
 Valentín Barco              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Jamie Bynoe-Gittens         MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Moisés Caicedo Corozo       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       3.8%     0       0       
+Moisés Caicedo Corozo       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       3.7%     0       0       
 Enzo Fernández              MID   £7.0m    1      0       6       3       0        0.02     0.02     0     0     25      5.1%     1       1       
 Jordan Henderson            MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Roméo Lavia                 MID   £5.0m    1      0       8       9       0.23     0.03     0.26     0     0     64      0.1%     1       1       
@@ -36,7 +36,7 @@ Dário Luís Essugo           MID   £4.5m    0      0       0       0       0  
 Mykhailo Mudryk             MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cole Palmer                 MID   £9.5m    13     3       60      9       0.24     0.21     0.45     1     1     82      11.6%    13      13      
 Geovany Quenda              MID   £5.5m    1      0       2       1       0        0        0        0     0     8       0.0%     1       1       
-Morgan Rogers               MID   £7.5m    8      1       37      7       0.64     0.12     0.76     1     0     81      24.8%    8       8       
+Morgan Rogers               MID   £7.5m    8      1       37      7       0.64     0.12     0.76     1     0     81      24.9%    8       8       
 Liam Delap                  FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
 Emmanuel Emegha             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Marc Guiu Paz               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
