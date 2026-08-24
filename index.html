@@ -903,2208 +903,45 @@ select:focus {
 
 
 /* =========================================================
-   FIXTURES
-========================================================= */
-
-.fixtures-section {
-
-    margin-top: 35px;
-
-}
-
-
-.fixtures-controls {
-
-    background: white;
-
-    border:
-        1px solid var(--border);
-
-    border-radius: 12px;
-
-    padding: 16px;
-
-    margin-bottom: 15px;
-
-}
-
-
-.fixtures-controls select {
-
-    max-width: 400px;
-
-}
-
-
-.fixtures-grid {
-
-    display: flex;
-
-    flex-direction: column;
-
-    gap: 14px;
-
-}
-
-
-.fixture-gameweek {
-
-    background: white;
-
-    border:
-        1px solid var(--border);
-
-    border-radius: 12px;
-
-    overflow: hidden;
-
-}
-
-
-.fixture-gameweek-header {
-
-    background: var(--dark);
-
-    color: white;
-
-    padding: 13px 16px;
-
-    display: flex;
-
-    justify-content: space-between;
-
-    align-items: center;
-
-}
-
-
-.fixture-gameweek-title {
-
-    font-size: 14px;
-
-    font-weight: 900;
-
-}
-
-
-.fixture-gameweek-count {
-
-    font-size: 11px;
-
-    color: #aeb7c5;
-
-}
-
-
-.fixture-row {
-
-    display: grid;
-
-    grid-template-columns:
-        100px
-        minmax(120px, 1fr)
-        80px
-        minmax(120px, 1fr);
-
-    align-items: center;
-
-    gap: 10px;
-
-    padding: 13px 16px;
-
-    border-bottom:
-        1px solid var(--border);
-
-}
-
-
-.fixture-row:last-child {
-
-    border-bottom: 0;
-
-}
-
-
-.fixture-date {
-
-    font-size: 11px;
-
-    color: var(--muted);
-
-}
-
-
-.fixture-home {
-
-    text-align: right;
-
-    font-size: 13px;
-
-    font-weight: 800;
-
-}
-
-
-.fixture-away {
-
-    font-size: 13px;
-
-    font-weight: 800;
-
-}
-
-
-.fixture-time {
-
-    text-align: center;
-
-    font-size: 11px;
-
-    font-weight: 900;
-
-    color: var(--green);
-
-}
-
-
-.fixture-loading,
-.fixture-error,
-.fixture-empty {
-
-    background: white;
-
-    border:
-        1px solid var(--border);
-
-    border-radius: 12px;
-
-    padding: 50px 20px;
-
-    text-align: center;
-
-    color: var(--muted);
-
-}
-
-
-.fixture-error {
-
-    color: #c0392b;
-
-}
-
-
-/* =========================================================
-   MOBILE
-========================================================= */
-
-@media(max-width:850px) {
-
-    .sidebar {
-
-        width: 62px;
-
-        padding:
-            20px 6px;
-
-    }
-
-
-    .logo-title {
-
-        font-size: 0;
-
-    }
-
-
-    .logo-title span {
-
-        font-size: 19px;
-
-    }
-
-
-    .logo-sub,
-    .nav-title {
-
-        display: none;
-
-    }
-
-
-    .nav-item {
-
-        text-align: center;
-
-        font-size: 0;
-
-    }
-
-
-    .main {
-
-        margin-left: 62px;
-
-    }
-
-
-    .summary {
-
-        grid-template-columns:
-            repeat(2,1fr);
-
-    }
-
-
-    .filters {
-
-        grid-template-columns:
-            1fr;
-
-    }
-
-}
-
-
-@media(max-width:550px) {
-
-    .content {
-
-        padding: 12px;
-
-    }
-
-
-    .summary {
-
-        gap: 8px;
-
-    }
-
-
-    .player-grid {
-
-        grid-template-columns:
-            1fr;
-
-    }
-
-
-    .detail-grid {
-
-        grid-template-columns:
-            repeat(2,1fr);
-
-    }
-
-
-    .topbar {
-
-        padding: 0 13px;
-
-    }
-
-
-    .fixture-row {
-
-        grid-template-columns:
-            65px
-            minmax(80px, 1fr)
-            55px
-            minmax(80px, 1fr);
-
-        padding: 11px 8px;
-
-        gap: 5px;
-
-    }
-
-
-    .fixture-home,
-    .fixture-away {
-
-        font-size: 11px;
-
-    }
-
-
-    .fixture-date {
-
-        font-size: 9px;
-
-    }
-
-
-    .fixture-time {
-
-        font-size: 10px;
-
-    }
-
-}
-
-</style>
-
-</head>
-
-
-<body>
-
-
-<div class="app">
-
-
-<!-- =========================================================
-     SIDEBAR
-========================================================= -->
-
-<aside class="sidebar">
-
-    <div class="logo">
-
-        <div class="logo-title">
-            FPL <span>LAB</span>
-        </div>
-
-        <div class="logo-sub">
-            Fantasy Premier League
-        </div>
-
-    </div>
-
-
-    <div class="nav-title">
-        Main
-    </div>
-
-
-    <div class="nav-item active">
-        ▦ &nbsp; Player Lab
-    </div>
-
-
-    <div class="nav-title">
-        Positions
-    </div>
-
-
-    <div class="nav-item">
-        🧤 &nbsp; Goalkeepers
-    </div>
-
-
-    <div class="nav-item">
-        🛡 &nbsp; Defenders
-    </div>
-
-
-    <div class="nav-item">
-        ◆ &nbsp; Midfielders
-    </div>
-
-
-    <div class="nav-item">
-        ⚡ &nbsp; Attackers
-    </div>
-
-</aside>
-
-
-<!-- =========================================================
-     MAIN
-========================================================= -->
-
-<main class="main">
-
-
-<header class="topbar">
-
-    <div>
-
-        <div class="page-title">
-            FPL Player Lab
-        </div>
-
-        <div class="page-subtitle">
-            Fantasy Premier League statistics
-        </div>
-
-    </div>
-
-
-    <div class="live">
-
-        <span class="live-dot"></span>
-
-        Live FPL Data
-
-    </div>
-
-</header>
-
-
-<section class="content">
-
-
-<!-- =========================================================
-     SUMMARY
-========================================================= -->
-
-<div class="summary">
-
-
-    <div class="summary-card">
-
-        <div class="summary-label">
-            PLAYERS
-        </div>
-
-        <div
-            class="summary-number"
-            id="totalPlayers">
-            -
-        </div>
-
-    </div>
-
-
-    <div class="summary-card">
-
-        <div class="summary-label">
-            GOALS
-        </div>
-
-        <div
-            class="summary-number"
-            id="totalGoals">
-            -
-        </div>
-
-    </div>
-
-
-    <div class="summary-card">
-
-        <div class="summary-label">
-            ASSISTS
-        </div>
-
-        <div
-            class="summary-number"
-            id="totalAssists">
-            -
-        </div>
-
-    </div>
-
-
-    <div class="summary-card">
-
-        <div class="summary-label">
-            FPL POINTS
-        </div>
-
-        <div
-            class="summary-number"
-            id="totalPoints">
-            -
-        </div>
-
-    </div>
-
-</div>
-
-
-<!-- =========================================================
-     PLAYER FILTERS
-========================================================= -->
-
-<div class="filters-card">
-
-
-    <div class="filters">
-
-
-        <input
-            id="search"
-            placeholder="Search player..."
-        >
-
-
-        <select id="club">
-
-            <option value="ALL">
-                All clubs
-            </option>
-
-        </select>
-
-
-        <select id="sort">
-
-            <option value="pts">
-                Points
-            </option>
-
-            <option value="bonus">
-                Bonus
-            </option>
-
-            <option value="bps">
-                BPS
-            </option>
-
-            <option value="dc">
-                Defensive Contribution
-            </option>
-
-            <option value="xg">
-                xG
-            </option>
-
-            <option value="xa">
-                xA
-            </option>
-
-            <option value="xgi">
-                xGI
-            </option>
-
-            <option value="goals">
-                Goals
-            </option>
-
-            <option value="assists">
-                Assists
-            </option>
-
-        </select>
-
-
-    </div>
-
-
-    <div class="positions">
-
-
-        <button
-            class="position-btn active"
-            data-position="ALL">
-            ALL
-        </button>
-
-
-        <button
-            class="position-btn"
-            data-position="GK">
-            GKP
-        </button>
-
-
-        <button
-            class="position-btn"
-            data-position="DEF">
-            DEF
-        </button>
-
-
-        <button
-            class="position-btn"
-            data-position="MID">
-            MID
-        </button>
-
-
-        <button
-            class="position-btn"
-            data-position="FWD">
-            FWD
-        </button>
-
-
-    </div>
-
-</div>
-
-
-<!-- =========================================================
-     PLAYERS
-========================================================= -->
-
-<div class="players-header">
-
-    <div class="players-title">
-        Players
-    </div>
-
-    <div
-        class="players-count"
-        id="count">
-        Loading...
-    </div>
-
-</div>
-
-
-<div
-    class="player-grid"
-    id="playerGrid">
-
-    <div
-        style="
-        grid-column:1/-1;
-        padding:60px;
-        text-align:center;
-        color:#8993a3;
-        ">
-
-        Loading FPL players...
-
-    </div>
-
-</div>
-
-
-<!-- =========================================================
-     FIXTURES
-========================================================= -->
-
-<section class="fixtures-section">
-
-
-    <div class="players-header">
-
-        <div>
-
-            <div class="players-title">
-                Premier League Fixtures
-            </div>
-
-            <div class="page-subtitle">
-                2026/27 Season
-            </div>
-
-        </div>
-
-
-        <div
-            class="players-count"
-            id="fixtureCount">
-
-            Loading...
-
-        </div>
-
-    </div>
-
-
-    <div class="fixtures-controls">
-
-        <select id="fixtureTeam">
-
-            <option value="ALL">
-                All Teams
-            </option>
-
-        </select>
-
-    </div>
-
-
-    <div
-        id="fixturesGrid"
-        class="fixtures-grid">
-
-        <div class="fixture-loading">
-            Loading Premier League fixtures...
-        </div>
-
-    </div>
-
-
-</section>
-
-
-</section>
-
-</main>
-
-</div>
-
-
-<!-- =========================================================
-     PLAYER MODAL
-========================================================= -->
-
-<div
-    class="overlay"
-    id="overlay">
-
-
-    <div class="modal">
-
-
-        <div class="modal-top">
-
-
-            <button
-                class="close"
-                id="closeModal">
-                ×
-            </button>
-
-
-            <img
-                id="modalCrest"
-                class="modal-crest"
-                src=""
-                alt=""
-            >
-
-
-            <div
-                class="modal-name"
-                id="modalName">
-                -
-            </div>
-
-
-        </div>
-
-
-        <div class="modal-body">
-
-
-            <div class="detail-grid">
-
-
-                <div class="detail">
-
-                    <div class="detail-label">
-                        FPL Points
-                    </div>
-
-                    <div
-                        class="detail-value"
-                        id="dPts">
-                        -
-                    </div>
-
-                </div>
-
-
-                <div class="detail">
-
-                    <div class="detail-label">
-                        Bonus
-                    </div>
-
-                    <div
-                        class="detail-value"
-                        id="dBonus">
-                        -
-                    </div>
-
-                </div>
-
-
-                <div class="detail">
-
-                    <div class="detail-label">
-                        BPS
-                    </div>
-
-                    <div
-                        class="detail-value"
-                        id="dBps">
-                        -
-                    </div>
-
-                </div>
-
-
-                <div class="detail">
-
-                    <div class="detail-label">
-                        Price
-                    </div>
-
-                    <div
-                        class="detail-value"
-                        id="dPrice">
-                        -
-                    </div>
-
-                </div>
-
-
-                <div class="detail">
-
-                    <div class="detail-label">
-                        xG
-                    </div>
-
-                    <div
-                        class="detail-value"
-                        id="dXg">
-                        -
-                    </div>
-
-                </div>
-
-
-                <div class="detail">
-
-                    <div class="detail-label">
-                        xA
-                    </div>
-
-                    <div
-                        class="detail-value"
-                        id="dXa">
-                        -
-                    </div>
-
-                </div>
-
-
-                <div class="detail">
-
-                    <div class="detail-label">
-                        xGI
-                    </div>
-
-                    <div
-                        class="detail-value"
-                        id="dXgi">
-                        -
-                    </div>
-
-                </div>
-
-
-                <div class="detail">
-
-                    <div class="detail-label">
-                        Def. Contribution
-                    </div>
-
-                    <div
-                        class="detail-value"
-                        id="dDc">
-                        -
-                    </div>
-
-                </div>
-
-
-            </div>
-
-
-            <table class="detail-table">
-
-
-                <tr>
-                    <td>Goals</td>
-                    <td id="dGoals">-</td>
-                </tr>
-
-
-                <tr>
-                    <td>Assists</td>
-                    <td id="dAssists">-</td>
-                </tr>
-
-
-                <tr>
-                    <td>Minutes</td>
-                    <td id="dMinutes">-</td>
-                </tr>
-
-
-                <tr>
-                    <td>Ownership</td>
-                    <td id="dOwnership">-</td>
-                </tr>
-
-
-                <tr>
-                    <td>Position</td>
-                    <td id="dPosition">-</td>
-                </tr>
-
-
-                <tr>
-                    <td>Club</td>
-                    <td id="dClub">-</td>
-                </tr>
-
-
-            </table>
-
-
-        </div>
-
-    </div>
-
-</div>
-
-
-<script>
-
-/* =========================================================
-   CLUBS
-========================================================= */
-
-const clubs = [
-
-    "Arsenal",
-    "Aston_Villa",
-    "Bournemouth",
-    "Brentford",
-    "Brighton",
-    "Chelsea",
-    "Coventry_City",
-    "Crystal_Palace",
-    "Everton",
-    "Fulham",
-    "Hull_City",
-    "Ipswich_Town",
-    "Leeds",
-    "Liverpool",
-    "Manchester_City",
-    "Manchester_United",
-    "Newcastle_United",
-    "Nottingham_Forest",
-    "Sunderland",
-    "Tottenham_Hotspur"
-
-];
-
-
-let players = [];
-
-let selectedPosition = "ALL";
-
-
-/* =========================================================
-   CLUB SELECT
-========================================================= */
-
-const clubSelect =
-    document.getElementById("club");
-
-
-clubs.forEach(
-    club => {
-
-        const option =
-            document.createElement(
-                "option"
-            );
-
-        option.value =
-            club;
-
-        option.textContent =
-            club.replaceAll(
-                "_",
-                " "
-            );
-
-        clubSelect.appendChild(
-            option
-        );
-
-    }
-);
-
-
-/* =========================================================
-   PARSE PLAYER LINE
-========================================================= */
-
-function parsePlayerLine(
-    line,
-    clubName
-) {
-
-    line =
-        line.replace(
-            /\r/g,
-            ""
-        );
-
-
-    const positionMatch =
-        line.match(
-            /(GK|DEF|MID|FWD)/
-        );
-
-
-    if (!positionMatch)
-        return null;
-
-
-    const position =
-        positionMatch[1];
-
-
-    const positionIndex =
-        positionMatch.index;
-
-
-    const playerName =
-        line
-        .substring(
-            0,
-            positionIndex
-        )
-        .trim();
-
-
-    if (!playerName)
-        return null;
-
-
-    let remaining =
-        line
-        .substring(
-            positionIndex +
-            position.length
-        )
-        .trim();
-
-
-    const parts =
-        remaining.split(
-            /\s+/
-        );
-
-
-    if (
-        parts.length < 14
-    )
-        return null;
-
-
-    const price =
-        parts[0];
-
-
-    const pts =
-        Number(parts[1]);
-
-
-    const bonus =
-        Number(parts[2]);
-
-
-    const bps =
-        Number(parts[3]);
-
-
-    const dc =
-        Number(parts[4]);
-
-
-    const xg =
-        Number(parts[5]);
-
-
-    const xa =
-        Number(parts[6]);
-
-
-    const xgi =
-        Number(parts[7]);
-
-
-    const goals =
-        Number(parts[8]);
-
-
-    const assists =
-        Number(parts[9]);
-
-
-    const minutes =
-        Number(parts[10]);
-
-
-    const ownership =
-        parts[11];
-
-
-    const form =
-        Number(parts[12]);
-
-
-    const ppg =
-        Number(parts[13]);
-
-
-    return {
-
-        player:
-            playerName,
-
-        pos:
-            position,
-
-        price:
-            price,
-
-        pts:
-            Number.isFinite(pts)
-            ? pts
-            : 0,
-
-        bonus:
-            Number.isFinite(bonus)
-            ? bonus
-            : 0,
-
-        bps:
-            Number.isFinite(bps)
-            ? bps
-            : 0,
-
-        dc:
-            Number.isFinite(dc)
-            ? dc
-            : 0,
-
-        xg:
-            Number.isFinite(xg)
-            ? xg
-            : 0,
-
-        xa:
-            Number.isFinite(xa)
-            ? xa
-            : 0,
-
-        xgi:
-            Number.isFinite(xgi)
-            ? xgi
-            : 0,
-
-        goals:
-            Number.isFinite(goals)
-            ? goals
-            : 0,
-
-        assists:
-            Number.isFinite(assists)
-            ? assists
-            : 0,
-
-        minutes:
-            Number.isFinite(minutes)
-            ? minutes
-            : 0,
-
-        ownership:
-            ownership,
-
-        form:
-            Number.isFinite(form)
-            ? form
-            : 0,
-
-        ppg:
-            Number.isFinite(ppg)
-            ? ppg
-            : 0,
-
-        club:
-            clubName.replaceAll(
-                "_",
-                " "
-            )
-
-    };
-
-}
-
-
-/* =========================================================
-   PARSE FILE
-========================================================= */
-
-function parseFile(
-    text,
-    clubName
-) {
-
-    const result = [];
-
-    const lines =
-        text.split("\n");
-
-
-    for (
-        const rawLine
-        of lines
-    ) {
-
-        const line =
-            rawLine.trimEnd();
-
-
-        if (
-            !line ||
-            line.startsWith(
-                "PLAYER"
-            ) ||
-            line.startsWith(
-                "-"
-            ) ||
-            line.startsWith(
-                "="
-            ) ||
-            line.startsWith(
-                "Updated:"
-            ) ||
-            line.startsWith(
-                "Players:"
-            ) ||
-            line.startsWith(
-                "STATISTICS"
-            ) ||
-            line.startsWith(
-                "PTS ="
-            )
-        ) {
-
-            continue;
-
-        }
-
-
-        if (
-            !/\b(GK|DEF|MID|FWD)\b/.test(
-                line
-            ) &&
-            !/(GK|DEF|MID|FWD)/.test(
-                line
-            )
-        ) {
-
-            continue;
-
-        }
-
-
-        const player =
-            parsePlayerLine(
-                line,
-                clubName
-            );
-
-
-        if (player) {
-
-            result.push(
-                player
-            );
-
-        }
-
-    }
-
-
-    return result;
-
-}
-
-
-/* =========================================================
-   LOAD CLUB
-========================================================= */
-
-async function loadClub(
-    clubName
-) {
-
-    try {
-
-        const response =
-            await fetch(
-                `FPL_STATS/${clubName}.txt?t=${Date.now()}`
-            );
-
-
-        if (!response.ok) {
-
-            console.warn(
-                "Could not load:",
-                clubName
-            );
-
-            return [];
-
-        }
-
-
-        const text =
-            await response.text();
-
-
-        return parseFile(
-            text,
-            clubName
-        );
-
-    }
-
-    catch(error) {
-
-        console.error(
-            error
-        );
-
-        return [];
-
-    }
-
-}
-
-
-/* =========================================================
-   LOAD EVERYTHING
-========================================================= */
-
-async function loadAll() {
-
-    const results =
-        await Promise.all(
-            clubs.map(
-                loadClub
-            )
-        );
-
-
-    players =
-        results.flat();
-
-
-    updateSummary();
-
-    render();
-
-}
-
-
-/* =========================================================
-   SUMMARY
-========================================================= */
-
-function updateSummary() {
-
-    document
-        .getElementById(
-            "totalPlayers"
-        )
-        .textContent =
-        players.length;
-
-
-    document
-        .getElementById(
-            "totalGoals"
-        )
-        .textContent =
-        players.reduce(
-            (sum, p) =>
-                sum + p.goals,
-            0
-        );
-
-
-    document
-        .getElementById(
-            "totalAssists"
-        )
-        .textContent =
-        players.reduce(
-            (sum, p) =>
-                sum + p.assists,
-            0
-        );
-
-
-    document
-        .getElementById(
-            "totalPoints"
-        )
-        .textContent =
-        players.reduce(
-            (sum, p) =>
-                sum + p.pts,
-            0
-        );
-
-}
-
-
-/* =========================================================
-   CLUB CRESTS
-========================================================= */
-
-function getCrest(
-    club
-) {
-
-    const ids = {
-
-        "Arsenal": 3,
-
-        "Aston Villa": 7,
-
-        "Bournemouth": 91,
-
-        "Brentford": 94,
-
-        "Brighton": 36,
-
-        "Chelsea": 8,
-
-        "Coventry City": 89,
-
-        "Crystal Palace": 31,
-
-        "Everton": 11,
-
-        "Fulham": 54,
-
-        "Hull City": 88,
-
-        "Ipswich Town": 40,
-
-        "Leeds": 2,
-
-        "Liverpool": 14,
-
-        "Manchester City": 43,
-
-        "Manchester United": 1,
-
-        "Newcastle United": 4,
-
-        "Nottingham Forest": 17,
-
-        "Sunderland": 56,
-
-        "Tottenham Hotspur": 6
-
-    };
-
-
-    const id =
-        ids[club];
-
-
-    if (!id)
-        return "";
-
-
-    return `https://resources.premierleague.com/premierleague/badges/70/t${id}.png`;
-
-}
-
-
-/* =========================================================
-   RENDER PLAYERS
-========================================================= */
-
-function render() {
-
-    const search =
-        document
-        .getElementById(
-            "search"
-        )
-        .value
-        .toLowerCase()
-        .trim();
-
-
-    const selectedClub =
-        clubSelect.value;
-
-
-    const selectedSort =
-        document
-        .getElementById(
-            "sort"
-        )
-        .value;
-
-
-    let filtered =
-        players.filter(
-            player => {
-
-                if (
-                    selectedPosition !==
-                    "ALL" &&
-                    player.pos !==
-                    selectedPosition
-                )
-                    return false;
-
-
-                if (
-                    selectedClub !==
-                    "ALL" &&
-                    player.club.replaceAll(
-                        " ",
-                        "_"
-                    ) !==
-                    selectedClub
-                )
-                    return false;
-
-
-                if (
-                    search &&
-                    !player.player
-                    .toLowerCase()
-                    .includes(
-                        search
-                    )
-                )
-                    return false;
-
-
-                return true;
-
-            }
-        );
-
-
-    filtered.sort(
-        (a, b) => {
-
-            return (
-                Number(
-                    b[selectedSort]
-                ) -
-                Number(
-                    a[selectedSort]
-                )
-            );
-
-        }
-    );
-
-
-    document
-        .getElementById(
-            "count"
-        )
-        .textContent =
-        `${filtered.length} players`;
-
-
-    if (
-        filtered.length === 0
-    ) {
-
-        document
-            .getElementById(
-                "playerGrid"
-            )
-            .innerHTML = `
-
-                <div style="
-                    grid-column:1/-1;
-                    padding:60px;
-                    text-align:center;
-                    color:#8993a3;
-                ">
-
-                    No players found.
-
-                </div>
-
-            `;
-
-        return;
-
-    }
-
-
-    document
-        .getElementById(
-            "playerGrid"
-        )
-        .innerHTML =
-
-        filtered
-        .map(
-            player => {
-
-                const crest =
-                    getCrest(
-                        player.club
-                    );
-
-
-                return `
-
-                    <div
-                        class="player-card"
-                        onclick='openPlayer(${JSON.stringify(player)})'
-                    >
-
-
-                        <div
-                            class="card-top">
-
-
-                            <div
-                                class="position-tag">
-
-                                ${player.pos}
-
-                            </div>
-
-
-                            <div
-                                class="price-tag">
-
-                                ${player.price}
-
-                            </div>
-
-
-                            ${
-                                crest
-                                ?
-                                `<img
-                                    class="club-crest"
-                                    src="${crest}"
-                                    alt="${player.club}"
-                                >`
-                                :
-                                ""
-                            }
-
-
-                        </div>
-
-
-                        <div
-                            class="card-body">
-
-
-                            <div
-                                class="player-name"
-                                title="${player.player}">
-
-                                ${player.player}
-
-                            </div>
-
-
-                            <div
-                                class="club-name">
-
-                                ${player.club}
-
-                            </div>
-
-
-                            <div
-                                class="main-stats">
-
-
-                                <div>
-
-                                    <div
-                                        class="big-number">
-
-                                        ${player.pts}
-
-                                    </div>
-
-                                    <div
-                                        class="stat-label">
-
-                                        FPL Points
-
-                                    </div>
-
-                                </div>
-
-
-                                <div>
-
-                                    <div
-                                        class="bps-number">
-
-                                        ${player.bps}
-
-                                    </div>
-
-                                    <div
-                                        class="stat-label">
-
-                                        BPS
-
-                                    </div>
-
-                                </div>
-
-
-                            </div>
-
-
-                            <div
-                                class="mini-grid">
-
-
-                                <div
-                                    class="mini-stat">
-
-                                    <div
-                                        class="mini-value">
-
-                                        ${player.goals}
-
-                                    </div>
-
-                                    <div
-                                        class="mini-label">
-
-                                        G
-
-                                    </div>
-
-                                </div>
-
-
-                                <div
-                                    class="mini-stat">
-
-                                    <div
-                                        class="mini-value">
-
-                                        ${player.assists}
-
-                                    </div>
-
-                                    <div
-                                        class="mini-label">
-
-                                        A
-
-                                    </div>
-
-                                </div>
-
-
-                                <div
-                                    class="mini-stat">
-
-                                    <div
-                                        class="mini-value">
-
-                                        ${player.xg}
-
-                                    </div>
-
-                                    <div
-                                        class="mini-label">
-
-                                        xG
-
-                                    </div>
-
-                                </div>
-
-
-                                <div
-                                    class="mini-stat">
-
-                                    <div
-                                        class="mini-value">
-
-                                        ${player.xa}
-
-                                    </div>
-
-                                    <div
-                                        class="mini-label">
-
-                                        xA
-
-                                    </div>
-
-                                </div>
-
-
-                            </div>
-
-
-                        </div>
-
-
-                    </div>
-
-                `;
-
-            }
-        )
-        .join("");
-
-}
-
-
-/* =========================================================
-   PLAYER MODAL
-========================================================= */
-
-function openPlayer(
-    player
-) {
-
-    document
-        .getElementById(
-            "modalName"
-        )
-        .textContent =
-        player.player;
-
-
-    const crest =
-        getCrest(
-            player.club
-        );
-
-
-    document
-        .getElementById(
-            "modalCrest"
-        )
-        .src =
-        crest;
-
-
-    document
-        .getElementById(
-            "dPts"
-        )
-        .textContent =
-        player.pts;
-
-
-    document
-        .getElementById(
-            "dBonus"
-        )
-        .textContent =
-        player.bonus;
-
-
-    document
-        .getElementById(
-            "dBps"
-        )
-        .textContent =
-        player.bps;
-
-
-    document
-        .getElementById(
-            "dPrice"
-        )
-        .textContent =
-        player.price;
-
-
-    document
-        .getElementById(
-            "dXg"
-        )
-        .textContent =
-        player.xg;
-
-
-    document
-        .getElementById(
-            "dXa"
-        )
-        .textContent =
-        player.xa;
-
-
-    document
-        .getElementById(
-            "dXgi"
-        )
-        .textContent =
-        player.xgi;
-
-
-    document
-        .getElementById(
-            "dDc"
-        )
-        .textContent =
-        player.dc;
-
-
-    document
-        .getElementById(
-            "dGoals"
-        )
-        .textContent =
-        player.goals;
-
-
-    document
-        .getElementById(
-            "dAssists"
-        )
-        .textContent =
-        player.assists;
-
-
-    document
-        .getElementById(
-            "dMinutes"
-        )
-        .textContent =
-        player.minutes;
-
-
-    document
-        .getElementById(
-            "dOwnership"
-        )
-        .textContent =
-        player.ownership;
-
-
-    document
-        .getElementById(
-            "dPosition"
-        )
-        .textContent =
-        player.pos;
-
-
-    document
-        .getElementById(
-            "dClub"
-        )
-        .textContent =
-        player.club;
-
-
-    document
-        .getElementById(
-            "overlay"
-        )
-        .classList
-        .add(
-            "show"
-        );
-
-}
-
-
-/* =========================================================
-   CLOSE MODAL
-========================================================= */
-
-function closeModal() {
-
-    document
-        .getElementById(
-            "overlay"
-        )
-        .classList
-        .remove(
-            "show"
-        );
-
-}
-
-
-document
-    .getElementById(
-        "closeModal"
-    )
-    .addEventListener(
-        "click",
-        closeModal
-    );
-
-
-document
-    .getElementById(
-        "overlay"
-    )
-    .addEventListener(
-        "click",
-        event => {
-
-            if (
-                event.target.id ===
-                "overlay"
-            ) {
-
-                closeModal();
-
-            }
-
-        }
-    );
-
-
-/* =========================================================
-   FILTER EVENTS
-========================================================= */
-
-document
-    .getElementById(
-        "search"
-    )
-    .addEventListener(
-        "input",
-        render
-    );
-
-
-clubSelect
-    .addEventListener(
-        "change",
-        render
-    );
-
-
-document
-    .getElementById(
-        "sort"
-    )
-    .addEventListener(
-        "change",
-        render
-    );
-
-
-document
-    .querySelectorAll(
-        ".position-btn"
-    )
-    .forEach(
-        button => {
-
-            button.addEventListener(
-                "click",
-                () => {
-
-                    document
-                        .querySelectorAll(
-                            ".position-btn"
-                        )
-                        .forEach(
-                            b =>
-                            b.classList
-                            .remove(
-                                "active"
-                            )
-                        );
-
-
-                    button.classList
-                        .add(
-                            "active"
-                        );
-
-
-                    selectedPosition =
-                        button.dataset
-                        .position;
-
-
-                    render();
-
-                }
-            );
-
-        }
-    );
-
-
-/* =========================================================
-   FIXTURES
+   FIXTURES 2026/27
 ========================================================= */
 
 (function () {
 
-
     let fixtureTeams = {};
-
     let fixtures = [];
 
-
     const fixtureTeam =
-        document.getElementById(
-            "fixtureTeam"
-        );
-
+        document.getElementById("fixtureTeam");
 
     const fixturesGrid =
-        document.getElementById(
-            "fixturesGrid"
-        );
-
+        document.getElementById("fixturesGrid");
 
     const fixtureCount =
-        document.getElementById(
-            "fixtureCount"
-        );
+        document.getElementById("fixtureCount");
 
 
     /* =====================================================
        DATE
     ===================================================== */
 
-    function formatFixtureDate(
-        dateString
-    ) {
+    function formatFixtureDate(dateString) {
 
-        if (!dateString)
+        if (!dateString) {
             return "TBC";
+        }
 
+        const date = new Date(dateString);
 
-        const date =
-            new Date(
-                dateString
-            );
-
-
-        if (
-            Number.isNaN(
-                date.getTime()
-            )
-        )
+        if (Number.isNaN(date.getTime())) {
             return "TBC";
+        }
 
-
-        return date.toLocaleDateString(
-            "en-GB",
-            {
-                day: "2-digit",
-                month: "short"
-            }
-        );
+        return date.toLocaleDateString("en-GB", {
+            day: "2-digit",
+            month: "short",
+            year: "numeric"
+        });
 
     }
 
@@ -3113,118 +950,199 @@ document
        TIME
     ===================================================== */
 
-    function formatFixtureTime(
-        dateString
-    ) {
+    function formatFixtureTime(dateString) {
 
-        if (!dateString)
+        if (!dateString) {
             return "TBC";
+        }
 
+        const date = new Date(dateString);
 
-        const date =
-            new Date(
-                dateString
-            );
-
-
-        if (
-            Number.isNaN(
-                date.getTime()
-            )
-        )
+        if (Number.isNaN(date.getTime())) {
             return "TBC";
+        }
 
-
-        return date.toLocaleTimeString(
-            "en-GB",
-            {
-                hour: "2-digit",
-                minute: "2-digit"
-            }
-        );
+        return date.toLocaleTimeString("en-GB", {
+            hour: "2-digit",
+            minute: "2-digit"
+        });
 
     }
 
 
     /* =====================================================
-       LOAD FIXTURES
+       LOAD FIXTURES.JSON
     ===================================================== */
 
     async function loadFixtures() {
 
         try {
 
-
             fixturesGrid.innerHTML = `
-
                 <div class="fixture-loading">
-
                     Loading Premier League fixtures...
-
                 </div>
-
             `;
 
 
             /*
-             * Učitaj aktuelne klubove iz FPL API-ja.
+             * Fixtures se učitavaju sa GitHub Pages-a,
+             * a NE direktno sa FPL API-ja.
              */
 
-            const bootstrapResponse =
-                await fetch(
-                    "https://fantasy.premierleague.com/api/bootstrap-static/?t=" +
-                    Date.now()
-                );
+            const response = await fetch(
+                "fixtures.json?t=" + Date.now(),
+                {
+                    cache: "no-store"
+                }
+            );
 
 
-            if (
-                !bootstrapResponse.ok
-            ) {
+            if (!response.ok) {
 
                 throw new Error(
-                    "Bootstrap API error: " +
-                    bootstrapResponse.status
+                    "fixtures.json HTTP error: " +
+                    response.status
                 );
 
             }
 
 
-            const bootstrap =
-                await bootstrapResponse.json();
+            const data = await response.json();
 
 
             /*
-             * ID -> ime kluba
+             * Podržavamo format:
+             *
+             * {
+             *   "teams": [...],
+             *   "fixtures": [...]
+             * }
+             */
+
+
+            if (Array.isArray(data)) {
+
+                fixtures = data;
+
+            } else {
+
+                fixtures =
+                    Array.isArray(data.fixtures)
+                    ? data.fixtures
+                    : [];
+
+            }
+
+
+            /*
+             * Učitaj klubove.
              */
 
             fixtureTeams = {};
 
 
-            (
-                bootstrap.teams ||
-                []
-            ).forEach(
-                team => {
+            if (
+                !Array.isArray(data) &&
+                Array.isArray(data.teams)
+            ) {
 
-                    fixtureTeams[
-                        team.id
-                    ] =
-                        team.name;
+                data.teams.forEach(team => {
 
-                }
-            );
+                    if (
+                        team.id !== undefined &&
+                        team.name
+                    ) {
+
+                        fixtureTeams[
+                            team.id
+                        ] = team.name;
+
+                    }
+
+                });
+
+            }
 
 
             /*
-             * Dropdown klubova.
+             * Ako fixtures.json koristi team_h_name
+             * i team_a_name, napravimo podršku i za to.
+             */
+
+            fixtures.forEach(fixture => {
+
+                if (
+                    fixture.team_h !== undefined &&
+                    fixture.team_h_name
+                ) {
+
+                    fixtureTeams[
+                        fixture.team_h
+                    ] =
+                        fixture.team_h_name;
+
+                }
+
+
+                if (
+                    fixture.team_a !== undefined &&
+                    fixture.team_a_name
+                ) {
+
+                    fixtureTeams[
+                        fixture.team_a
+                    ] =
+                        fixture.team_a_name;
+
+                }
+
+            });
+
+
+            /*
+             * Ako nema naziva klubova u teams objektu,
+             * pokušajmo ih pronaći direktno u fixture objektima.
+             */
+
+            fixtures.forEach(fixture => {
+
+                if (
+                    fixture.team_h_name &&
+                    fixture.team_h !== undefined
+                ) {
+
+                    fixtureTeams[
+                        fixture.team_h
+                    ] =
+                        fixture.team_h_name;
+
+                }
+
+
+                if (
+                    fixture.team_a_name &&
+                    fixture.team_a !== undefined
+                ) {
+
+                    fixtureTeams[
+                        fixture.team_a
+                    ] =
+                        fixture.team_a_name;
+
+                }
+
+            });
+
+
+            /*
+             * Napravi dropdown klubova.
              */
 
             fixtureTeam.innerHTML = `
-
                 <option value="ALL">
                     All Teams
                 </option>
-
             `;
 
 
@@ -3247,14 +1165,9 @@ document
                             "option"
                         );
 
+                    option.value = id;
 
-                    option.value =
-                        id;
-
-
-                    option.textContent =
-                        name;
-
+                    option.textContent = name;
 
                     fixtureTeam.appendChild(
                         option
@@ -3265,58 +1178,36 @@ document
 
 
             /*
-             * Učitaj utakmice.
-             */
-
-            const fixturesResponse =
-                await fetch(
-                    "https://fantasy.premierleague.com/api/fixtures/?t=" +
-                    Date.now()
-                );
-
-
-            if (
-                !fixturesResponse.ok
-            ) {
-
-                throw new Error(
-                    "Fixtures API error: " +
-                    fixturesResponse.status
-                );
-
-            }
-
-
-            fixtures =
-                await fixturesResponse.json();
-
-
-            /*
-             * Samo utakmice koje imaju GW.
-             */
-
-            fixtures =
-                fixtures.filter(
-                    fixture =>
-                        fixture.event !== null
-                );
-
-
-            /*
-             * Sortiranje.
+             * Sortiraj utakmice po Gameweeku
+             * i datumu.
              */
 
             fixtures.sort(
                 (a, b) => {
 
+                    const eventA =
+                        Number(
+                            a.event ??
+                            a.gameweek ??
+                            999
+                        );
+
+                    const eventB =
+                        Number(
+                            b.event ??
+                            b.gameweek ??
+                            999
+                        );
+
+
                     if (
-                        a.event !==
-                        b.event
+                        eventA !==
+                        eventB
                     ) {
 
                         return (
-                            a.event -
-                            b.event
+                            eventA -
+                            eventB
                         );
 
                     }
@@ -3325,21 +1216,19 @@ document
                     const dateA =
                         new Date(
                             a.kickoff_time ||
+                            a.date ||
                             "9999-12-31"
                         );
-
 
                     const dateB =
                         new Date(
                             b.kickoff_time ||
+                            b.date ||
                             "9999-12-31"
                         );
 
 
-                    return (
-                        dateA -
-                        dateB
-                    );
+                    return dateA - dateB;
 
                 }
             );
@@ -3352,12 +1241,10 @@ document
             renderFixtures();
 
 
-        }
-
-        catch(error) {
+        } catch (error) {
 
             console.error(
-                "FPL Fixtures Error:",
+                "Fixtures error:",
                 error
             );
 
@@ -3367,17 +1254,17 @@ document
 
 
             fixturesGrid.innerHTML = `
-
                 <div class="fixture-error">
 
                     Could not load Premier League fixtures.
 
                     <br><br>
 
-                    Check browser Console.
+                    Make sure
+                    <strong>fixtures.json</strong>
+                    exists in the root of your GitHub Pages repository.
 
                 </div>
-
             `;
 
         }
@@ -3390,7 +1277,6 @@ document
     ===================================================== */
 
     function renderFixtures() {
-
 
         const selectedTeam =
             fixtureTeam.value;
@@ -3439,13 +1325,9 @@ document
         ) {
 
             fixturesGrid.innerHTML = `
-
                 <div class="fixture-empty">
-
                     No fixtures found.
-
                 </div>
-
             `;
 
             return;
@@ -3460,7 +1342,9 @@ document
             fixture => {
 
                 const gw =
-                    fixture.event;
+                    fixture.event ??
+                    fixture.gameweek ??
+                    "TBC";
 
 
                 if (
@@ -3483,155 +1367,162 @@ document
         fixturesGrid.innerHTML = "";
 
 
-        Object.keys(
-            gameweeks
-        )
-        .sort(
-            (a, b) =>
-                Number(a) -
-                Number(b)
-        )
-        .forEach(
-            gw => {
+        Object.keys(gameweeks)
+            .sort(
+                (a, b) =>
+                    Number(a) -
+                    Number(b)
+            )
+            .forEach(
+                gw => {
+
+                    const games =
+                        gameweeks[gw];
 
 
-                const games =
-                    gameweeks[gw];
+                    const gameweek =
+                        document.createElement(
+                            "div"
+                        );
 
 
-                const gameweek =
-                    document.createElement(
-                        "div"
+                    gameweek.className =
+                        "fixture-gameweek";
+
+
+                    gameweek.innerHTML = `
+                        <div
+                            class="fixture-gameweek-header">
+
+                            <div
+                                class="fixture-gameweek-title">
+
+                                Gameweek ${gw}
+
+                            </div>
+
+                            <div
+                                class="fixture-gameweek-count">
+
+                                ${games.length}
+                                ${
+                                    games.length === 1
+                                    ? "match"
+                                    : "matches"
+                                }
+
+                            </div>
+
+                        </div>
+                    `;
+
+
+                    games.forEach(
+                        fixture => {
+
+                            /*
+                             * Nazivi klubova mogu doći
+                             * iz teams objekta ili direktno
+                             * iz fixture objekta.
+                             */
+
+                            const home =
+                                fixture.team_h_name ||
+                                fixtureTeams[
+                                    fixture.team_h
+                                ] ||
+                                "Unknown";
+
+
+                            const away =
+                                fixture.team_a_name ||
+                                fixtureTeams[
+                                    fixture.team_a
+                                ] ||
+                                "Unknown";
+
+
+                            const kickoff =
+                                fixture.kickoff_time ||
+                                fixture.date ||
+                                null;
+
+
+                            const row =
+                                document.createElement(
+                                    "div"
+                                );
+
+
+                            row.className =
+                                "fixture-row";
+
+
+                            row.innerHTML = `
+
+                                <div
+                                    class="fixture-date">
+
+                                    ${
+                                        formatFixtureDate(
+                                            kickoff
+                                        )
+                                    }
+
+                                </div>
+
+
+                                <div
+                                    class="fixture-home">
+
+                                    ${home}
+
+                                </div>
+
+
+                                <div
+                                    class="fixture-time">
+
+                                    ${
+                                        formatFixtureTime(
+                                            kickoff
+                                        )
+                                    }
+
+                                </div>
+
+
+                                <div
+                                    class="fixture-away">
+
+                                    ${away}
+
+                                </div>
+
+                            `;
+
+
+                            gameweek.appendChild(
+                                row
+                            );
+
+                        }
                     );
 
 
-                gameweek.className =
-                    "fixture-gameweek";
+                    fixturesGrid.appendChild(
+                        gameweek
+                    );
 
-
-                gameweek.innerHTML = `
-
-                    <div
-                        class="fixture-gameweek-header">
-
-                        <div
-                            class="fixture-gameweek-title">
-
-                            Gameweek ${gw}
-
-                        </div>
-
-
-                        <div
-                            class="fixture-gameweek-count">
-
-                            ${games.length}
-                            ${
-                                games.length === 1
-                                ? "match"
-                                : "matches"
-                            }
-
-                        </div>
-
-                    </div>
-
-                `;
-
-
-                games.forEach(
-                    fixture => {
-
-
-                        const home =
-                            fixtureTeams[
-                                fixture.team_h
-                            ] ||
-                            "Unknown";
-
-
-                        const away =
-                            fixtureTeams[
-                                fixture.team_a
-                            ] ||
-                            "Unknown";
-
-
-                        const row =
-                            document.createElement(
-                                "div"
-                            );
-
-
-                        row.className =
-                            "fixture-row";
-
-
-                        row.innerHTML = `
-
-                            <div
-                                class="fixture-date">
-
-                                ${
-                                    formatFixtureDate(
-                                        fixture.kickoff_time
-                                    )
-                                }
-
-                            </div>
-
-
-                            <div
-                                class="fixture-home">
-
-                                ${home}
-
-                            </div>
-
-
-                            <div
-                                class="fixture-time">
-
-                                ${
-                                    fixture.kickoff_time
-                                    ?
-                                    formatFixtureTime(
-                                        fixture.kickoff_time
-                                    )
-                                    :
-                                    "TBC"
-                                }
-
-                            </div>
-
-
-                            <div
-                                class="fixture-away">
-
-                                ${away}
-
-                            </div>
-
-                        `;
-
-
-                        gameweek.appendChild(
-                            row
-                        );
-
-                    }
-                );
-
-
-                fixturesGrid.appendChild(
-                    gameweek
-                );
-
-            }
-        );
+                }
+            );
 
     }
 
+
+    /* =====================================================
+       FILTER
+    ===================================================== */
 
     fixtureTeam.addEventListener(
         "change",
@@ -3639,21 +1530,10 @@ document
     );
 
 
+    /* =====================================================
+       START
+    ===================================================== */
+
     loadFixtures();
 
 })();
-
-
-/* =========================================================
-   START PLAYER DATA
-========================================================= */
-
-loadAll();
-
-</script>
-
-
-</body>
-
-</html>
-```
