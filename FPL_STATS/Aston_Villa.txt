@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-08-24 10:21:56
+Updated: 2026-08-24 11:48:33
 Players: 31
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -13,7 +13,7 @@ Ian Maatsen                 DEF   £4.5m    0      0       -9      9       0.03 
 Kosta Nedeljkovic           DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Lucas Digne                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Matteo Ruggeri              DEF   £4.5m    1      0       3       2       0        0        0        0     0     8       0.1%     1       1       
-Matty Cash                  DEF   £4.5m    -1     0       -8      7       0        0        0        0     0     90      8.7%     -1      -1      
+Matty Cash                  DEF   £4.5m    -1     0       -8      7       0        0        0        0     0     90      8.6%     -1      -1      
 Pau Torres                  DEF   £4.5m    0      0       -14     5       0        0        0        0     0     73      0.5%     0       0       
 Triston Rowe                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tyrone Mings                DEF   £4.5m    1      0       5       1       0        0        0        0     0     16      0.4%     1       1       

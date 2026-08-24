@@ -1,6 +1,6 @@
 NOTT'M FOREST
 =================================================================================================================================================
-Updated: 2026-08-24 10:21:56
+Updated: 2026-08-24 11:48:33
 Players: 28
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -12,7 +12,7 @@ Felipe Rodrigues da Silva   DEF   £5.0m    0      0       0       0       0    
 Jair Paula da Cunha Filho   DEF   £4.5m    1      0       5       8       0        0        0        0     0     90      0.2%     1       1       
 Luca Netz                   DEF   £4.5m    1      0       -2      0       0        0        0        0     0     16      0.0%     1       1       
 Murillo Costa dos Santos    DEF   £5.5m    4      0       15      14      0        0.28     0.28     0     0     90      1.7%     4       4       
-Neco Williams               DEF   £5.0m    2      0       13      6       0        0.02     0.02     0     0     90      9.9%     2       2       
+Neco Williams               DEF   £5.0m    2      0       13      6       0        0.02     0.02     0     0     90      9.8%     2       2       
 Nicolò Savona               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nikola Milenković           DEF   £5.5m    2      0       4       7       0.11     0.02     0.13     0     0     90      2.0%     2       2       
 Ola Aina                    DEF   £4.5m    5      0       24      2       0.04     0.17     0.21     0     0     73      3.6%     5       5       

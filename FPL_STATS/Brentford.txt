@@ -1,6 +1,6 @@
 BRENTFORD
 =================================================================================================================================================
-Updated: 2026-08-24 10:21:56
+Updated: 2026-08-24 11:48:33
 Players: 26
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -11,8 +11,8 @@ Aaron Hickey                DEF   £4.5m    1      0       2       0       0    
 Ethan Pinnock               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Jannik Schuster             DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Kim Ji-soo                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Kristoffer Ajer             DEF   £4.5m    8      0       29      10      0.11     0.02     0.13     0     0     90      3.6%     8       8       
-Michael Kayode              DEF   £4.5m    13     1       36      4       0.50     0        0.50     1     0     75      4.4%     13      13      
+Kristoffer Ajer             DEF   £4.5m    8      0       29      10      0.11     0.02     0.13     0     0     90      3.7%     8       8       
+Michael Kayode              DEF   £4.5m    13     1       36      4       0.50     0        0.50     1     0     75      4.5%     13      13      
 Nathan Collins              DEF   £5.5m    6      0       21      3       0.34     0.04     0.38     0     0     90      1.9%     6       6       
 Rico Henry                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Sepp van den Berg           DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
