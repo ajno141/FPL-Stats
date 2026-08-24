@@ -1,14 +1,21 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
 
 <title>FPL Player Lab</title>
+
 
 <style>
 
 :root {
+
     --bg: #f4f5f7;
     --card: #ffffff;
     --dark: #111827;
@@ -19,32 +26,30 @@
     --text: #17202d;
     --muted: #8993a3;
     --border: #e4e8ee;
+
 }
 
-body.dark {
-    --bg: #0b1220;
-    --card: #111827;
-    --dark: #080d16;
-    --dark2: #1b2636;
-    --green: #00d084;
-    --green-light: #12382c;
-    --purple: #8b75ff;
-    --text: #f3f4f6;
-    --muted: #9ca7b8;
-    --border: #273244;
-}
 
 * {
     box-sizing: border-box;
 }
 
+
 body {
+
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
     background: var(--bg);
+
     color: var(--text);
-    transition: background .2s, color .2s;
+
 }
+
 
 .app {
     min-height: 100vh;
@@ -56,54 +61,91 @@ body {
 ========================================================= */
 
 .sidebar {
+
     position: fixed;
+
     top: 0;
     left: 0;
     bottom: 0;
+
     width: 230px;
+
     background: var(--dark);
+
     color: white;
+
     padding: 25px 14px;
+
     z-index: 20;
+
 }
+
 
 .logo {
     padding: 0 12px 30px;
 }
 
+
 .logo-title {
+
     font-size: 24px;
+
     font-weight: 900;
+
 }
+
 
 .logo-title span {
     color: #00d084;
 }
 
+
 .logo-sub {
+
     margin-top: 5px;
+
     font-size: 11px;
+
     color: #768294;
+
 }
+
 
 .nav-title {
+
     color: #657184;
+
     font-size: 10px;
+
     text-transform: uppercase;
-    margin: 18px 12px 8px;
+
+    margin:
+        18px 12px 8px;
+
 }
+
 
 .nav-item {
+
     padding: 11px 12px;
+
     border-radius: 8px;
+
     color: #aeb7c5;
+
     font-size: 13px;
+
     margin-bottom: 3px;
+
 }
 
+
 .nav-item.active {
+
     background: var(--dark2);
+
     color: white;
+
 }
 
 
@@ -112,69 +154,85 @@ body {
 ========================================================= */
 
 .main {
+
     margin-left: 230px;
+
     min-height: 100vh;
+
 }
 
+
 .topbar {
+
     height: 70px;
-    background: var(--card);
-    border-bottom: 1px solid var(--border);
+
+    background: white;
+
+    border-bottom:
+        1px solid var(--border);
 
     display: flex;
+
     align-items: center;
+
     justify-content: space-between;
 
     padding: 0 28px;
 
     position: sticky;
+
     top: 0;
+
     z-index: 10;
+
 }
+
 
 .page-title {
+
     font-size: 20px;
+
     font-weight: 900;
+
 }
+
 
 .page-subtitle {
+
     margin-top: 4px;
+
     font-size: 12px;
+
     color: var(--muted);
+
 }
 
-.topbar-right {
-    display: flex;
-    align-items: center;
-    gap: 18px;
-}
 
 .live {
+
     display: flex;
+
     align-items: center;
+
     gap: 7px;
+
     color: var(--muted);
+
     font-size: 12px;
+
 }
+
 
 .live-dot {
+
     width: 8px;
+
     height: 8px;
+
     border-radius: 50%;
+
     background: var(--green);
-}
 
-.dark-btn {
-    border: 1px solid var(--border);
-    background: var(--card);
-    color: var(--text);
-
-    padding: 8px 12px;
-    border-radius: 7px;
-
-    cursor: pointer;
-    font-size: 12px;
-    font-weight: 800;
 }
 
 
@@ -183,9 +241,13 @@ body {
 ========================================================= */
 
 .content {
+
     max-width: 1700px;
+
     margin: auto;
+
     padding: 25px;
+
 }
 
 
@@ -194,29 +256,52 @@ body {
 ========================================================= */
 
 .summary {
+
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+
+    grid-template-columns:
+        repeat(4, 1fr);
+
     gap: 14px;
+
     margin-bottom: 18px;
+
 }
+
 
 .summary-card {
-    background: var(--card);
-    border: 1px solid var(--border);
+
+    background: white;
+
+    border:
+        1px solid var(--border);
+
     border-radius: 12px;
+
     padding: 17px;
+
 }
+
 
 .summary-label {
+
     color: var(--muted);
+
     font-size: 10px;
+
     font-weight: 800;
+
 }
 
+
 .summary-number {
+
     margin-top: 8px;
+
     font-size: 25px;
+
     font-weight: 900;
+
 }
 
 
@@ -225,65 +310,102 @@ body {
 ========================================================= */
 
 .filters-card {
-    background: var(--card);
-    border: 1px solid var(--border);
+
+    background: white;
+
+    border:
+        1px solid var(--border);
+
     border-radius: 12px;
+
     padding: 16px;
+
     margin-bottom: 18px;
+
 }
 
+
 .filters {
+
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr;
+
+    grid-template-columns:
+        2fr 1fr 1fr;
+
     gap: 9px;
+
 }
+
 
 input,
 select {
+
     height: 42px;
+
     width: 100%;
 
-    border: 1px solid var(--border);
+    border:
+        1px solid var(--border);
+
     border-radius: 7px;
 
     padding: 0 12px;
 
-    background: var(--bg);
-    color: var(--text);
+    background: #fafbfc;
 
     outline: none;
+
 }
+
 
 input:focus,
 select:focus {
-    border-color: var(--green);
+
+    border-color:
+        var(--green);
+
 }
+
 
 .positions {
+
     display: flex;
+
     gap: 7px;
+
     margin-top: 11px;
+
 }
 
+
 .position-btn {
-    border: 1px solid var(--border);
-    background: var(--card);
-    color: var(--text);
+
+    border:
+        1px solid var(--border);
+
+    background: white;
 
     padding: 8px 15px;
 
     border-radius: 7px;
 
     font-size: 11px;
+
     font-weight: 800;
 
     cursor: pointer;
+
 }
 
+
 .position-btn.active {
+
     background: var(--green);
+
     border-color: var(--green);
+
     color: white;
+
 }
 
 
@@ -292,19 +414,31 @@ select:focus {
 ========================================================= */
 
 .players-header {
+
     display: flex;
+
     justify-content: space-between;
+
     margin-bottom: 12px;
+
 }
+
 
 .players-title {
+
     font-size: 16px;
+
     font-weight: 900;
+
 }
 
+
 .players-count {
+
     font-size: 12px;
+
     color: var(--muted);
+
 }
 
 
@@ -313,6 +447,7 @@ select:focus {
 ========================================================= */
 
 .player-grid {
+
     display: grid;
 
     grid-template-columns:
@@ -322,6 +457,7 @@ select:focus {
         );
 
     gap: 14px;
+
 }
 
 
@@ -330,9 +466,11 @@ select:focus {
 ========================================================= */
 
 .player-card {
-    background: var(--card);
 
-    border: 1px solid var(--border);
+    background: white;
+
+    border:
+        1px solid var(--border);
 
     border-radius: 13px;
 
@@ -341,17 +479,24 @@ select:focus {
     cursor: pointer;
 
     transition: .15s;
+
 }
 
+
 .player-card:hover {
-    transform: translateY(-3px);
+
+    transform:
+        translateY(-3px);
 
     box-shadow:
         0 10px 25px
-        rgba(0,0,0,.12);
+        rgba(0,0,0,.08);
+
 }
 
+
 .card-top {
+
     height: 108px;
 
     background:
@@ -362,9 +507,12 @@ select:focus {
         );
 
     position: relative;
+
 }
 
+
 .position-tag {
+
     position: absolute;
 
     left: 10px;
@@ -382,9 +530,12 @@ select:focus {
     font-size: 9px;
 
     font-weight: 900;
+
 }
 
+
 .price-tag {
+
     position: absolute;
 
     right: 10px;
@@ -395,9 +546,12 @@ select:focus {
     font-size: 12px;
 
     font-weight: 900;
+
 }
 
+
 .club-crest {
+
     position: absolute;
 
     width: 62px;
@@ -410,13 +564,19 @@ select:focus {
 
     transform:
         translate(-50%, -50%);
+
 }
+
 
 .card-body {
+
     padding: 13px;
+
 }
 
+
 .player-name {
+
     font-size: 15px;
 
     font-weight: 900;
@@ -426,49 +586,67 @@ select:focus {
     overflow: hidden;
 
     text-overflow: ellipsis;
+
 }
 
+
 .club-name {
+
     color: var(--muted);
 
     font-size: 11px;
 
     margin-top: 5px;
+
 }
 
+
 .main-stats {
+
     display: flex;
 
     justify-content: space-between;
 
     margin-top: 13px;
+
 }
 
+
 .big-number {
+
     font-size: 24px;
 
     font-weight: 900;
 
     color: var(--green);
+
 }
 
+
 .bps-number {
+
     font-size: 24px;
 
     font-weight: 900;
 
     color: var(--purple);
+
 }
 
+
 .stat-label {
+
     font-size: 9px;
 
     color: var(--muted);
 
     text-transform: uppercase;
+
 }
 
+
 .mini-grid {
+
     display: grid;
 
     grid-template-columns:
@@ -477,30 +655,40 @@ select:focus {
     gap: 5px;
 
     margin-top: 12px;
+
 }
 
+
 .mini-stat {
-    background: var(--bg);
+
+    background: #f6f7f9;
 
     border-radius: 6px;
 
     padding: 7px 3px;
 
     text-align: center;
+
 }
 
+
 .mini-value {
+
     font-size: 12px;
 
     font-weight: 900;
+
 }
 
+
 .mini-label {
+
     font-size: 8px;
 
     color: var(--muted);
 
     margin-top: 3px;
+
 }
 
 
@@ -509,6 +697,7 @@ select:focus {
 ========================================================= */
 
 .overlay {
+
     display: none;
 
     position: fixed;
@@ -525,13 +714,19 @@ select:focus {
     align-items: center;
 
     justify-content: center;
+
 }
+
 
 .overlay.show {
+
     display: flex;
+
 }
 
+
 .modal {
+
     width: 100%;
 
     max-width: 850px;
@@ -540,12 +735,15 @@ select:focus {
 
     overflow-y: auto;
 
-    background: var(--card);
+    background: white;
 
     border-radius: 16px;
+
 }
 
+
 .modal-top {
+
     height: 210px;
 
     background:
@@ -556,9 +754,12 @@ select:focus {
         );
 
     position: relative;
+
 }
 
+
 .close {
+
     position: absolute;
 
     right: 15px;
@@ -579,9 +780,12 @@ select:focus {
     font-size: 20px;
 
     cursor: pointer;
+
 }
 
+
 .modal-crest {
+
     position: absolute;
 
     width: 100px;
@@ -594,9 +798,12 @@ select:focus {
 
     transform:
         translate(-50%, -50%);
+
 }
 
+
 .modal-name {
+
     position: absolute;
 
     bottom: 18px;
@@ -607,66 +814,283 @@ select:focus {
     font-size: 25px;
 
     font-weight: 900;
+
 }
+
 
 .modal-body {
+
     padding: 22px;
+
 }
 
+
 .detail-grid {
+
     display: grid;
 
     grid-template-columns:
         repeat(4, 1fr);
 
     gap: 9px;
+
 }
 
+
 .detail {
-    background: var(--bg);
+
+    background: #f7f8fa;
 
     border-radius: 8px;
 
     padding: 12px;
+
 }
 
+
 .detail-label {
+
     color: var(--muted);
 
     font-size: 9px;
 
     text-transform: uppercase;
+
 }
 
+
 .detail-value {
+
     margin-top: 7px;
 
     font-size: 19px;
 
     font-weight: 900;
+
 }
 
+
 .detail-table {
+
     width: 100%;
 
     margin-top: 20px;
 
     border-collapse: collapse;
+
 }
 
+
 .detail-table td {
+
     padding: 10px;
 
     border-bottom:
         1px solid var(--border);
 
     font-size: 12px;
+
 }
 
+
 .detail-table td:last-child {
+
     text-align: right;
 
     font-weight: 900;
+
+}
+
+
+/* =========================================================
+   FIXTURES
+========================================================= */
+
+.fixtures-section {
+
+    margin-top: 35px;
+
+}
+
+
+.fixtures-controls {
+
+    background: white;
+
+    border:
+        1px solid var(--border);
+
+    border-radius: 12px;
+
+    padding: 16px;
+
+    margin-bottom: 15px;
+
+}
+
+
+.fixtures-controls select {
+
+    max-width: 400px;
+
+}
+
+
+.fixtures-grid {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 14px;
+
+}
+
+
+.fixture-gameweek {
+
+    background: white;
+
+    border:
+        1px solid var(--border);
+
+    border-radius: 12px;
+
+    overflow: hidden;
+
+}
+
+
+.fixture-gameweek-header {
+
+    background: var(--dark);
+
+    color: white;
+
+    padding: 13px 16px;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+}
+
+
+.fixture-gameweek-title {
+
+    font-size: 14px;
+
+    font-weight: 900;
+
+}
+
+
+.fixture-gameweek-count {
+
+    font-size: 11px;
+
+    color: #aeb7c5;
+
+}
+
+
+.fixture-row {
+
+    display: grid;
+
+    grid-template-columns:
+        100px
+        minmax(120px, 1fr)
+        80px
+        minmax(120px, 1fr);
+
+    align-items: center;
+
+    gap: 10px;
+
+    padding: 13px 16px;
+
+    border-bottom:
+        1px solid var(--border);
+
+}
+
+
+.fixture-row:last-child {
+
+    border-bottom: 0;
+
+}
+
+
+.fixture-date {
+
+    font-size: 11px;
+
+    color: var(--muted);
+
+}
+
+
+.fixture-home {
+
+    text-align: right;
+
+    font-size: 13px;
+
+    font-weight: 800;
+
+}
+
+
+.fixture-away {
+
+    font-size: 13px;
+
+    font-weight: 800;
+
+}
+
+
+.fixture-time {
+
+    text-align: center;
+
+    font-size: 11px;
+
+    font-weight: 900;
+
+    color: var(--green);
+
+}
+
+
+.fixture-loading,
+.fixture-error,
+.fixture-empty {
+
+    background: white;
+
+    border:
+        1px solid var(--border);
+
+    border-radius: 12px;
+
+    padding: 50px 20px;
+
+    text-align: center;
+
+    color: var(--muted);
+
+}
+
+
+.fixture-error {
+
+    color: #c0392b;
+
 }
 
 
@@ -674,196 +1098,247 @@ select:focus {
    MOBILE
 ========================================================= */
 
-@media(max-width: 850px) {
+@media(max-width:850px) {
 
     .sidebar {
+
         width: 62px;
-        padding: 20px 6px;
+
+        padding:
+            20px 6px;
+
     }
+
 
     .logo-title {
+
         font-size: 0;
+
     }
 
+
     .logo-title span {
+
         font-size: 19px;
+
     }
+
 
     .logo-sub,
     .nav-title {
+
         display: none;
+
     }
+
 
     .nav-item {
+
         text-align: center;
+
         font-size: 0;
+
     }
+
 
     .main {
+
         margin-left: 62px;
+
     }
 
+
     .summary {
+
         grid-template-columns:
             repeat(2,1fr);
+
     }
+
 
     .filters {
+
         grid-template-columns:
             1fr;
+
     }
+
 }
 
-@media(max-width: 550px) {
+
+@media(max-width:550px) {
 
     .content {
+
         padding: 12px;
+
     }
+
 
     .summary {
+
         gap: 8px;
+
     }
+
 
     .player-grid {
+
         grid-template-columns:
             1fr;
+
     }
+
 
     .detail-grid {
+
         grid-template-columns:
             repeat(2,1fr);
+
     }
+
 
     .topbar {
+
         padding: 0 13px;
+
     }
 
-    .live {
-        display: none;
+
+    .fixture-row {
+
+        grid-template-columns:
+            65px
+            minmax(80px, 1fr)
+            55px
+            minmax(80px, 1fr);
+
+        padding: 11px 8px;
+
+        gap: 5px;
+
     }
 
-}
+
+    .fixture-home,
+    .fixture-away {
+
+        font-size: 11px;
+
+    }
 
 
-/* =========================================================
-   LOADING
-========================================================= */
+    .fixture-date {
 
-.loading {
-    grid-column: 1 / -1;
-    padding: 60px;
-    text-align: center;
-    color: var(--muted);
-}
+        font-size: 9px;
 
-.error-box {
-    grid-column: 1 / -1;
-    padding: 30px;
-    text-align: center;
-    color: #e05252;
+    }
+
+
+    .fixture-time {
+
+        font-size: 10px;
+
+    }
+
 }
 
 </style>
+
 </head>
 
 
 <body>
 
+
 <div class="app">
 
 
-<!-- =======================================================
+<!-- =========================================================
      SIDEBAR
-======================================================= -->
+========================================================= -->
 
 <aside class="sidebar">
 
-<div class="logo">
+    <div class="logo">
 
-<div class="logo-title">
-FPL <span>LAB</span>
-</div>
+        <div class="logo-title">
+            FPL <span>LAB</span>
+        </div>
 
-<div class="logo-sub">
-Fantasy Premier League
-</div>
+        <div class="logo-sub">
+            Fantasy Premier League
+        </div>
 
-</div>
-
-
-<div class="nav-title">
-Main
-</div>
-
-<div class="nav-item active">
-▦ &nbsp; Player Lab
-</div>
+    </div>
 
 
-<div class="nav-title">
-Positions
-</div>
+    <div class="nav-title">
+        Main
+    </div>
 
-<div class="nav-item">
-🧤 &nbsp; Goalkeepers
-</div>
 
-<div class="nav-item">
-🛡 &nbsp; Defenders
-</div>
+    <div class="nav-item active">
+        ▦ &nbsp; Player Lab
+    </div>
 
-<div class="nav-item">
-◆ &nbsp; Midfielders
-</div>
 
-<div class="nav-item">
-⚡ &nbsp; Attackers
-</div>
+    <div class="nav-title">
+        Positions
+    </div>
+
+
+    <div class="nav-item">
+        🧤 &nbsp; Goalkeepers
+    </div>
+
+
+    <div class="nav-item">
+        🛡 &nbsp; Defenders
+    </div>
+
+
+    <div class="nav-item">
+        ◆ &nbsp; Midfielders
+    </div>
+
+
+    <div class="nav-item">
+        ⚡ &nbsp; Attackers
+    </div>
 
 </aside>
 
 
-<!-- =======================================================
+<!-- =========================================================
      MAIN
-======================================================= -->
+========================================================= -->
 
 <main class="main">
 
 
 <header class="topbar">
 
-<div>
+    <div>
 
-<div class="page-title">
-FPL Player Lab
-</div>
+        <div class="page-title">
+            FPL Player Lab
+        </div>
 
-<div class="page-subtitle">
-Fantasy Premier League statistics
-</div>
+        <div class="page-subtitle">
+            Fantasy Premier League statistics
+        </div>
 
-</div>
-
-
-<div class="topbar-right">
-
-<div class="live">
-
-<span class="live-dot"></span>
-
-Live FPL Data
-
-</div>
+    </div>
 
 
-<button
-class="dark-btn"
-id="darkModeBtn"
->
-🌙 Dark Mode
-</button>
+    <div class="live">
 
-</div>
+        <span class="live-dot"></span>
+
+        Live FPL Data
+
+    </div>
 
 </header>
 
@@ -871,220 +1346,283 @@ id="darkModeBtn"
 <section class="content">
 
 
-<!-- =====================================================
+<!-- =========================================================
      SUMMARY
-===================================================== -->
+========================================================= -->
 
 <div class="summary">
 
 
-<div class="summary-card">
+    <div class="summary-card">
 
-<div class="summary-label">
-PLAYERS
+        <div class="summary-label">
+            PLAYERS
+        </div>
+
+        <div
+            class="summary-number"
+            id="totalPlayers">
+            -
+        </div>
+
+    </div>
+
+
+    <div class="summary-card">
+
+        <div class="summary-label">
+            GOALS
+        </div>
+
+        <div
+            class="summary-number"
+            id="totalGoals">
+            -
+        </div>
+
+    </div>
+
+
+    <div class="summary-card">
+
+        <div class="summary-label">
+            ASSISTS
+        </div>
+
+        <div
+            class="summary-number"
+            id="totalAssists">
+            -
+        </div>
+
+    </div>
+
+
+    <div class="summary-card">
+
+        <div class="summary-label">
+            FPL POINTS
+        </div>
+
+        <div
+            class="summary-number"
+            id="totalPoints">
+            -
+        </div>
+
+    </div>
+
 </div>
 
-<div
-class="summary-number"
-id="totalPlayers">
--
-</div>
 
-</div>
-
-
-<div class="summary-card">
-
-<div class="summary-label">
-GOALS
-</div>
-
-<div
-class="summary-number"
-id="totalGoals">
--
-</div>
-
-</div>
-
-
-<div class="summary-card">
-
-<div class="summary-label">
-ASSISTS
-</div>
-
-<div
-class="summary-number"
-id="totalAssists">
--
-</div>
-
-</div>
-
-
-<div class="summary-card">
-
-<div class="summary-label">
-FPL POINTS
-</div>
-
-<div
-class="summary-number"
-id="totalPoints">
--
-</div>
-
-</div>
-
-</div>
-
-
-<!-- =====================================================
-     FILTERS
-===================================================== -->
+<!-- =========================================================
+     PLAYER FILTERS
+========================================================= -->
 
 <div class="filters-card">
 
-<div class="filters">
 
-<input
-id="search"
-placeholder="Search player..."
->
-
-<select id="club">
-
-<option value="ALL">
-All clubs
-</option>
-
-</select>
+    <div class="filters">
 
 
-<select id="sort">
-
-<option value="pts">
-Points
-</option>
-
-<option value="bonus">
-Bonus
-</option>
-
-<option value="bps">
-BPS
-</option>
-
-<option value="dc">
-Defensive Contribution
-</option>
-
-<option value="xg">
-xG
-</option>
-
-<option value="xa">
-xA
-</option>
-
-<option value="xgi">
-xGI
-</option>
-
-<option value="goals">
-Goals
-</option>
-
-<option value="assists">
-Assists
-</option>
-
-<option value="minutes">
-Minutes
-</option>
-
-<option value="price">
-Price
-</option>
-
-</select>
-
-</div>
+        <input
+            id="search"
+            placeholder="Search player..."
+        >
 
 
-<div class="positions">
+        <select id="club">
 
-<button
-class="position-btn active"
-data-position="ALL"
->
-ALL
-</button>
+            <option value="ALL">
+                All clubs
+            </option>
 
-<button
-class="position-btn"
-data-position="GK"
->
-GKP
-</button>
+        </select>
 
-<button
-class="position-btn"
-data-position="DEF"
->
-DEF
-</button>
 
-<button
-class="position-btn"
-data-position="MID"
->
-MID
-</button>
+        <select id="sort">
 
-<button
-class="position-btn"
-data-position="FWD"
->
-FWD
-</button>
+            <option value="pts">
+                Points
+            </option>
 
-</div>
+            <option value="bonus">
+                Bonus
+            </option>
+
+            <option value="bps">
+                BPS
+            </option>
+
+            <option value="dc">
+                Defensive Contribution
+            </option>
+
+            <option value="xg">
+                xG
+            </option>
+
+            <option value="xa">
+                xA
+            </option>
+
+            <option value="xgi">
+                xGI
+            </option>
+
+            <option value="goals">
+                Goals
+            </option>
+
+            <option value="assists">
+                Assists
+            </option>
+
+        </select>
+
+
+    </div>
+
+
+    <div class="positions">
+
+
+        <button
+            class="position-btn active"
+            data-position="ALL">
+            ALL
+        </button>
+
+
+        <button
+            class="position-btn"
+            data-position="GK">
+            GKP
+        </button>
+
+
+        <button
+            class="position-btn"
+            data-position="DEF">
+            DEF
+        </button>
+
+
+        <button
+            class="position-btn"
+            data-position="MID">
+            MID
+        </button>
+
+
+        <button
+            class="position-btn"
+            data-position="FWD">
+            FWD
+        </button>
+
+
+    </div>
 
 </div>
 
 
-<!-- =====================================================
+<!-- =========================================================
      PLAYERS
-===================================================== -->
+========================================================= -->
 
 <div class="players-header">
 
-<div class="players-title">
-Players
+    <div class="players-title">
+        Players
+    </div>
+
+    <div
+        class="players-count"
+        id="count">
+        Loading...
+    </div>
+
 </div>
+
 
 <div
-class="players-count"
-id="count"
->
-Loading...
-</div>
+    class="player-grid"
+    id="playerGrid">
+
+    <div
+        style="
+        grid-column:1/-1;
+        padding:60px;
+        text-align:center;
+        color:#8993a3;
+        ">
+
+        Loading FPL players...
+
+    </div>
 
 </div>
 
 
-<div
-class="player-grid"
-id="playerGrid"
->
+<!-- =========================================================
+     FIXTURES
+========================================================= -->
 
-<div class="loading">
-Loading FPL players...
-</div>
+<section class="fixtures-section">
 
-</div>
+
+    <div class="players-header">
+
+        <div>
+
+            <div class="players-title">
+                Premier League Fixtures
+            </div>
+
+            <div class="page-subtitle">
+                2026/27 Season
+            </div>
+
+        </div>
+
+
+        <div
+            class="players-count"
+            id="fixtureCount">
+
+            Loading...
+
+        </div>
+
+    </div>
+
+
+    <div class="fixtures-controls">
+
+        <select id="fixtureTeam">
+
+            <option value="ALL">
+                All Teams
+            </option>
+
+        </select>
+
+    </div>
+
+
+    <div
+        id="fixturesGrid"
+        class="fixtures-grid">
+
+        <div class="fixture-loading">
+            Loading Premier League fixtures...
+        </div>
+
+    </div>
+
+
+</section>
 
 
 </section>
@@ -1094,240 +1632,240 @@ Loading FPL players...
 </div>
 
 
-<!-- =======================================================
-     MODAL
-======================================================= -->
+<!-- =========================================================
+     PLAYER MODAL
+========================================================= -->
 
 <div
-class="overlay"
-id="overlay"
->
+    class="overlay"
+    id="overlay">
 
-<div class="modal">
 
+    <div class="modal">
 
-<div class="modal-top">
 
-<button
-class="close"
-id="closeModal"
->
-×
-</button>
+        <div class="modal-top">
 
 
-<img
-id="modalCrest"
-class="modal-crest"
-src=""
-alt=""
->
+            <button
+                class="close"
+                id="closeModal">
+                ×
+            </button>
 
 
-<div
-class="modal-name"
-id="modalName"
->
--
-</div>
+            <img
+                id="modalCrest"
+                class="modal-crest"
+                src=""
+                alt=""
+            >
 
-</div>
 
+            <div
+                class="modal-name"
+                id="modalName">
+                -
+            </div>
 
-<div class="modal-body">
 
+        </div>
 
-<div class="detail-grid">
 
+        <div class="modal-body">
 
-<div class="detail">
 
-<div class="detail-label">
-FPL Points
-</div>
+            <div class="detail-grid">
 
-<div
-class="detail-value"
-id="dPts"
->
--
-</div>
 
-</div>
+                <div class="detail">
 
+                    <div class="detail-label">
+                        FPL Points
+                    </div>
 
-<div class="detail">
+                    <div
+                        class="detail-value"
+                        id="dPts">
+                        -
+                    </div>
 
-<div class="detail-label">
-Bonus
-</div>
+                </div>
 
-<div
-class="detail-value"
-id="dBonus"
->
--
-</div>
 
-</div>
+                <div class="detail">
 
+                    <div class="detail-label">
+                        Bonus
+                    </div>
 
-<div class="detail">
+                    <div
+                        class="detail-value"
+                        id="dBonus">
+                        -
+                    </div>
 
-<div class="detail-label">
-BPS
-</div>
+                </div>
 
-<div
-class="detail-value"
-id="dBps"
->
--
-</div>
 
-</div>
+                <div class="detail">
 
+                    <div class="detail-label">
+                        BPS
+                    </div>
 
-<div class="detail">
+                    <div
+                        class="detail-value"
+                        id="dBps">
+                        -
+                    </div>
 
-<div class="detail-label">
-Price
-</div>
+                </div>
 
-<div
-class="detail-value"
-id="dPrice"
->
--
-</div>
 
-</div>
+                <div class="detail">
 
+                    <div class="detail-label">
+                        Price
+                    </div>
 
-<div class="detail">
+                    <div
+                        class="detail-value"
+                        id="dPrice">
+                        -
+                    </div>
 
-<div class="detail-label">
-xG
-</div>
+                </div>
 
-<div
-class="detail-value"
-id="dXg"
->
--
-</div>
 
-</div>
+                <div class="detail">
 
+                    <div class="detail-label">
+                        xG
+                    </div>
 
-<div class="detail">
+                    <div
+                        class="detail-value"
+                        id="dXg">
+                        -
+                    </div>
 
-<div class="detail-label">
-xA
-</div>
+                </div>
 
-<div
-class="detail-value"
-id="dXa"
->
--
-</div>
 
-</div>
+                <div class="detail">
 
+                    <div class="detail-label">
+                        xA
+                    </div>
 
-<div class="detail">
+                    <div
+                        class="detail-value"
+                        id="dXa">
+                        -
+                    </div>
 
-<div class="detail-label">
-xGI
-</div>
+                </div>
 
-<div
-class="detail-value"
-id="dXgi"
->
--
-</div>
 
-</div>
+                <div class="detail">
 
+                    <div class="detail-label">
+                        xGI
+                    </div>
 
-<div class="detail">
+                    <div
+                        class="detail-value"
+                        id="dXgi">
+                        -
+                    </div>
 
-<div class="detail-label">
-Def. Contribution
-</div>
+                </div>
 
-<div
-class="detail-value"
-id="dDc"
->
--
-</div>
 
-</div>
+                <div class="detail">
 
-</div>
+                    <div class="detail-label">
+                        Def. Contribution
+                    </div>
 
+                    <div
+                        class="detail-value"
+                        id="dDc">
+                        -
+                    </div>
 
-<table class="detail-table">
+                </div>
 
-<tr>
-<td>Goals</td>
-<td id="dGoals">-</td>
-</tr>
 
-<tr>
-<td>Assists</td>
-<td id="dAssists">-</td>
-</tr>
+            </div>
 
-<tr>
-<td>Minutes</td>
-<td id="dMinutes">-</td>
-</tr>
 
-<tr>
-<td>Ownership</td>
-<td id="dOwnership">-</td>
-</tr>
+            <table class="detail-table">
 
-<tr>
-<td>Position</td>
-<td id="dPosition">-</td>
-</tr>
 
-<tr>
-<td>Club</td>
-<td id="dClub">-</td>
-</tr>
+                <tr>
+                    <td>Goals</td>
+                    <td id="dGoals">-</td>
+                </tr>
 
-</table>
 
+                <tr>
+                    <td>Assists</td>
+                    <td id="dAssists">-</td>
+                </tr>
 
-</div>
 
-</div>
+                <tr>
+                    <td>Minutes</td>
+                    <td id="dMinutes">-</td>
+                </tr>
+
+
+                <tr>
+                    <td>Ownership</td>
+                    <td id="dOwnership">-</td>
+                </tr>
+
+
+                <tr>
+                    <td>Position</td>
+                    <td id="dPosition">-</td>
+                </tr>
+
+
+                <tr>
+                    <td>Club</td>
+                    <td id="dClub">-</td>
+                </tr>
+
+
+            </table>
+
+
+        </div>
+
+    </div>
 
 </div>
 
 
 <script>
 
-
 /* =========================================================
    CLUBS
 ========================================================= */
 
 const clubs = [
+
     "Arsenal",
     "Aston_Villa",
     "Bournemouth",
     "Brentford",
     "Brighton",
     "Chelsea",
-    "Crystal_Palace",
     "Coventry_City",
+    "Crystal_Palace",
     "Everton",
     "Fulham",
     "Hull_City",
@@ -1340,6 +1878,7 @@ const clubs = [
     "Nottingham_Forest",
     "Sunderland",
     "Tottenham_Hotspur"
+
 ];
 
 
@@ -1353,273 +1892,237 @@ let selectedPosition = "ALL";
 ========================================================= */
 
 const clubSelect =
-document.getElementById("club");
+    document.getElementById("club");
 
 
-clubs.forEach(club => {
+clubs.forEach(
+    club => {
 
-    const option =
-    document.createElement("option");
+        const option =
+            document.createElement(
+                "option"
+            );
 
-    option.value = club;
+        option.value =
+            club;
 
-    option.textContent =
-    club.replaceAll("_", " ");
+        option.textContent =
+            club.replaceAll(
+                "_",
+                " "
+            );
 
-    clubSelect.appendChild(option);
+        clubSelect.appendChild(
+            option
+        );
 
-});
-
-
-/* =========================================================
-   SAFE NUMBER
-========================================================= */
-
-function safeNumber(value) {
-
-    const number =
-    Number(
-        String(value)
-        .replace(",", ".")
-        .replace("%", "")
-        .trim()
-    );
-
-    return Number.isFinite(number)
-        ? number
-        : 0;
-
-}
+    }
+);
 
 
 /* =========================================================
    PARSE PLAYER LINE
 ========================================================= */
 
-function parsePlayerLine(line, clubName) {
+function parsePlayerLine(
+    line,
+    clubName
+) {
 
     line =
-    line.replace(/\r/g, "")
-        .replace(/\t/g, " ")
-        .trimEnd();
+        line.replace(
+            /\r/g,
+            ""
+        );
 
-
-    /*
-       Important:
-
-       Position may be:
-
-       White              DEF
-
-       OR:
-
-       White              DEF
-
-       OR:
-
-       Gabriel...MagalhãesDEF
-
-       So we search for the position.
-    */
 
     const positionMatch =
-    line.match(
-        /(GK|DEF|MID|FWD)(?=\s|£|$)/
-    );
+        line.match(
+            /(GK|DEF|MID|FWD)/
+        );
 
 
-    if (!positionMatch) {
-
+    if (!positionMatch)
         return null;
-
-    }
 
 
     const position =
-    positionMatch[1];
+        positionMatch[1];
 
 
     const positionIndex =
-    positionMatch.index;
+        positionMatch.index;
 
 
     const playerName =
-    line
-    .substring(
-        0,
-        positionIndex
-    )
-    .trim();
+        line
+        .substring(
+            0,
+            positionIndex
+        )
+        .trim();
 
 
-    if (!playerName) {
-
+    if (!playerName)
         return null;
-
-    }
 
 
     let remaining =
-    line
-    .substring(
-        positionIndex +
-        position.length
-    )
-    .trim();
+        line
+        .substring(
+            positionIndex +
+            position.length
+        )
+        .trim();
 
-
-    /*
-       Some files can have multiple spaces.
-    */
 
     const parts =
-    remaining
-    .split(/\s+/)
-    .filter(Boolean);
-
-
-    /*
-       Expected:
-
-       PRICE
-       PTS
-       BONUS
-       BPS
-       DC
-       xG
-       xA
-       xGI
-       G
-       A
-       MIN
-       OWN
-       FORM
-       PPG
-    */
-
-    if (parts.length < 12) {
-
-        console.warn(
-            "Could not parse player:",
-            line
+        remaining.split(
+            /\s+/
         );
 
-        return null;
 
-    }
+    if (
+        parts.length < 14
+    )
+        return null;
 
 
     const price =
-    parts[0] || "£0.0m";
+        parts[0];
 
 
     const pts =
-    safeNumber(parts[1]);
+        Number(parts[1]);
 
 
     const bonus =
-    safeNumber(parts[2]);
+        Number(parts[2]);
 
 
     const bps =
-    safeNumber(parts[3]);
+        Number(parts[3]);
 
 
     const dc =
-    safeNumber(parts[4]);
+        Number(parts[4]);
 
 
     const xg =
-    safeNumber(parts[5]);
+        Number(parts[5]);
 
 
     const xa =
-    safeNumber(parts[6]);
+        Number(parts[6]);
 
 
     const xgi =
-    safeNumber(parts[7]);
+        Number(parts[7]);
 
 
     const goals =
-    safeNumber(parts[8]);
+        Number(parts[8]);
 
 
     const assists =
-    safeNumber(parts[9]);
+        Number(parts[9]);
 
 
     const minutes =
-    safeNumber(parts[10]);
+        Number(parts[10]);
 
 
     const ownership =
-    parts[11] || "0.0%";
+        parts[11];
 
 
     const form =
-    safeNumber(parts[12]);
+        Number(parts[12]);
 
 
     const ppg =
-    safeNumber(parts[13]);
+        Number(parts[13]);
 
 
     return {
 
         player:
-        playerName,
+            playerName,
 
         pos:
-        position,
+            position,
 
         price:
-        price,
+            price,
 
         pts:
-        pts,
+            Number.isFinite(pts)
+            ? pts
+            : 0,
 
         bonus:
-        bonus,
+            Number.isFinite(bonus)
+            ? bonus
+            : 0,
 
         bps:
-        bps,
+            Number.isFinite(bps)
+            ? bps
+            : 0,
 
         dc:
-        dc,
+            Number.isFinite(dc)
+            ? dc
+            : 0,
 
         xg:
-        xg,
+            Number.isFinite(xg)
+            ? xg
+            : 0,
 
         xa:
-        xa,
+            Number.isFinite(xa)
+            ? xa
+            : 0,
 
         xgi:
-        xgi,
+            Number.isFinite(xgi)
+            ? xgi
+            : 0,
 
         goals:
-        goals,
+            Number.isFinite(goals)
+            ? goals
+            : 0,
 
         assists:
-        assists,
+            Number.isFinite(assists)
+            ? assists
+            : 0,
 
         minutes:
-        minutes,
+            Number.isFinite(minutes)
+            ? minutes
+            : 0,
 
         ownership:
-        ownership,
+            ownership,
 
         form:
-        form,
+            Number.isFinite(form)
+            ? form
+            : 0,
 
         ppg:
-        ppg,
+            Number.isFinite(ppg)
+            ? ppg
+            : 0,
 
         club:
-        clubName.replaceAll(
-            "_",
-            " "
-        )
+            clubName.replaceAll(
+                "_",
+                " "
+            )
 
     };
 
@@ -1630,33 +2133,49 @@ function parsePlayerLine(line, clubName) {
    PARSE FILE
 ========================================================= */
 
-function parseFile(text, clubName) {
+function parseFile(
+    text,
+    clubName
+) {
 
     const result = [];
 
     const lines =
-    text.split(/\r?\n/);
+        text.split("\n");
 
 
-    for (const rawLine of lines) {
+    for (
+        const rawLine
+        of lines
+    ) {
 
         const line =
-        rawLine.trim();
-
-
-        if (!line) {
-            continue;
-        }
+            rawLine.trimEnd();
 
 
         if (
-            line.startsWith("PLAYER") ||
-            line.startsWith("-") ||
-            line.startsWith("=") ||
-            line.startsWith("Updated:") ||
-            line.startsWith("Players:") ||
-            line.startsWith("STATISTICS") ||
-            line.startsWith("PTS =")
+            !line ||
+            line.startsWith(
+                "PLAYER"
+            ) ||
+            line.startsWith(
+                "-"
+            ) ||
+            line.startsWith(
+                "="
+            ) ||
+            line.startsWith(
+                "Updated:"
+            ) ||
+            line.startsWith(
+                "Players:"
+            ) ||
+            line.startsWith(
+                "STATISTICS"
+            ) ||
+            line.startsWith(
+                "PTS ="
+            )
         ) {
 
             continue;
@@ -1665,7 +2184,12 @@ function parseFile(text, clubName) {
 
 
         if (
-            !/(GK|DEF|MID|FWD)/.test(line)
+            !/\b(GK|DEF|MID|FWD)\b/.test(
+                line
+            ) &&
+            !/(GK|DEF|MID|FWD)/.test(
+                line
+            )
         ) {
 
             continue;
@@ -1674,15 +2198,17 @@ function parseFile(text, clubName) {
 
 
         const player =
-        parsePlayerLine(
-            line,
-            clubName
-        );
+            parsePlayerLine(
+                line,
+                clubName
+            );
 
 
         if (player) {
 
-            result.push(player);
+            result.push(
+                player
+            );
 
         }
 
@@ -1698,33 +2224,23 @@ function parseFile(text, clubName) {
    LOAD CLUB
 ========================================================= */
 
-async function loadClub(clubName) {
+async function loadClub(
+    clubName
+) {
 
     try {
 
-        const filePath =
-        `./FPL_STATS/${clubName}.txt?t=${Date.now()}`;
-
-
-        console.log(
-            "Loading:",
-            filePath
-        );
-
-
         const response =
-        await fetch(filePath, {
-            cache: "no-store"
-        });
+            await fetch(
+                `FPL_STATS/${clubName}.txt?t=${Date.now()}`
+            );
 
 
         if (!response.ok) {
 
-            console.error(
+            console.warn(
                 "Could not load:",
-                clubName,
-                response.status,
-                response.statusText
+                clubName
             );
 
             return [];
@@ -1733,40 +2249,19 @@ async function loadClub(clubName) {
 
 
         const text =
-        await response.text();
+            await response.text();
 
 
-        console.log(
-            clubName,
-            "loaded:",
-            text.length,
-            "characters"
-        );
-
-
-        const parsed =
-        parseFile(
+        return parseFile(
             text,
             clubName
         );
-
-
-        console.log(
-            clubName,
-            "players parsed:",
-            parsed.length
-        );
-
-
-        return parsed;
 
     }
 
     catch(error) {
 
         console.error(
-            "Error loading",
-            clubName,
             error
         );
 
@@ -1783,28 +2278,16 @@ async function loadClub(clubName) {
 
 async function loadAll() {
 
-    document
-    .getElementById("count")
-    .textContent =
-    "Loading players...";
-
-
     const results =
-    await Promise.all(
-        clubs.map(
-            loadClub
-        )
-    );
+        await Promise.all(
+            clubs.map(
+                loadClub
+            )
+        );
 
 
     players =
-    results.flat();
-
-
-    console.log(
-        "TOTAL PLAYERS:",
-        players.length
-    );
+        results.flat();
 
 
     updateSummary();
@@ -1821,39 +2304,47 @@ async function loadAll() {
 function updateSummary() {
 
     document
-    .getElementById("totalPlayers")
-    .textContent =
-    players.length;
+        .getElementById(
+            "totalPlayers"
+        )
+        .textContent =
+        players.length;
 
 
     document
-    .getElementById("totalGoals")
-    .textContent =
-    players.reduce(
-        (sum, p) =>
-        sum + safeNumber(p.goals),
-        0
-    );
+        .getElementById(
+            "totalGoals"
+        )
+        .textContent =
+        players.reduce(
+            (sum, p) =>
+                sum + p.goals,
+            0
+        );
 
 
     document
-    .getElementById("totalAssists")
-    .textContent =
-    players.reduce(
-        (sum, p) =>
-        sum + safeNumber(p.assists),
-        0
-    );
+        .getElementById(
+            "totalAssists"
+        )
+        .textContent =
+        players.reduce(
+            (sum, p) =>
+                sum + p.assists,
+            0
+        );
 
 
     document
-    .getElementById("totalPoints")
-    .textContent =
-    players.reduce(
-        (sum, p) =>
-        sum + safeNumber(p.pts),
-        0
-    );
+        .getElementById(
+            "totalPoints"
+        )
+        .textContent =
+        players.reduce(
+            (sum, p) =>
+                sum + p.pts,
+            0
+        );
 
 }
 
@@ -1862,7 +2353,9 @@ function updateSummary() {
    CLUB CRESTS
 ========================================================= */
 
-function getCrest(club) {
+function getCrest(
+    club
+) {
 
     const ids = {
 
@@ -1877,6 +2370,8 @@ function getCrest(club) {
         "Brighton": 36,
 
         "Chelsea": 8,
+
+        "Coventry City": 89,
 
         "Crystal Palace": 31,
 
@@ -1900,24 +2395,19 @@ function getCrest(club) {
 
         "Nottingham Forest": 17,
 
-        "Tottenham Hotspur": 6,
+        "Sunderland": 56,
 
-        "West Ham": 21,
-
-        "Coventry City": 96
+        "Tottenham Hotspur": 6
 
     };
 
 
     const id =
-    ids[club];
+        ids[club];
 
 
-    if (!id) {
-
+    if (!id)
         return "";
-
-    }
 
 
     return `https://resources.premierleague.com/premierleague/badges/70/t${id}.png`;
@@ -1926,106 +2416,121 @@ function getCrest(club) {
 
 
 /* =========================================================
-   RENDER
+   RENDER PLAYERS
 ========================================================= */
 
 function render() {
 
     const search =
-    document
-    .getElementById("search")
-    .value
-    .toLowerCase()
-    .trim();
+        document
+        .getElementById(
+            "search"
+        )
+        .value
+        .toLowerCase()
+        .trim();
 
 
     const selectedClub =
-    clubSelect.value;
+        clubSelect.value;
 
 
     const selectedSort =
-    document
-    .getElementById("sort")
-    .value;
+        document
+        .getElementById(
+            "sort"
+        )
+        .value;
 
 
     let filtered =
-    players.filter(player => {
+        players.filter(
+            player => {
 
-        if (
-            selectedPosition !== "ALL" &&
-            player.pos !== selectedPosition
-        ) {
-
-            return false;
-
-        }
-
-
-        if (
-            selectedClub !== "ALL" &&
-            player.club.replaceAll(
-                " ",
-                "_"
-            ) !== selectedClub
-        ) {
-
-            return false;
-
-        }
+                if (
+                    selectedPosition !==
+                    "ALL" &&
+                    player.pos !==
+                    selectedPosition
+                )
+                    return false;
 
 
-        if (
-            search &&
-            !player.player
-            .toLowerCase()
-            .includes(search)
-        ) {
-
-            return false;
-
-        }
-
-
-        return true;
-
-    });
+                if (
+                    selectedClub !==
+                    "ALL" &&
+                    player.club.replaceAll(
+                        " ",
+                        "_"
+                    ) !==
+                    selectedClub
+                )
+                    return false;
 
 
-    filtered.sort((a, b) => {
+                if (
+                    search &&
+                    !player.player
+                    .toLowerCase()
+                    .includes(
+                        search
+                    )
+                )
+                    return false;
 
-        return (
-            safeNumber(b[selectedSort]) -
-            safeNumber(a[selectedSort])
+
+                return true;
+
+            }
         );
 
-    });
+
+    filtered.sort(
+        (a, b) => {
+
+            return (
+                Number(
+                    b[selectedSort]
+                ) -
+                Number(
+                    a[selectedSort]
+                )
+            );
+
+        }
+    );
 
 
     document
-    .getElementById("count")
-    .textContent =
-    `${filtered.length} players`;
+        .getElementById(
+            "count"
+        )
+        .textContent =
+        `${filtered.length} players`;
 
 
-    if (filtered.length === 0) {
+    if (
+        filtered.length === 0
+    ) {
 
         document
-        .getElementById("playerGrid")
-        .innerHTML = `
+            .getElementById(
+                "playerGrid"
+            )
+            .innerHTML = `
 
-<div class="error-box">
+                <div style="
+                    grid-column:1/-1;
+                    padding:60px;
+                    text-align:center;
+                    color:#8993a3;
+                ">
 
-No players found.
+                    No players found.
 
-<br><br>
+                </div>
 
-Check the browser Console
-for loading information.
-
-</div>
-
-`;
+            `;
 
         return;
 
@@ -2033,204 +2538,228 @@ for loading information.
 
 
     document
-    .getElementById("playerGrid")
-    .innerHTML =
-
-    filtered.map(player => {
-
-        const crest =
-        getCrest(player.club);
-
-
-        return `
-
-<div
-class="player-card"
-data-player='${JSON.stringify(player).replace(/'/g, "&#39;")}'
->
-
-
-<div class="card-top">
-
-<div class="position-tag">
-${player.pos}
-</div>
-
-<div class="price-tag">
-${player.price}
-</div>
-
-
-${
-crest
-?
-`
-<img
-class="club-crest"
-src="${crest}"
-alt="${player.club}"
-onerror="this.style.display='none'"
->
-`
-:
-""
-}
-
-</div>
-
-
-<div class="card-body">
-
-
-<div
-class="player-name"
-title="${player.player}"
->
-${player.player}
-</div>
-
-
-<div class="club-name">
-${player.club}
-</div>
-
-
-<div class="main-stats">
-
-<div>
-
-<div class="big-number">
-${safeNumber(player.pts)}
-</div>
-
-<div class="stat-label">
-FPL Points
-</div>
-
-</div>
-
-
-<div>
-
-<div class="bps-number">
-${safeNumber(player.bps)}
-</div>
-
-<div class="stat-label">
-BPS
-</div>
-
-</div>
-
-</div>
-
-
-<div class="mini-grid">
-
-
-<div class="mini-stat">
-
-<div class="mini-value">
-${safeNumber(player.goals)}
-</div>
-
-<div class="mini-label">
-G
-</div>
-
-</div>
-
-
-<div class="mini-stat">
-
-<div class="mini-value">
-${safeNumber(player.assists)}
-</div>
-
-<div class="mini-label">
-A
-</div>
-
-</div>
-
-
-<div class="mini-stat">
-
-<div class="mini-value">
-${safeNumber(player.xg)}
-</div>
-
-<div class="mini-label">
-xG
-</div>
-
-</div>
-
-
-<div class="mini-stat">
-
-<div class="mini-value">
-${safeNumber(player.xa)}
-</div>
-
-<div class="mini-label">
-xA
-</div>
-
-</div>
-
-
-</div>
-
-
-</div>
-
-</div>
-
-`;
-
-    }).join("");
-
-
-    /*
-       Add click events after rendering.
-
-       This is safer than putting onclick=
-       directly into the HTML.
-    */
-
-    document
-    .querySelectorAll(".player-card")
-    .forEach(card => {
-
-        card.addEventListener(
-            "click",
-            () => {
-
-                try {
-
-                    const player =
-                    JSON.parse(
-                        card.dataset.player
+        .getElementById(
+            "playerGrid"
+        )
+        .innerHTML =
+
+        filtered
+        .map(
+            player => {
+
+                const crest =
+                    getCrest(
+                        player.club
                     );
 
-                    openPlayer(player);
 
-                }
+                return `
 
-                catch(error) {
+                    <div
+                        class="player-card"
+                        onclick='openPlayer(${JSON.stringify(player)})'
+                    >
 
-                    console.error(
-                        "Player card error:",
-                        error
-                    );
 
-                }
+                        <div
+                            class="card-top">
+
+
+                            <div
+                                class="position-tag">
+
+                                ${player.pos}
+
+                            </div>
+
+
+                            <div
+                                class="price-tag">
+
+                                ${player.price}
+
+                            </div>
+
+
+                            ${
+                                crest
+                                ?
+                                `<img
+                                    class="club-crest"
+                                    src="${crest}"
+                                    alt="${player.club}"
+                                >`
+                                :
+                                ""
+                            }
+
+
+                        </div>
+
+
+                        <div
+                            class="card-body">
+
+
+                            <div
+                                class="player-name"
+                                title="${player.player}">
+
+                                ${player.player}
+
+                            </div>
+
+
+                            <div
+                                class="club-name">
+
+                                ${player.club}
+
+                            </div>
+
+
+                            <div
+                                class="main-stats">
+
+
+                                <div>
+
+                                    <div
+                                        class="big-number">
+
+                                        ${player.pts}
+
+                                    </div>
+
+                                    <div
+                                        class="stat-label">
+
+                                        FPL Points
+
+                                    </div>
+
+                                </div>
+
+
+                                <div>
+
+                                    <div
+                                        class="bps-number">
+
+                                        ${player.bps}
+
+                                    </div>
+
+                                    <div
+                                        class="stat-label">
+
+                                        BPS
+
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+
+
+                            <div
+                                class="mini-grid">
+
+
+                                <div
+                                    class="mini-stat">
+
+                                    <div
+                                        class="mini-value">
+
+                                        ${player.goals}
+
+                                    </div>
+
+                                    <div
+                                        class="mini-label">
+
+                                        G
+
+                                    </div>
+
+                                </div>
+
+
+                                <div
+                                    class="mini-stat">
+
+                                    <div
+                                        class="mini-value">
+
+                                        ${player.assists}
+
+                                    </div>
+
+                                    <div
+                                        class="mini-label">
+
+                                        A
+
+                                    </div>
+
+                                </div>
+
+
+                                <div
+                                    class="mini-stat">
+
+                                    <div
+                                        class="mini-value">
+
+                                        ${player.xg}
+
+                                    </div>
+
+                                    <div
+                                        class="mini-label">
+
+                                        xG
+
+                                    </div>
+
+                                </div>
+
+
+                                <div
+                                    class="mini-stat">
+
+                                    <div
+                                        class="mini-value">
+
+                                        ${player.xa}
+
+                                    </div>
+
+                                    <div
+                                        class="mini-label">
+
+                                        xA
+
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+
+
+                        </div>
+
+
+                    </div>
+
+                `;
 
             }
-        );
-
-    });
+        )
+        .join("");
 
 }
 
@@ -2239,122 +2768,152 @@ xA
    PLAYER MODAL
 ========================================================= */
 
-function openPlayer(player) {
+function openPlayer(
+    player
+) {
 
     document
-    .getElementById("modalName")
-    .textContent =
-    player.player;
+        .getElementById(
+            "modalName"
+        )
+        .textContent =
+        player.player;
 
 
     const crest =
-    getCrest(player.club);
-
-
-    const modalCrest =
-    document.getElementById(
-        "modalCrest"
-    );
-
-
-    modalCrest.src =
-    crest;
-
-
-    modalCrest.style.display =
-    crest
-    ? "block"
-    : "none";
+        getCrest(
+            player.club
+        );
 
 
     document
-    .getElementById("dPts")
-    .textContent =
-    safeNumber(player.pts);
+        .getElementById(
+            "modalCrest"
+        )
+        .src =
+        crest;
 
 
     document
-    .getElementById("dBonus")
-    .textContent =
-    safeNumber(player.bonus);
+        .getElementById(
+            "dPts"
+        )
+        .textContent =
+        player.pts;
 
 
     document
-    .getElementById("dBps")
-    .textContent =
-    safeNumber(player.bps);
+        .getElementById(
+            "dBonus"
+        )
+        .textContent =
+        player.bonus;
 
 
     document
-    .getElementById("dPrice")
-    .textContent =
-    player.price;
+        .getElementById(
+            "dBps"
+        )
+        .textContent =
+        player.bps;
 
 
     document
-    .getElementById("dXg")
-    .textContent =
-    safeNumber(player.xg);
+        .getElementById(
+            "dPrice"
+        )
+        .textContent =
+        player.price;
 
 
     document
-    .getElementById("dXa")
-    .textContent =
-    safeNumber(player.xa);
+        .getElementById(
+            "dXg"
+        )
+        .textContent =
+        player.xg;
 
 
     document
-    .getElementById("dXgi")
-    .textContent =
-    safeNumber(player.xgi);
+        .getElementById(
+            "dXa"
+        )
+        .textContent =
+        player.xa;
 
 
     document
-    .getElementById("dDc")
-    .textContent =
-    safeNumber(player.dc);
+        .getElementById(
+            "dXgi"
+        )
+        .textContent =
+        player.xgi;
 
 
     document
-    .getElementById("dGoals")
-    .textContent =
-    safeNumber(player.goals);
+        .getElementById(
+            "dDc"
+        )
+        .textContent =
+        player.dc;
 
 
     document
-    .getElementById("dAssists")
-    .textContent =
-    safeNumber(player.assists);
+        .getElementById(
+            "dGoals"
+        )
+        .textContent =
+        player.goals;
 
 
     document
-    .getElementById("dMinutes")
-    .textContent =
-    safeNumber(player.minutes);
+        .getElementById(
+            "dAssists"
+        )
+        .textContent =
+        player.assists;
 
 
     document
-    .getElementById("dOwnership")
-    .textContent =
-    player.ownership;
+        .getElementById(
+            "dMinutes"
+        )
+        .textContent =
+        player.minutes;
 
 
     document
-    .getElementById("dPosition")
-    .textContent =
-    player.pos;
+        .getElementById(
+            "dOwnership"
+        )
+        .textContent =
+        player.ownership;
 
 
     document
-    .getElementById("dClub")
-    .textContent =
-    player.club;
+        .getElementById(
+            "dPosition"
+        )
+        .textContent =
+        player.pos;
 
 
     document
-    .getElementById("overlay")
-    .classList
-    .add("show");
+        .getElementById(
+            "dClub"
+        )
+        .textContent =
+        player.club;
+
+
+    document
+        .getElementById(
+            "overlay"
+        )
+        .classList
+        .add(
+            "show"
+        );
 
 }
 
@@ -2366,38 +2925,46 @@ function openPlayer(player) {
 function closeModal() {
 
     document
-    .getElementById("overlay")
-    .classList
-    .remove("show");
+        .getElementById(
+            "overlay"
+        )
+        .classList
+        .remove(
+            "show"
+        );
 
 }
 
 
 document
-.getElementById("closeModal")
-.addEventListener(
-    "click",
-    closeModal
-);
+    .getElementById(
+        "closeModal"
+    )
+    .addEventListener(
+        "click",
+        closeModal
+    );
 
 
 document
-.getElementById("overlay")
-.addEventListener(
-    "click",
-    event => {
+    .getElementById(
+        "overlay"
+    )
+    .addEventListener(
+        "click",
+        event => {
 
-        if (
-            event.target.id ===
-            "overlay"
-        ) {
+            if (
+                event.target.id ===
+                "overlay"
+            ) {
 
-            closeModal();
+                closeModal();
+
+            }
 
         }
-
-    }
-);
+    );
 
 
 /* =========================================================
@@ -2405,153 +2972,688 @@ document
 ========================================================= */
 
 document
-.getElementById("search")
-.addEventListener(
-    "input",
-    render
-);
+    .getElementById(
+        "search"
+    )
+    .addEventListener(
+        "input",
+        render
+    );
 
 
 clubSelect
-.addEventListener(
-    "change",
-    render
-);
+    .addEventListener(
+        "change",
+        render
+    );
 
 
 document
-.getElementById("sort")
-.addEventListener(
-    "change",
-    render
-);
+    .getElementById(
+        "sort"
+    )
+    .addEventListener(
+        "change",
+        render
+    );
 
 
 document
-.querySelectorAll(".position-btn")
-.forEach(button => {
+    .querySelectorAll(
+        ".position-btn"
+    )
+    .forEach(
+        button => {
 
-    button.addEventListener(
-        "click",
-        () => {
+            button.addEventListener(
+                "click",
+                () => {
 
-            document
-            .querySelectorAll(
-                ".position-btn"
-            )
-            .forEach(b =>
-                b.classList.remove(
-                    "active"
-                )
+                    document
+                        .querySelectorAll(
+                            ".position-btn"
+                        )
+                        .forEach(
+                            b =>
+                            b.classList
+                            .remove(
+                                "active"
+                            )
+                        );
+
+
+                    button.classList
+                        .add(
+                            "active"
+                        );
+
+
+                    selectedPosition =
+                        button.dataset
+                        .position;
+
+
+                    render();
+
+                }
             );
-
-
-            button.classList.add(
-                "active"
-            );
-
-
-            selectedPosition =
-            button.dataset.position;
-
-
-            render();
 
         }
     );
 
-});
-
 
 /* =========================================================
-   DARK MODE
+   FIXTURES
 ========================================================= */
 
-const darkModeBtn =
-document.getElementById(
-    "darkModeBtn"
-);
+(function () {
 
 
-function updateDarkButton() {
+    let fixtureTeams = {};
 
-    if (
-        document.body.classList.contains(
-            "dark"
-        )
+    let fixtures = [];
+
+
+    const fixtureTeam =
+        document.getElementById(
+            "fixtureTeam"
+        );
+
+
+    const fixturesGrid =
+        document.getElementById(
+            "fixturesGrid"
+        );
+
+
+    const fixtureCount =
+        document.getElementById(
+            "fixtureCount"
+        );
+
+
+    /* =====================================================
+       DATE
+    ===================================================== */
+
+    function formatFixtureDate(
+        dateString
     ) {
 
-        darkModeBtn.textContent =
-        "☀️ Light Mode";
+        if (!dateString)
+            return "TBC";
+
+
+        const date =
+            new Date(
+                dateString
+            );
+
+
+        if (
+            Number.isNaN(
+                date.getTime()
+            )
+        )
+            return "TBC";
+
+
+        return date.toLocaleDateString(
+            "en-GB",
+            {
+                day: "2-digit",
+                month: "short"
+            }
+        );
 
     }
 
-    else {
 
-        darkModeBtn.textContent =
-        "🌙 Dark Mode";
+    /* =====================================================
+       TIME
+    ===================================================== */
+
+    function formatFixtureTime(
+        dateString
+    ) {
+
+        if (!dateString)
+            return "TBC";
+
+
+        const date =
+            new Date(
+                dateString
+            );
+
+
+        if (
+            Number.isNaN(
+                date.getTime()
+            )
+        )
+            return "TBC";
+
+
+        return date.toLocaleTimeString(
+            "en-GB",
+            {
+                hour: "2-digit",
+                minute: "2-digit"
+            }
+        );
 
     }
 
-}
+
+    /* =====================================================
+       LOAD FIXTURES
+    ===================================================== */
+
+    async function loadFixtures() {
+
+        try {
 
 
-darkModeBtn.addEventListener(
-    "click",
-    () => {
+            fixturesGrid.innerHTML = `
 
-        document.body.classList.toggle(
-            "dark"
-        );
+                <div class="fixture-loading">
 
+                    Loading Premier League fixtures...
 
-        const isDark =
-        document.body.classList.contains(
-            "dark"
-        );
+                </div>
+
+            `;
 
 
-        localStorage.setItem(
-            "fpl-dark-mode",
-            isDark
-            ? "1"
-            : "0"
-        );
+            /*
+             * Učitaj aktuelne klubove iz FPL API-ja.
+             */
+
+            const bootstrapResponse =
+                await fetch(
+                    "https://fantasy.premierleague.com/api/bootstrap-static/?t=" +
+                    Date.now()
+                );
 
 
-        updateDarkButton();
+            if (
+                !bootstrapResponse.ok
+            ) {
+
+                throw new Error(
+                    "Bootstrap API error: " +
+                    bootstrapResponse.status
+                );
+
+            }
+
+
+            const bootstrap =
+                await bootstrapResponse.json();
+
+
+            /*
+             * ID -> ime kluba
+             */
+
+            fixtureTeams = {};
+
+
+            (
+                bootstrap.teams ||
+                []
+            ).forEach(
+                team => {
+
+                    fixtureTeams[
+                        team.id
+                    ] =
+                        team.name;
+
+                }
+            );
+
+
+            /*
+             * Dropdown klubova.
+             */
+
+            fixtureTeam.innerHTML = `
+
+                <option value="ALL">
+                    All Teams
+                </option>
+
+            `;
+
+
+            const sortedTeams =
+                Object.entries(
+                    fixtureTeams
+                ).sort(
+                    (a, b) =>
+                        a[1].localeCompare(
+                            b[1]
+                        )
+                );
+
+
+            sortedTeams.forEach(
+                ([id, name]) => {
+
+                    const option =
+                        document.createElement(
+                            "option"
+                        );
+
+
+                    option.value =
+                        id;
+
+
+                    option.textContent =
+                        name;
+
+
+                    fixtureTeam.appendChild(
+                        option
+                    );
+
+                }
+            );
+
+
+            /*
+             * Učitaj utakmice.
+             */
+
+            const fixturesResponse =
+                await fetch(
+                    "https://fantasy.premierleague.com/api/fixtures/?t=" +
+                    Date.now()
+                );
+
+
+            if (
+                !fixturesResponse.ok
+            ) {
+
+                throw new Error(
+                    "Fixtures API error: " +
+                    fixturesResponse.status
+                );
+
+            }
+
+
+            fixtures =
+                await fixturesResponse.json();
+
+
+            /*
+             * Samo utakmice koje imaju GW.
+             */
+
+            fixtures =
+                fixtures.filter(
+                    fixture =>
+                        fixture.event !== null
+                );
+
+
+            /*
+             * Sortiranje.
+             */
+
+            fixtures.sort(
+                (a, b) => {
+
+                    if (
+                        a.event !==
+                        b.event
+                    ) {
+
+                        return (
+                            a.event -
+                            b.event
+                        );
+
+                    }
+
+
+                    const dateA =
+                        new Date(
+                            a.kickoff_time ||
+                            "9999-12-31"
+                        );
+
+
+                    const dateB =
+                        new Date(
+                            b.kickoff_time ||
+                            "9999-12-31"
+                        );
+
+
+                    return (
+                        dateA -
+                        dateB
+                    );
+
+                }
+            );
+
+
+            fixtureCount.textContent =
+                `${fixtures.length} fixtures`;
+
+
+            renderFixtures();
+
+
+        }
+
+        catch(error) {
+
+            console.error(
+                "FPL Fixtures Error:",
+                error
+            );
+
+
+            fixtureCount.textContent =
+                "Error";
+
+
+            fixturesGrid.innerHTML = `
+
+                <div class="fixture-error">
+
+                    Could not load Premier League fixtures.
+
+                    <br><br>
+
+                    Check browser Console.
+
+                </div>
+
+            `;
+
+        }
 
     }
-);
 
 
-/* =========================================================
-   RESTORE DARK MODE
-========================================================= */
+    /* =====================================================
+       RENDER FIXTURES
+    ===================================================== */
 
-if (
-    localStorage.getItem(
-        "fpl-dark-mode"
-    ) === "1"
-) {
+    function renderFixtures() {
 
-    document.body.classList.add(
-        "dark"
+
+        const selectedTeam =
+            fixtureTeam.value;
+
+
+        const filtered =
+            fixtures.filter(
+                fixture => {
+
+                    if (
+                        selectedTeam ===
+                        "ALL"
+                    ) {
+
+                        return true;
+
+                    }
+
+
+                    return (
+
+                        String(
+                            fixture.team_h
+                        ) ===
+                        String(
+                            selectedTeam
+                        )
+
+                        ||
+
+                        String(
+                            fixture.team_a
+                        ) ===
+                        String(
+                            selectedTeam
+                        )
+
+                    );
+
+                }
+            );
+
+
+        if (
+            filtered.length === 0
+        ) {
+
+            fixturesGrid.innerHTML = `
+
+                <div class="fixture-empty">
+
+                    No fixtures found.
+
+                </div>
+
+            `;
+
+            return;
+
+        }
+
+
+        const gameweeks = {};
+
+
+        filtered.forEach(
+            fixture => {
+
+                const gw =
+                    fixture.event;
+
+
+                if (
+                    !gameweeks[gw]
+                ) {
+
+                    gameweeks[gw] = [];
+
+                }
+
+
+                gameweeks[gw].push(
+                    fixture
+                );
+
+            }
+        );
+
+
+        fixturesGrid.innerHTML = "";
+
+
+        Object.keys(
+            gameweeks
+        )
+        .sort(
+            (a, b) =>
+                Number(a) -
+                Number(b)
+        )
+        .forEach(
+            gw => {
+
+
+                const games =
+                    gameweeks[gw];
+
+
+                const gameweek =
+                    document.createElement(
+                        "div"
+                    );
+
+
+                gameweek.className =
+                    "fixture-gameweek";
+
+
+                gameweek.innerHTML = `
+
+                    <div
+                        class="fixture-gameweek-header">
+
+                        <div
+                            class="fixture-gameweek-title">
+
+                            Gameweek ${gw}
+
+                        </div>
+
+
+                        <div
+                            class="fixture-gameweek-count">
+
+                            ${games.length}
+                            ${
+                                games.length === 1
+                                ? "match"
+                                : "matches"
+                            }
+
+                        </div>
+
+                    </div>
+
+                `;
+
+
+                games.forEach(
+                    fixture => {
+
+
+                        const home =
+                            fixtureTeams[
+                                fixture.team_h
+                            ] ||
+                            "Unknown";
+
+
+                        const away =
+                            fixtureTeams[
+                                fixture.team_a
+                            ] ||
+                            "Unknown";
+
+
+                        const row =
+                            document.createElement(
+                                "div"
+                            );
+
+
+                        row.className =
+                            "fixture-row";
+
+
+                        row.innerHTML = `
+
+                            <div
+                                class="fixture-date">
+
+                                ${
+                                    formatFixtureDate(
+                                        fixture.kickoff_time
+                                    )
+                                }
+
+                            </div>
+
+
+                            <div
+                                class="fixture-home">
+
+                                ${home}
+
+                            </div>
+
+
+                            <div
+                                class="fixture-time">
+
+                                ${
+                                    fixture.kickoff_time
+                                    ?
+                                    formatFixtureTime(
+                                        fixture.kickoff_time
+                                    )
+                                    :
+                                    "TBC"
+                                }
+
+                            </div>
+
+
+                            <div
+                                class="fixture-away">
+
+                                ${away}
+
+                            </div>
+
+                        `;
+
+
+                        gameweek.appendChild(
+                            row
+                        );
+
+                    }
+                );
+
+
+                fixturesGrid.appendChild(
+                    gameweek
+                );
+
+            }
+        );
+
+    }
+
+
+    fixtureTeam.addEventListener(
+        "change",
+        renderFixtures
     );
 
-}
 
+    loadFixtures();
 
-updateDarkButton();
+})();
 
 
 /* =========================================================
-   START
+   START PLAYER DATA
 ========================================================= */
 
 loadAll();
 
 </script>
 
+
 </body>
+
 </html>
+```
