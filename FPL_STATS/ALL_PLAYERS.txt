@@ -1,6 +1,6 @@
 FPL ALL PLAYERS
 =================================================================================================================================================
-Updated: 2026-08-24 14:11:50
+Updated: 2026-08-24 16:05:31
 Total players: 609
 
 PLAYER                      TEAM                     POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      
@@ -14,11 +14,11 @@ Ezri Konsa Ngoyo            Arsenal                  DEF   £4.5m    0      0   
 Gabriel dos Santos MagalhãesArsenal                  DEF   £8.0m    5      0       21      4       0.05     0.01     0.06     0     0     90      29.5%    
 Jurriën Timber              Arsenal                  DEF   £6.5m    0      0       0       0       0        0        0        0     0     0       0.1%     
 Piero Hincapié              Arsenal                  DEF   £5.5m    1      0       3       0       0        0        0        0     0     9       1.7%     
-Riccardo Calafiori          Arsenal                  DEF   £5.5m    9      0       31      5       0.04     0.09     0.13     0     1     80      40.4%    
+Riccardo Calafiori          Arsenal                  DEF   £5.5m    9      0       31      5       0.04     0.09     0.13     0     1     80      40.5%    
 William Saliba              Arsenal                  DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     
 Bruno Guimarães Rodriguez MouraArsenal                  MID   £7.0m    0      0       0       0       0        0        0        0     0     0       3.6%     
 Bukayo Saka                 Arsenal                  MID   £9.5m    9      1       36      7       0.64     0.08     0.72     1     0     67      10.0%    
-Christos Tzolis             Arsenal                  MID   £6.5m    6      0       30      6       0.19     0.14     0.33     0     1     75      25.4%    
+Christos Tzolis             Arsenal                  MID   £6.5m    6      0       30      6       0.19     0.14     0.33     0     1     75      25.5%    
 Declan Rice                 Arsenal                  MID   £7.5m    3      0       10      6       0.07     0.08     0.15     0     0     67      17.9%    
 Eberechi Eze                Arsenal                  MID   £6.5m    1      0       4       2       0.04     0        0.04     0     0     14      2.0%     
 Ethan Nwaneri               Arsenal                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     
@@ -31,9 +31,9 @@ Mikel Merino Zazón          Arsenal                  MID   £6.0m    1      0  
 Myles Lewis-Skelly          Arsenal                  MID   £5.5m    3      0       15      7       0.06     0.11     0.17     0     0     90      0.7%     
 Noni Madueke                Arsenal                  MID   £6.5m    1      0       8       2       0        0.04     0.04     0     0     22      0.3%     
 Reiss Nelson                Arsenal                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     
-Gabriel Fernando de Jesus   Arsenal                  FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.4%     
+Gabriel Fernando de Jesus   Arsenal                  FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     
 Kai Havertz                 Arsenal                  FWD   £7.5m    6      0       34      2       0.26     0.03     0.29     1     0     90      6.4%     
-Viktor Gyökeres             Arsenal                  FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       8.4%     
+Viktor Gyökeres             Arsenal                  FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       8.3%     
 Emiliano Martínez Romero    Aston Villa              GK    £5.0m    0      0       0       0       0        0        0        0     0     0       4.4%     
 Marco Bizot                 Aston Villa              GK    £4.5m    1      0       1       0       0        0        0        0     0     90      0.1%     
 Zion Suzuki                 Aston Villa              GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.8%     
@@ -93,14 +93,14 @@ Daniel Jebbison             Bournemouth              FWD   £5.0m    1      0   
 Enes Ünal                   Bournemouth              FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Francisco Evanilson de Lima BarbosaBournemouth              FWD   £6.0m    4      0       17      8       0        0.21     0.21     0     1     74      2.5%     
 Álvaro Rodríguez            Bournemouth              FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.1%     
-Caoimhín Kelleher           Brentford                GK    £5.0m    7      0       34      0       0        0.01     0.01     0     0     90      6.0%     
+Caoimhín Kelleher           Brentford                GK    £5.0m    7      0       34      0       0        0.01     0.01     0     0     90      6.1%     
 Hákon Rafn Valdimarsson     Brentford                GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     
 Aaron Hickey                Brentford                DEF   £4.5m    1      0       2       0       0        0        0        0     0     14      0.1%     
 Ethan Pinnock               Brentford                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     
 Jannik Schuster             Brentford                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     
 Kim Ji-soo                  Brentford                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Kristoffer Ajer             Brentford                DEF   £4.5m    8      0       29      10      0.11     0.02     0.13     0     0     90      3.7%     
-Michael Kayode              Brentford                DEF   £4.5m    13     1       36      4       0.50     0        0.50     1     0     75      4.5%     
+Michael Kayode              Brentford                DEF   £4.5m    13     1       36      4       0.50     0        0.50     1     0     75      4.6%     
 Nathan Collins              Brentford                DEF   £5.5m    6      0       21      3       0.34     0.04     0.38     0     0     90      1.9%     
 Rico Henry                  Brentford                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     
 Sepp van den Berg           Brentford                DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     
@@ -109,9 +109,9 @@ Dango Ouattara              Brentford                MID   £6.5m    3      0   
 Fábio Freitas Gouveia CarvalhoBrentford                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Jaidon Anthony              Brentford                MID   £6.0m    1      0       9       8       0.03     0.35     0.38     0     0     23      0.2%     
 Josh Dasilva                Brentford                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
-Keane Lewis-Potter          Brentford                MID   £5.5m    10     2       37      10      0.77     0.12     0.89     1     0     90      0.6%     
+Keane Lewis-Potter          Brentford                MID   £5.5m    10     2       37      10      0.77     0.12     0.89     1     0     90      0.7%     
 Kevin Schade                Brentford                MID   £6.0m    3      0       17      9       0.52     0.01     0.53     0     0     90      3.6%     
-Mamadou Sangaré             Brentford                MID   £5.5m    14     3       41      13      0.05     0.33     0.38     0     2     75      4.7%     
+Mamadou Sangaré             Brentford                MID   £5.5m    14     3       41      13      0.05     0.33     0.38     0     2     75      4.8%     
 Mathias Jensen              Brentford                MID   £5.5m    6      0       22      5       0.08     0.34     0.42     0     1     66      0.2%     
 Mikkel Damsgaard            Brentford                MID   £5.5m    1      0       6       4       0        0.11     0.11     0     0     14      0.6%     
 Vitaly Janelt               Brentford                MID   £5.0m    9      0       35      13      0.39     0.17     0.56     1     0     90      0.2%     
@@ -128,7 +128,7 @@ João Pedro Loureiro da CostaBrighton                 DEF   £4.5m    1      0  
 Lewis Dunk                  Brighton                 DEF   £4.5m    6      0       24      2       0        0.04     0.04     0     0     90      1.1%     
 Luka Vušković               Brighton                 DEF   £5.0m    6      0       19      4       0.13     0.03     0.16     0     0     90      2.5%     
 Mats Wieffer                Brighton                 DEF   £5.0m    7      1       32      8       0.09     0.05     0.14     0     0     77      0.3%     
-Maxim De Cuyper             Brighton                 DEF   £4.5m    17     2       46      4       1.47     0.21     1.68     1     1     77      3.3%     
+Maxim De Cuyper             Brighton                 DEF   £4.5m    17     2       46      4       1.47     0.21     1.68     1     1     77      3.4%     
 Michael Svoboda             Brighton                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     
 Olivier Boscagli            Brighton                 DEF   £4.5m    6      0       29      6       0        0.04     0.04     0     0     90      0.2%     
 Pascal Struijk              Brighton                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     
@@ -255,7 +255,7 @@ Christantus Uche            Crystal Palace           FWD   £5.0m    0      0   
 Eddie Nketiah               Crystal Palace           FWD   £5.5m    1      0       12      3       0.60     0.58     1.18     0     0     55      0.5%     
 Jean-Philippe Mateta        Crystal Palace           FWD   £6.5m    2      0       -3      5       0.70     0.02     0.72     0     0     62      5.7%     
 Jørgen Strand Larsen        Crystal Palace           FWD   £6.0m    1      0       3       0       0.25     0.01     0.26     0     0     27      0.6%     
-Jordan Pickford             Everton                  GK    £5.5m    7      0       34      0       0        0.02     0.02     0     0     90      8.3%     
+Jordan Pickford             Everton                  GK    £5.5m    7      0       34      0       0        0.02     0.02     0     0     90      8.4%     
 Mark Travers                Everton                  GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Tom King                    Everton                  GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Adam Aznou                  Everton                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     
@@ -277,7 +277,7 @@ Merlin Röhl                 Everton                  MID   £5.0m    3      0  
 Tim Iroegbunam              Everton                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Tyler Dibling               Everton                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Tyrique George              Everton                  MID   £5.5m    3      0       13      7       0.18     0.08     0.26     0     0     83      0.3%     
-Norberto Bercique Gomes BetuncalEverton                  FWD   £5.5m    1      0       3       0       0.05     0        0.05     0     0     11      2.7%     
+Norberto Bercique Gomes BetuncalEverton                  FWD   £5.5m    1      0       3       0       0.05     0        0.05     0     0     11      2.6%     
 Thierno Barry               Everton                  FWD   £5.5m    8      2       37      3       0.45     0.09     0.54     1     0     78      1.7%     
 Alfie McNally               Fulham                   GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     
 Benjamin Lecomte            Fulham                   GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.2%     
@@ -369,7 +369,7 @@ Saša Lukić                  Ipswich Town             MID   £5.0m    5      0 
 Wes Burns                   Ipswich Town             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Ali Al-Hamadi               Ipswich Town             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     
 Chuba Akpom                 Ipswich Town             FWD   £5.0m    1      0       3       3       0        0        0        0     0     24      0.6%     
-Emersonn Correia da Silva   Ipswich Town             FWD   £5.5m    9      3       41      3       0.82     0.06     0.88     1     0     65      0.9%     
+Emersonn Correia da Silva   Ipswich Town             FWD   £5.5m    9      3       41      3       0.82     0.06     0.88     1     0     65      1.0%     
 George Hirst                Ipswich Town             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     
 Sindre Walle Egeli          Ipswich Town             FWD   £4.5m    1      0       3       0       0        0        0        0     0     10      2.3%     
 James Trafford              Leeds                    GK    £5.0m    9      2       28      0       0        0        0        0     0     90      3.3%     
@@ -438,8 +438,8 @@ Gerónimo Rulli              Man City                 GK    £5.0m    0      0  
 Gianluigi Donnarumma        Man City                 GK    £5.5m    3      0       12      0       0        0        0        0     0     90      8.3%     
 Marcus Bettinelli           Man City                 GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Abdukodir Khusanov          Man City                 DEF   £5.5m    2      0       14      4       0        0.02     0.02     0     0     90      1.8%     
-Joško Gvardiol              Man City                 DEF   £5.5m    9      1       28      7       0.19     0.05     0.24     1     0     90      11.7%    
-Marc Guéhi                  Man City                 DEF   £6.0m    10     2       31      4       0.89     0.32     1.21     1     0     90      17.7%    
+Joško Gvardiol              Man City                 DEF   £5.5m    9      1       28      7       0.19     0.05     0.24     1     0     90      11.8%    
+Marc Guéhi                  Man City                 DEF   £6.0m    10     2       31      4       0.89     0.32     1.21     1     0     90      17.8%    
 Matheus Nunes               Man City                 DEF   £6.0m    1      0       4       1       0        0.04     0.04     0     0     33      1.6%     
 Max Alleyne                 Man City                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Nico O'Reilly               Man City                 DEF   £6.5m    2      0       5       2       0.07     0.41     0.48     0     0     62      21.3%    
@@ -457,7 +457,7 @@ Jérémy Doku                 Man City                 MID   £7.5m    0      0 
 Kalvin Phillips             Man City                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Mateo Kovačić               Man City                 MID   £5.5m    1      0       3       2       0        0.01     0.01     0     0     27      0.1%     
 Nico González Iglesias      Man City                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     
-Phil Foden                  Man City                 MID   £7.0m    1      0       15      6       0.12     0.40     0.52     0     0     81      4.4%     
+Phil Foden                  Man City                 MID   £7.0m    1      0       15      6       0.12     0.40     0.52     0     0     81      4.3%     
 Rayan Cherki                Man City                 MID   £7.5m    8      1       28      0       0        0.50     0.50     0     2     27      8.8%     
 Rodrigo 'Rodri' Hernandez CascanteMan City                 MID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Sávio Moreira de Oliveira   Man City                 MID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.3%     
@@ -471,7 +471,7 @@ Tom Heaton                  Man Utd                  GK    £4.0m    0      0   
 Ayden Heaven                Man Utd                  DEF   £4.5m    1      0       5       2       0.12     0.04     0.16     0     0     90      0.4%     
 Diogo Dalot Teixeira        Man Utd                  DEF   £5.0m    1      0       6       3       0        0        0        0     0     10      2.7%     
 Harry Amass                 Man Utd                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     
-Harry Maguire               Man Utd                  DEF   £5.0m    1      0       15      4       0.04     0.40     0.44     0     0     90      17.9%    
+Harry Maguire               Man Utd                  DEF   £5.0m    1      0       15      4       0.04     0.40     0.44     0     0     90      17.8%    
 Leny Yoro                   Man Utd                  DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.7%     
 Lisandro Martínez           Man Utd                  DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       1.4%     
 Luke Shaw                   Man Utd                  DEF   £4.5m    1      0       13      4       0        0.26     0.26     0     0     90      20.7%    
@@ -481,7 +481,7 @@ Tyler Fredricson            Man Utd                  DEF   £4.0m    0      0   
 Amad Diallo                 Man Utd                  MID   £6.0m    0      0       0       0       0        0        0        0     0     0       1.4%     
 Andrey Nascimento dos SantosMan Utd                  MID   £5.0m    2      0       17      9       0        0.23     0.23     0     0     66      1.0%     
 Bendito Mantato             Man Utd                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     
-Bruno Borges Fernandes      Man Utd                  MID   £12.0m   2      0       18      6       0.08     0.26     0.34     0     0     90      50.7%    
+Bruno Borges Fernandes      Man Utd                  MID   £12.0m   2      0       18      6       0.08     0.26     0.34     0     0     90      50.6%    
 Bryan Mbeumo                Man Utd                  MID   £8.0m    2      0       12      4       0.50     0.23     0.73     0     0     90      37.7%    
 Jack Fletcher               Man Utd                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Kobbie Mainoo               Man Utd                  MID   £5.5m    1      0       7       1       0.07     0.01     0.08     0     0     23      1.0%     
@@ -512,7 +512,7 @@ Sven Botman                 Newcastle                DEF   £5.0m    3      0   
 Tino Livramento             Newcastle                DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Aladji Bamba                Newcastle                MID   £5.0m    1      0       5       2       0        0        0        0     0     14      0.1%     
 Anthony Elanga              Newcastle                MID   £6.0m    9      2       31      2       0.22     0.01     0.23     1     0     75      1.1%     
-Bazoumana Touré             Newcastle                MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     
+Bazoumana Touré             Newcastle                MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.2%     
 Harvey Barnes               Newcastle                MID   £6.0m    2      0       12      8       0.07     0.02     0.09     0     0     90      1.1%     
 Jacob Murphy                Newcastle                MID   £6.0m    0      0       -1      2       0        0        0        0     0     14      0.2%     
 Jacob Ramsey                Newcastle                MID   £5.0m    0      0       1       6       0.06     0.01     0.07     0     0     34      0.4%     
@@ -605,7 +605,7 @@ Trai Hume                   Sunderland               DEF   £4.5m    2      0   
 Chemsdine Talbi             Sunderland               MID   £5.5m    1      0       1       2       0        0        0        0     0     31      0.2%     
 Chris Rigg                  Sunderland               MID   £5.0m    1      0       3       1       0        0        0        0     0     10      0.1%     
 Djiamgone Jocelin Ta Bi     Sunderland               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
-Enzo Le Fée                 Sunderland               MID   £6.0m    2      0       13      2       0        0.03     0.03     0     0     79      9.8%     
+Enzo Le Fée                 Sunderland               MID   £6.0m    2      0       13      2       0        0.03     0.03     0     0     79      9.7%     
 Granit Xhaka                Sunderland               MID   £5.5m    9      2       31      13      0        0.09     0.09     0     1     90      4.5%     
 Habib Diarra                Sunderland               MID   £5.5m    1      0       3       0       0.03     0        0.03     0     0     10      0.1%     
 Nilson Angulo               Sunderland               MID   £5.0m    5      0       23      7       0.15     0.01     0.16     1     0     58      0.1%     

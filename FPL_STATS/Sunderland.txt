@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-08-24 14:11:50
+Updated: 2026-08-24 16:05:31
 Players: 25
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -21,7 +21,7 @@ Trai Hume                   DEF   £4.5m    2      0       14      4       0.04 
 Chemsdine Talbi             MID   £5.5m    1      0       1       2       0        0        0        0     0     31      0.2%     1       1       
 Chris Rigg                  MID   £5.0m    1      0       3       1       0        0        0        0     0     10      0.1%     1       1       
 Djiamgone Jocelin Ta Bi     MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Enzo Le Fée                 MID   £6.0m    2      0       13      2       0        0.03     0.03     0     0     79      9.8%     2       2       
+Enzo Le Fée                 MID   £6.0m    2      0       13      2       0        0.03     0.03     0     0     79      9.7%     2       2       
 Granit Xhaka                MID   £5.5m    9      2       31      13      0        0.09     0.09     0     1     90      4.5%     9       9       
 Habib Diarra                MID   £5.5m    1      0       3       0       0.03     0        0.03     0     0     10      0.1%     1       1       
 Nilson Angulo               MID   £5.0m    5      0       23      7       0.15     0.01     0.16     1     0     58      0.1%     5       5       

@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-08-24 14:11:50
+Updated: 2026-08-24 16:05:31
 Players: 29
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -14,11 +14,11 @@ Ezri Konsa Ngoyo            DEF   £4.5m    0      0       0       0       0    
 Gabriel dos Santos MagalhãesDEF   £8.0m    5      0       21      4       0.05     0.01     0.06     0     0     90      29.5%    5       5       
 Jurriën Timber              DEF   £6.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Piero Hincapié              DEF   £5.5m    1      0       3       0       0        0        0        0     0     9       1.7%     1       1       
-Riccardo Calafiori          DEF   £5.5m    9      0       31      5       0.04     0.09     0.13     0     1     80      40.4%    9       9       
+Riccardo Calafiori          DEF   £5.5m    9      0       31      5       0.04     0.09     0.13     0     1     80      40.5%    9       9       
 William Saliba              DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Bruno Guimarães Rodriguez MouraMID   £7.0m    0      0       0       0       0        0        0        0     0     0       3.6%     0       0       
 Bukayo Saka                 MID   £9.5m    9      1       36      7       0.64     0.08     0.72     1     0     67      10.0%    9       9       
-Christos Tzolis             MID   £6.5m    6      0       30      6       0.19     0.14     0.33     0     1     75      25.4%    6       6       
+Christos Tzolis             MID   £6.5m    6      0       30      6       0.19     0.14     0.33     0     1     75      25.5%    6       6       
 Declan Rice                 MID   £7.5m    3      0       10      6       0.07     0.08     0.15     0     0     67      17.9%    3       3       
 Eberechi Eze                MID   £6.5m    1      0       4       2       0.04     0        0.04     0     0     14      2.0%     1       1       
 Ethan Nwaneri               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -31,9 +31,9 @@ Mikel Merino Zazón          MID   £6.0m    1      0       5       2       0.14
 Myles Lewis-Skelly          MID   £5.5m    3      0       15      7       0.06     0.11     0.17     0     0     90      0.7%     3       3       
 Noni Madueke                MID   £6.5m    1      0       8       2       0        0.04     0.04     0     0     22      0.3%     1       1       
 Reiss Nelson                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Gabriel Fernando de Jesus   FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
+Gabriel Fernando de Jesus   FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Kai Havertz                 FWD   £7.5m    6      0       34      2       0.26     0.03     0.29     1     0     90      6.4%     6       6       
-Viktor Gyökeres             FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       8.4%     0       0       
+Viktor Gyökeres             FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       8.3%     0       0       
 
 =================================================================================================================================================
 STATISTICS LEGEND

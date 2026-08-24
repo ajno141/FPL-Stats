@@ -1,6 +1,6 @@
 NEWCASTLE
 =================================================================================================================================================
-Updated: 2026-08-24 14:11:50
+Updated: 2026-08-24 16:05:31
 Players: 27
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -20,7 +20,7 @@ Sven Botman                 DEF   £5.0m    3      0       4       10      0    
 Tino Livramento             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Aladji Bamba                MID   £5.0m    1      0       5       2       0        0        0        0     0     14      0.1%     1       1       
 Anthony Elanga              MID   £6.0m    9      2       31      2       0.22     0.01     0.23     1     0     75      1.1%     9       9       
-Bazoumana Touré             MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
+Bazoumana Touré             MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Harvey Barnes               MID   £6.0m    2      0       12      8       0.07     0.02     0.09     0     0     90      1.1%     2       2       
 Jacob Murphy                MID   £6.0m    0      0       -1      2       0        0        0        0     0     14      0.2%     0       0       
 Jacob Ramsey                MID   £5.0m    0      0       1       6       0.06     0.01     0.07     0     0     34      0.4%     0       0       
