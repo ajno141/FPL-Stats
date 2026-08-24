@@ -1,6 +1,6 @@
 FPL ALL PLAYERS
 =================================================================================================================================================
-Updated: 2026-08-23 23:41:02
+Updated: 2026-08-24 00:00:52
 Total players: 609
 
 PLAYER                      TEAM                     POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      
@@ -361,7 +361,7 @@ Florentino Ibrain Morris LuísIpswich Town             MID   £5.0m    0      0 
 Jack Clarke                 Ipswich Town             MID   £5.5m    7      1       27      2       0.10     0        0.10     1     0     19      0.3%     
 Jack Taylor                 Ipswich Town             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     
 Jaden Philogene             Ipswich Town             MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     
-Julio Enciso                Ipswich Town             MID   £5.5m    5      0       24      8       0.23     0.31     0.54     0     1     70      0.3%     
+Julio Enciso                Ipswich Town             MID   £5.5m    5      0       24      8       0.23     0.31     0.54     0     1     70      0.4%     
 Kasey McAteer               Ipswich Town             MID   £4.5m    1      0       4       3       0        0        0        0     0     24      1.4%     
 Marcelino Núñez             Ipswich Town             MID   £5.0m    4      0       26      12      0.03     0.03     0.06     0     0     79      0.1%     
 Sam Szmodics                Ipswich Town             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     
@@ -419,7 +419,7 @@ Wellity Lucky               Liverpool                DEF   £4.0m    0      0   
 Alexis Mac Allister         Liverpool                MID   £5.5m    1      0       9       3       0        0.01     0.01     0     0     27      1.7%     
 Cody Gakpo                  Liverpool                MID   £7.0m    12     3       33      12      0.30     0.15     0.45     1     0     90      3.8%     
 Curtis Jones                Liverpool                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     
-Dominik Szoboszlai          Liverpool                MID   £7.0m    8      1       29      7       0.85     0.27     1.12     1     0     90      41.9%    
+Dominik Szoboszlai          Liverpool                MID   £7.0m    8      1       29      7       0.85     0.27     1.12     1     0     90      42.0%    
 Endo Wataru                 Liverpool                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     
 Federico Chiesa             Liverpool                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     
 Florian Wirtz               Liverpool                MID   £7.5m    2      0       16      5       0.26     0.04     0.30     0     0     62      12.6%    
