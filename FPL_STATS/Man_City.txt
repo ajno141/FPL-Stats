@@ -1,6 +1,6 @@
 MAN CITY
 =================================================================================================================================================
-Updated: 2026-08-24 16:05:31
+Updated: 2026-08-24 17:49:46
 Players: 30
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -29,7 +29,7 @@ Kalvin Phillips             MID   £5.0m    0      0       0       0       0    
 Mateo Kovačić               MID   £5.5m    1      0       3       2       0        0.01     0.01     0     0     27      0.1%     1       1       
 Nico González Iglesias      MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Phil Foden                  MID   £7.0m    1      0       15      6       0.12     0.40     0.52     0     0     81      4.3%     1       1       
-Rayan Cherki                MID   £7.5m    8      1       28      0       0        0.50     0.50     0     2     27      8.8%     8       8       
+Rayan Cherki                MID   £7.5m    8      1       28      0       0        0.50     0.50     0     2     27      8.9%     8       8       
 Rodrigo 'Rodri' Hernandez CascanteMID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Sávio Moreira de Oliveira   MID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
