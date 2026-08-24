@@ -760,92 +760,7 @@ select:focus {
     }
 
 }
-/* =========================================================
-   DARK MODE
-========================================================= */
 
-body.dark {
-    --bg: #0b111b;
-    --card: #121a26;
-    --dark: #070c13;
-    --dark2: #172231;
-    --text: #f1f5f9;
-    --muted: #8996a8;
-    --border: #263344;
-    --green-light: #123c2e;
-}
-
-body.dark .topbar {
-    background: #0f1722;
-}
-
-body.dark .summary-card,
-body.dark .filters-card,
-body.dark .player-card,
-body.dark .modal {
-    background: #121a26;
-    border-color: #263344;
-}
-
-body.dark input,
-body.dark select {
-    background: #0c1420;
-    color: #f1f5f9;
-    border-color: #2b394b;
-}
-
-body.dark .position-btn {
-    background: #121a26;
-    color: #dce3ec;
-    border-color: #2b394b;
-}
-
-body.dark .position-btn.active {
-    background: var(--green);
-    color: white;
-}
-
-body.dark .mini-stat,
-body.dark .detail {
-    background: #0c1420;
-}
-
-body.dark .detail-table td {
-    border-color: #263344;
-}
-
-body.dark .club-name,
-body.dark .page-subtitle,
-body.dark .players-count {
-    color: #8996a8;
-}
-
-.topbar-right {
-    display: flex;
-    align-items: center;
-    gap: 18px;
-}
-
-.theme-toggle {
-    width: 38px;
-    height: 38px;
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    background: var(--card);
-    cursor: pointer;
-    font-size: 17px;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    transition: .15s;
-}
-
-.theme-toggle:hover {
-    transform: translateY(-1px);
-}
-    
 </style>
 </head>
 
@@ -926,16 +841,6 @@ Fantasy Premier League statistics
 </div>
 
 
-<div class="topbar-right">
-
-<button
-id="themeToggle"
-class="theme-toggle"
-title="Dark mode"
->
-🌙
-</button>
-
 <div class="live">
 
 <span class="live-dot"></span>
@@ -944,8 +849,6 @@ Live FPL Data
 
 </div>
 
-</div>
-    
 </header>
 
 
@@ -1379,11 +1282,13 @@ const clubs = [
 "Bournemouth",
 "Brentford",
 "Brighton",
-"Burnley",
 "Chelsea",
+"Coventry_City",
 "Crystal_Palace",
 "Everton",
 "Fulham",
+"Hull_City",
+"Ipswich_Town",
 "Leeds",
 "Liverpool",
 "Manchester_City",
@@ -1391,9 +1296,7 @@ const clubs = [
 "Newcastle_United",
 "Nottingham_Forest",
 "Sunderland",
-"Tottenham_Hotspur",
-"West_Ham",
-"Wolverhampton_Wanderers"
+"Tottenham_Hotspur"
 
 ];
 
@@ -1439,25 +1342,6 @@ clubs.forEach(
    PARSE LINE
 ========================================================= */
 
-/*
-
-THIS IS THE IMPORTANT FIX.
-
-We DON'T use:
-
-line.split(/\s+/)
-
-because that breaks:
-
-Gabriel dos Santos MagalhãesDEF
-
-Instead we locate the position (GK/DEF/MID/FWD)
-and split everything around it.
-
-Then the remaining columns are read from the right.
-
-*/
-
 function parsePlayerLine(line, clubName) {
 
     line =
@@ -1485,11 +1369,6 @@ function parsePlayerLine(line, clubName) {
     positionMatch.index;
 
 
-    /*
-       Everything before the position
-       is the complete player name.
-    */
-
     const playerName =
     line
     .substring(
@@ -1503,10 +1382,6 @@ function parsePlayerLine(line, clubName) {
         return null;
 
 
-    /*
-       Everything after POS.
-    */
-
     let remaining =
     line
     .substring(
@@ -1515,13 +1390,6 @@ function parsePlayerLine(line, clubName) {
     )
     .trim();
 
-
-    /*
-       Split remaining columns.
-
-       Price is first,
-       then all numeric columns.
-    */
 
     const parts =
     remaining.split(
@@ -1701,10 +1569,6 @@ function parseFile(
         rawLine.trimEnd();
 
 
-        /*
-           Ignore headers.
-        */
-
         if (
             !line ||
             line.startsWith(
@@ -1734,11 +1598,6 @@ function parseFile(
 
         }
 
-
-        /*
-           Only lines containing
-           GK / DEF / MID / FWD.
-        */
 
         if (
             !/\b(GK|DEF|MID|FWD)\b/.test(
@@ -1926,15 +1785,19 @@ function getCrest(
 
         "Brighton": 36,
 
-        "Burnley": 90,
-
         "Chelsea": 8,
+
+        "Coventry City": 9,
 
         "Crystal Palace": 31,
 
         "Everton": 11,
 
         "Fulham": 54,
+
+        "Hull City": 88,
+
+        "Ipswich Town": 40,
 
         "Leeds": 2,
 
@@ -1950,11 +1813,7 @@ function getCrest(
 
         "Sunderland": 56,
 
-        "Tottenham Hotspur": 6,
-
-        "West Ham": 21,
-
-        "Wolverhampton Wanderers": 39
+        "Tottenham Hotspur": 6
 
     };
 
@@ -2041,10 +1900,6 @@ function render() {
         }
     );
 
-
-    /*
-       Sort.
-    */
 
     filtered.sort(
         (a,b) => {
