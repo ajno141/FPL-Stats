@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-08-24 20:58:59
+Updated: 2026-08-24 21:26:15
 Gameweek: GW1
 Players: 27
 
@@ -12,7 +12,7 @@ Jaka Bijol                  DEF   £5.0m    10     2       28      12      0.11 
 Jayden Bogle                DEF   £4.5m    6      0       24      3       0        0        0        0     0     90      0.5%     6       6       
 Sebastiaan Bornauw          DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nico Elvedi                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Gabriel Gudmundsson         DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Gabriel Gudmundsson         DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 James Justin                DEF   £4.5m    10     2       28      12      0        0.01     0.01     0     0     90      0.8%     10      10      
 Jayden Lienou               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Tarik Muharemović           DEF   £5.0m    6      0       25      7       0.09     0        0.09     0     0     90      3.4%     6       6       

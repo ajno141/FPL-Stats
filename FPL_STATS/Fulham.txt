@@ -1,6 +1,6 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-08-24 20:58:59
+Updated: 2026-08-24 21:26:15
 Gameweek: GW1
 Players: 23
 
@@ -19,13 +19,13 @@ Kenny Tete                  DEF   £4.5m    0      0       0       0       0    
 Sander Berge                MID   £5.0m    2      0       14      4       0.03     0.03     0.06     0     0     72      0.4%     2       2       
 Oscar Bobb                  MID   £5.5m    2      0       10      6       0        0.29     0.29     0     0     66      0.3%     2       2       
 Tom Cairney                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Shea Charles                MID   £5.0m    1      0       5       2       0        0        0        0     0     23      0.1%     1       1       
+Shea Charles                MID   £5.0m    1      0       7       3       0        0        0        0     0     23      0.1%     1       1       
 Alex Iwobi                  MID   £5.5m    2      0       16      8       0        0.04     0.04     0     0     90      1.0%     2       2       
-Josh King                   MID   £5.5m    7      0       35      9       0.16     0.04     0.2      1     0     90      0.2%     7       7       
+Josh King                   MID   £5.5m    7      0       34      8       0.16     0.04     0.2      1     0     90      0.3%     7       7       
 César Palacios              MID   £5.5m    2      0       10      4       0.16     0.01     0.17     0     0     72      0.2%     2       2       
-Harrison Reed               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.6%     0       0       
-Kevin Santos Lopes de MacedoMID   £5.5m    1      0       8       5       0        0.01     0.01     0     0     17      0.1%     1       1       
+Harrison Reed               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.5%     0       0       
+Kevin Santos Lopes de MacedoMID   £5.5m    1      0       4       3       0        0.01     0.01     0     0     17      0.1%     1       1       
 Emile Smith Rowe            MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
-Gonzalo García              FWD   £6.0m    6      0       35      2       0.72     0        0.72     1     0     90      2.2%     6       6       
+Gonzalo García              FWD   £6.0m    6      0       35      2       0.72     0        0.72     1     0     90      2.3%     6       6       
 Jonah Kusi-Asare            FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       7.3%     0       0       
-Rodrigo Muniz Carvalho      FWD   £5.5m    1      0       6       0       0.03     0        0.03     0     0     8       0.6%     1       1       
+Rodrigo Muniz Carvalho      FWD   £5.5m    1      0       6       1       0.02     0        0.02     0     0     8       0.6%     1       1       
