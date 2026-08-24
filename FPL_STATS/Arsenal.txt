@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-08-24 00:00:52
+Updated: 2026-08-24 03:33:38
 Players: 29
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -17,14 +17,14 @@ Piero Hincapié              DEF   £5.5m    1      0       3       0       0   
 Riccardo Calafiori          DEF   £5.5m    9      0       31      5       0.04     0.09     0.13     0     1     80      40.3%    9       9       
 William Saliba              DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Bruno Guimarães Rodriguez MouraMID   £7.0m    0      0       0       0       0        0        0        0     0     0       3.7%     0       0       
-Bukayo Saka                 MID   £9.5m    9      1       36      7       0.64     0.08     0.72     1     0     67      9.9%     9       9       
+Bukayo Saka                 MID   £9.5m    9      1       36      7       0.64     0.08     0.72     1     0     67      10.0%    9       9       
 Christos Tzolis             MID   £6.5m    6      0       30      6       0.19     0.14     0.33     0     1     75      25.4%    6       6       
 Declan Rice                 MID   £7.5m    3      0       10      6       0.07     0.08     0.15     0     0     67      17.9%    3       3       
 Eberechi Eze                MID   £6.5m    1      0       4       2       0.04     0        0.04     0     0     14      2.0%     1       1       
 Ethan Nwaneri               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Fábio Ferreira Vieira       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Gabriel Martinelli Silva    MID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Martin Ødegaard             MID   £6.5m    11     3       41      8       0.21     0.10     0.31     1     0     75      9.5%     11      11      
+Martin Ødegaard             MID   £6.5m    11     3       41      8       0.21     0.10     0.31     1     0     75      9.6%     11      11      
 Martín Zubimendi Ibáñez     MID   £5.5m    1      0       3       3       0        0.02     0.02     0     0     22      1.1%     1       1       
 Max Dowman                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Mikel Merino Zazón          MID   £6.0m    1      0       5       2       0.14     0.02     0.16     0     0     14      0.7%     1       1       
@@ -32,8 +32,8 @@ Myles Lewis-Skelly          MID   £5.5m    3      0       15      7       0.06 
 Noni Madueke                MID   £6.5m    1      0       8       2       0        0.04     0.04     0     0     22      0.3%     1       1       
 Reiss Nelson                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Gabriel Fernando de Jesus   FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
-Kai Havertz                 FWD   £7.5m    6      0       34      2       0.26     0.03     0.29     1     0     90      6.2%     6       6       
-Viktor Gyökeres             FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       8.5%     0       0       
+Kai Havertz                 FWD   £7.5m    6      0       34      2       0.26     0.03     0.29     1     0     90      6.3%     6       6       
+Viktor Gyökeres             FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       8.4%     0       0       
 
 =================================================================================================================================================
 STATISTICS LEGEND
