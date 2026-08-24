@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-08-24 03:33:38
+Updated: 2026-08-24 05:26:36
 Players: 27
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -11,7 +11,7 @@ Gabriel Gudmundsson         DEF   £4.5m    0      0       0       0       0    
 Jaka Bijol                  DEF   £5.0m    10     2       28      12      0.11     0        0.11     0     0     90      0.5%     10      10      
 James Justin                DEF   £4.5m    10     2       28      12      0        0.01     0.01     0     0     90      0.7%     10      10      
 Jayden Bogle                DEF   £4.5m    6      0       24      3       0        0        0        0     0     90      0.5%     6       6       
-Jayden Lienou               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Jayden Lienou               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Joe Rodon                   DEF   £4.5m    6      0       21      7       0.03     0.06     0.09     0     0     90      3.6%     6       6       
 Nico Elvedi                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Sebastiaan Bornauw          DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

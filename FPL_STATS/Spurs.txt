@@ -1,6 +1,6 @@
 SPURS
 =================================================================================================================================================
-Updated: 2026-08-24 03:33:38
+Updated: 2026-08-24 05:26:36
 Players: 37
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -22,7 +22,7 @@ Jun'ai Byfield              DEF   £4.0m    0      0       0       0       0    
 Kevin Danso                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Marcos Senesi Barón         DEF   £6.0m    3      0       10      16      0        0.02     0.02     0     0     90      8.1%     3       3       
 Micky van de Ven            DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       4.9%     0       0       
-Pedro Porro Sauceda         DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       15.3%    0       0       
+Pedro Porro Sauceda         DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       15.2%    0       0       
 Archie Gray                 MID   £5.0m    2      0       15      5       0        0.01     0.01     0     0     85      0.2%     2       2       
 Callum Olusesi              MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.9%     0       0       
 Conor Gallagher             MID   £5.5m    0      0       1       3       0.02     0.06     0.08     0     0     45      0.3%     0       0       

@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-08-24 03:33:38
+Updated: 2026-08-24 05:26:36
 Players: 29
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -9,12 +9,12 @@ David Raya Martín           GK    £6.0m    6      0       24      0       0   
 Illan Meslier               GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Kepa Arrizabalaga Revuelta  GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Benjamin White              DEF   £5.5m    11     2       37      5       0.18     0.21     0.39     0     1     90      5.1%     11      11      
-Cristhian Mosquera          DEF   £5.5m    6      0       27      6       0        0        0        0     0     90      6.2%     6       6       
+Cristhian Mosquera          DEF   £5.5m    6      0       27      6       0        0        0        0     0     90      6.1%     6       6       
 Ezri Konsa Ngoyo            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       12.3%    0       0       
 Gabriel dos Santos MagalhãesDEF   £8.0m    5      0       21      4       0.05     0.01     0.06     0     0     90      29.6%    5       5       
 Jurriën Timber              DEF   £6.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Piero Hincapié              DEF   £5.5m    1      0       3       0       0        0        0        0     0     9       1.7%     1       1       
-Riccardo Calafiori          DEF   £5.5m    9      0       31      5       0.04     0.09     0.13     0     1     80      40.3%    9       9       
+Riccardo Calafiori          DEF   £5.5m    9      0       31      5       0.04     0.09     0.13     0     1     80      40.4%    9       9       
 William Saliba              DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Bruno Guimarães Rodriguez MouraMID   £7.0m    0      0       0       0       0        0        0        0     0     0       3.7%     0       0       
 Bukayo Saka                 MID   £9.5m    9      1       36      7       0.64     0.08     0.72     1     0     67      10.0%    9       9       
