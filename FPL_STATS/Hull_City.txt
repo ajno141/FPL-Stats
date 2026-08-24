@@ -1,6 +1,6 @@
 HULL CITY
 =================================================================================================================================================
-Updated: 2026-08-24 08:08:55
+Updated: 2026-08-24 10:21:56
 Players: 36
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -8,7 +8,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Dillon Phillips             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.6%     0       0       
 Harvey Cartwright           GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jack Butland                GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Konstantinos Tzolakis       GK    £4.5m    10     3       41      0       0        0        0        0     0     90      1.1%     10      10      
+Konstantinos Tzolakis       GK    £4.5m    10     3       41      0       0        0        0        0     0     90      1.2%     10      10      
 Thimothée Lo-Tutala         GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cathal McCarthy             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Charlie Hughes              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -40,7 +40,7 @@ Regan Slater                MID   £4.5m    6      0       20      3       0    
 Óscar Zambrano              MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Enis Destan                 FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Mason Burstow               FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Oli McBurnie                FWD   £5.5m    5      0       21      5       0.16     0.01     0.17     0     1     90      1.5%     5       5       
+Oli McBurnie                FWD   £5.5m    5      0       21      5       0.16     0.01     0.17     0     1     90      1.6%     5       5       
 
 =================================================================================================================================================
 STATISTICS LEGEND

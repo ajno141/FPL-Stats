@@ -1,6 +1,6 @@
 NEWCASTLE
 =================================================================================================================================================
-Updated: 2026-08-24 08:08:55
+Updated: 2026-08-24 10:21:56
 Players: 27
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -11,7 +11,7 @@ Mark Gillespie              GK    £4.5m    0      0       0       0       0    
 Nick Pope                   GK    £5.0m    0      0       0       0       0        0        0        0     0     0       1.4%     0       0       
 Alex Murphy                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Amar Dedic                  DEF   £4.5m    1      0       -1      9       0.03     0        0.03     0     0     90      0.3%     1       1       
-Dan Burn                    DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       2.4%     0       0       
+Dan Burn                    DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       2.3%     0       0       
 Fabian Schär                DEF   £5.0m    1      0       -1      0       0        0        0        0     0     1       0.3%     1       1       
 Leo Shahar                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lewis Hall                  DEF   £5.0m    3      0       8       11      0        0.35     0.35     0     0     90      3.7%     3       3       
@@ -19,7 +19,7 @@ Malick Thiaw                DEF   £5.0m    3      0       0       15      0    
 Sven Botman                 DEF   £5.0m    3      0       4       10      0        0.01     0.01     0     0     90      0.5%     3       3       
 Tino Livramento             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Aladji Bamba                MID   £5.0m    1      0       5       2       0        0        0        0     0     14      0.1%     1       1       
-Anthony Elanga              MID   £6.0m    9      2       31      2       0.22     0.01     0.23     1     0     75      1.0%     9       9       
+Anthony Elanga              MID   £6.0m    9      2       31      2       0.22     0.01     0.23     1     0     75      1.1%     9       9       
 Bazoumana Touré             MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Harvey Barnes               MID   £6.0m    2      0       12      8       0.07     0.02     0.09     0     0     90      1.1%     2       2       
 Jacob Murphy                MID   £6.0m    0      0       -1      2       0        0        0        0     0     14      0.2%     0       0       
@@ -28,9 +28,9 @@ Joe Willock                 MID   £5.0m    6      0       28      3       0.09 
 Joelinton Cássio Apolinário de LiraMID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lewis Miley                 MID   £5.5m    3      0       13      13      0.05     0.01     0.06     0     0     75      0.1%     3       3       
 Sean Steur                  MID   £5.0m    1      0       3       2       0        0        0        0     0     55      0.1%     1       1       
-Nick Woltemade              FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       1.8%     0       0       
+Nick Woltemade              FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       1.7%     0       0       
 Sean Neave                  FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.8%     0       0       
-William Osula               FWD   £6.0m    4      0       18      5       0.06     0.14     0.20     0     1     55      1.0%     4       4       
+William Osula               FWD   £6.0m    4      0       18      5       0.06     0.14     0.20     0     1     55      1.1%     4       4       
 Yoane Wissa                 FWD   £6.0m    4      0       7       8       1        0.02     1.02     0     1     90      2.0%     4       4       
 
 =================================================================================================================================================

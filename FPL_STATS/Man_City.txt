@@ -1,6 +1,6 @@
 MAN CITY
 =================================================================================================================================================
-Updated: 2026-08-24 08:08:55
+Updated: 2026-08-24 10:21:56
 Players: 30
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -9,8 +9,8 @@ Gerónimo Rulli              GK    £5.0m    0      0       0       0       0   
 Gianluigi Donnarumma        GK    £5.5m    3      0       12      0       0        0        0        0     0     90      8.3%     3       3       
 Marcus Bettinelli           GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Abdukodir Khusanov          DEF   £5.5m    2      0       14      4       0        0.02     0.02     0     0     90      1.8%     2       2       
-Joško Gvardiol              DEF   £5.5m    9      1       28      7       0.19     0.05     0.24     1     0     90      11.6%    9       9       
-Marc Guéhi                  DEF   £6.0m    10     2       31      4       0.89     0.32     1.21     1     0     90      17.6%    10      10      
+Joško Gvardiol              DEF   £5.5m    9      1       28      7       0.19     0.05     0.24     1     0     90      11.7%    9       9       
+Marc Guéhi                  DEF   £6.0m    10     2       31      4       0.89     0.32     1.21     1     0     90      17.7%    10      10      
 Matheus Nunes               DEF   £6.0m    1      0       4       1       0        0.04     0.04     0     0     33      1.6%     1       1       
 Max Alleyne                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nico O'Reilly               DEF   £6.5m    2      0       5       2       0.07     0.41     0.48     0     0     62      21.3%    2       2       
@@ -18,13 +18,13 @@ Rayan Aït-Nouri             DEF   £5.5m    0      0       0       0       0   
 Rico Lewis                  DEF   £4.5m    1      0       -1      2       0.17     0.02     0.19     0     0     56      0.2%     1       1       
 Rúben dos Santos Gato Alves DiasDEF   £5.5m    2      0       11      6       0        0.14     0.14     0     0     90      1.8%     2       2       
 Vitor de Oliveira Nunes dos ReisDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Antoine Semenyo             MID   £8.5m    2      0       16      5       0.06     0.02     0.08     0     0     90      25.9%    2       2       
+Antoine Semenyo             MID   £8.5m    2      0       16      5       0.06     0.02     0.08     0     0     90      25.8%    2       2       
 Claudio Echeverri           MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Divine Mukasa               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Elliot Anderson             MID   £6.5m    2      0       14      6       0        0.25     0.25     0     0     62      7.5%     2       2       
 Jack Grealish               MID   £6.5m    1      0       2       1       0        0        0        0     0     8       0.2%     1       1       
 Jeremy Monga                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jérémy Doku                 MID   £7.5m    0      0       0       0       0        0        0        0     0     0       1.8%     0       0       
+Jérémy Doku                 MID   £7.5m    0      0       0       0       0        0        0        0     0     0       1.7%     0       0       
 Kalvin Phillips             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mateo Kovačić               MID   £5.5m    1      0       3       2       0        0.01     0.01     0     0     27      0.1%     1       1       
 Nico González Iglesias      MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       

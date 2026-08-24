@@ -1,6 +1,6 @@
 MAN UTD
 =================================================================================================================================================
-Updated: 2026-08-24 08:08:55
+Updated: 2026-08-24 10:21:56
 Players: 33
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -22,7 +22,7 @@ Tyler Fredricson            DEF   £4.0m    0      0       0       0       0    
 Amad Diallo                 MID   £6.0m    0      0       0       0       0        0        0        0     0     0       1.4%     0       0       
 Andrey Nascimento dos SantosMID   £5.0m    2      0       17      9       0        0.23     0.23     0     0     66      1.0%     2       2       
 Bendito Mantato             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Bruno Borges Fernandes      MID   £12.0m   2      0       18      6       0.08     0.26     0.34     0     0     90      50.8%    2       2       
+Bruno Borges Fernandes      MID   £12.0m   2      0       18      6       0.08     0.26     0.34     0     0     90      50.7%    2       2       
 Bryan Mbeumo                MID   £8.0m    2      0       12      4       0.50     0.23     0.73     0     0     90      37.8%    2       2       
 Jack Fletcher               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Kobbie Mainoo               MID   £5.5m    1      0       7       1       0.07     0.01     0.08     0     0     23      1.0%     1       1       
