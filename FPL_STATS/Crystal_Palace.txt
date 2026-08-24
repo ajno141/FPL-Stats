@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-08-24 05:26:36
+Updated: 2026-08-24 08:08:55
 Players: 32
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -17,7 +17,7 @@ Jaydee Canvot               DEF   £5.0m    1      0       9       8       0.05 
 Oscar Mingueza              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Rio Cardines                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Takehiro Tomiyasu           DEF   £4.5m    1      0       3       1       0        0.01     0.01     0     0     18      0.4%     1       1       
-Tyrick Mitchell             DEF   £4.5m    1      0       9       5       0        0.01     0.01     0     0     90      6.2%     1       1       
+Tyrick Mitchell             DEF   £4.5m    1      0       9       5       0        0.01     0.01     0     0     90      6.1%     1       1       
 Adam Wharton                MID   £5.5m    4      0       20      14      0        0.24     0.24     0     0     90      0.9%     4       4       
 Cheick Doucouré             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Daichi Kamada               MID   £5.0m    3      0       25      14      0        0.27     0.27     0     0     90      0.3%     3       3       
@@ -30,7 +30,7 @@ Joél Drakes-Thomas          MID   £4.5m    0      0       0       0       0   
 Justin Devenny              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Matheus França de Oliveira  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Romain Esse                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Will Hughes                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       11.8%    0       0       
+Will Hughes                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       11.7%    0       0       
 Yéremy Pino Santos          MID   £5.5m    1      0       4       5       0.06     0.02     0.08     0     0     35      0.2%     1       1       
 Zavier Gozo                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Christantus Uche            FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

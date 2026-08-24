@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-08-24 05:26:36
+Updated: 2026-08-24 08:08:55
 Players: 33
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -14,7 +14,7 @@ João Pedro Loureiro da CostaDEF   £4.5m    1      0       7       4       0.12
 Lewis Dunk                  DEF   £4.5m    6      0       24      2       0        0.04     0.04     0     0     90      1.1%     6       6       
 Luka Vušković               DEF   £5.0m    6      0       19      4       0.13     0.03     0.16     0     0     90      2.5%     6       6       
 Mats Wieffer                DEF   £5.0m    7      1       32      8       0.09     0.05     0.14     0     0     77      0.3%     7       7       
-Maxim De Cuyper             DEF   £4.5m    17     2       46      4       1.47     0.21     1.68     1     1     77      2.8%     17      17      
+Maxim De Cuyper             DEF   £4.5m    17     2       46      4       1.47     0.21     1.68     1     1     77      3.0%     17      17      
 Michael Svoboda             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Olivier Boscagli            DEF   £4.5m    6      0       29      6       0        0.04     0.04     0     0     90      0.2%     6       6       
 Pascal Struijk              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
@@ -23,7 +23,7 @@ Diego Gómez Amarilla        MID   £5.0m    6      0       27      6       0.18
 Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Ibrahim Osman               MID   £5.0m    1      0       7       2       0        0.05     0.05     0     0     12      0.0%     1       1       
-Jack Hinshelwood            MID   £6.0m    16     3       54      3       1.41     0.02     1.43     2     0     63      0.9%     16      16      
+Jack Hinshelwood            MID   £6.0m    16     3       54      3       1.41     0.02     1.43     2     0     63      1.0%     16      16      
 Malick Yalcouyé             MID   £4.5m    1      0       3       0       0        0.01     0.01     0     0     4       0.0%     1       1       
 Matt O'Riley                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Mitoma Kaoru                MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -35,7 +35,7 @@ Yasin Ayari                 MID   £5.5m    2      0       8       4       0.11 
 Zadok Yohanna               MID   £5.0m    1      0       3       0       0        0.03     0.03     0     0     12      0.1%     1       1       
 Charalampos Kostoulas       FWD   £5.5m    1      0       -1      2       0.18     0        0.18     0     0     26      0.2%     1       1       
 Evan Ferguson               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Georginio Rutter            FWD   £5.5m    5      0       22      7       0.08     0.44     0.52     0     1     90      0.9%     5       5       
+Georginio Rutter            FWD   £5.5m    5      0       22      7       0.08     0.44     0.52     0     1     90      1.0%     5       5       
 Promise David               FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Stefanos Tzimas             FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 

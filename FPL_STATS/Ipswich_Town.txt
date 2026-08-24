@@ -1,6 +1,6 @@
 IPSWICH TOWN
 =================================================================================================================================================
-Updated: 2026-08-24 05:26:36
+Updated: 2026-08-24 08:08:55
 Players: 34
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -15,7 +15,7 @@ Ben Johnson                 DEF   £4.0m    0      0       0       0       0    
 Cédric Kipré                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Dara O'Shea                 DEF   £4.0m    4      0       16      18      0        0.16     0.16     0     0     90      3.5%     4       4       
 Darnell Furlong             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
-Issa Diop                   DEF   £4.0m    2      0       7       5       0        0.01     0.01     0     0     90      18.1%    2       2       
+Issa Diop                   DEF   £4.0m    2      0       7       5       0        0.01     0.01     0     0     90      18.0%    2       2       
 Jacob Greaves               DEF   £4.0m    2      0       12      7       0        0        0        0     0     90      1.5%     2       2       
 Leif Davis                  DEF   £4.0m    2      0       10      7       0        0.01     0.01     0     0     90      5.2%     2       2       
 Abdul Fatawu                MID   £5.5m    2      0       22      7       0        0.41     0.41     0     0     65      0.2%     2       2       

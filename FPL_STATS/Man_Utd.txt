@@ -1,6 +1,6 @@
 MAN UTD
 =================================================================================================================================================
-Updated: 2026-08-24 05:26:36
+Updated: 2026-08-24 08:08:55
 Players: 33
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -34,7 +34,7 @@ Patrick Dorgu               MID   £6.0m    0      0       -11     1       0.47 
 Shea Lacey                  MID   £5.0m    1      0       3       1       0        0        0        0     0     10      0.0%     1       1       
 Toby Collyer                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tyler Fletcher              MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
-Youri Tielemans             MID   £6.0m    2      0       13      5       0.04     0.11     0.15     0     0     66      2.6%     2       2       
+Youri Tielemans             MID   £6.0m    2      0       13      5       0.04     0.11     0.15     0     0     66      2.5%     2       2       
 Benjamin Sesko              FWD   £7.0m    1      0       2       0       0.04     0        0.04     0     0     23      1.5%     1       1       
 Chido Obi                   FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
 Joshua Zirkzee              FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
