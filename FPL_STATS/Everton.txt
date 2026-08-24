@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-08-24 11:48:33
+Updated: 2026-08-24 14:11:50
 Players: 24
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -22,7 +22,7 @@ Harrison Armstrong          MID   £5.0m    8      0       25      16      0    
 Hayden Hackney              MID   £5.5m    3      0       16      7       0.01     0.01     0.02     0     0     78      0.3%     3       3       
 Iliman Ndiaye               MID   £6.0m    9      1       36      12      0.24     0.32     0.56     0     1     90      16.0%    9       9       
 James Garner                MID   £6.0m    1      0       6       1       0        0.03     0.03     0     0     11      0.1%     1       1       
-Kiernan Dewsbury-Hall       MID   £6.5m    11     3       40      8       0.12     0.17     0.29     1     0     90      3.9%     11      11      
+Kiernan Dewsbury-Hall       MID   £6.5m    11     3       40      8       0.12     0.17     0.29     1     0     90      4.0%     11      11      
 Merlin Röhl                 MID   £5.0m    3      0       12      9       0        0.06     0.06     0     0     90      0.1%     3       3       
 Tim Iroegbunam              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tyler Dibling               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

@@ -1,6 +1,6 @@
 MAN CITY
 =================================================================================================================================================
-Updated: 2026-08-24 11:48:33
+Updated: 2026-08-24 14:11:50
 Players: 30
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -21,7 +21,7 @@ Vitor de Oliveira Nunes dos ReisDEF   £4.5m    0      0       0       0       0
 Antoine Semenyo             MID   £8.5m    2      0       16      5       0.06     0.02     0.08     0     0     90      25.8%    2       2       
 Claudio Echeverri           MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Divine Mukasa               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Elliot Anderson             MID   £6.5m    2      0       14      6       0        0.25     0.25     0     0     62      7.5%     2       2       
+Elliot Anderson             MID   £6.5m    2      0       14      6       0        0.25     0.25     0     0     62      7.4%     2       2       
 Jack Grealish               MID   £6.5m    1      0       2       1       0        0        0        0     0     8       0.2%     1       1       
 Jeremy Monga                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jérémy Doku                 MID   £7.5m    0      0       0       0       0        0        0        0     0     0       1.7%     0       0       
@@ -29,7 +29,7 @@ Kalvin Phillips             MID   £5.0m    0      0       0       0       0    
 Mateo Kovačić               MID   £5.5m    1      0       3       2       0        0.01     0.01     0     0     27      0.1%     1       1       
 Nico González Iglesias      MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Phil Foden                  MID   £7.0m    1      0       15      6       0.12     0.40     0.52     0     0     81      4.4%     1       1       
-Rayan Cherki                MID   £7.5m    8      1       28      0       0        0.50     0.50     0     2     27      8.7%     8       8       
+Rayan Cherki                MID   £7.5m    8      1       28      0       0        0.50     0.50     0     2     27      8.8%     8       8       
 Rodrigo 'Rodri' Hernandez CascanteMID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Sávio Moreira de Oliveira   MID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       

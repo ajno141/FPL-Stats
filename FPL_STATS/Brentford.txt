@@ -1,6 +1,6 @@
 BRENTFORD
 =================================================================================================================================================
-Updated: 2026-08-24 11:48:33
+Updated: 2026-08-24 14:11:50
 Players: 26
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -23,7 +23,7 @@ Jaidon Anthony              MID   £6.0m    1      0       9       8       0.03 
 Josh Dasilva                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Keane Lewis-Potter          MID   £5.5m    10     2       37      10      0.77     0.12     0.89     1     0     90      0.6%     10      10      
 Kevin Schade                MID   £6.0m    3      0       17      9       0.52     0.01     0.53     0     0     90      3.6%     3       3       
-Mamadou Sangaré             MID   £5.5m    14     3       41      13      0.05     0.33     0.38     0     2     75      4.6%     14      14      
+Mamadou Sangaré             MID   £5.5m    14     3       41      13      0.05     0.33     0.38     0     2     75      4.7%     14      14      
 Mathias Jensen              MID   £5.5m    6      0       22      5       0.08     0.34     0.42     0     1     66      0.2%     6       6       
 Mikkel Damsgaard            MID   £5.5m    1      0       6       4       0        0.11     0.11     0     0     14      0.6%     1       1       
 Vitaly Janelt               MID   £5.0m    9      0       35      13      0.39     0.17     0.56     1     0     90      0.2%     9       9       

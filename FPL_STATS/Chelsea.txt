@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-08-24 11:48:33
+Updated: 2026-08-24 14:11:50
 Players: 38
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -19,7 +19,7 @@ Mamadou Sarr                DEF   £4.5m    0      0       0       0       0    
 Marco Palestra              DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       3.0%     0       0       
 Maxence Lacroix             DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       9.1%     0       0       
 Pep Chavarría               DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Reece James                 DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       10.3%    0       0       
+Reece James                 DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       10.4%    0       0       
 Tosin Adarabioyo            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Trevoh Chalobah             DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Wesley Fofana               DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
