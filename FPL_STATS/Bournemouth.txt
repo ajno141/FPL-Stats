@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-08-24 17:49:46
+Updated: 2026-08-24 19:17:32
 Players: 28
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -31,7 +31,7 @@ Ryan Christie               MID   £5.0m    0      0       0       0       0    
 Tyler Adams                 MID   £5.0m    1      0       4       3       0        0        0        0     0     15      0.2%     1       1       
 Daniel Jebbison             FWD   £5.0m    1      0       6       1       0.10     0        0.10     0     0     15      0.0%     1       1       
 Enes Ünal                   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Francisco Evanilson de Lima BarbosaFWD   £6.0m    4      0       17      8       0        0.21     0.21     0     1     74      2.5%     4       4       
+Francisco Evanilson de Lima BarbosaFWD   £6.0m    4      0       17      8       0        0.21     0.21     0     1     74      2.6%     4       4       
 Álvaro Rodríguez            FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 
 =================================================================================================================================================

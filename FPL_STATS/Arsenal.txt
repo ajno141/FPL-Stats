@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-08-24 17:49:46
+Updated: 2026-08-24 19:17:32
 Players: 29
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -24,7 +24,7 @@ Eberechi Eze                MID   £6.5m    1      0       4       2       0.04 
 Ethan Nwaneri               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Fábio Ferreira Vieira       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Gabriel Martinelli Silva    MID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Martin Ødegaard             MID   £6.5m    11     3       41      8       0.21     0.10     0.31     1     0     75      9.8%     11      11      
+Martin Ødegaard             MID   £6.5m    11     3       41      8       0.21     0.10     0.31     1     0     75      9.9%     11      11      
 Martín Zubimendi Ibáñez     MID   £5.5m    1      0       3       3       0        0.02     0.02     0     0     22      1.1%     1       1       
 Max Dowman                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Mikel Merino Zazón          MID   £6.0m    1      0       5       2       0.14     0.02     0.16     0     0     14      0.7%     1       1       

@@ -1,6 +1,6 @@
 COVENTRY CITY
 =================================================================================================================================================
-Updated: 2026-08-24 17:49:46
+Updated: 2026-08-24 19:17:32
 Players: 33
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -17,7 +17,7 @@ Kaine Kesler-Hayden         DEF   £4.0m    0      0       0       0       0    
 Liam Kitching               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Luke Woolfenden             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Miguel Brau                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Milan van Ewijk             DEF   £4.0m    1      0       -8      7       0        0.01     0.01     0     0     90      13.6%    1       1       
+Milan van Ewijk             DEF   £4.0m    1      0       -8      7       0        0.01     0.01     0     0     90      13.5%    1       1       
 Caleb Yirenkyi              MID   £5.0m    1      0       2       3       0        0        0        0     0     61      0.3%     1       1       
 Ephron Mason-Clark          MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Frank Onyeka                MID   £5.0m    2      0       8       9       0        0.01     0.01     0     0     90      0.2%     2       2       

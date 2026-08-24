@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-08-24 17:49:46
+Updated: 2026-08-24 19:17:32
 Players: 32
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -30,12 +30,12 @@ Joél Drakes-Thomas          MID   £4.5m    0      0       0       0       0   
 Justin Devenny              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Matheus França de Oliveira  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Romain Esse                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Will Hughes                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       11.7%    0       0       
+Will Hughes                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       11.6%    0       0       
 Yéremy Pino Santos          MID   £5.5m    1      0       4       5       0.06     0.02     0.08     0     0     35      0.2%     1       1       
 Zavier Gozo                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Christantus Uche            FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Eddie Nketiah               FWD   £5.5m    1      0       12      3       0.60     0.58     1.18     0     0     55      0.5%     1       1       
-Jean-Philippe Mateta        FWD   £6.5m    2      0       -3      5       0.70     0.02     0.72     0     0     62      5.7%     2       2       
+Jean-Philippe Mateta        FWD   £6.5m    2      0       -3      5       0.70     0.02     0.72     0     0     62      5.6%     2       2       
 Jørgen Strand Larsen        FWD   £6.0m    1      0       3       0       0.25     0.01     0.26     0     0     27      0.6%     1       1       
 
 =================================================================================================================================================
