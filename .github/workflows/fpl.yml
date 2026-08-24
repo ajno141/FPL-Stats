@@ -1,19 +1,19 @@
-name: FPL Script
+name: FPL Live Stats
 
 on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  run-fpl:
+  update-fpl:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -26,11 +26,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run FPL script
+      - name: Update FPL statistics
         run: |
           python fpl_stats.py
 
-      - name: Commit updated FPL stats
+      - name: Save updated statistics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -38,8 +38,8 @@ jobs:
           git add FPL_STATS/
 
           if git diff --cached --quiet; then
-            echo "No FPL data changes."
+            echo "No changes."
           else
-            git commit -m "Update FPL stats"
+            git commit -m "Live FPL update"
             git push
           fi
