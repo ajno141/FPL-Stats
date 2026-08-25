@@ -1,6 +1,6 @@
 COVENTRY CITY
 =================================================================================================================================================
-Updated: 2026-08-25 09:20:57
+Updated: 2026-08-25 11:02:03
 Gameweek: GW1
 Players: 33
 
@@ -31,7 +31,7 @@ Tatsuhiro Sakamoto          MID   £5.0m    0      0       0       0       0    
 George Shepherd             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Loum Tchaouna               MID   £5.5m    2      0       11      8       0.04     0.02     0.06     0     0     81      0.2%     2       2       
 Victor Torp                 MID   £5.5m    1      0       8       1       0        0.11     0.11     0     0     28      0.2%     1       1       
-Caleb Yirenkyi              MID   £5.0m    1      0       2       3       0        0        0        0     0     61      0.3%     1       1       
+Caleb Yirenkyi              MID   £5.0m    1      0       2       3       0        0        0        0     0     61      0.2%     1       1       
 Taiwo Awoniyi               FWD   £5.5m    1      0       4       1       0        0        0        0     0     20      0.8%     1       1       
 Norman Bassette             FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Sidiki Cherif               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       

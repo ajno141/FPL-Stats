@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-08-25 09:20:57
+Updated: 2026-08-25 11:02:03
 Gameweek: GW1
 Players: 32
 
@@ -13,10 +13,10 @@ Jaydee Canvot               DEF   £5.0m    1      0       9       8       0.05 
 Rio Cardines                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Anan Khalaili               DEF   £5.0m    1      0       12      9       0        0.16     0.16     0     0     35      0.1%     1       1       
 Oscar Mingueza              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Tyrick Mitchell             DEF   £4.5m    1      0       9       5       0        0.01     0.01     0     0     90      6.0%     1       1       
+Tyrick Mitchell             DEF   £4.5m    1      0       9       5       0        0.01     0.01     0     0     90      5.9%     1       1       
 Daniel Muñoz Mejía          DEF   £5.5m    0      0       -4      4       0.23     0.01     0.24     0     0     54      9.1%     0       0       
 Chadi Riad Dnanou           DEF   £4.5m    1      0       7       7       0        0.01     0.01     0     0     72      0.1%     1       1       
-Chris Richards              DEF   £5.0m    3      0       13      16      0        0        0        0     0     90      0.8%     3       3       
+Chris Richards              DEF   £5.0m    3      0       13      16      0        0        0        0     0     90      0.7%     3       3       
 Borna Sosa                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Takehiro Tomiyasu           DEF   £4.5m    1      0       3       1       0        0.01     0.01     0     0     18      0.4%     1       1       
 Justin Devenny              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
