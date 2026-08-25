@@ -1,6 +1,6 @@
 HULL CITY
 =================================================================================================================================================
-Updated: 2026-08-25 07:33:06
+Updated: 2026-08-25 09:20:57
 Gameweek: GW1
 Players: 36
 
@@ -10,11 +10,11 @@ Jack Butland                GK    £4.5m    0      0       0       0       0    
 Harvey Cartwright           GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Thimothée Lo-Tutala         GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Dillon Phillips             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.6%     0       0       
-Konstantinos Tzolakis       GK    £4.5m    10     3       41      0       0        0        0        0     0     90      1.5%     10      10      
+Konstantinos Tzolakis       GK    £4.5m    10     3       41      0       0        0        0        0     0     90      1.6%     10      10      
 Semi Ajayi                  DEF   £4.0m    14     2       39      7       0.52     0        0.52     1     0     63      1.4%     14      14      
 Lewie Coyle                 DEF   £4.0m    6      0       23      2       0        0.01     0.01     0     0     69      0.7%     6       6       
 Cody Drameh                 DEF   £4.0m    1      0       4       3       0.05     0        0.05     0     0     20      0.1%     1       1       
-John Egan                   DEF   £4.0m    8      0       27      21      0        0        0        0     0     90      1.8%     8       8       
+John Egan                   DEF   £4.0m    8      0       27      21      0        0        0        0     0     90      1.9%     8       8       
 Ryan Giles                  DEF   £4.0m    6      0       24      6       0.02     0.07     0.09     0     0     84      0.9%     6       6       
 Lucas Herrington            DEF   £4.0m    1      0       4       4       0        0        0        0     0     26      0.7%     1       1       
 Charlie Hughes              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -41,4 +41,4 @@ Elliot Stroud               MID   £5.0m    3      0       11      6       0    
 Abdülkadir Ömür             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mason Burstow               FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Enis Destan                 FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
-Oli McBurnie                FWD   £5.5m    5      0       21      5       0.16     0.01     0.17     0     1     90      1.7%     5       5       
+Oli McBurnie                FWD   £5.5m    5      0       21      5       0.16     0.01     0.17     0     1     90      1.8%     5       5       

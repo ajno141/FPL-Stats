@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-08-25 07:33:06
+Updated: 2026-08-25 09:20:57
 Gameweek: GW1
 Players: 33
 
@@ -10,9 +10,9 @@ Jason Steele                GK    £4.0m    0      0       0       0       0    
 Bart Verbruggen             GK    £4.5m    6      0       25      0       0        0        0        0     0     90      21.7%    6       6       
 Olivier Boscagli            DEF   £4.5m    6      0       29      6       0        0.04     0.04     0     0     90      0.2%     6       6       
 Diego Coppola               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Maxim De Cuyper             DEF   £4.5m    17     2       46      4       1.47     0.21     1.68     1     1     77      4.7%     17      17      
+Maxim De Cuyper             DEF   £4.5m    17     2       46      4       1.47     0.21     1.68     1     1     77      4.9%     17      17      
 Lewis Dunk                  DEF   £4.5m    6      0       24      2       0        0.04     0.04     0     0     90      1.1%     6       6       
-Ferdi Kadıoğlu              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       2.6%     0       0       
+Ferdi Kadıoğlu              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       2.5%     0       0       
 João Pedro Loureiro da CostaDEF   £4.5m    1      0       7       4       0.12     0        0.12     0     0     26      0.0%     1       1       
 Pascal Struijk              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Michael Svoboda             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -22,7 +22,7 @@ Igor Julio dos Santos de PauloDEF   £4.5m    0      0       0       0       0  
 Yasin Ayari                 MID   £5.5m    2      0       8       4       0.11     0.03     0.14     0     0     63      0.7%     2       2       
 Carlos Baleba               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Pascal Groß                 MID   £5.5m    2      0       18      5       0        0.27     0.27     0     0     90      13.7%    2       2       
+Pascal Groß                 MID   £5.5m    2      0       18      5       0        0.27     0.27     0     0     90      13.6%    2       2       
 Diego Gómez Amarilla        MID   £5.0m    6      0       27      6       0.18     0.48     0.66     0     1     85      3.8%     6       6       
 Jack Hinshelwood            MID   £6.0m    16     3       54      3       1.41     0.02     1.43     2     0     63      1.5%     16      16      
 Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
