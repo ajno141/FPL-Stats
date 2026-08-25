@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-08-25 14:30:11
+Updated: 2026-08-25 16:20:04
 Gameweek: GW1
 Players: 35
 
@@ -26,7 +26,7 @@ Virgil van Dijk             DEF   £6.5m    2      0       8       11      0.25 
 Stefan Bajčetić Maquieira   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Federico Chiesa             MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Harvey Elliott              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Cody Gakpo                  MID   £7.0m    12     3       33      12      0.3      0.15     0.45     1     0     90      4.9%     12      12      
+Cody Gakpo                  MID   £7.0m    12     3       33      12      0.3      0.15     0.45     1     0     90      5.0%     12      12      
 Ryan Gravenberch            MID   £6.0m    5      0       26      11      0.06     0.05     0.11     0     1     77      2.0%     5       5       
 Curtis Jones                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lewis Koumas                MID   £5.0m    1      0       4       1       0.03     0        0.03     0     0     12      0.0%     1       1       
