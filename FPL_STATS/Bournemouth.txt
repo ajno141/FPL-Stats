@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-08-25 11:02:03
+Updated: 2026-08-25 12:03:17
 Gameweek: GW1
 Players: 28
 
@@ -20,7 +20,7 @@ Juanlu Sánchez              DEF   £4.5m    0      0       0       0       0   
 Adrien Truffert             DEF   £5.5m    1      0       0       7       0        0        0        0     0     90      4.3%     1       1       
 Tyler Adams                 MID   £5.0m    1      0       4       3       0        0        0        0     0     15      0.2%     1       1       
 Amine Adli                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-David Brooks                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+David Brooks                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Ryan Christie               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lewis Cook                  MID   £5.0m    3      0       8       7       0        0        0        0     0     75      0.2%     3       3       
 Ben Gannon-Doak             MID   £5.0m    1      0       3       1       0        0        0        0     0     1       0.1%     1       1       
