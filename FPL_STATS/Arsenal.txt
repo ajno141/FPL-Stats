@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-08-25 20:53:19
+Updated: 2026-08-25 21:56:19
 Gameweek: GW1
 Players: 29
 
@@ -27,7 +27,7 @@ Gabriel Martinelli Silva    MID   £6.5m    0      0       0       0       0    
 Mikel Merino Zazón          MID   £6.0m    1      0       5       2       0.14     0.02     0.16     0     0     14      0.6%     1       1       
 Reiss Nelson                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ethan Nwaneri               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Declan Rice                 MID   £7.5m    3      0       10      6       0.07     0.08     0.15     0     0     67      17.5%    3       3       
+Declan Rice                 MID   £7.5m    3      0       10      6       0.07     0.08     0.15     0     0     67      17.4%    3       3       
 Bukayo Saka                 MID   £9.5m    9      1       36      7       0.64     0.08     0.72     1     0     67      10.3%    9       9       
 Christos Tzolis             MID   £6.5m    6      0       30      6       0.19     0.14     0.33     0     1     75      25.8%    6       6       
 Martín Zubimendi Ibáñez     MID   £5.5m    1      0       3       3       0        0.02     0.02     0     0     22      1.0%     1       1       
