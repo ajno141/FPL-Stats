@@ -1,6 +1,6 @@
 COVENTRY CITY
 =================================================================================================================================================
-Updated: 2026-08-25 05:08:38
+Updated: 2026-08-25 07:33:06
 Gameweek: GW1
 Players: 33
 
@@ -18,7 +18,7 @@ Liam Kitching               DEF   £4.0m    0      0       0       0       0    
 Joel Latibeaudiere          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bobby Thomas                DEF   £4.0m    3      0       11      10      0.02     0.01     0.03     0     0     90      8.0%     3       3       
 Luke Woolfenden             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Milan van Ewijk             DEF   £4.0m    1      0       -8      7       0        0.01     0.01     0     0     90      13.5%    1       1       
+Milan van Ewijk             DEF   £4.0m    1      0       -8      7       0        0.01     0.01     0     0     90      13.4%    1       1       
 Kaine Andrews               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Raphael Borges Rodrigues    MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Josh Eccles                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

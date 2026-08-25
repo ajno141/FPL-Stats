@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-08-25 05:08:38
+Updated: 2026-08-25 07:33:06
 Gameweek: GW1
 Players: 31
 
@@ -9,7 +9,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Marco Bizot                 GK    £4.5m    1      0       1       0       0        0        0        0     0     90      0.1%     1       1       
 Emiliano Martínez Romero    GK    £5.0m    0      0       0       0       0        0        0        0     0     0       4.3%     0       0       
 Zion Suzuki                 GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.8%     0       0       
-Matty Cash                  DEF   £4.5m    -1     0       -8      7       0        0        0        0     0     90      8.4%     -1      -1      
+Matty Cash                  DEF   £4.5m    -1     0       -8      7       0        0        0        0     0     90      8.3%     -1      -1      
 Lucas Digne                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Andrés García               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.7%     0       0       
 Victor Lindelöf             DEF   £4.5m    -2     0       -13     3       0        0        0        0     0     90      0.3%     -2      -2      
