@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-08-25 21:56:19
+Updated: 2026-08-25 23:01:07
 Gameweek: GW1
 Players: 32
 
@@ -36,5 +36,5 @@ Ismaïla Sarr                MID   £6.5m    0      0       0       0       0   
 Adam Wharton                MID   £5.5m    4      0       20      14      0        0.24     0.24     0     0     90      0.9%     4       4       
 Jean-Philippe Mateta        FWD   £6.5m    2      0       -3      5       0.7      0.02     0.72     0     0     62      5.4%     2       2       
 Eddie Nketiah               FWD   £5.5m    1      0       12      3       0.6      0.58     1.18     0     0     55      0.5%     1       1       
-Jørgen Strand Larsen        FWD   £6.0m    1      0       3       0       0.25     0.01     0.26     0     0     27      0.6%     1       1       
+Jørgen Strand Larsen        FWD   £6.0m    1      0       3       0       0.25     0.01     0.26     0     0     27      0.5%     1       1       
 Christantus Uche            FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

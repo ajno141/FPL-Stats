@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-08-25 21:56:19
+Updated: 2026-08-25 23:01:07
 Gameweek: GW1
 Players: 35
 
@@ -30,12 +30,12 @@ Cody Gakpo                  MID   £7.0m    12     3       33      12      0.3  
 Ryan Gravenberch            MID   £6.0m    5      0       26      11      0.06     0.05     0.11     0     1     77      2.0%     5       5       
 Curtis Jones                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lewis Koumas                MID   £5.0m    1      0       4       1       0.03     0        0.03     0     0     12      0.0%     1       1       
-Alexis Mac Allister         MID   £5.5m    1      0       9       3       0        0.01     0.01     0     0     27      1.7%     1       1       
+Alexis Mac Allister         MID   £5.5m    1      0       9       3       0        0.01     0.01     0     0     27      1.6%     1       1       
 James McConnell             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Victor Munoz                MID   £6.5m    4      0       15      0       0.1      0.04     0.14     0     1     27      0.6%     4       4       
 Rio Ngumoha                 MID   £6.0m    2      0       9       3       0.04     0.02     0.06     0     0     62      1.1%     2       2       
 Trey Nyoni                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Dominik Szoboszlai          MID   £7.0m    8      1       29      7       0.85     0.27     1.12     1     0     90      42.7%    8       8       
+Dominik Szoboszlai          MID   £7.0m    8      1       29      7       0.85     0.27     1.12     1     0     90      42.8%    8       8       
 Endo Wataru                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Florian Wirtz               MID   £7.5m    2      0       16      5       0.26     0.04     0.3      0     0     62      12.0%    2       2       
 Jayden Danns                FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
