@@ -1,12 +1,12 @@
 IPSWICH TOWN
 =================================================================================================================================================
-Updated: 2026-08-25 12:03:17
+Updated: 2026-08-25 14:30:11
 Gameweek: GW1
 Players: 34
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
-David Button                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
+David Button                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Alex Palmer                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       4.6%     0       0       
 Kjell Scherpen              GK    £4.5m    2      0       12      0       0        0        0        0     0     90      0.7%     2       2       
 Christian Walton            GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
@@ -37,6 +37,6 @@ Sam Szmodics                MID   £5.0m    0      0       0       0       0    
 Jack Taylor                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Chuba Akpom                 FWD   £5.0m    1      0       3       3       0        0        0        0     0     24      0.5%     1       1       
 Ali Al-Hamadi               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Emersonn Correia da Silva   FWD   £5.5m    9      3       41      3       0.82     0.06     0.88     1     0     65      1.1%     9       9       
+Emersonn Correia da Silva   FWD   £5.5m    9      3       41      3       0.82     0.06     0.88     1     0     65      1.2%     9       9       
 George Hirst                FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Sindre Walle Egeli          FWD   £4.5m    1      0       3       0       0        0        0        0     0     10      2.3%     1       1       

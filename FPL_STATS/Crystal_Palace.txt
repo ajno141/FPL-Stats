@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-08-25 12:03:17
+Updated: 2026-08-25 14:30:11
 Gameweek: GW1
 Players: 32
 
@@ -26,13 +26,13 @@ Romain Esse                 MID   £5.0m    0      0       0       0       0    
 Matheus França de Oliveira  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Zavier Gozo                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Evann Guessand              MID   £5.5m    1      0       3       1       0.03     0.02     0.05     0     0     27      0.0%     1       1       
-Will Hughes                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       11.4%    0       0       
+Will Hughes                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       11.3%    0       0       
 Daichi Kamada               MID   £5.0m    3      0       25      14      0        0.27     0.27     0     0     90      0.3%     3       3       
 Jefferson Lerma Solís       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Dwight McNeil               MID   £5.5m    2      0       11      5       0.05     0.02     0.07     0     0     62      0.2%     2       2       
 Yéremy Pino Santos          MID   £5.5m    1      0       4       5       0.06     0.02     0.08     0     0     35      0.2%     1       1       
 Jesurun Rak-Sakyi           MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Ismaïla Sarr                MID   £6.5m    0      0       0       0       0        0        0        0     0     0       3.6%     0       0       
+Ismaïla Sarr                MID   £6.5m    0      0       0       0       0        0        0        0     0     0       3.5%     0       0       
 Adam Wharton                MID   £5.5m    4      0       20      14      0        0.24     0.24     0     0     90      0.9%     4       4       
 Jean-Philippe Mateta        FWD   £6.5m    2      0       -3      5       0.7      0.02     0.72     0     0     62      5.5%     2       2       
 Eddie Nketiah               FWD   £5.5m    1      0       12      3       0.6      0.58     1.18     0     0     55      0.5%     1       1       

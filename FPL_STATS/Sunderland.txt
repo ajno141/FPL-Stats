@@ -1,8 +1,8 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-08-25 12:03:17
+Updated: 2026-08-25 14:30:11
 Gameweek: GW1
-Players: 25
+Players: 26
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,11 +12,12 @@ Robin Roefs                 GK    £5.0m    1      0       7       0       0    
 Omar Alderete               DEF   £5.0m    1      0       2       0       0        0.01     0.01     0     0     23      0.5%     1       1       
 Daniel Ballard              DEF   £5.0m    0      0       4       9       0        0.01     0.01     0     0     90      5.3%     0       0       
 Leo Fuhr Hjelde             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Trai Hume                   DEF   £4.5m    2      0       14      4       0.04     0.27     0.31     0     0     79      6.7%     2       2       
+Trai Hume                   DEF   £4.5m    2      0       14      4       0.04     0.27     0.31     0     0     79      6.6%     2       2       
 Reinildo Mandava            DEF   £4.5m    1      0       9       8       0        0.29     0.29     0     0     90      0.5%     1       1       
 Arthur Masuaku              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Thomas Meunier              DEF   £4.5m    1      0       5       4       0.08     0.08     0.16     0     0     90      0.3%     1       1       
 Nordi Mukiele               DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       2.7%     0       0       
+Dayann Méthalie             DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Luke O'Nien                 DEF   £4.0m    1      0       1       5       0.01     0.01     0.02     0     0     66      3.6%     1       1       
 Jenson Seelt                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Simon Adingra               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
