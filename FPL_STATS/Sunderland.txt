@@ -1,8 +1,8 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-08-26 11:50:56
+Updated: 2026-08-26 14:25:32
 Gameweek: GW1
-Players: 26
+Players: 27
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -16,15 +16,16 @@ Trai Hume                   DEF   £4.5m    2      0       14      4       0.04 
 Reinildo Mandava            DEF   £4.5m    1      0       9       8       0        0.29     0.29     0     0     90      0.5%     1       1       
 Arthur Masuaku              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Thomas Meunier              DEF   £4.5m    1      0       5       4       0.08     0.08     0.16     0     0     90      0.3%     1       1       
-Nordi Mukiele               DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       2.7%     0       0       
+Nordi Mukiele               DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       2.6%     0       0       
 Dayann Méthalie             DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Luke O'Nien                 DEF   £4.0m    1      0       1       5       0.01     0.01     0.02     0     0     66      3.5%     1       1       
 Jenson Seelt                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Simon Adingra               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Jules Ahoka                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nilson Angulo               MID   £5.0m    5      0       23      7       0.15     0.01     0.16     1     0     58      0.1%     5       5       
 Djiamgone Jocelin Ta Bi     MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Habib Diarra                MID   £5.5m    1      0       3       0       0.03     0        0.03     0     0     10      0.1%     1       1       
-Enzo Le Fée                 MID   £6.0m    2      0       13      2       0        0.03     0.03     0     0     79      9.2%     2       2       
+Enzo Le Fée                 MID   £6.0m    2      0       13      2       0        0.03     0.03     0     0     79      9.1%     2       2       
 Romaine Mundle              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Chris Rigg                  MID   £5.0m    1      0       3       1       0        0        0        0     0     10      0.1%     1       1       
 Noah Sadiki                 MID   £5.0m    2      0       18      2       0.06     0.03     0.09     0     0     90      0.3%     2       2       
