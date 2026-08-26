@@ -1,6 +1,6 @@
 COVENTRY CITY
 =================================================================================================================================================
-Updated: 2026-08-26 10:08:25
+Updated: 2026-08-26 11:50:56
 Gameweek: GW1
 Players: 33
 
@@ -12,7 +12,7 @@ Ben Wilson                  GK    £4.5m    0      0       0       0       0    
 Aurèle Amenda               DEF   £4.0m    1      0       1       9       0        0.01     0.01     0     0     90      0.9%     1       1       
 Jake Bidwell                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Miguel Brau                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jay Dasilva                 DEF   £4.0m    1      0       -4      6       0        0.02     0.02     0     0     90      0.9%     1       1       
+Jay Dasilva                 DEF   £4.0m    1      0       -4      6       0        0.02     0.02     0     0     90      0.8%     1       1       
 Kaine Kesler-Hayden         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Liam Kitching               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Joel Latibeaudiere          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
