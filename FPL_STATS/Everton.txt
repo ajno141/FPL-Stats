@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-08-28 22:03:01
+Updated: 2026-08-28 22:13:35
 Gameweek: GW2
 Players: 24
 
@@ -15,9 +15,9 @@ Michael Keane               DEF   £5.0m    0      0       0       0       0    
 Vitalii Mykolenko           DEF   £4.5m    0      0       0       0       0        0.05     0.05     0     0     0       1.7%     3       6       
 Jake O'Brien                DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Nathan Patterson            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-James Tarkowski             DEF   £6.0m    0      0       0       0       0.05     0        0.05     0     0     0       8.7%     3       6       
+James Tarkowski             DEF   £6.0m    0      0       0       0       0.05     0        0.05     0     0     0       8.6%     3       6       
 Carlos Alcaraz Durán        MID   £5.0m    0      0       0       0       0.02     0        0.02     0     0     0       0.1%     0.5     1       
-Harrison Armstrong          MID   £5.0m    0      0       0       0       0        0.04     0.04     0     0     0       0.2%     4       8       
+Harrison Armstrong          MID   £5.0m    0      0       0       0       0        0.04     0.04     0     0     0       0.3%     4       8       
 Kiernan Dewsbury-Hall       MID   £6.5m    0      0       0       0       0.12     0.17     0.29     0     0     0       4.7%     5.5     11      
 Tyler Dibling               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 James Garner                MID   £6.0m    0      0       0       0       0        0.03     0.03     0     0     0       0.1%     0.5     1       
