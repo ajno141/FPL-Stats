@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-08-28 22:54:55
+Updated: 2026-08-28 23:05:23
 Gameweek: GW2
 Players: 33
 
@@ -13,7 +13,7 @@ Diego Coppola               DEF   £4.5m    0      0       0       0       0    
 Maxim De Cuyper             DEF   £4.6m    0      0       0       0       1.47     0.21     1.68     0     0     0       8.8%     8.5     17      
 Lewis Dunk                  DEF   £4.5m    0      0       0       0       0        0.04     0.04     0     0     0       1.2%     3       6       
 Jaouen Hadjam               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Ferdi Kadıoğlu              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       2.2%     0       0       
+Ferdi Kadıoğlu              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       2.2%     0       0       
 João Pedro Loureiro da CostaDEF   £4.5m    0      0       0       0       0.12     0        0.12     0     0     0       0.0%     0.5     1       
 Pascal Struijk              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Michael Svoboda             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -27,7 +27,7 @@ Diego Gómez Amarilla        MID   £5.0m    0      0       0       0       0.18
 Jack Hinshelwood            MID   £6.0m    0      0       0       0       1.41     0.02     1.43     0     0     0       2.2%     8       16      
 Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Mitoma Kaoru                MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Yankuba Minteh              MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Yankuba Minteh              MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Matt O'Riley                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Nehemiah Oriola             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Ibrahim Osman               MID   £5.0m    0      0       0       0       0        0.05     0.05     0     0     0       0.0%     0.5     1       

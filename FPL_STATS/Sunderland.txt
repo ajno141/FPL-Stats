@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-08-28 22:54:55
+Updated: 2026-08-28 23:05:23
 Gameweek: GW2
 Players: 27
 
@@ -20,7 +20,7 @@ Nordi Mukiele               DEF   £5.5m    0      0       0       0       0    
 Dayann Méthalie             DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Luke O'Nien                 DEF   £4.0m    0      0       0       0       0.01     0.01     0.02     0     0     0       3.4%     0.5     1       
 Jenson Seelt                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Simon Adingra               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Simon Adingra               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Jules Ahoka                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Nilson Angulo               MID   £5.0m    0      0       0       0       0.15     0.01     0.16     0     0     0       0.1%     2.5     5       
 Djiamgone Jocelin Ta Bi     MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
