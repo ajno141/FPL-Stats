@@ -1,6 +1,6 @@
 COVENTRY CITY
 =================================================================================================================================================
-Updated: 2026-08-26 14:25:32
+Updated: 2026-08-28 00:57:19
 Gameweek: GW1
 Players: 33
 
@@ -18,8 +18,8 @@ Liam Kitching               DEF   £4.0m    0      0       0       0       0    
 Joel Latibeaudiere          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bobby Thomas                DEF   £4.0m    3      0       11      10      0.02     0.01     0.03     0     0     90      7.9%     3       3       
 Luke Woolfenden             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Milan van Ewijk             DEF   £4.0m    1      0       -8      7       0        0.01     0.01     0     0     90      13.2%    1       1       
-Kaine Andrews               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
+Milan van Ewijk             DEF   £4.0m    1      0       -8      7       0        0.01     0.01     0     0     90      13.1%    1       1       
+Kai Andrews                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Raphael Borges Rodrigues    MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Josh Eccles                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Matt Grimes                 MID   £5.0m    2      0       14      7       0        0.01     0.01     0     0     90      0.2%     2       2       
@@ -38,4 +38,4 @@ Sidiki Cherif               FWD   £5.0m    0      0       0       0       0    
 Jahnoah Markelo             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ellis Simms                 FWD   £5.0m    2      0       7       3       0        0.01     0.01     0     0     69      1.0%     2       2       
 Brandon Thomas-Asante       FWD   £5.0m    2      0       9       6       0        0.02     0.02     0     0     69      0.8%     2       2       
-Haji Wright                 FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
+Haji Wright                 FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
