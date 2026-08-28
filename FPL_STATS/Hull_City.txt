@@ -1,6 +1,6 @@
 HULL CITY
 =================================================================================================================================================
-Updated: 2026-08-28 22:44:36
+Updated: 2026-08-28 22:54:55
 Gameweek: GW2
 Players: 37
 
@@ -11,7 +11,7 @@ Harvey Cartwright           GK    £4.0m    0      0       0       0       0    
 Thimothée Lo-Tutala         GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Dillon Phillips             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.5%     0       0       
 Konstantinos Tzolakis       GK    £4.5m    0      0       0       0       0        0        0        0     0     0       3.1%     5       10      
-Semi Ajayi                  DEF   £4.0m    0      0       0       0       0.52     0        0.52     0     0     0       2.0%     7       14      
+Semi Ajayi                  DEF   £4.0m    0      0       0       0       0.52     0        0.52     0     0     0       2.1%     7       14      
 Lewie Coyle                 DEF   £4.0m    0      0       0       0       0        0.01     0.01     0     0     0       0.6%     3       6       
 Cody Drameh                 DEF   £4.0m    0      0       0       0       0.05     0        0.05     0     0     0       0.1%     0.5     1       
 John Egan                   DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       2.0%     4       8       
