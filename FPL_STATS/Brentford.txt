@@ -1,6 +1,6 @@
 BRENTFORD
 =================================================================================================================================================
-Updated: 2026-08-29 08:31:56
+Updated: 2026-08-29 08:42:42
 Gameweek: GW2
 Players: 26
 
@@ -14,7 +14,7 @@ El Hadji Malick Diouf       DEF   £4.5m    0      0       0       0       0    
 Rico Henry                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Aaron Hickey                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Kim Ji-soo                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Michael Kayode              DEF   £4.6m    0      0       0       0       0.5      0        0.5      0     0     0       7.9%     6.5     13      
+Michael Kayode              DEF   £4.6m    0      0       0       0       0.5      0        0.5      0     0     0       8.0%     6.5     13      
 Jannik Schuster             DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Sepp van den Berg           DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Jaidon Anthony              MID   £6.0m    0      0       0       0       0.03     0.35     0.38     0     0     0       0.2%     0.5     1       
