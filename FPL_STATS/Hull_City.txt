@@ -1,6 +1,6 @@
 HULL CITY
 =================================================================================================================================================
-Updated: 2026-08-29 16:33:37
+Updated: 2026-08-29 16:43:50
 Gameweek: GW2
 Players: 37
 
@@ -10,7 +10,7 @@ Jack Butland                GK    £4.5m    0      0       0       0       0    
 Harvey Cartwright           GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Thimothée Lo-Tutala         GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Dillon Phillips             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.5%     0       0       
-Konstantinos Tzolakis       GK    £4.5m    10     3       32      0       0        0        0        0     0     90      3.3%     10      10      
+Konstantinos Tzolakis       GK    £4.5m    10     3       32      0       0        0        0        0     0     90      3.4%     10      10      
 Semi Ajayi                  DEF   £4.0m    6      0       24      7       0.52     0        0.52     0     0     90      2.3%     10      10      
 Lewie Coyle                 DEF   £4.0m    0      0       2       4       0        0.01     0.01     0     0     45      0.6%     3       3       
 Cody Drameh                 DEF   £4.0m    1      0       4       3       0.05     0        0.05     0     0     45      0.1%     1       1       
@@ -24,7 +24,7 @@ Paddy McNair                DEF   £4.0m    0      0       0       0       0    
 Nobel Mendy                 DEF   £4.0m    1      0       9       9       0.3      0        0.3      0     0     58      4.7%     8       8       
 Matt Targett                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       2.2%     0.5     1       
 David Akintola              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Mohamed Belloumi            MID   £5.0m    6      0       23      10      0.17     0.05     0.22     0     1     82      0.6%     4.5     4.5     
+Mohamed Belloumi            MID   £5.0m    6      0       23      10      0.17     0.05     0.22     0     1     82      0.7%     4.5     4.5     
 Mohamed-Ali Cho             MID   £5.0m    1      0       3       0       0        0        0        0     0     7       0.0%     1       1       
 Matt Crooks                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.7%     1       2       
 Kieran Dowell               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
