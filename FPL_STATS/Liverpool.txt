@@ -1,12 +1,12 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-08-29 12:43:46
+Updated: 2026-08-29 12:53:55
 Gameweek: GW2
 Players: 35
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Alisson Becker              GK    £5.5m    1      0       2       0       0        0        0        0     0     51      3.8%     1.5     1.5     
+Alisson Becker              GK    £5.5m    2      0       5       0       0        0        0        0     0     61      3.8%     1.5     1.5     
 Harvey Davies               GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Vitezslav Jaros             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Giorgi Mamardashvili        GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
@@ -14,30 +14,30 @@ Armin Pecsi                 GK    £4.0m    0      0       0       0       0    
 Freddie Woodman             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
 Ronald Araujo               DEF   £5.5m    0      0       0       0       0        0.03     0.03     0     0     0       2.7%     0.5     1       
 Conor Bradley               DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jeremie Frimpong            DEF   £5.5m    1      0       8       4       0.01     0.11     0.12     0     0     51      3.4%     0.5     0.5     
+Jeremie Frimpong            DEF   £5.5m    2      0       11      4       0.01     0.11     0.12     0     0     61      3.4%     0.5     0.5     
 Joe Gomez                   DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jeremy Jacquet              DEF   £5.0m    1      0       6       9       0        0.04     0.04     0     0     51      2.4%     1       1       
-Milos Kerkez                DEF   £5.5m    1      0       4       6       0.02     0.03     0.05     0     0     51      3.5%     0.5     0.5     
+Jeremy Jacquet              DEF   £5.0m    2      0       11      9       0        0.04     0.04     0     0     61      2.4%     1       1       
+Milos Kerkez                DEF   £5.5m    2      0       12      8       0.02     0.03     0.05     0     0     61      3.5%     0.5     0.5     
 Giovanni Leoni              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Wellity Lucky               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Calvin Ramsay               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Kostas Tsimikas             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Virgil van Dijk             DEF   £6.5m    1      0       7       5       0.27     0.02     0.29     0     0     51      19.6%    1.5     1.5     
+Virgil van Dijk             DEF   £6.5m    2      0       10      5       0.27     0.02     0.29     0     0     61      19.5%    1.5     1.5     
 Stefan Bajčetić Maquieira   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Federico Chiesa             MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Harvey Elliott              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Cody Gakpo                  MID   £7.0m    1      0       5       2       0.3      0.24     0.54     0     0     51      6.7%     6.5     6.5     
+Cody Gakpo                  MID   £7.0m    5      0       21      2       0.3      0.24     0.54     0     1     61      6.7%     6.5     6.5     
 Ryan Gravenberch            MID   £6.0m    0      0       0       0       0.06     0.05     0.11     0     0     0       2.0%     2.5     5       
 Curtis Jones                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lewis Koumas                MID   £5.0m    0      0       0       0       0.03     0        0.03     0     0     0       0.0%     0.5     1       
-Alexis Mac Allister         MID   £5.5m    1      0       9       9       0        0.39     0.39     0     0     51      1.6%     1       1       
+Alexis Mac Allister         MID   £5.5m    2      0       12      10      0        0.39     0.39     0     0     61      1.6%     1       1       
 James McConnell             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Victor Munoz                MID   £6.5m    1      0       3       4       0.23     0.13     0.36     0     0     51      0.6%     2.5     2.5     
+Victor Munoz                MID   £6.5m    1      0       2       5       0.23     0.13     0.36     0     0     61      0.6%     2       2       
 Rio Ngumoha                 MID   £6.0m    0      0       0       0       0.04     0.02     0.06     0     0     0       1.1%     1       2       
 Trey Nyoni                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Dominik Szoboszlai          MID   £7.0m    1      0       10      3       0.91     0.29     1.2      0     0     51      43.4%    4.5     4.5     
+Dominik Szoboszlai          MID   £7.0m    2      0       14      4       0.91     0.33     1.24     0     0     61      43.4%    4.5     4.5     
 Endo Wataru                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Florian Wirtz               MID   £7.5m    1      0       12      3       0.32     0.05     0.37     0     0     51      11.1%    1.5     1.5     
+Florian Wirtz               MID   £7.5m    1      0       12      6       0.49     0.06     0.55     0     0     61      11.1%    1.5     1.5     
 Jayden Danns                FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Hugo Ekitiké                FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Alexander Isak              FWD   £9.0m    1      0       3       1       1.09     0.01     1.1      0     0     51      16.2%    1.5     1.5     
+Alexander Isak              FWD   £9.0m    9      3       32      1       1.12     0.01     1.13     1     0     61      16.2%    1.5     1.5     
