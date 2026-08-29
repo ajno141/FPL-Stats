@@ -1,8 +1,8 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-08-29 00:27:58
+Updated: 2026-08-29 00:38:33
 Gameweek: GW2
-Players: 36
+Players: 35
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -38,7 +38,6 @@ Geovany Quenda              MID   £5.5m    0      0       0       0       0    
 Morgan Rogers               MID   £7.5m    0      0       0       0       0.96     0.1      1.06     0     0     0       26.2%    4       8       
 Emmanuel Emegha             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Marc Guiu Paz               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
-Nicolas Jackson             FWD   £6.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 João Pedro Junqueira de JesusFWD   £7.6m    0      0       0       0       0.63     0.06     0.69     0     0     0       68.4%    5.5     11      
 Shumaira Mheuka             FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Danny Welbeck               FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
