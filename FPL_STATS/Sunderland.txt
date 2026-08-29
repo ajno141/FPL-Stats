@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-08-29 03:26:20
+Updated: 2026-08-29 03:36:55
 Gameweek: GW2
 Players: 27
 
@@ -16,7 +16,7 @@ Trai Hume                   DEF   £4.5m    0      0       0       0       0.04 
 Reinildo Mandava            DEF   £4.5m    0      0       0       0       0        0.29     0.29     0     0     0       0.4%     0.5     1       
 Arthur Masuaku              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Thomas Meunier              DEF   £4.5m    0      0       0       0       0.08     0.08     0.16     0     0     0       0.3%     0.5     1       
-Nordi Mukiele               DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       2.5%     0       0       
+Nordi Mukiele               DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       2.4%     0       0       
 Dayann Méthalie             DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Luke O'Nien                 DEF   £4.0m    0      0       0       0       0.01     0.01     0.02     0     0     0       3.4%     0.5     1       
 Jenson Seelt                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
