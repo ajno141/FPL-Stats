@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-08-29 18:18:06
+Updated: 2026-08-29 18:28:41
 Gameweek: GW2
 Players: 27
 
@@ -10,7 +10,7 @@ Melker Ellborg              GK    £4.5m    0      0       0       0       0    
 Anthony Patterson           GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Robin Roefs                 GK    £5.0m    0      0       0       0       0        0        0        0     0     0       3.8%     0.5     1       
 Omar Alderete               DEF   £5.0m    0      0       0       0       0        0.01     0.01     0     0     0       0.4%     0.5     1       
-Daniel Ballard              DEF   £5.0m    0      0       0       0       0        0.01     0.01     0     0     0       4.9%     0       0       
+Daniel Ballard              DEF   £5.0m    0      0       0       0       0        0.01     0.01     0     0     0       4.8%     0       0       
 Leo Fuhr Hjelde             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Trai Hume                   DEF   £4.5m    0      0       0       0       0.04     0.27     0.31     0     0     0       6.2%     1       2       
 Reinildo Mandava            DEF   £4.5m    0      0       0       0       0        0.29     0.29     0     0     0       0.4%     0.5     1       
