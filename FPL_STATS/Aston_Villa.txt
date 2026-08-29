@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-08-29 21:47:13
+Updated: 2026-08-29 21:57:30
 Gameweek: GW2
 Players: 34
 
@@ -28,7 +28,7 @@ Bradley Burrowes            MID   £4.5m    0      0       0       0       0    
 Alejandro Garnacho Ferreyra MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.5%     0.5     1       
 Joao Gomes                  MID   £5.5m    0      0       0       0       0        0.01     0.01     0     0     0       0.0%     -1      -2      
 Leon Goretzka               MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-George Hemmings             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.7%     1       2       
+George Hemmings             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.8%     1       2       
 Samuel Iling-Junior         MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Boubacar Kamara             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.3%     1       2       
 Luka Lynch                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
