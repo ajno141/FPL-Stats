@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-08-29 14:49:05
+Updated: 2026-08-29 14:59:22
 Gameweek: GW2
 Players: 24
 
@@ -18,9 +18,9 @@ Nathan Patterson            DEF   £4.5m    0      0       0       0       0    
 James Tarkowski             DEF   £6.0m    1      0       3       4       0.05     0        0.05     0     0     45      8.6%     3.5     3.5     
 Carlos Alcaraz Durán        MID   £5.0m    0      0       0       0       0.02     0        0.02     0     0     0       0.1%     0.5     1       
 Harrison Armstrong          MID   £5.0m    1      0       4       6       0        0.04     0.04     0     0     45      0.3%     4.5     4.5     
-Kiernan Dewsbury-Hall       MID   £6.5m    3      2       18      6       0.16     0.24     0.4      0     0     45      4.7%     6.5     6.5     
+Kiernan Dewsbury-Hall       MID   £6.5m    3      2       18      6       0.16     0.27     0.43     0     0     45      4.7%     7       7       
 Tyler Dibling               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-James Garner                MID   £6.0m    1      0       10      10      0        0.03     0.03     0     0     45      0.1%     1       1       
+James Garner                MID   £6.0m    1      0       10      9       0        0.03     0.03     0     0     45      0.1%     1       1       
 Tyrique George              MID   £5.5m    1      0       7       1       0.21     0.09     0.3      0     0     45      0.3%     2       2       
 Hayden Hackney              MID   £5.5m    0      0       0       0       0.01     0.01     0.02     0     0     0       0.2%     1.5     3       
 Tim Iroegbunam              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -28,5 +28,5 @@ Brennan Johnson             MID   £6.0m    0      0       0       0       0    
 Iliman Ndiaye               MID   £6.0m    1      0       5       3       0.26     0.34     0.6      0     0     45      15.9%    5       5       
 Christian Nørgaard          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Merlin Röhl                 MID   £5.0m    1      0       2       2       0        0.07     0.07     0     0     45      0.1%     2       2       
-Thierno Barry               FWD   £5.5m    1      0       3       2       1.27     0.09     1.36     0     0     45      3.7%     4.5     4.5     
+Thierno Barry               FWD   £5.5m    1      0       3       2       1.4      0.09     1.49     0     0     45      3.7%     4.5     4.5     
 Norberto Bercique Gomes BetuncalFWD   £5.5m    0      0       0       0       0.05     0        0.05     0     0     0       2.3%     0.5     1       
