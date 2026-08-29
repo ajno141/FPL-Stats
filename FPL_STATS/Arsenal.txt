@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-08-29 06:46:36
+Updated: 2026-08-29 06:56:58
 Gameweek: GW2
 Players: 29
 
@@ -20,7 +20,7 @@ Gabriel dos Santos MagalhãesDEF   £8.0m    0      0       0       0       0.05
 Max Dowman                  MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Eberechi Eze                MID   £6.4m    0      0       0       0       0.04     0        0.04     0     0     0       1.7%     0.5     1       
 Fábio Ferreira Vieira       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Bruno Guimarães Rodriguez MouraMID   £6.9m    0      0       0       0       0        0        0        0     0     0       2.7%     0       0       
+Bruno Guimarães Rodriguez MouraMID   £6.9m    0      0       0       0       0        0        0        0     0     0       2.6%     0       0       
 Myles Lewis-Skelly          MID   £5.5m    0      0       0       0       0.06     0.11     0.17     0     0     0       0.7%     1.5     3       
 Noni Madueke                MID   £6.4m    0      0       0       0       0        0.04     0.04     0     0     0       0.3%     0.5     1       
 Gabriel Martinelli Silva    MID   £6.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
