@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-08-29 19:10:30
+Updated: 2026-08-29 19:20:52
 Gameweek: GW2
 Players: 24
 
@@ -29,4 +29,4 @@ Iliman Ndiaye               MID   £6.0m    4      0       16      13      0.26 
 Christian Nørgaard          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Merlin Röhl                 MID   £5.0m    2      0       13      9       0        0.07     0.07     0     0     86      0.1%     2.5     2.5     
 Thierno Barry               FWD   £5.5m    2      0       6       3       1.87     0.09     1.96     0     0     69      3.7%     5       5       
-Norberto Bercique Gomes BetuncalFWD   £5.5m    1      0       2       1       0.11     0        0.11     0     0     20      2.3%     1       1       
+Norberto Bercique Gomes BetuncalFWD   £5.5m    1      0       2       1       0.11     0        0.11     0     0     20      2.2%     1       1       
