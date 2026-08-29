@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-08-29 09:03:31
+Updated: 2026-08-29 09:14:11
 Gameweek: GW2
 Players: 33
 
@@ -35,7 +35,7 @@ Yéremy Pino Santos          MID   £5.5m    5      0       27      10      0.11
 Jesurun Rak-Sakyi           MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ismaïla Sarr                MID   £6.4m    0      0       0       0       0        0        0        0     0     0       2.2%     0       0       
 Adam Wharton                MID   £5.5m    2      0       21      7       0        0.31     0.31     0     0     90      0.9%     3       3       
-Jean-Philippe Mateta        FWD   £6.5m    0      0       0       0       0.7      0.02     0.72     0     0     0       4.9%     1       2       
+Jean-Philippe Mateta        FWD   £6.5m    0      0       0       0       0.7      0.02     0.72     0     0     0       4.8%     1       2       
 Eddie Nketiah               FWD   £5.5m    2      0       8       6       0.96     0.58     1.54     0     0     67      0.5%     1.5     1.5     
 Jørgen Strand Larsen        FWD   £6.0m    2      0       13      4       0.3      0.01     0.31     0     0     62      0.5%     1.5     1.5     
 Christantus Uche            FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
