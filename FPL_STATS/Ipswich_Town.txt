@@ -1,6 +1,6 @@
 IPSWICH TOWN
 =================================================================================================================================================
-Updated: 2026-08-29 10:17:01
+Updated: 2026-08-29 10:27:43
 Gameweek: GW2
 Players: 35
 
@@ -38,6 +38,6 @@ Sam Szmodics                MID   £5.0m    0      0       0       0       0    
 Jack Taylor                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Chuba Akpom                 FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.5%     0.5     1       
 Ali Al-Hamadi               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Emersonn Correia da Silva   FWD   £5.5m    0      0       0       0       0.82     0.06     0.88     0     0     0       1.9%     4.5     9       
+Emersonn Correia da Silva   FWD   £5.5m    0      0       0       0       0.82     0.06     0.88     0     0     0       2.0%     4.5     9       
 George Hirst                FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Sindre Walle Egeli          FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       2.5%     0.5     1       
