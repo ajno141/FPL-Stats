@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-08-29 13:04:33
+Updated: 2026-08-29 13:14:54
 Gameweek: GW2
 Players: 27
 
@@ -29,7 +29,7 @@ Sean Longstaff              MID   £5.0m    0      0       0       0       0    
 Noah Okafor                 MID   £6.0m    0      0       0       0       0        0.16     0.16     0     0     0       0.4%     0.5     1       
 Anton Stach                 MID   £6.0m    0      0       0       0       0.1      0.05     0.15     0     0     0       2.8%     6.5     13      
 Harry Wilson                MID   £6.5m    0      0       0       0       0        0.02     0.02     0     0     0       5.5%     1.5     3       
-Dominic Calvert-Lewin       FWD   £6.0m    0      0       0       0       0.13     0        0.13     0     0     0       28.2%    0.5     1       
+Dominic Calvert-Lewin       FWD   £6.0m    0      0       0       0       0.13     0        0.13     0     0     0       28.1%    0.5     1       
 Mateo Joseph Fernández-RegatilloFWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Lukas Nmecha                FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
 Joël Piroe                  FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
