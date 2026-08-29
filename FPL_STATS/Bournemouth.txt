@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-08-29 06:25:22
+Updated: 2026-08-29 06:36:06
 Gameweek: GW2
 Players: 29
 
@@ -31,7 +31,7 @@ Alex Scott                  MID   £6.0m    0      0       0       0       0    
 Rayan Vitor Simplício Rocha MID   £6.5m    0      0       0       0       0.04     0.03     0.07     0     0     0       2.8%     1       2       
 Marcus Tavernier            MID   £6.0m    0      0       0       0       0.4      0.08     0.48     0     0     0       2.6%     5       10      
 Alex Tóth                   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
-Daniel Jebbison             FWD   £5.0m    0      0       0       0       0.1      0        0.1      0     0     0       0.0%     0.5     1       
+Daniel Jebbison             FWD   £5.0m    0      0       0       0       0.1      0        0.1      0     0     0       0.1%     0.5     1       
 Álvaro Rodríguez            FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Francisco Evanilson de Lima BarbosaFWD   £6.0m    0      0       0       0       0        0.21     0.21     0     0     0       3.0%     2       4       
 Enes Ünal                   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
