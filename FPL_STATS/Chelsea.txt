@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-08-29 22:59:58
+Updated: 2026-08-29 23:10:25
 Gameweek: GW2
 Players: 35
 
@@ -20,14 +20,14 @@ Malo Gusto                  DEF   £5.0m    0      0       0       0       0    
 Jorrel Hato                 DEF   £4.5m    0      0       0       0       0.01     0.03     0.04     0     0     0       0.5%     0.5     1       
 Reece James                 DEF   £5.5m    0      0       0       0       0.1      0.07     0.17     0     0     0       9.9%     0       0       
 Maxence Lacroix             DEF   £6.0m    0      0       0       0       0        0.2      0.2      0     0     0       9.5%     3       6       
-Marco Palestra              DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       2.0%     0       0       
+Marco Palestra              DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       2.0%     0       0       
 Levi Samuels Colwill        DEF   £5.0m    0      0       0       0       0.01     0.03     0.04     0     0     0       1.5%     0       0       
 Mamadou Sarr                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Estêvão Almeida de Oliveira GonçalvesMID   £6.5m    0      0       0       0       0        0        0        0     0     0       1.1%     0.5     1       
 Valentín Barco              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Jamie Bynoe-Gittens         MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Moisés Caicedo Corozo       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       2.7%     0       0       
-Enzo Fernández              MID   £7.0m    0      0       0       0       0        0.02     0.02     0     0     0       4.2%     0.5     1       
+Moisés Caicedo Corozo       MID   £5.4m    0      0       0       0       0        0        0        0     0     0       2.7%     0       0       
+Enzo Fernández              MID   £6.9m    0      0       0       0       0        0.02     0.02     0     0     0       4.2%     0.5     1       
 Jordan Henderson            MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Roméo Lavia                 MID   £5.0m    0      0       0       0       0.21     0.03     0.24     0     0     0       0.1%     0.5     1       
 Pedro Lomba Neto            MID   £6.5m    0      0       0       0       0.03     0.07     0.1      0     0     0       1.2%     0.5     1       
