@@ -1,6 +1,6 @@
 HULL CITY
 =================================================================================================================================================
-Updated: 2026-08-29 04:18:52
+Updated: 2026-08-29 04:29:47
 Gameweek: GW2
 Players: 37
 
@@ -21,7 +21,7 @@ Charlie Hughes              DEF   £4.0m    0      0       0       0       0    
 Matty Jacob                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cathal McCarthy             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Paddy McNair                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
-Nobel Mendy                 DEF   £4.0m    0      0       0       0       0.28     0        0.28     0     0     0       4.4%     7.5     15      
+Nobel Mendy                 DEF   £4.0m    0      0       0       0       0.28     0        0.28     0     0     0       4.5%     7.5     15      
 Matt Targett                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       2.3%     0.5     1       
 David Akintola              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mohamed Belloumi            MID   £5.0m    0      0       0       0       0.05     0.03     0.08     0     0     0       0.6%     1.5     3       
