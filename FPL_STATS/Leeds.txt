@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-08-29 01:41:51
+Updated: 2026-08-29 01:52:23
 Gameweek: GW2
 Players: 27
 
@@ -13,7 +13,7 @@ Jayden Bogle                DEF   £4.5m    0      0       0       0       0    
 Sebastiaan Bornauw          DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nico Elvedi                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Gabriel Gudmundsson         DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-James Justin                DEF   £4.5m    0      0       0       0       0        0.01     0.01     0     0     0       1.2%     5       10      
+James Justin                DEF   £4.5m    0      0       0       0       0        0.01     0.01     0     0     0       1.3%     5       10      
 Jayden Lienou               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Tarik Muharemović           DEF   £5.0m    0      0       0       0       0.09     0        0.09     0     0     0       3.4%     3       6       
 Joe Rodon                   DEF   £4.5m    0      0       0       0       0.03     0.06     0.09     0     0     0       3.6%     3       6       
