@@ -1,6 +1,6 @@
 IPSWICH TOWN
 =================================================================================================================================================
-Updated: 2026-08-29 14:59:22
+Updated: 2026-08-29 15:09:42
 Gameweek: GW2
 Players: 35
 
@@ -12,7 +12,7 @@ Kjell Scherpen              GK    £4.5m    0      0       0       0       0    
 Christian Walton            GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
 Kayne van Oevelen           GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Leif Davis                  DEF   £4.0m    0      0       0       0       0        0.01     0.01     0     0     0       4.8%     1       2       
-Issa Diop                   DEF   £4.0m    0      0       0       0       0        0.01     0.01     0     0     0       16.9%    1       2       
+Issa Diop                   DEF   £4.0m    0      0       0       0       0        0.01     0.01     0     0     0       16.8%    1       2       
 Darnell Furlong             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Jacob Greaves               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.4%     1       2       
 Ben Johnson                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
