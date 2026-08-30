@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-08-30 14:57:50
+Updated: 2026-08-30 15:08:26
 Gameweek: GW2
 Players: 29
 
@@ -33,5 +33,5 @@ Christos Tzolis             MID   £6.5m    0      0       0       0       0    
 Martín Zubimendi Ibáñez     MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.9%     0.5     1       
 Martin Ødegaard             MID   £6.6m    0      0       0       0       0        0        0        0     0     0       11.9%    5.5     11      
 Gabriel Fernando de Jesus   FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Viktor Gyökeres             FWD   £7.4m    0      0       0       0       0        0        0        0     0     0       6.4%     0       0       
+Viktor Gyökeres             FWD   £7.4m    0      0       0       0       0        0        0        0     0     0       6.3%     0       0       
 Kai Havertz                 FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       7.5%     3       6       
