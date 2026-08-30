@@ -1,32 +1,32 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-08-30 14:36:53
+Updated: 2026-08-30 14:47:17
 Gameweek: GW2
 Players: 24
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Benjamin Lecomte            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.2%     0       0       
-Bernd Leno                  GK    £4.5m    2      0       2       0       0        0        0        0     0     77      3.0%     2       2       
+Bernd Leno                  GK    £4.5m    2      0       6       0       0        0        0        0     0     89      3.0%     2       2       
 Alfie McNally               GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Joachim Andersen            DEF   £5.0m    1      0       4       6       0        0.01     0.01     0     0     77      0.1%     0.5     1       
-Calvin Bassey               DEF   £4.5m    2      0       13      6       0        0        0        0     0     77      0.8%     1       1       
+Joachim Andersen            DEF   £5.0m    1      0       4       7       0        0.01     0.01     0     0     89      0.1%     0.5     1       
+Calvin Bassey               DEF   £4.5m    2      0       14      8       0        0.01     0.01     0     0     89      0.8%     1       1       
 Timothy Castagne            DEF   £4.5m    6      0       18      2       0        0        0        0     0     67      0.5%     6       6       
 Jorge Cuenca Barreno        DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     1.5     3       
 Luc De Fougerolles          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Antonee Robinson            DEF   £4.5m    2      0       9       3       0        0.01     0.01     0     0     77      1.7%     1.5     1.5     
-Ryan Sessegnon              DEF   £4.5m    1      0       1       0       0        0.01     0.01     0     0     9       0.4%     1       1       
+Antonee Robinson            DEF   £4.5m    2      0       10      3       0        0.02     0.02     0     0     89      1.7%     1.5     1.5     
+Ryan Sessegnon              DEF   £4.5m    1      0       3       0       0.02     0.12     0.14     0     0     21      0.4%     1       1       
 Kenny Tete                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Sander Berge                MID   £5.0m    2      0       14      2       0        0.18     0.18     0     0     77      0.4%     2       2       
+Sander Berge                MID   £5.0m    2      0       14      2       0        0.2      0.2      0     0     82      0.4%     2       2       
 Oscar Bobb                  MID   £5.5m    3      0       8       5       0        0.01     0.01     0     0     67      0.3%     2.5     2.5     
 Tom Cairney                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Shea Charles                MID   £5.0m    1      0       3       0       0.02     0        0.02     0     0     9       0.1%     1       1       
-Alex Iwobi                  MID   £5.5m    2      0       19      4       0.01     0.25     0.26     0     0     77      1.0%     2       2       
-Josh King                   MID   £5.5m    2      0       4       4       0.46     0.01     0.47     0     0     77      0.6%     4.5     4.5     
+Shea Charles                MID   £5.0m    1      0       3       0       0.02     0.03     0.05     0     0     21      0.1%     1       1       
+Alex Iwobi                  MID   £5.5m    2      0       20      4       0.01     0.27     0.28     0     0     89      1.0%     2       2       
+Josh King                   MID   £5.5m    2      0       8       4       0.48     0.02     0.5      0     0     89      0.6%     4.5     4.5     
 César Palacios              MID   £5.5m    1      0       5       9       0.04     0        0.04     0     0     76      0.2%     1.5     1.5     
 Harrison Reed               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.4%     0       0       
-Kevin Santos Lopes de MacedoMID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
-Emile Smith Rowe            MID   £5.5m    1      0       3       0       0        0        0        0     0     1       0.4%     0.5     1       
-Gonzalo García              FWD   £6.0m    2      0       2       3       0.1      0.01     0.11     0     0     77      4.4%     4       4       
+Kevin Santos Lopes de MacedoMID   £5.5m    1      0       3       0       0        0.04     0.04     0     0     6       0.1%     1       1       
+Emile Smith Rowe            MID   £5.5m    1      0       4       1       0        0.02     0.02     0     0     12      0.4%     0.5     1       
+Gonzalo García              FWD   £6.0m    2      0       2       4       0.1      0.01     0.11     0     0     89      4.4%     4       4       
 Jonah Kusi-Asare            FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       6.8%     0       0       
 Rodrigo Muniz Carvalho      FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0.5     1       

@@ -1,35 +1,35 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-08-30 14:36:53
+Updated: 2026-08-30 14:47:17
 Gameweek: GW2
 Players: 27
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Lucas Estella Perri         GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
-James Trafford              GK    £5.0m    3      0       15      0       0        0        0        0     0     73      4.7%     6       6       
+James Trafford              GK    £5.0m    3      0       19      0       0        0        0        0     0     84      4.7%     6       6       
 Jaka Bijol                  DEF   £5.0m    1      0       0       5       0        0        0        0     0     45      1.0%     5.5     5.5     
 Jayden Bogle                DEF   £4.5m    2      0       9       7       0        0.01     0.01     0     0     67      0.5%     4       4       
 Sebastiaan Bornauw          DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Nico Elvedi                 DEF   £4.5m    1      0       0       3       0        0        0        0     0     39      0.0%     0.5     1       
+Nico Elvedi                 DEF   £4.5m    1      0       9       5       0        0        0        0     0     50      0.0%     0.5     1       
 Gabriel Gudmundsson         DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-James Justin                DEF   £4.5m    2      0       9       7       0.04     0.01     0.05     0     0     73      1.3%     6       6       
+James Justin                DEF   £4.5m    2      0       10      7       0.04     0.01     0.05     0     0     84      1.3%     6       6       
 Jayden Lienou               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Tarik Muharemović           DEF   £5.0m    4      0       16      13      0        0.01     0.01     0     0     73      3.3%     5       5       
+Tarik Muharemović           DEF   £5.0m    4      0       17      14      0        0.02     0.02     0     0     84      3.3%     5       5       
 Joe Rodon                   DEF   £4.5m    1      0       4       4       0        0        0        0     0     33      3.6%     3.5     3.5     
 Brenden Aaronson            MID   £5.5m    1      0       6       3       0        0.01     0.01     0     0     45      0.8%     2       2       
-Ethan Ampadu                MID   £5.5m    2      0       9       9       0.01     0.01     0.02     0     0     73      1.3%     3.5     3.5     
-Tanaka Ao                   MID   £5.0m    1      0       5       5       0        0.02     0.02     0     0     28      0.2%     0.5     1       
+Ethan Ampadu                MID   £5.5m    2      0       11      9       0.01     0.09     0.1      0     0     84      1.3%     3.5     3.5     
+Tanaka Ao                   MID   £5.0m    1      0       6       9       0        0.02     0.02     0     0     39      0.2%     0.5     1       
 Alfie Cresswell             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Wilfried Gnonto             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ilia Gruev                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jack Harrison               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Daniel James                MID   £5.0m    1      0       3       2       0.06     0        0.06     0     0     5       0.1%     0.5     1       
+Daniel James                MID   £5.0m    1      0       2       2       0.23     0.01     0.24     0     0     16      0.1%     0.5     1       
 Sean Longstaff              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Noah Okafor                 MID   £5.9m    2      0       11      2       0.08     0.01     0.09     0     0     68      0.4%     1.5     1.5     
-Anton Stach                 MID   £6.0m    4      0       12      15      0        0.01     0.01     0     0     73      2.8%     8.5     8.5     
-Harry Wilson                MID   £6.5m    1      0       4       4       0.01     0.01     0.02     0     0     28      5.4%     2       2       
-Dominic Calvert-Lewin       FWD   £6.0m    2      0       5       3       0        0.02     0.02     0     0     73      27.5%    1.5     1.5     
+Anton Stach                 MID   £6.0m    4      0       13      15      0.07     0.01     0.08     0     0     84      2.8%     8.5     8.5     
+Harry Wilson                MID   £6.5m    1      0       5       5       0.01     0.03     0.04     0     0     39      5.4%     2       2       
+Dominic Calvert-Lewin       FWD   £6.0m    8      2       31      4       0.9      0.02     0.92     1     0     84      27.5%    4.5     4.5     
 Mateo Joseph Fernández-RegatilloFWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Lukas Nmecha                FWD   £5.5m    1      0       3       0       0        0        0        0     0     4       0.5%     0.5     1       
+Lukas Nmecha                FWD   £5.5m    4      0       17      0       0.08     0        0.08     0     1     15      0.5%     2       4       
 Joël Piroe                  FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
