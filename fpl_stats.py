@@ -1,20 +1,38 @@
 import requests
 import os
+import time
 from datetime import datetime, timezone
 
 
+# =========================================================
+# CONFIG
+# =========================================================
+
 BASE_URL = "https://fantasy.premierleague.com/api"
+
 OUTPUT_DIR = "FPL_STATS"
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0",
-    "Accept": "application/json",
+TEAM_NAMES = {
+    1: "Arsenal",
+    2: "Aston_Villa",
+    3: "Bournemouth",
+    4: "Brentford",
+    5: "Brighton",
+    7: "Chelsea",
+    8: "Crystal_Palace",
+    9: "Everton",
+    10: "Fulham",
+    11: "Leeds",
+    12: "Liverpool",
+    13: "Manchester_City",
+    14: "Manchester_United",
+    15: "Newcastle_United",
+    16: "Nottingham_Forest",
+    17: "Sunderland",
+    18: "Tottenham_Hotspur",
+    20: "Wolverhampton_Wanderers",
 }
 
-
-# =========================================================
-# POSITION NAMES
-# =========================================================
 
 POSITION_NAMES = {
     1: "GK",
@@ -24,18 +42,24 @@ POSITION_NAMES = {
 }
 
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0",
+    "Accept": "application/json",
+}
+
+
 # =========================================================
-# API REQUEST
+# REQUEST
 # =========================================================
 
-def get_json(endpoint):
+def api_get(endpoint):
 
     url = f"{BASE_URL}/{endpoint}"
 
     response = requests.get(
         url,
         headers=HEADERS,
-        timeout=30
+        timeout=30,
     )
 
     response.raise_for_status()
@@ -44,7 +68,7 @@ def get_json(endpoint):
 
 
 # =========================================================
-# NUMBER HELPERS
+# SAFE NUMBERS
 # =========================================================
 
 def safe_number(value, default=0):
@@ -84,16 +108,26 @@ def format_number(value):
     return str(value)
 
 
+# =========================================================
+# PRICE
+# =========================================================
+
 def format_price(value):
 
     try:
 
-        return f"£{int(value) / 10:.1f}m"
+        price = int(value) / 10
+
+        return f"£{price:.1f}m"
 
     except (ValueError, TypeError):
 
         return "£0.0m"
 
+
+# =========================================================
+# OWNERSHIP
+# =========================================================
 
 def format_ownership(value):
 
@@ -107,184 +141,326 @@ def format_ownership(value):
 
 
 # =========================================================
-# SAFE FILE NAME
+# FIND CURRENT GAMEWEEK
 # =========================================================
 
-def safe_filename(name):
+def find_current_gameweek(events):
 
-    invalid = '<>:"/\\|?*'
+    """
+    Pronalazi trenutno aktivno FPL kolo.
 
-    for character in invalid:
+    Prioritet:
+    1. is_current
+    2. is_next
+    3. prvo kolo koje nije završeno
+    """
 
-        name = name.replace(
-            character,
-            "_"
-        )
-
-    return name.replace(
-        " ",
-        "_"
-    )
-
-
-# =========================================================
-# GET BOOTSTRAP
-# =========================================================
-
-def get_bootstrap():
-
-    print(
-        "Downloading latest FPL data..."
-    )
-
-    return get_json(
-        "bootstrap-static/"
-    )
-
-
-# =========================================================
-# CURRENT GAMEWEEK
-# =========================================================
-
-def get_current_gameweek(data):
-
-    events = data.get(
-        "events",
-        []
-    )
-
-    # Prvo tražimo trenutno aktivni GW.
     for event in events:
 
         if event.get("is_current"):
 
-            return event.get("id")
+            return event["id"]
 
-    # Ako nema current, tražimo zadnji završeni.
-    finished_events = [
-        event
-        for event in events
-        if event.get("finished")
-    ]
 
-    if finished_events:
+    for event in events:
 
-        return finished_events[-1].get(
-            "id"
-        )
+        if event.get("is_next"):
 
-    # Ako sezona još nije počela,
-    # uzimamo prvi GW.
-    if events:
+            return event["id"]
 
-        return events[0].get(
-            "id"
-        )
 
-    return 1
+    for event in events:
+
+        if not event.get("finished"):
+
+            return event["id"]
+
+
+    return None
 
 
 # =========================================================
-# LIVE GAMEWEEK DATA
+# LIVE DATA
 # =========================================================
 
-def get_live_gameweek(gameweek):
+def get_live_data(gameweek):
 
     print(
-        f"Downloading live data for GW{gameweek}..."
+        f"Downloading LIVE data for GW{gameweek}..."
     )
 
-    try:
+    endpoint = (
+        f"event/{gameweek}/live/"
+    )
 
-        return get_json(
-            f"event/{gameweek}/live/"
-        )
+    data = api_get(endpoint)
 
-    except Exception as error:
-
-        print(
-            f"WARNING: Live GW data unavailable: {error}"
-        )
-
-        return {
-            "elements": []
-        }
-
-
-# =========================================================
-# BUILD LIVE MAP
-# =========================================================
-
-def build_live_map(live_data):
-
-    live_map = {}
-
-    for element in live_data.get(
+    elements = data.get(
         "elements",
         []
-    ):
+    )
 
-        player_id = element.get(
-            "id"
+    if not elements:
+
+        raise RuntimeError(
+            f"FPL live endpoint returned no "
+            f"player data for GW{gameweek}."
         )
 
-        if player_id is None:
-            continue
+    print(
+        f"Received live data for "
+        f"{len(elements)} players."
+    )
 
-        live_map[player_id] = element.get(
-            "stats",
-            {}
-        )
-
-    return live_map
+    return elements
 
 
 # =========================================================
-# BUILD TEAM MAP
+# MERGE LIVE DATA
 # =========================================================
 
-def build_team_map(data):
+def merge_live_data(
+    players,
+    live_players
+):
 
-    team_map = {}
+    live_by_id = {
+        item.get("id"): item
+        for item in live_players
+    }
 
-    for team in data.get(
-        "teams",
-        []
-    ):
 
-        team_id = team.get(
-            "id"
+    merged = []
+
+
+    for player in players:
+
+        player = player.copy()
+
+        player_id = player.get("id")
+
+        live = live_by_id.get(
+            player_id
         )
 
-        if team_id is None:
-            continue
 
-        team_name = team.get(
-            "name",
-            "Unknown"
-        )
+        if live:
 
-        short_name = team.get(
-            "short_name",
-            ""
-        )
+            stats = live.get(
+                "stats",
+                {}
+            )
 
-        team_map[team_id] = {
-            "name": team_name,
-            "short_name": short_name
-        }
 
-    return team_map
+            # -----------------------------------------
+            # LIVE POINTS
+            # -----------------------------------------
+
+            if "total_points" in stats:
+
+                player["event_points"] = (
+                    stats["total_points"]
+                )
+
+
+            # -----------------------------------------
+            # BONUS
+            # -----------------------------------------
+
+            if "bonus" in stats:
+
+                player["bonus"] = (
+                    stats["bonus"]
+                )
+
+
+            # -----------------------------------------
+            # BPS
+            # -----------------------------------------
+
+            if "bps" in stats:
+
+                player["bps"] = (
+                    stats["bps"]
+                )
+
+
+            # -----------------------------------------
+            # GOALS
+            # -----------------------------------------
+
+            if "goals_scored" in stats:
+
+                player["goals_scored"] = (
+                    stats["goals_scored"]
+                )
+
+
+            # -----------------------------------------
+            # ASSISTS
+            # -----------------------------------------
+
+            if "assists" in stats:
+
+                player["assists"] = (
+                    stats["assists"]
+                )
+
+
+            # -----------------------------------------
+            # MINUTES
+            # -----------------------------------------
+
+            if "minutes" in stats:
+
+                player["minutes"] = (
+                    stats["minutes"]
+                )
+
+
+            # -----------------------------------------
+            # CLEAN SHEETS
+            # -----------------------------------------
+
+            if "clean_sheets" in stats:
+
+                player["clean_sheets"] = (
+                    stats["clean_sheets"]
+                )
+
+
+            # -----------------------------------------
+            # GOALS CONCEDED
+            # -----------------------------------------
+
+            if "goals_conceded" in stats:
+
+                player["goals_conceded"] = (
+                    stats["goals_conceded"]
+                )
+
+
+            # -----------------------------------------
+            # OWN GOALS
+            # -----------------------------------------
+
+            if "own_goals" in stats:
+
+                player["own_goals"] = (
+                    stats["own_goals"]
+                )
+
+
+            # -----------------------------------------
+            # PENALTIES SAVED
+            # -----------------------------------------
+
+            if "penalties_saved" in stats:
+
+                player["penalties_saved"] = (
+                    stats["penalties_saved"]
+                )
+
+
+            # -----------------------------------------
+            # PENALTIES MISSED
+            # -----------------------------------------
+
+            if "penalties_missed" in stats:
+
+                player["penalties_missed"] = (
+                    stats["penalties_missed"]
+                )
+
+
+            # -----------------------------------------
+            # YELLOW CARDS
+            # -----------------------------------------
+
+            if "yellow_cards" in stats:
+
+                player["yellow_cards"] = (
+                    stats["yellow_cards"]
+                )
+
+
+            # -----------------------------------------
+            # RED CARDS
+            # -----------------------------------------
+
+            if "red_cards" in stats:
+
+                player["red_cards"] = (
+                    stats["red_cards"]
+                )
+
+
+            # -----------------------------------------
+            # SAVES
+            # -----------------------------------------
+
+            if "saves" in stats:
+
+                player["saves"] = (
+                    stats["saves"]
+                )
+
+
+            # -----------------------------------------
+            # DEFENSIVE CONTRIBUTION
+            # -----------------------------------------
+
+            if "defensive_contribution" in stats:
+
+                player["defensive_contribution"] = (
+                    stats["defensive_contribution"]
+                )
+
+
+            # -----------------------------------------
+            # EXPECTED GOALS
+            # -----------------------------------------
+
+            if "expected_goals" in stats:
+
+                player["expected_goals"] = (
+                    stats["expected_goals"]
+                )
+
+
+            # -----------------------------------------
+            # EXPECTED ASSISTS
+            # -----------------------------------------
+
+            if "expected_assists" in stats:
+
+                player["expected_assists"] = (
+                    stats["expected_assists"]
+                )
+
+
+            # -----------------------------------------
+            # EXPECTED GOAL INVOLVEMENTS
+            # -----------------------------------------
+
+            if "expected_goal_involvements" in stats:
+
+                player["expected_goal_involvements"] = (
+                    stats["expected_goal_involvements"]
+                )
+
+
+        merged.append(player)
+
+
+    return merged
 
 
 # =========================================================
 # PLAYER LINE
 # =========================================================
 
-def player_line(
-    player,
-    live_stats
-):
+def player_line(player):
 
     first_name = player.get(
         "first_name",
@@ -296,15 +472,20 @@ def player_line(
         ""
     )
 
+
     name = (
         f"{first_name} {second_name}"
         .strip()
     )
 
+
     position = POSITION_NAMES.get(
-        player.get("element_type"),
+        player.get(
+            "element_type"
+        ),
         "UNK"
     )
+
 
     price = format_price(
         player.get(
@@ -313,79 +494,86 @@ def player_line(
         )
     )
 
-    # =====================================================
-    # TOTAL / SEASON DATA
-    # =====================================================
 
-    total_points = safe_number(
+    pts = safe_number(
         player.get(
-            "total_points",
+            "event_points",
             0
         )
     )
 
-    total_bonus = safe_number(
+
+    bonus = safe_number(
         player.get(
             "bonus",
             0
         )
     )
 
-    total_bps = safe_number(
+
+    bps = safe_number(
         player.get(
             "bps",
             0
         )
     )
 
-    total_dc = safe_number(
+
+    defensive_contribution = safe_number(
         player.get(
             "defensive_contribution",
             0
         )
     )
 
-    total_xg = safe_number(
+
+    xg = safe_number(
         player.get(
             "expected_goals",
             0
         )
     )
 
-    total_xa = safe_number(
+
+    xa = safe_number(
         player.get(
             "expected_assists",
             0
         )
     )
 
-    total_xgi = safe_number(
+
+    xgi = safe_number(
         player.get(
             "expected_goal_involvements",
             0
         )
     )
 
-    total_goals = safe_number(
+
+    goals = safe_number(
         player.get(
             "goals_scored",
             0
         )
     )
 
-    total_assists = safe_number(
+
+    assists = safe_number(
         player.get(
             "assists",
             0
         )
     )
 
-    total_minutes = safe_number(
+
+    minutes = safe_number(
         player.get(
             "minutes",
             0
         )
     )
+
 
     ownership = format_ownership(
         player.get(
@@ -394,12 +582,14 @@ def player_line(
         )
     )
 
+
     form = safe_number(
         player.get(
             "form",
             0
         )
     )
+
 
     ppg = safe_number(
         player.get(
@@ -408,304 +598,190 @@ def player_line(
         )
     )
 
-    # =====================================================
-    # CURRENT GAMEWEEK DATA
-    # =====================================================
-
-    gw_points = safe_number(
-        live_stats.get(
-            "total_points",
-            0
-        )
-    )
-
-    gw_bonus = safe_number(
-        live_stats.get(
-            "bonus",
-            0
-        )
-    )
-
-    gw_bps = safe_number(
-        live_stats.get(
-            "bps",
-            0
-        )
-    )
-
-    gw_dc = safe_number(
-        live_stats.get(
-            "defensive_contribution",
-            0
-        )
-    )
-
-    gw_goals = safe_number(
-        live_stats.get(
-            "goals_scored",
-            0
-        )
-    )
-
-    gw_assists = safe_number(
-        live_stats.get(
-            "assists",
-            0
-        )
-    )
-
-    gw_minutes = safe_number(
-        live_stats.get(
-            "minutes",
-            0
-        )
-    )
-
-    # =====================================================
-    # OUTPUT
-    # =====================================================
 
     return (
+
         f"{name:<28}"
+
         f"{position:<6}"
+
         f"{price:<9}"
 
-        f"{gw_points:<9}"
-        f"{total_points:<10}"
+        f"{pts:<7}"
 
-        f"{gw_bonus:<9}"
-        f"{total_bonus:<10}"
+        f"{bonus:<8}"
 
-        f"{gw_bps:<8}"
-        f"{total_bps:<9}"
+        f"{bps:<8}"
 
-        f"{gw_dc:<9}"
-        f"{total_dc:<10}"
+        f"{defensive_contribution:<8}"
 
-        f"{format_number(total_xg):<9}"
-        f"{format_number(total_xa):<9}"
-        f"{format_number(total_xgi):<9}"
+        f"{format_number(xg):<9}"
 
-        f"{gw_goals:<8}"
-        f"{total_goals:<8}"
+        f"{format_number(xa):<9}"
 
-        f"{gw_assists:<9}"
-        f"{total_assists:<9}"
+        f"{format_number(xgi):<9}"
 
-        f"{gw_minutes:<9}"
-        f"{total_minutes:<9}"
+        f"{goals:<6}"
+
+        f"{assists:<6}"
+
+        f"{minutes:<8}"
 
         f"{ownership:<9}"
+
         f"{format_number(form):<8}"
+
         f"{format_number(ppg):<8}"
+
     )
 
 
 # =========================================================
-# WRITE CLUB FILE
+# WRITE TEAM FILE
 # =========================================================
 
 def write_team_file(
     team_id,
-    team,
+    team_name,
     players,
-    live_map,
-    current_gw
+    gameweek
 ):
 
-    team_name = team["name"]
-
-    filename = (
-        safe_filename(
-            team_name
-        )
-        + ".txt"
+    os.makedirs(
+        OUTPUT_DIR,
+        exist_ok=True
     )
+
 
     path = os.path.join(
         OUTPUT_DIR,
-        filename
+        f"{team_name}.txt"
     )
 
-    # -----------------------------------------------------
-    # IMPORTANT:
-    # PLAYER CLUB IS DETERMINED BY player["team"]
-    # -----------------------------------------------------
 
     team_players = [
+
         player
+
         for player in players
+
         if player.get("team") == team_id
+
     ]
 
+
     team_players.sort(
+
         key=lambda player: (
+
             player.get(
                 "element_type",
                 0
             ),
+
             player.get(
                 "second_name",
                 ""
             )
+
         )
+
     )
+
 
     now = datetime.now(
         timezone.utc
     ).astimezone()
 
+
     lines = []
 
-    # -----------------------------------------------------
-    # HEADER
-    # -----------------------------------------------------
 
     lines.append(
-        team_name.upper()
+        team_name
+        .replace(
+            "_",
+            " "
+        )
+        .upper()
     )
 
+
     lines.append(
-        "=" * 280
+        "=" * 145
     )
+
 
     lines.append(
         f"Updated: "
         f"{now.strftime('%Y-%m-%d %H:%M:%S')}"
     )
 
-    lines.append(
-        f"Current Gameweek: GW{current_gw}"
-    )
 
     lines.append(
-        f"Players: {len(team_players)}"
+        f"Gameweek: GW{gameweek}"
     )
+
+
+    lines.append(
+        f"Players: "
+        f"{len(team_players)}"
+    )
+
 
     lines.append("")
 
-    # -----------------------------------------------------
-    # COLUMN HEADER
-    # -----------------------------------------------------
 
     lines.append(
+
         f"{'PLAYER':<28}"
+
         f"{'POS':<6}"
+
         f"{'PRICE':<9}"
 
-        f"{'GW_PTS':<9}"
-        f"{'TOTAL_PTS':<10}"
+        f"{'PTS':<7}"
 
-        f"{'GW_BONUS':<9}"
-        f"{'TOTAL_BONUS':<10}"
+        f"{'BONUS':<8}"
 
-        f"{'GW_BPS':<8}"
-        f"{'TOTAL_BPS':<9}"
+        f"{'BPS':<8}"
 
-        f"{'GW_DC':<9}"
-        f"{'TOTAL_DC':<10}"
+        f"{'DC':<8}"
 
         f"{'xG':<9}"
+
         f"{'xA':<9}"
+
         f"{'xGI':<9}"
 
-        f"{'GW_G':<8}"
-        f"{'GOALS':<8}"
+        f"{'G':<6}"
 
-        f"{'GW_A':<9}"
-        f"{'ASSISTS':<9}"
+        f"{'A':<6}"
 
-        f"{'GW_MIN':<9}"
-        f"{'MINUTES':<9}"
+        f"{'MIN':<8}"
 
         f"{'OWN':<9}"
+
         f"{'FORM':<8}"
+
         f"{'PPG':<8}"
+
     )
+
 
     lines.append(
-        "-" * 280
+        "-" * 145
     )
 
-    # -----------------------------------------------------
-    # PLAYERS
-    # -----------------------------------------------------
 
     for player in team_players:
 
-        player_id = player.get(
-            "id"
-        )
-
-        live_stats = live_map.get(
-            player_id,
-            {}
-        )
-
         lines.append(
             player_line(
-                player,
-                live_stats
+                player
             )
         )
 
-    # -----------------------------------------------------
-    # FOOTER
-    # -----------------------------------------------------
-
-    lines.append("")
-
-    lines.append(
-        "=" * 280
-    )
-
-    lines.append(
-        "GW_PTS = current Gameweek points"
-    )
-
-    lines.append(
-        "TOTAL_PTS = total season FPL points"
-    )
-
-    lines.append(
-        "GW_BONUS = current Gameweek bonus"
-    )
-
-    lines.append(
-        "TOTAL_BONUS = total season bonus"
-    )
-
-    lines.append(
-        "GW_BPS = current Gameweek BPS"
-    )
-
-    lines.append(
-        "TOTAL_BPS = total season BPS"
-    )
-
-    lines.append(
-        "GW_DC = current Gameweek defensive contribution"
-    )
-
-    lines.append(
-        "TOTAL_DC = total season defensive contribution"
-    )
-
-    lines.append(
-        "GW_G = goals scored in current Gameweek"
-    )
-
-    lines.append(
-        "GW_A = assists in current Gameweek"
-    )
-
-    lines.append(
-        "GW_MIN = minutes in current Gameweek"
-    )
-
-    # -----------------------------------------------------
-    # WRITE FILE
-    # -----------------------------------------------------
 
     with open(
         path,
@@ -716,6 +792,7 @@ def write_team_file(
         file.write(
             "\n".join(lines)
         )
+
 
     print(
         f"Updated {team_name}: "
@@ -730,32 +807,37 @@ def write_team_file(
 def main():
 
     print("")
-    print(
-        "=============================================="
-    )
-    print(
-        "          FPL LIVE STATS UPDATE"
-    )
-    print(
-        "=============================================="
-    )
+    print("=" * 60)
+    print("FPL LIVE STATISTICS UPDATE")
+    print("=" * 60)
     print("")
 
-    # -----------------------------------------------------
-    # GET FPL DATA
-    # -----------------------------------------------------
 
-    data = get_bootstrap()
+    # -----------------------------------------
+    # BOOTSTRAP
+    # -----------------------------------------
 
-    players = data.get(
+    print(
+        "Downloading FPL bootstrap data..."
+    )
+
+
+    bootstrap = api_get(
+        "bootstrap-static/"
+    )
+
+
+    players = bootstrap.get(
         "elements",
         []
     )
 
-    teams = data.get(
-        "teams",
+
+    events = bootstrap.get(
+        "events",
         []
     )
+
 
     if not players:
 
@@ -763,114 +845,91 @@ def main():
             "FPL API returned no players."
         )
 
-    if not teams:
+
+    if not events:
 
         raise RuntimeError(
-            "FPL API returned no teams."
+            "FPL API returned no gameweeks."
         )
 
-    print(
-        f"Players received: {len(players)}"
-    )
 
     print(
-        f"Teams received: {len(teams)}"
+        f"Received {len(players)} players."
     )
 
-    # -----------------------------------------------------
-    # BUILD TEAM MAP
-    # -----------------------------------------------------
 
-    team_map = build_team_map(
-        data
-    )
-
-    print("")
-    print(
-        "Using clubs directly from FPL API:"
-    )
-
-    for team_id, team in sorted(
-        team_map.items()
-    ):
-
-        print(
-            f"  {team_id}: "
-            f"{team['name']} "
-            f"({team['short_name']})"
-        )
-
-    # -----------------------------------------------------
+    # -----------------------------------------
     # CURRENT GW
-    # -----------------------------------------------------
+    # -----------------------------------------
 
-    current_gw = get_current_gameweek(
-        data
+    gameweek = find_current_gameweek(
+        events
     )
 
-    print("")
+
+    if gameweek is None:
+
+        raise RuntimeError(
+            "Could not determine current gameweek."
+        )
+
+
     print(
-        f"Current Gameweek: GW{current_gw}"
+        f"Current gameweek: GW{gameweek}"
     )
 
-    # -----------------------------------------------------
+
+    # -----------------------------------------
     # LIVE DATA
-    # -----------------------------------------------------
+    # -----------------------------------------
 
-    live_data = get_live_gameweek(
-        current_gw
+    live_players = get_live_data(
+        gameweek
     )
 
-    live_map = build_live_map(
-        live_data
+
+    # -----------------------------------------
+    # MERGE
+    # -----------------------------------------
+
+    players = merge_live_data(
+        players,
+        live_players
     )
+
 
     print(
-        f"Live players received: "
-        f"{len(live_map)}"
+        "Live statistics merged successfully."
     )
 
-    # -----------------------------------------------------
-    # OUTPUT DIRECTORY
-    # -----------------------------------------------------
 
-    os.makedirs(
-        OUTPUT_DIR,
-        exist_ok=True
-    )
+    # -----------------------------------------
+    # WRITE FILES
+    # -----------------------------------------
 
-    # -----------------------------------------------------
-    # WRITE ONE FILE PER REAL FPL TEAM
-    # -----------------------------------------------------
-
-    for team_id, team in sorted(
-        team_map.items()
-    ):
+    for team_id, team_name in TEAM_NAMES.items():
 
         write_team_file(
             team_id,
-            team,
+            team_name,
             players,
-            live_map,
-            current_gw
+            gameweek
         )
 
+
     print("")
+    print("=" * 60)
     print(
-        "=============================================="
+        f"FPL LIVE UPDATE COMPLETED - GW{gameweek}"
     )
-    print(
-        "             UPDATE COMPLETE"
-    )
-    print(
-        "=============================================="
-    )
+    print("=" * 60)
     print("")
 
 
 # =========================================================
-# START
+# RUN
 # =========================================================
 
 if __name__ == "__main__":
+
     main()
