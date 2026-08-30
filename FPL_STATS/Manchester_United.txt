@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-08-30 18:47:06
+Updated: 2026-08-30 18:57:13
 Gameweek: GW2
 Players: 35
 
@@ -32,7 +32,7 @@ Curtis Jones                MID   £5.5m    0      0       0       0       0    
 Lewis Koumas                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Alexis Mac Allister         MID   £5.5m    2      0       10      10      0        0.39     0.39     0     0     76      1.5%     1.5     1.5     
 James McConnell             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Victor Munoz                MID   £6.5m    6      0       24      7       0.32     0.19     0.51     1     0     90      0.8%     5       5       
+Victor Munoz                MID   £6.5m    6      0       24      7       0.32     0.19     0.51     1     0     90      0.9%     5       5       
 Rio Ngumoha                 MID   £6.0m    1      0       5       0       0        0.03     0.03     0     0     19      1.0%     1.5     1.5     
 Trey Nyoni                  MID   £5.0m    1      0       3       5       0        0        0        0     0     13      0.0%     0.5     1       
 Dominik Szoboszlai          MID   £7.0m    4      0       24      13      0.16     0.17     0.33     0     0     90      42.7%    6       6       
