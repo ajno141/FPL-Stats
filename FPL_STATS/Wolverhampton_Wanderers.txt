@@ -1,6 +1,6 @@
 WOLVERHAMPTON WANDERERS
 =================================================================================================================================================
-Updated: 2026-08-30 17:44:32
+Updated: 2026-08-30 17:54:53
 Gameweek: GW2
 Players: 27
 
@@ -25,11 +25,11 @@ Jules Ahoka                 MID   £4.5m    0      0       0       0       0    
 Nilson Angulo               MID   £5.0m    3      0       13      5       0        0.04     0.04     0     0     64      0.1%     4       4       
 Djiamgone Jocelin Ta Bi     MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Habib Diarra                MID   £5.5m    4      0       15      0       0        0.18     0.18     0     1     18      0.1%     2.5     2.5     
-Enzo Le Fée                 MID   £6.0m    3      0       15      6       0.21     0.17     0.38     0     0     89      8.0%     2.5     2.5     
+Enzo Le Fée                 MID   £6.0m    3      0       15      6       0.21     0.17     0.38     0     0     89      7.9%     2.5     2.5     
 Romaine Mundle              MID   £5.0m    1      0       2       1       0.06     0        0.06     0     0     1       0.0%     0.5     1       
 Chris Rigg                  MID   £5.0m    1      0       3       1       0        0        0        0     0     7       0.1%     1       1       
 Noah Sadiki                 MID   £5.0m    3      0       21      11      0.02     0.02     0.04     0     0     90      0.3%     2.5     2.5     
 Chemsdine Talbi             MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.5     1       
 Granit Xhaka                MID   £5.5m    3      0       26      7       0        0.3      0.3      0     0     90      4.6%     6       6       
-Brian Brobbey               FWD   £6.0m    2      0       5       4       0.06     0        0.06     0     0     63      11.9%    2       2       
+Brian Brobbey               FWD   £6.0m    2      0       5       4       0.06     0        0.06     0     0     63      11.8%    2       2       
 Wilson Isidor               FWD   £5.5m    8      3       29      0       1.38     0        1.38     1     0     26      0.9%     4.5     4.5     
