@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+
 <meta charset="UTF-8">
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>FPL Player Lab</title>
 
 <style>
+
 :root {
     --bg: #f4f5f7;
     --card: #ffffff;
@@ -29,12 +33,6 @@ body {
     background: var(--bg);
     color: var(--text);
 }
-
-.app {
-    min-height: 100vh;
-}
-
-/* SIDEBAR */
 
 .sidebar {
     position: fixed;
@@ -87,8 +85,6 @@ body {
     color: white;
 }
 
-/* MAIN */
-
 .main {
     margin-left: 230px;
     min-height: 100vh;
@@ -133,15 +129,11 @@ body {
     background: var(--green);
 }
 
-/* CONTENT */
-
 .content {
     max-width: 1700px;
     margin: auto;
     padding: 25px;
 }
-
-/* SUMMARY */
 
 .summary {
     display: grid;
@@ -168,8 +160,6 @@ body {
     font-size: 25px;
     font-weight: 900;
 }
-
-/* FILTERS */
 
 .filters-card {
     background: white;
@@ -223,8 +213,6 @@ select:focus {
     color: white;
 }
 
-/* HEADER */
-
 .players-header {
     display: flex;
     justify-content: space-between;
@@ -241,15 +229,11 @@ select:focus {
     color: var(--muted);
 }
 
-/* GRID */
-
 .player-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 14px;
 }
-
-/* PLAYER CARD */
 
 .player-card {
     background: white;
@@ -369,8 +353,6 @@ select:focus {
     margin-top: 3px;
 }
 
-/* MODAL */
-
 .overlay {
     display: none;
     position: fixed;
@@ -479,7 +461,15 @@ select:focus {
     font-weight: 900;
 }
 
-/* MOBILE */
+.error-box {
+    grid-column: 1 / -1;
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 50px 20px;
+    text-align: center;
+    color: #c0392b;
+}
 
 @media(max-width:850px) {
 
@@ -525,10 +515,6 @@ select:focus {
         padding: 12px;
     }
 
-    .summary {
-        gap: 8px;
-    }
-
     .player-grid {
         grid-template-columns: 1fr;
     }
@@ -540,8 +526,11 @@ select:focus {
     .topbar {
         padding: 0 13px;
     }
+
 }
+
 </style>
+
 </head>
 
 <body>
@@ -603,7 +592,7 @@ select:focus {
         </div>
 
         <div class="page-subtitle">
-            Fantasy Premier League statistics
+            Fantasy Premier League live statistics
         </div>
 
     </div>
@@ -628,9 +617,7 @@ select:focus {
             PLAYERS
         </div>
 
-        <div
-            class="summary-number"
-            id="totalPlayers">
+        <div class="summary-number" id="totalPlayers">
             -
         </div>
 
@@ -642,9 +629,7 @@ select:focus {
             GOALS
         </div>
 
-        <div
-            class="summary-number"
-            id="totalGoals">
+        <div class="summary-number" id="totalGoals">
             -
         </div>
 
@@ -656,9 +641,7 @@ select:focus {
             ASSISTS
         </div>
 
-        <div
-            class="summary-number"
-            id="totalAssists">
+        <div class="summary-number" id="totalAssists">
             -
         </div>
 
@@ -670,9 +653,7 @@ select:focus {
             FPL POINTS
         </div>
 
-        <div
-            class="summary-number"
-            id="totalPoints">
+        <div class="summary-number" id="totalPoints">
             -
         </div>
 
@@ -700,7 +681,7 @@ select:focus {
         <select id="sort">
 
             <option value="pts">
-                Points
+                GW Points
             </option>
 
             <option value="bonus">
@@ -781,9 +762,7 @@ select:focus {
         Players
     </div>
 
-    <div
-        class="players-count"
-        id="count">
+    <div class="players-count" id="count">
         Loading...
     </div>
 
@@ -793,16 +772,13 @@ select:focus {
     class="player-grid"
     id="playerGrid">
 
-    <div
-        style="
+    <div style="
         grid-column:1/-1;
         padding:60px;
         text-align:center;
         color:#8993a3;
-        ">
-
+    ">
         Loading FPL players...
-
     </div>
 
 </div>
@@ -813,138 +789,140 @@ select:focus {
 
 </div>
 
+
+<!-- PLAYER MODAL -->
+
+<div class="overlay" id="overlay">
+
+<div class="modal">
+
+<div class="modal-top">
+
+<button
+    class="close"
+    id="closeModal">
+    ×
+</button>
+
+<img
+    id="modalCrest"
+    class="modal-crest"
+    src=""
+    alt=""
+>
+
 <div
-    class="overlay"
-    id="overlay">
-
-    <div class="modal">
-
-        <div class="modal-top">
-
-            <button
-                class="close"
-                id="closeModal">
-                ×
-            </button>
-
-            <img
-                id="modalCrest"
-                class="modal-crest"
-                src=""
-                alt=""
-            >
-
-            <div
-                class="modal-name"
-                id="modalName">
-                -
-            </div>
-
-        </div>
-
-        <div class="modal-body">
-
-            <div class="detail-grid">
-
-                <div class="detail">
-                    <div class="detail-label">FPL Points</div>
-                    <div class="detail-value" id="dPts">-</div>
-                </div>
-
-                <div class="detail">
-                    <div class="detail-label">Bonus</div>
-                    <div class="detail-value" id="dBonus">-</div>
-                </div>
-
-                <div class="detail">
-                    <div class="detail-label">BPS</div>
-                    <div class="detail-value" id="dBps">-</div>
-                </div>
-
-                <div class="detail">
-                    <div class="detail-label">Price</div>
-                    <div class="detail-value" id="dPrice">-</div>
-                </div>
-
-                <div class="detail">
-                    <div class="detail-label">xG</div>
-                    <div class="detail-value" id="dXg">-</div>
-                </div>
-
-                <div class="detail">
-                    <div class="detail-label">xA</div>
-                    <div class="detail-value" id="dXa">-</div>
-                </div>
-
-                <div class="detail">
-                    <div class="detail-label">xGI</div>
-                    <div class="detail-value" id="dXgi">-</div>
-                </div>
-
-                <div class="detail">
-                    <div class="detail-label">Def. Contribution</div>
-                    <div class="detail-value" id="dDc">-</div>
-                </div>
-
-            </div>
-
-            <table class="detail-table">
-
-                <tr>
-                    <td>Goals</td>
-                    <td id="dGoals">-</td>
-                </tr>
-
-                <tr>
-                    <td>Assists</td>
-                    <td id="dAssists">-</td>
-                </tr>
-
-                <tr>
-                    <td>Minutes</td>
-                    <td id="dMinutes">-</td>
-                </tr>
-
-                <tr>
-                    <td>Ownership</td>
-                    <td id="dOwnership">-</td>
-                </tr>
-
-                <tr>
-                    <td>Position</td>
-                    <td id="dPosition">-</td>
-                </tr>
-
-                <tr>
-                    <td>Club</td>
-                    <td id="dClub">-</td>
-                </tr>
-
-            </table>
-
-        </div>
-
-    </div>
+    class="modal-name"
+    id="modalName">
+    -
+</div>
 
 </div>
 
+<div class="modal-body">
+
+<div class="detail-grid">
+
+<div class="detail">
+<div class="detail-label">GW Points</div>
+<div class="detail-value" id="dPts">-</div>
+</div>
+
+<div class="detail">
+<div class="detail-label">Bonus</div>
+<div class="detail-value" id="dBonus">-</div>
+</div>
+
+<div class="detail">
+<div class="detail-label">BPS</div>
+<div class="detail-value" id="dBps">-</div>
+</div>
+
+<div class="detail">
+<div class="detail-label">Price</div>
+<div class="detail-value" id="dPrice">-</div>
+</div>
+
+<div class="detail">
+<div class="detail-label">xG</div>
+<div class="detail-value" id="dXg">-</div>
+</div>
+
+<div class="detail">
+<div class="detail-label">xA</div>
+<div class="detail-value" id="dXa">-</div>
+</div>
+
+<div class="detail">
+<div class="detail-label">xGI</div>
+<div class="detail-value" id="dXgi">-</div>
+</div>
+
+<div class="detail">
+<div class="detail-label">Def. Contribution</div>
+<div class="detail-value" id="dDc">-</div>
+</div>
+
+</div>
+
+<table class="detail-table">
+
+<tr>
+<td>Goals</td>
+<td id="dGoals">-</td>
+</tr>
+
+<tr>
+<td>Assists</td>
+<td id="dAssists">-</td>
+</tr>
+
+<tr>
+<td>Minutes</td>
+<td id="dMinutes">-</td>
+</tr>
+
+<tr>
+<td>Ownership</td>
+<td id="dOwnership">-</td>
+</tr>
+
+<tr>
+<td>Position</td>
+<td id="dPosition">-</td>
+</tr>
+
+<tr>
+<td>Club</td>
+<td id="dClub">-</td>
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+</div>
+
+
 <script>
 
-/* CLUBS */
+/* =========================================================
+   CLUBS
+========================================================= */
 
 const clubs = [
+
     "Arsenal",
     "Aston_Villa",
     "Bournemouth",
     "Brentford",
     "Brighton",
     "Chelsea",
-    "Coventry_City",
     "Crystal_Palace",
     "Everton",
     "Fulham",
-    "Hull_City",
-    "Ipswich_Town",
     "Leeds",
     "Liverpool",
     "Manchester_City",
@@ -952,113 +930,102 @@ const clubs = [
     "Newcastle_United",
     "Nottingham_Forest",
     "Sunderland",
-    "Tottenham_Hotspur"
+    "Tottenham_Hotspur",
+    "Wolverhampton_Wanderers"
+
 ];
 
+
 let players = [];
+
 let selectedPosition = "ALL";
 
-const clubSelect = document.getElementById("club");
 
-/* CLUB SELECT */
+/* =========================================================
+   CLUB SELECT
+========================================================= */
+
+const clubSelect =
+    document.getElementById("club");
+
 
 clubs.forEach(club => {
 
-    const option = document.createElement("option");
+    const option =
+        document.createElement("option");
 
     option.value = club;
 
-    option.textContent = club.replaceAll("_", " ");
+    option.textContent =
+        club.replaceAll("_", " ");
 
     clubSelect.appendChild(option);
 
 });
 
-/* PARSE PLAYER LINE */
 
-function parsePlayerLine(line, clubName) {
+/* =========================================================
+   PARSE PLAYER LINE
+========================================================= */
+
+function parsePlayerLine(
+    line,
+    clubName
+) {
 
     line = line.replace(/\r/g, "");
 
-    const positionMatch =
-        line.match(/\b(GK|DEF|MID|FWD)\b/);
 
-    if (!positionMatch) {
+    /*
+     * Format:
+     *
+     * NAME POS PRICE PTS BONUS BPS DC xG xA xGI G A MIN OWN FORM PPG
+     */
+
+
+    const match = line.match(
+        /^(.+?)\s+(GK|DEF|MID|FWD)\s+(\S+)\s+(-?\d+(?:\.\d+)?)\s+(-?\d+(?:\.\d+)?)\s+(-?\d+(?:\.\d+)?)\s+(-?\d+(?:\.\d+)?)\s+(-?\d+(?:\.\d+)?)\s+(-?\d+(?:\.\d+)?)\s+(-?\d+(?:\.\d+)?)\s+(-?\d+(?:\.\d+)?)\s+(-?\d+(?:\.\d+)?)\s+(-?\d+(?:\.\d+)?)\s+(\S+)\s+(-?\d+(?:\.\d+)?)\s+(-?\d+(?:\.\d+)?)
+    );
+
+
+    if (!match) {
         return null;
     }
 
-    const position = positionMatch[1];
-
-    const positionIndex = positionMatch.index;
-
-    const playerName =
-        line.substring(0, positionIndex).trim();
-
-    if (!playerName) {
-        return null;
-    }
-
-    let remaining =
-        line.substring(
-            positionIndex + position.length
-        ).trim();
-
-    const parts =
-        remaining.split(/\s+/);
-
-    if (parts.length < 14) {
-        return null;
-    }
-
-    const price = parts[0];
-
-    const pts = Number(parts[1]);
-    const bonus = Number(parts[2]);
-    const bps = Number(parts[3]);
-    const dc = Number(parts[4]);
-    const xg = Number(parts[5]);
-    const xa = Number(parts[6]);
-    const xgi = Number(parts[7]);
-    const goals = Number(parts[8]);
-    const assists = Number(parts[9]);
-    const minutes = Number(parts[10]);
-    const ownership = parts[11];
-    const form = Number(parts[12]);
-    const ppg = Number(parts[13]);
 
     return {
 
-        player: playerName,
+        player: match[1].trim(),
 
-        pos: position,
+        pos: match[2],
 
-        price: price,
+        price: match[3],
 
-        pts: Number.isFinite(pts) ? pts : 0,
+        pts: Number(match[4]),
 
-        bonus: Number.isFinite(bonus) ? bonus : 0,
+        bonus: Number(match[5]),
 
-        bps: Number.isFinite(bps) ? bps : 0,
+        bps: Number(match[6]),
 
-        dc: Number.isFinite(dc) ? dc : 0,
+        dc: Number(match[7]),
 
-        xg: Number.isFinite(xg) ? xg : 0,
+        xg: Number(match[8]),
 
-        xa: Number.isFinite(xa) ? xa : 0,
+        xa: Number(match[9]),
 
-        xgi: Number.isFinite(xgi) ? xgi : 0,
+        xgi: Number(match[10]),
 
-        goals: Number.isFinite(goals) ? goals : 0,
+        goals: Number(match[11]),
 
-        assists: Number.isFinite(assists) ? assists : 0,
+        assists: Number(match[12]),
 
-        minutes: Number.isFinite(minutes) ? minutes : 0,
+        minutes: Number(match[13]),
 
-        ownership: ownership,
+        ownership: match[14],
 
-        form: Number.isFinite(form) ? form : 0,
+        form: Number(match[15]),
 
-        ppg: Number.isFinite(ppg) ? ppg : 0,
+        ppg: Number(match[16]),
 
         club: clubName.replaceAll("_", " ")
 
@@ -1066,32 +1033,44 @@ function parsePlayerLine(line, clubName) {
 
 }
 
-/* PARSE FILE */
 
-function parseFile(text, clubName) {
+/* =========================================================
+   PARSE FILE
+========================================================= */
+
+function parseFile(
+    text,
+    clubName
+) {
 
     const result = [];
 
-    const lines = text.split("\n");
+    const lines =
+        text.split("\n");
+
 
     for (const rawLine of lines) {
 
-        const line = rawLine.trimEnd();
+        const line =
+            rawLine.trim();
+
+
+        if (!line) {
+            continue;
+        }
+
 
         if (
-            !line ||
             line.startsWith("PLAYER") ||
             line.startsWith("-") ||
             line.startsWith("=") ||
             line.startsWith("Updated:") ||
-            line.startsWith("Players:")
+            line.startsWith("Players:") ||
+            line.startsWith("Gameweek:")
         ) {
             continue;
         }
 
-        if (!/\b(GK|DEF|MID|FWD)\b/.test(line)) {
-            continue;
-        }
 
         const player =
             parsePlayerLine(
@@ -1099,28 +1078,36 @@ function parseFile(text, clubName) {
                 clubName
             );
 
+
         if (player) {
+
             result.push(player);
+
         }
 
     }
 
+
     return result;
+
 }
 
-/* LOAD CLUB */
 
-async function loadClub(clubName) {
+/* =========================================================
+   LOAD CLUB
+========================================================= */
+
+async function loadClub(
+    clubName
+) {
 
     try {
 
         const response =
             await fetch(
-                `FPL_STATS/${clubName}.txt?t=${Date.now()}`,
-                {
-                    cache: "no-store"
-                }
+                `FPL_STATS/${clubName}.txt?t=${Date.now()}`
             );
+
 
         if (!response.ok) {
 
@@ -1134,8 +1121,10 @@ async function loadClub(clubName) {
 
         }
 
+
         const text =
             await response.text();
+
 
         return parseFile(
             text,
@@ -1158,34 +1147,126 @@ async function loadClub(clubName) {
 
 }
 
-/* LOAD EVERYTHING */
+
+/* =========================================================
+   LOAD EVERYTHING
+========================================================= */
 
 async function loadAll() {
 
-    try {
+    document.getElementById("count").textContent =
+        "Loading players...";
 
-        document
-            .getElementById("count")
-            .textContent =
-            "Updating...";
+
+    try {
 
         const results =
             await Promise.all(
                 clubs.map(loadClub)
             );
 
+
         players =
             results.flat();
+
+
+        console.log(
+            "Loaded players:",
+            players.length
+        );
+
+
+        if (players.length === 0) {
+
+            document.getElementById(
+                "playerGrid"
+            ).innerHTML = `
+
+                <div class="error-box">
+
+                    No player data could be loaded.
+
+                    <br><br>
+
+                    Check that the FPL_STATS folder
+                    and .txt files exist in GitHub.
+
+                </div>
+
+            `;
+
+            document.getElementById(
+                "count"
+            ).textContent =
+                "0 players";
+
+            return;
+
+        }
+
 
         updateSummary();
 
         render();
 
-        document
-            .getElementById("count")
-            .textContent =
-            `${players.length} players`;
+    }
 
-        console.log(
-            "FPL data updated:",
-    
+    catch(error) {
+
+        console.error(error);
+
+        document.getElementById(
+            "playerGrid"
+        ).innerHTML = `
+
+            <div class="error-box">
+
+                Failed to load FPL player data.
+
+                <br><br>
+
+                Check browser Console.
+
+            </div>
+
+        `;
+
+    }
+
+}
+
+
+/* =========================================================
+   SUMMARY
+========================================================= */
+
+function updateSummary() {
+
+    document.getElementById(
+        "totalPlayers"
+    ).textContent =
+        players.length;
+
+
+    document.getElementById(
+        "totalGoals"
+    ).textContent =
+        players.reduce(
+            (sum, p) =>
+                sum + p.goals,
+            0
+        );
+
+
+    document.getElementById(
+        "totalAssists"
+    ).textContent =
+        players.reduce(
+            (sum, p) =>
+                sum + p.assists,
+            0
+        );
+
+
+    document.getElementById(
+        "totalPoi
