@@ -1,25 +1,49 @@
 IPSWICH TOWN
-==========================================================================================================================================================================================================================================================
-Updated: 2026-08-30 02:10:10
-Current Gameweek: 2
-Players: 0
+====================================================================================================================================================================================================================================================================
+Updated: 2026-08-30 02:15:07
+Current Gameweek: GW2
+Players: 35
 
-PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      DC_PTS   xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     GW_PTS   GW_BONUS  GW_BPS   GW_DC    GW_DC_PTS   GW_G    GW_A    GW_MIN  
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PLAYER                      POS   PRICE    GW_PTS  TOTAL_PTSGW_BONUSBONUS   GW_BPS  BPS     GW_DC   TOTAL_DCxG       xA       xGI      GW_G   GOALS  GW_A   ASSISTSGW_MIN  MIN     OWN      FORM    PPG     
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+David Button                GK    £4.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.5%     0       0       
+Alex Palmer                 GK    £4.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       4.4%     0       0       
+Kjell Scherpen              GK    £4.5m    0       2        0       0       0       12      0       0       0        0        0        0      0      0      0      0       90      0.6%     1       2       
+Christian Walton            GK    £4.5m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.5%     0       0       
+Kayne van Oevelen           GK    £4.5m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.0%     0       0       
+Leif Davis                  DEF   £4.0m    0       2        0       0       0       10      0       7       0        0.01     0.01     0      0      0      0      0       90      4.8%     1       2       
+Issa Diop                   DEF   £4.0m    0       2        0       0       0       7       0       5       0        0.01     0.01     0      0      0      0      0       90      16.8%    1       2       
+Darnell Furlong             DEF   £4.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.6%     0       0       
+Jacob Greaves               DEF   £4.0m    0       2        0       0       0       12      0       7       0        0        0        0      0      0      0      0       90      1.4%     1       2       
+Ben Johnson                 DEF   £4.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.1%     0       0       
+Cédric Kipré                DEF   £4.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.6%     0       0       
+Dara O'Shea                 DEF   £4.0m    0       4        0       0       0       16      0       18      0        0.16     0.16     0      0      0      0      0       90      3.4%     2       4       
+Abdoul Ouattara             DEF   £4.0m    0       1        0       0       0       4       0       2       0        0        0        0      0      0      0      0       10      1.0%     0.5     1       
+Wes Burns                   MID   £5.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.0%     0       0       
+Jack Clarke                 MID   £5.5m    0       7        0       1       0       27      0       2       0.1      0        0.1      0      1      0      0      0       19      0.3%     3.5     7       
+Julio Enciso                MID   £5.5m    0       5        0       0       0       24      0       8       0.23     0.31     0.54     0      0      0      1      0       70      0.5%     2.5     5       
+Abdul Fatawu                MID   £5.5m    0       2        0       0       0       22      0       7       0        0.41     0.41     0      0      0      0      0       65      0.2%     1       2       
+Cameron Humphreys           MID   £4.5m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.0%     0       0       
+Saša Lukić                  MID   £5.0m    0       5        0       0       0       22      0       6       0        0.02     0.02     0      0      0      1      0       90      0.1%     2.5     5       
+Daizen Maeda                MID   £5.5m    0       2        0       0       0       7       0       9       0.61     0        0.61     0      0      0      0      0       79      0.4%     1       2       
+Azor Matusiwa               MID   £5.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.0%     0       0       
+Kasey McAteer               MID   £4.5m    0       1        0       0       0       4       0       3       0        0        0        0      0      0      0      0       24      1.3%     0.5     1       
+Anis Mehmeti                MID   £5.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.0%     0       0       
+Florentino Ibrain Morris LuísMID   £5.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.1%     0       0       
+Marcelino Núñez             MID   £5.0m    0       4        0       0       0       26      0       12      0.03     0.03     0.06     0      0      0      0      0       79      0.1%     2       4       
+Chiedozie Ogbene            MID   £5.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.0%     0       0       
+Exequiel Palacios           MID   £5.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.0%     0       0       
+Jaden Philogene             MID   £5.5m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.1%     0       0       
+Sam Szmodics                MID   £5.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.0%     0       0       
+Jack Taylor                 MID   £4.5m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.0%     0       0       
+Chuba Akpom                 FWD   £5.0m    0       1        0       0       0       3       0       3       0        0        0        0      0      0      0      0       24      0.5%     0.5     1       
+Ali Al-Hamadi               FWD   £5.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.1%     0       0       
+Emersonn Correia da Silva   FWD   £5.5m    0       9        0       3       0       41      0       3       0.82     0.06     0.88     0      1      0      0      0       65      2.0%     4.5     9       
+George Hirst                FWD   £5.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.2%     0       0       
+Sindre Walle Egeli          FWD   £4.5m    0       1        0       0       0       3       0       0       0        0        0        0      0      0      0      0       10      2.6%     0.5     1       
 
-TEAM TOTALS
---------------------------------------------------
-TOTAL SEASON POINTS: 0
-TOTAL SEASON GOALS: 0
-TOTAL SEASON ASSISTS: 0
-TOTAL SEASON DC: 0
-TOTAL SEASON DC POINTS: 0
-
-GW2 POINTS: 0
-GW2 BONUS: 0
-GW2 BPS: 0
-GW2 DC: 0
-GW2 DC POINTS: 0
-GW2 GOALS: 0
-GW2 ASSISTS: 0
-GW2 MINUTES: 0
+====================================================================================================================================================================================================================================================================
+GW_PTS = points in current Gameweek
+TOTAL_PTS = total FPL points for season
+GW_DC = defensive contribution in current Gameweek
+TOTAL_DC = total defensive contribution

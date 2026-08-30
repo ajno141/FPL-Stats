@@ -1,49 +1,38 @@
 FULHAM
-==========================================================================================================================================================================================================================================================
-Updated: 2026-08-30 02:10:10
-Current Gameweek: 2
+====================================================================================================================================================================================================================================================================
+Updated: 2026-08-30 02:15:07
+Current Gameweek: GW2
 Players: 24
 
-PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      DC_PTS   xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     GW_PTS   GW_BONUS  GW_BPS   GW_DC    GW_DC_PTS   GW_G    GW_A    GW_MIN  
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Benjamin Lecomte            GK    £4.0m    0      0       0       0       0        0        0        0        0     0     0       1.2%     0       0       0        0         0        0        0           0       0       0       
-Bernd Leno                  GK    £4.5m    2      0       11      0       0        0        0        0        0     0     90      3.0%     1       2       0        0         0        0        0           0       0       0       
-Alfie McNally               GK    £4.0m    0      0       0       0       0        0        0        0        0     0     0       0.2%     0       0       0        0         0        0        0           0       0       0       
-Joachim Andersen            DEF   £5.0m    0      0       0       0       0        0        0        0        0     0     0       0.1%     0       0       0        0         0        0        0           0       0       0       
-Calvin Bassey               DEF   £4.5m    0      0       1       4       0        0.02     0.02     0.04     0     0     90      0.8%     0       0       0        0         0        0        0           0       0       0       
-Timothy Castagne            DEF   £4.5m    6      0       21      6       0        0.09     0.18     0.27     0     2     90      0.5%     3       6       0        0         0        0        0           0       0       0       
-Jorge Cuenca Barreno        DEF   £4.5m    3      0       7       10      2        0        0.03     0.03     0     0     90      0.0%     1.5     3       0        0         0        0        0           0       0       0       
-Luc De Fougerolles          DEF   £4.0m    0      0       0       0       0        0        0        0        0     0     0       0.1%     0       0       0        0         0        0        0           0       0       0       
-Antonee Robinson            DEF   £4.5m    1      0       4       7       0        0.13     0.04     0.17     0     0     81      1.7%     0.5     1       0        0         0        0        0           0       0       0       
-Ryan Sessegnon              DEF   £4.5m    1      0       7       1       0        0.03     0        0.03     0     0     17      0.4%     0.5     1       0        0         0        0        0           0       0       0       
-Kenny Tete                  DEF   £4.5m    0      0       0       0       0        0        0        0        0     0     0       0.3%     0       0       0        0         0        0        0           0       0       0       
-Sander Berge                MID   £5.0m    2      0       14      4       0        0.03     0.03     0.06     0     0     72      0.4%     1       2       0        0         0        0        0           0       0       0       
-Oscar Bobb                  MID   £5.5m    2      0       10      6       0        0        0.26     0.26     0     0     66      0.3%     1       2       0        0         0        0        0           0       0       0       
-Tom Cairney                 MID   £5.0m    0      0       0       0       0        0        0        0        0     0     0       0.0%     0       0       0        0         0        0        0           0       0       0       
-Shea Charles                MID   £5.0m    1      0       5       3       0        0        0        0        0     0     23      0.1%     0.5     1       0        0         0        0        0           0       0       0       
-Alex Iwobi                  MID   £5.5m    2      0       17      10      0        0        0.04     0.04     0     0     90      1.0%     1       2       0        0         0        0        0           0       0       0       
-Josh King                   MID   £5.5m    7      0       34      8       0        0.17     0.04     0.21     1     0     90      0.6%     3.5     7       0        0         0        0        0           0       0       0       
-César Palacios              MID   £5.5m    2      0       10      4       0        0.16     0.01     0.17     0     0     72      0.2%     1       2       0        0         0        0        0           0       0       0       
-Harrison Reed               MID   £4.5m    0      0       0       0       0        0        0        0        0     0     0       1.4%     0       0       0        0         0        0        0           0       0       0       
-Kevin Santos Lopes de MacedoMID   £5.5m    1      0       2       3       0        0        0.01     0.01     0     0     17      0.1%     0.5     1       0        0         0        0        0           0       0       0       
-Emile Smith Rowe            MID   £5.5m    0      0       0       0       0        0        0        0        0     0     0       0.4%     0       0       0        0         0        0        0           0       0       0       
-Gonzalo García              FWD   £6.0m    6      0       33      2       0        0.73     0.01     0.74     1     0     90      4.4%     3       6       0        0         0        0        0           0       0       0       
-Jonah Kusi-Asare            FWD   £4.5m    0      0       0       0       0        0        0        0        0     0     0       6.9%     0       0       0        0         0        0        0           0       0       0       
-Rodrigo Muniz Carvalho      FWD   £5.5m    1      0       6       1       0        0.02     0        0.02     0     0     8       0.5%     0.5     1       0        0         0        0        0           0       0       0       
+PLAYER                      POS   PRICE    GW_PTS  TOTAL_PTSGW_BONUSBONUS   GW_BPS  BPS     GW_DC   TOTAL_DCxG       xA       xGI      GW_G   GOALS  GW_A   ASSISTSGW_MIN  MIN     OWN      FORM    PPG     
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Benjamin Lecomte            GK    £4.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       1.2%     0       0       
+Bernd Leno                  GK    £4.5m    0       2        0       0       0       11      0       0       0        0        0        0      0      0      0      0       90      3.0%     1       2       
+Alfie McNally               GK    £4.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.2%     0       0       
+Joachim Andersen            DEF   £5.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.1%     0       0       
+Calvin Bassey               DEF   £4.5m    0       0        0       0       0       1       0       4       0.02     0.02     0.04     0      0      0      0      0       90      0.8%     0       0       
+Timothy Castagne            DEF   £4.5m    0       6        0       0       0       21      0       6       0.09     0.18     0.27     0      0      0      2      0       90      0.5%     3       6       
+Jorge Cuenca Barreno        DEF   £4.5m    0       3        0       0       0       7       0       10      0        0.03     0.03     0      0      0      0      0       90      0.0%     1.5     3       
+Luc De Fougerolles          DEF   £4.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.1%     0       0       
+Antonee Robinson            DEF   £4.5m    0       1        0       0       0       4       0       7       0.13     0.04     0.17     0      0      0      0      0       81      1.7%     0.5     1       
+Ryan Sessegnon              DEF   £4.5m    0       1        0       0       0       7       0       1       0.03     0        0.03     0      0      0      0      0       17      0.4%     0.5     1       
+Kenny Tete                  DEF   £4.5m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.3%     0       0       
+Sander Berge                MID   £5.0m    0       2        0       0       0       14      0       4       0.03     0.03     0.06     0      0      0      0      0       72      0.4%     1       2       
+Oscar Bobb                  MID   £5.5m    0       2        0       0       0       10      0       6       0        0.26     0.26     0      0      0      0      0       66      0.3%     1       2       
+Tom Cairney                 MID   £5.0m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.0%     0       0       
+Shea Charles                MID   £5.0m    0       1        0       0       0       5       0       3       0        0        0        0      0      0      0      0       23      0.1%     0.5     1       
+Alex Iwobi                  MID   £5.5m    0       2        0       0       0       17      0       10      0        0.04     0.04     0      0      0      0      0       90      1.0%     1       2       
+Josh King                   MID   £5.5m    0       7        0       0       0       34      0       8       0.17     0.04     0.21     0      1      0      0      0       90      0.6%     3.5     7       
+César Palacios              MID   £5.5m    0       2        0       0       0       10      0       4       0.16     0.01     0.17     0      0      0      0      0       72      0.2%     1       2       
+Harrison Reed               MID   £4.5m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       1.4%     0       0       
+Kevin Santos Lopes de MacedoMID   £5.5m    0       1        0       0       0       2       0       3       0        0.01     0.01     0      0      0      0      0       17      0.1%     0.5     1       
+Emile Smith Rowe            MID   £5.5m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       0.4%     0       0       
+Gonzalo García              FWD   £6.0m    0       6        0       0       0       33      0       2       0.73     0.01     0.74     0      1      0      0      0       90      4.4%     3       6       
+Jonah Kusi-Asare            FWD   £4.5m    0       0        0       0       0       0       0       0       0        0        0        0      0      0      0      0       0       6.9%     0       0       
+Rodrigo Muniz Carvalho      FWD   £5.5m    0       1        0       0       0       6       0       1       0.02     0        0.02     0      0      0      0      0       8       0.5%     0.5     1       
 
-TEAM TOTALS
---------------------------------------------------
-TOTAL SEASON POINTS: 37
-TOTAL SEASON GOALS: 2
-TOTAL SEASON ASSISTS: 2
-TOTAL SEASON DC: 69
-TOTAL SEASON DC POINTS: 2
-
-GW2 POINTS: 0
-GW2 BONUS: 0
-GW2 BPS: 0
-GW2 DC: 0
-GW2 DC POINTS: 0
-GW2 GOALS: 0
-GW2 ASSISTS: 0
-GW2 MINUTES: 0
+====================================================================================================================================================================================================================================================================
+GW_PTS = points in current Gameweek
+TOTAL_PTS = total FPL points for season
+GW_DC = defensive contribution in current Gameweek
+TOTAL_DC = total defensive contribution
