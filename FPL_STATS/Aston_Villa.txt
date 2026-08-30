@@ -1,0 +1,42 @@
+ASTON VILLA
+====================================================================================================================================================================================================================================================================
+Updated: 2026-08-30 02:28:37
+Gameweek: GW2
+Players: 34
+
+PLAYER                      POS   PRICE    GW PTS TOTAL PTSGW BONUSTOTAL BONUSGW BPS TOTAL BPSGW DC  TOTAL DCGW xG   TOTAL xGGW xA   TOTAL xAGW xGI  TOTAL xGIGW G  TOTAL GGW A  TOTAL AGW MIN TOTAL MINOWN      FORM    PPG     
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Marco Bizot                 GK    £4.5m    0      1       0       0        0      1       0      0       0       0       0       0       0       0       0     0      0     0      0      90      0.1%     0.5     1       
+Emiliano Martínez Romero    GK    £5.0m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       4.1%     0       0       
+Zion Suzuki                 GK    £5.0m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.9%     0       0       
+Matty Cash                  DEF   £4.5m    0      -1      0       0        0      -8      0      7       0       0       0       0       0       0       0     0      0     0      0      90      7.5%     -0.5    -1      
+Lucas Digne                 DEF   £4.5m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.1%     0       0       
+Andrés García               DEF   £4.0m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       1.7%     0       0       
+Victor Lindelöf             DEF   £4.5m    0      -2      0       0        0      -13     0      3       0       0       0       0       0       0       0     0      0     0      0      90      0.3%     -1      -2      
+Ian Maatsen                 DEF   £4.5m    0      0       0       0        0      -9      0      9       0       0.03    0       0       0       0.03    0     0      0     0      0      81      0.7%     0       0       
+Tyrone Mings                DEF   £4.5m    0      1       0       0        0      5       0      1       0       0       0       0       0       0       0     0      0     0      0      16      0.4%     0.5     1       
+Kosta Nedeljkovic           DEF   £4.0m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.2%     0       0       
+Triston Rowe                DEF   £4.0m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.1%     0       0       
+Matteo Ruggeri              DEF   £4.5m    0      1       0       0        0      3       0      2       0       0       0       0       0       0       0     0      0     0      0      8       0.1%     0.5     1       
+Pau Torres                  DEF   £4.5m    0      0       0       0        0      -14     0      5       0       0       0       0       0       0       0     0      0     0      0      73      0.4%     0       0       
+Aaron Wan-Bissaka           DEF   £4.5m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.1%     0       0       
+Leon Bailey                 MID   £5.5m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.1%     0       0       
+Ross Barkley                MID   £5.0m    0      2       0       0        0      11      0      1       0       0.1     0       0.02    0       0.12    0     0      0     0      0      73      0.2%     1       2       
+Lamare Bogarde              MID   £5.0m    0      1       0       0        0      3       0      1       0       0       0       0       0       0       0     0      0     0      0      16      0.1%     0.5     1       
+Emiliano Buendía Stati      MID   £6.0m    0      2       0       0        0      4       0      7       0       0.13    0       0.09    0       0.22    0     0      0     0      0      85      1.2%     1       2       
+Bradley Burrowes            MID   £4.5m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.7%     0       0       
+Alysson Edward Franco da Rocha dos SantosMID   £5.0m    0      1       0       0        0      5       0      3       0       0       0       0       0       0       0     0      0     0      0      8       0.0%     0.5     1       
+Alejandro Garnacho Ferreyra MID   £6.0m    0      1       0       0        0      2       0      0       0       0       0       0       0       0       0     0      0     0      0      4       0.5%     0.5     1       
+Joao Gomes                  MID   £5.5m    0      -2      0       0        0      -2      0      7       0       0       0       0.01    0       0.01    0     0      0     0      0      39      0.0%     -1      -2      
+Leon Goretzka               MID   £6.0m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.0%     0       0       
+George Hemmings             MID   £4.5m    0      2       0       0        0      12      0      5       0       0       0       0       0       0       0     0      0     0      0      90      0.8%     1       2       
+Samuel Iling-Junior         MID   £5.0m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.0%     0       0       
+Boubacar Kamara             MID   £5.0m    0      2       0       0        0      9       0      7       0       0       0       0       0       0       0     0      0     0      0      90      0.3%     1       2       
+Luka Lynch                  MID   £4.5m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.1%     0       0       
+Johan Manzambi              MID   £5.9m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.2%     0       0       
+John McGinn                 MID   £5.5m    0      1       0       0        0      8       0      6       0       0.04    0       0.01    0       0.05    0     0      0     0      0      81      2.7%     0.5     1       
+Amadou Onana                MID   £5.0m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.0%     0       0       
+Tammy Abraham               FWD   £5.5m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.1%     0       0       
+Nicolas Jackson             FWD   £6.5m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.5%     0       0       
+Brian Madjo                 FWD   £5.5m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       0.4%     0       0       
+Ollie Watkins               FWD   £7.9m    0      0       0       0        0      0       0      0       0       0       0       0       0       0       0     0      0     0      0      0       7.1%     0       0       
