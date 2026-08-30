@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-08-30 01:59:20
+Updated: 2026-08-30 02:02:51
 Gameweek: GW2
 Players: 29
 
@@ -25,13 +25,13 @@ David Brooks                MID   £5.0m    1      0       3       0       0    
 Ryan Christie               MID   £5.0m    1      0       5       2       0        0        0        0     0     3       0.0%     0.5     1       
 Lewis Cook                  MID   £5.0m    3      0       13      2       0        0.01     0.01     0     0     68      0.2%     3       3       
 Ben Gannon-Doak             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
-Justin Kluivert             MID   £6.0m    3      0       12      5       0.72     0.05     0.77     0     0     80      1.2%     3       3       
+Justin Kluivert             MID   £6.0m    3      0       12      5       0.61     0.05     0.66     0     0     80      1.2%     3       3       
 Junior Kroupi               MID   £7.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Alex Scott                  MID   £6.0m    12     3       39      15      0.26     0.28     0.54     1     0     86      1.6%     7       7       
-Rayan Vitor Simplício Rocha MID   £6.5m    2      0       4       5       0.44     0.05     0.49     0     0     90      2.7%     2       2       
-Marcus Tavernier            MID   £6.0m    1      0       20      11      0.49     0.29     0.78     0     0     90      2.6%     5.5     5.5     
+Alex Scott                  MID   £6.0m    12     3       39      15      0.26     0.27     0.53     1     0     86      1.6%     7       7       
+Rayan Vitor Simplício Rocha MID   £6.5m    2      0       4       5       0.4      0.02     0.42     0     0     90      2.7%     2       2       
+Marcus Tavernier            MID   £6.0m    1      0       20      11      0.09     0.21     0.3      0     0     90      2.6%     5.5     5.5     
 Alex Tóth                   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
-Daniel Jebbison             FWD   £5.0m    0      0       0       0       0.1      0        0.1      0     0     0       0.1%     0.5     1       
+Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Álvaro Rodríguez            FWD   £6.0m    1      0       4       1       0        0        0        0     0     9       0.1%     0.5     1       
-Francisco Evanilson de Lima BarbosaFWD   £6.0m    5      0       11      3       0.58     0.25     0.83     0     1     80      3.1%     4.5     4.5     
+Francisco Evanilson de Lima BarbosaFWD   £6.0m    5      0       11      3       0.58     0.04     0.62     0     1     80      3.1%     4.5     4.5     
 Enes Ünal                   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
