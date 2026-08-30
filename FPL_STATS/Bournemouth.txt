@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-08-30 21:33:23
+Updated: 2026-08-30 21:43:55
 Gameweek: GW2
 Players: 29
 
@@ -33,5 +33,5 @@ Marcus Tavernier            MID   £6.0m    1      0       20      11      0.09 
 Alex Tóth                   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Álvaro Rodríguez            FWD   £6.0m    1      0       4       1       0        0        0        0     0     9       0.1%     0.5     1       
-Francisco Evanilson de Lima BarbosaFWD   £6.0m    5      0       11      3       0.58     0.04     0.62     0     1     80      3.1%     4.5     4.5     
+Francisco Evanilson de Lima BarbosaFWD   £6.0m    5      0       11      3       0.58     0.04     0.62     0     1     80      3.2%     4.5     4.5     
 Enes Ünal                   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
