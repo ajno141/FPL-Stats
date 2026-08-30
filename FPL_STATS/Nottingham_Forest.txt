@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-08-30 14:26:27
+Updated: 2026-08-30 14:36:53
 Gameweek: GW2
 Players: 34
 
@@ -9,7 +9,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Altay Bayındır              GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Karl Darlow                 GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tom Heaton                  GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Senne Lammens               GK    £5.0m    0      0       0       0       0        0        0        0     0     0       15.3%    0.5     1       
+Senne Lammens               GK    £5.0m    0      0       0       0       0        0        0        0     0     0       15.2%    0.5     1       
 Harry Amass                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Diogo Dalot Teixeira        DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       2.4%     0.5     1       
 Tyler Fredricson            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -24,7 +24,7 @@ Carlos Baleba               MID   £5.0m    0      0       0       0       0    
 Bruno Borges Fernandes      MID   £12.0m   0      0       0       0       0        0        0        0     0     0       46.4%    1       2       
 Toby Collyer                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amad Diallo                 MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.8%     0       0       
-Patrick Dorgu               MID   £5.9m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
+Patrick Dorgu               MID   £5.9m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
 Jack Fletcher               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tyler Fletcher              MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Shea Lacey                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
