@@ -1,8 +1,8 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-08-30 18:26:14
+Updated: 2026-08-30 18:36:45
 Gameweek: GW2
-Players: 24
+Players: 25
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -27,6 +27,7 @@ César Palacios              MID   £5.5m    1      0       5       9       0.04
 Harrison Reed               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.4%     0       0       
 Kevin Santos Lopes de MacedoMID   £5.5m    1      0       2       0       0        0.04     0.04     0     0     7       0.1%     1       1       
 Emile Smith Rowe            MID   £5.5m    1      0       5       1       0.06     0.02     0.08     0     0     13      0.4%     0.5     1       
+Macauley Zepa               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Gonzalo García              FWD   £6.0m    2      0       2       4       0.29     0.01     0.3      0     0     90      4.4%     4       4       
 Jonah Kusi-Asare            FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       6.8%     0       0       
 Rodrigo Muniz Carvalho      FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0.5     1       
