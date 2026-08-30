@@ -1,37 +1,54 @@
 ARSENAL
-=================================================================================================================================================
-Updated: 2026-08-30 02:02:51
-Gameweek: GW2
+==========================================================================================================================================================================================================================================================
+Updated: 2026-08-30 02:09:53
+Current Gameweek: 2
 Players: 29
 
-PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
--------------------------------------------------------------------------------------------------------------------------------------------------
-Kepa Arrizabalaga Revuelta  GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Illan Meslier               GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-David Raya Martín           GK    £6.0m    0      0       0       0       0        0        0        0     0     0       38.3%    3       6       
-Riccardo Calafiori          DEF   £5.6m    0      0       0       0       0        0        0        0     0     0       41.7%    4.5     9       
-Piero Hincapié              DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       1.5%     0.5     1       
-Ezri Konsa Ngoyo            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       10.6%    0       0       
-Cristhian Mosquera          DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       5.6%     3       6       
-William Saliba              DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Jurriën Timber              DEF   £6.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Benjamin White              DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       6.9%     5.5     11      
-Gabriel dos Santos MagalhãesDEF   £8.0m    0      0       0       0       0        0        0        0     0     0       28.7%    2.5     5       
-Max Dowman                  MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Eberechi Eze                MID   £6.4m    0      0       0       0       0        0        0        0     0     0       1.7%     0.5     1       
-Fábio Ferreira Vieira       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Bruno Guimarães Rodriguez MouraMID   £6.9m    0      0       0       0       0        0        0        0     0     0       2.6%     0       0       
-Myles Lewis-Skelly          MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.7%     1.5     3       
-Noni Madueke                MID   £6.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0.5     1       
-Gabriel Martinelli Silva    MID   £6.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Mikel Merino Zazón          MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.6%     0.5     1       
-Reiss Nelson                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Ethan Nwaneri               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Declan Rice                 MID   £7.5m    0      0       0       0       0        0        0        0     0     0       16.5%    1.5     3       
-Bukayo Saka                 MID   £9.5m    0      0       0       0       0        0        0        0     0     0       10.3%    4.5     9       
-Christos Tzolis             MID   £6.5m    0      0       0       0       0        0        0        0     0     0       26.0%    3       6       
-Martín Zubimendi Ibáñez     MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.9%     0.5     1       
-Martin Ødegaard             MID   £6.6m    0      0       0       0       0        0        0        0     0     0       11.9%    5.5     11      
-Gabriel Fernando de Jesus   FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Viktor Gyökeres             FWD   £7.4m    0      0       0       0       0        0        0        0     0     0       6.4%     0       0       
-Kai Havertz                 FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       7.5%     3       6       
+PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      DC_PTS   xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     GW_PTS   GW_BONUS  GW_BPS   GW_DC    GW_DC_PTS   GW_G    GW_A    GW_MIN  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Kepa Arrizabalaga Revuelta  GK    £5.0m    0      0       0       0       0        0        0        0        0     0     0       0.1%     0       0       0        0         0        0        0           0       0       0       
+Illan Meslier               GK    £5.0m    0      0       0       0       0        0        0        0        0     0     0       0.0%     0       0       0        0         0        0        0           0       0       0       
+David Raya Martín           GK    £6.0m    6      0       24      0       0        0        0        0        0     0     90      38.3%    3       6       0        0         0        0        0           0       0       0       
+Riccardo Calafiori          DEF   £5.6m    9      0       31      5       0        0.04     0.09     0.13     0     1     80      41.7%    4.5     9       0        0         0        0        0           0       0       0       
+Piero Hincapié              DEF   £5.4m    1      0       3       0       0        0        0        0        0     0     9       1.5%     0.5     1       0        0         0        0        0           0       0       0       
+Ezri Konsa Ngoyo            DEF   £4.5m    0      0       0       0       0        0        0        0        0     0     0       10.6%    0       0       0        0         0        0        0           0       0       0       
+Cristhian Mosquera          DEF   £5.5m    6      0       27      6       0        0        0        0        0     0     90      5.6%     3       6       0        0         0        0        0           0       0       0       
+William Saliba              DEF   £6.0m    0      0       0       0       0        0        0        0        0     0     0       0.3%     0       0       0        0         0        0        0           0       0       0       
+Jurriën Timber              DEF   £6.5m    0      0       0       0       0        0        0        0        0     0     0       0.1%     0       0       0        0         0        0        0           0       0       0       
+Benjamin White              DEF   £5.5m    11     2       37      5       0        0.18     0.21     0.39     0     1     90      6.9%     5.5     11      0        0         0        0        0           0       0       0       
+Gabriel dos Santos MagalhãesDEF   £8.0m    5      0       21      4       0        0.05     0.01     0.06     0     0     90      28.7%    2.5     5       0        0         0        0        0           0       0       0       
+Max Dowman                  MID   £5.4m    0      0       0       0       0        0        0        0        0     0     0       0.1%     0       0       0        0         0        0        0           0       0       0       
+Eberechi Eze                MID   £6.4m    1      0       4       2       0        0.04     0        0.04     0     0     14      1.7%     0.5     1       0        0         0        0        0           0       0       0       
+Fábio Ferreira Vieira       MID   £5.5m    0      0       0       0       0        0        0        0        0     0     0       0.0%     0       0       0        0         0        0        0           0       0       0       
+Bruno Guimarães Rodriguez MouraMID   £6.9m    0      0       0       0       0        0        0        0        0     0     0       2.6%     0       0       0        0         0        0        0           0       0       0       
+Myles Lewis-Skelly          MID   £5.5m    3      0       15      7       0        0.06     0.11     0.17     0     0     90      0.7%     1.5     3       0        0         0        0        0           0       0       0       
+Noni Madueke                MID   £6.4m    1      0       8       2       0        0        0.04     0.04     0     0     22      0.3%     0.5     1       0        0         0        0        0           0       0       0       
+Gabriel Martinelli Silva    MID   £6.4m    0      0       0       0       0        0        0        0        0     0     0       0.2%     0       0       0        0         0        0        0           0       0       0       
+Mikel Merino Zazón          MID   £5.9m    1      0       5       2       0        0.14     0.02     0.16     0     0     14      0.6%     0.5     1       0        0         0        0        0           0       0       0       
+Reiss Nelson                MID   £5.5m    0      0       0       0       0        0        0        0        0     0     0       0.0%     0       0       0        0         0        0        0           0       0       0       
+Ethan Nwaneri               MID   £5.4m    0      0       0       0       0        0        0        0        0     0     0       0.0%     0       0       0        0         0        0        0           0       0       0       
+Declan Rice                 MID   £7.5m    3      0       10      6       0        0.07     0.08     0.15     0     0     67      16.5%    1.5     3       0        0         0        0        0           0       0       0       
+Bukayo Saka                 MID   £9.5m    9      1       36      7       0        0.64     0.08     0.72     1     0     67      10.3%    4.5     9       0        0         0        0        0           0       0       0       
+Christos Tzolis             MID   £6.5m    6      0       30      6       0        0.19     0.14     0.33     0     1     75      26.0%    3       6       0        0         0        0        0           0       0       0       
+Martín Zubimendi Ibáñez     MID   £5.4m    1      0       3       3       0        0        0.02     0.02     0     0     22      0.9%     0.5     1       0        0         0        0        0           0       0       0       
+Martin Ødegaard             MID   £6.6m    11     3       41      8       0        0.21     0.1      0.31     1     0     75      11.9%    5.5     11      0        0         0        0        0           0       0       0       
+Gabriel Fernando de Jesus   FWD   £6.0m    0      0       0       0       0        0        0        0        0     0     0       0.3%     0       0       0        0         0        0        0           0       0       0       
+Viktor Gyökeres             FWD   £7.4m    0      0       0       0       0        0        0        0        0     0     0       6.4%     0       0       0        0         0        0        0           0       0       0       
+Kai Havertz                 FWD   £7.5m    6      0       34      2       0        0.26     0.03     0.29     1     0     90      7.5%     3       6       0        0         0        0        0           0       0       0       
+
+TEAM TOTALS
+--------------------------------------------------
+TOTAL SEASON POINTS: 80
+TOTAL SEASON GOALS: 3
+TOTAL SEASON ASSISTS: 3
+TOTAL SEASON DC: 65
+TOTAL SEASON DC POINTS: 0
+
+GW2 POINTS: 0
+GW2 BONUS: 0
+GW2 BPS: 0
+GW2 DC: 0
+GW2 DC POINTS: 0
+GW2 GOALS: 0
+GW2 ASSISTS: 0
+GW2 MINUTES: 0
