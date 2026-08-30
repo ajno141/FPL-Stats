@@ -1,0 +1,41 @@
+BRIGHTON
+=================================================================================================================================================
+Updated: 2026-08-30 02:24:47
+Gameweek: GW2
+Players: 33
+
+PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Jason Steele                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       4.0%     0       0       
+Bart Verbruggen             GK    £4.5m    0      0       0       0       0        0        0        0     0     0       21.5%    3       6       
+Olivier Boscagli            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     3       6       
+Diego Coppola               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Maxim De Cuyper             DEF   £4.6m    0      0       0       0       0        0        0        0     0     0       9.9%     8.5     17      
+Lewis Dunk                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       1.2%     3       6       
+Jaouen Hadjam               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Ferdi Kadıoğlu              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       2.2%     0       0       
+João Pedro Loureiro da CostaDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
+Pascal Struijk              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
+Michael Svoboda             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Luka Vušković               DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       2.5%     3       6       
+Mats Wieffer                DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.5%     3.5     7       
+Igor Julio dos Santos de PauloDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Yasin Ayari                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.6%     1       2       
+Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Pascal Groß                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       12.6%    1       2       
+Diego Gómez Amarilla        MID   £5.0m    0      0       0       0       0        0        0        0     0     0       3.8%     3       6       
+Jack Hinshelwood            MID   £6.0m    0      0       0       0       0        0        0        0     0     0       2.1%     8       16      
+Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Mitoma Kaoru                MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Yankuba Minteh              MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Matt O'Riley                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Nehemiah Oriola             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
+Ibrahim Osman               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
+Tom Watson                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Malick Yalcouyé             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
+Zadok Yohanna               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
+Promise David               FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
+Evan Ferguson               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Charalampos Kostoulas       FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.5     1       
+Georginio Rutter            FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       1.0%     2.5     5       
+Stefanos Tzimas             FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
