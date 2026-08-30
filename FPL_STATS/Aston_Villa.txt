@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-08-30 14:05:16
+Updated: 2026-08-30 14:15:53
 Gameweek: GW2
 Players: 33
 
@@ -22,7 +22,7 @@ Aaron Wan-Bissaka           DEF   £4.5m    0      0       0       0       0    
 Leon Bailey                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Ross Barkley                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     1       2       
 Lamare Bogarde              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
-Emiliano Buendía Stati      MID   £6.0m    0      0       0       0       0        0        0        0     0     0       1.2%     1       2       
+Emiliano Buendía Stati      MID   £6.0m    0      0       0       0       0        0        0        0     0     0       1.1%     1       2       
 Bradley Burrowes            MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Alejandro Garnacho Ferreyra MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.5%     0.5     1       
 Joao Gomes                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     -1      -2      
