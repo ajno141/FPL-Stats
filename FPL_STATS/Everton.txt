@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-08-30 20:41:02
+Updated: 2026-08-30 20:51:22
 Gameweek: GW2
 Players: 24
 
@@ -15,7 +15,7 @@ Michael Keane               DEF   £5.0m    0      0       0       0       0    
 Vitalii Mykolenko           DEF   £4.5m    4      0       7       12      0        0.01     0.01     0     0     90      1.7%     5       5       
 Jake O'Brien                DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Nathan Patterson            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-James Tarkowski             DEF   £6.0m    12     2       27      10      0.1      0.01     0.11     1     0     90      9.4%     9       9       
+James Tarkowski             DEF   £6.0m    12     2       27      10      0.1      0.01     0.11     1     0     90      9.5%     9       9       
 Carlos Alcaraz Durán        MID   £5.0m    0      0       -2      0       0.03     0.02     0.05     0     0     4       0.1%     0.5     0.5     
 Harrison Armstrong          MID   £5.0m    2      0       12      9       0        0.03     0.03     0     0     86      0.3%     5       5       
 Kiernan Dewsbury-Hall       MID   £6.5m    2      0       24      10      0.06     0.16     0.22     0     0     90      4.6%     6.5     6.5     
@@ -29,4 +29,4 @@ Iliman Ndiaye               MID   £6.0m    4      0       16      13      0.02 
 Christian Nørgaard          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Merlin Röhl                 MID   £5.0m    2      0       13      9       0        0.01     0.01     0     0     85      0.1%     2.5     2.5     
 Thierno Barry               FWD   £5.5m    2      0       6       3       1.48     0        1.48     0     0     69      3.9%     5       5       
-Norberto Bercique Gomes BetuncalFWD   £5.5m    1      0       2       1       0.04     0        0.04     0     0     20      2.2%     1       1       
+Norberto Bercique Gomes BetuncalFWD   £5.5m    1      0       2       1       0.04     0        0.04     0     0     20      2.1%     1       1       
