@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-08-30 15:18:55
+Updated: 2026-08-30 15:29:01
 Gameweek: GW2
 Players: 34
 
@@ -30,7 +30,7 @@ Tyler Fletcher              MID   £4.5m    0      0       0       0       0    
 Shea Lacey                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Kobbie Mainoo               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.9%     0.5     1       
 Bendito Mantato             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Bryan Mbeumo                MID   £8.0m    0      0       0       0       0        0        0        0     0     0       33.8%    1       2       
+Bryan Mbeumo                MID   £8.0m    0      0       0       0       0        0        0        0     0     0       33.7%    1       2       
 Mason Mount                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Andrey Nascimento dos SantosMID   £5.0m    0      0       0       0       0        0        0        0     0     0       1.0%     1       2       
 Marcus Rashford             MID   £7.0m    0      0       0       0       0        0        0        0     0     0       1.6%     0.5     1       
