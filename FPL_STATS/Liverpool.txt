@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-08-31 19:56:43
+Updated: 2026-08-31 20:07:11
 Gameweek: GW2
 Players: 35
 
@@ -36,7 +36,7 @@ Exequiel Palacios           MID   £5.0m    1      0       11      6       0    
 Jaden Philogene             MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Sam Szmodics                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jack Taylor                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Chuba Akpom                 FWD   £5.0m    5      0       30      0       0.97     0        0.97     1     0     45      0.6%     3       3       
+Chuba Akpom                 FWD   £5.0m    5      0       30      0       0.97     0        0.97     1     0     45      0.7%     3       3       
 Ali Al-Hamadi               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Emersonn Correia da Silva   FWD   £5.5m    1      0       7       1       0        0        0        0     0     45      1.9%     5       5       
 George Hirst                FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
