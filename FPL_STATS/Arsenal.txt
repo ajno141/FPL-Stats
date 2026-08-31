@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-08-31 10:04:37
+Updated: 2026-08-31 10:15:11
 Gameweek: GW2
 Players: 29
 
@@ -16,7 +16,7 @@ Cristhian Mosquera          DEF   £5.5m    0      0       0       0       0    
 William Saliba              DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Jurriën Timber              DEF   £6.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Benjamin White              DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       7.0%     5.5     11      
-Gabriel dos Santos MagalhãesDEF   £8.0m    0      0       0       0       0        0        0        0     0     0       28.0%    2.5     5       
+Gabriel dos Santos MagalhãesDEF   £8.0m    0      0       0       0       0        0        0        0     0     0       27.9%    2.5     5       
 Max Dowman                  MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Eberechi Eze                MID   £6.4m    0      0       0       0       0        0        0        0     0     0       1.7%     0.5     1       
 Fábio Ferreira Vieira       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -33,5 +33,5 @@ Christos Tzolis             MID   £6.5m    0      0       0       0       0    
 Martín Zubimendi Ibáñez     MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.9%     0.5     1       
 Martin Ødegaard             MID   £6.6m    0      0       0       0       0        0        0        0     0     0       11.9%    5.5     11      
 Gabriel Fernando de Jesus   FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Viktor Gyökeres             FWD   £7.4m    0      0       0       0       0        0        0        0     0     0       6.2%     0       0       
+Viktor Gyökeres             FWD   £7.4m    0      0       0       0       0        0        0        0     0     0       6.1%     0       0       
 Kai Havertz                 FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       7.4%     3       6       
