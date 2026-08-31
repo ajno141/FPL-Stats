@@ -1,41 +1,41 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-08-31 19:04:21
+Updated: 2026-08-31 19:14:51
 Gameweek: GW2
 Players: 33
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Marco Bizot                 GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
-Zion Suzuki                 GK    £5.0m    1      0       3       0       0        0        0        0     0     1       0.9%     0       0       
-Matty Cash                  DEF   £4.5m    1      0       3       0       0        0        0        0     0     1       7.3%     -0.5    -1      
+Zion Suzuki                 GK    £5.0m    1      0       2       0       0        0        0        0     0     11      0.9%     0.5     1       
+Matty Cash                  DEF   £4.5m    1      0       3       1       0        0        0        0     0     11      7.3%     0       0       
 Lucas Digne                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Andrés García               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.7%     0       0       
-Victor Lindelöf             DEF   £4.5m    1      0       3       0       0        0        0        0     0     1       0.3%     -1      -2      
-Ian Maatsen                 DEF   £4.5m    1      0       3       0       0        0        0        0     0     1       0.7%     0       0       
+Victor Lindelöf             DEF   £4.5m    1      0       3       1       0        0        0        0     0     11      0.3%     -0.5    -0.5    
+Ian Maatsen                 DEF   £4.5m    1      0       5       1       0        0        0        0     0     11      0.7%     0.5     0.5     
 Tyrone Mings                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0.5     1       
 Kosta Nedeljkovic           DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Triston Rowe                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Matteo Ruggeri              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
-Pau Torres                  DEF   £4.5m    1      0       3       0       0        0        0        0     0     1       0.4%     0       0       
+Pau Torres                  DEF   £4.5m    1      0       3       1       0        0        0        0     0     11      0.4%     0.5     0.5     
 Aaron Wan-Bissaka           DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Leon Bailey                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Ross Barkley                MID   £5.0m    1      0       3       0       0        0        0        0     0     1       0.2%     1       2       
+Ross Barkley                MID   £5.0m    1      0       4       3       0        0        0        0     0     11      0.2%     1.5     1.5     
 Lamare Bogarde              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
-Emiliano Buendía Stati      MID   £6.0m    1      0       3       0       0        0        0        0     0     1       1.1%     1       2       
+Emiliano Buendía Stati      MID   £6.0m    1      0       4       1       0.03     0.01     0.04     0     0     11      1.1%     1.5     1.5     
 Bradley Burrowes            MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Alejandro Garnacho Ferreyra MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.5%     0.5     1       
 Joao Gomes                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     -1      -2      
 Leon Goretzka               MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-George Hemmings             MID   £4.5m    1      0       3       0       0        0        0        0     0     1       0.8%     1       2       
+George Hemmings             MID   £4.5m    1      0       3       0       0        0        0        0     0     11      0.8%     1.5     1.5     
 Samuel Iling-Junior         MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Boubacar Kamara             MID   £5.0m    1      0       3       0       0        0        0        0     0     1       0.3%     1       2       
+Boubacar Kamara             MID   £5.0m    1      0       3       0       0        0.01     0.01     0     0     11      0.3%     1.5     1.5     
 Luka Lynch                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Johan Manzambi              MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-John McGinn                 MID   £5.5m    1      0       3       0       0        0        0        0     0     1       2.6%     0.5     1       
+John McGinn                 MID   £5.5m    1      0       2       2       0.03     0        0.03     0     0     11      2.6%     1       1       
 Amadou Onana                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Alysson Edward Franco da Rocha dos SantosMID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Tammy Abraham               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Nicolas Jackson             FWD   £6.5m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Brian Madjo                 FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
-Ollie Watkins               FWD   £7.9m    0      0       0       0       0        0        0        0     0     0       6.5%     0       0       
+Ollie Watkins               FWD   £7.9m    0      0       0       0       0        0        0        0     0     0       6.4%     0       0       
