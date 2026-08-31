@@ -1,8 +1,8 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-08-31 21:10:07
+Updated: 2026-08-31 21:25:37
 Gameweek: GW2
-Players: 32
+Players: 33
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -36,5 +36,6 @@ John McGinn                 MID   £5.5m    1      0       2       4       0.05 
 Amadou Onana                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Alysson Edward Franco da Rocha dos SantosMID   £5.0m    0      0       2       2       0        0        0        0     0     19      0.0%     0.5     0.5     
 Tammy Abraham               FWD   £5.5m    1      0       3       0       0        0        0        0     0     19      0.1%     0.5     1       
+Nicolas Jackson             FWD   £6.5m    2      0       11      3       0        0.1      0.1      0     0     70      0.6%     1       2       
 Brian Madjo                 FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
-Ollie Watkins               FWD   £7.9m    0      0       0       0       0        0        0        0     0     0       6.4%     0       0       
+Ollie Watkins               FWD   £7.9m    0      0       0       0       0        0        0        0     0     0       6.3%     0       0       
