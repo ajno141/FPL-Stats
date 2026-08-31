@@ -1,6 +1,6 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-08-31 12:42:12
+Updated: 2026-08-31 12:53:04
 Gameweek: GW2
 Players: 25
 
@@ -16,7 +16,7 @@ Jorge Cuenca Barreno        DEF   £4.5m    0      0       0       0       0    
 Luc De Fougerolles          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Antonee Robinson            DEF   £4.5m    2      0       10      3       0        0.02     0.02     0     0     90      1.6%     1.5     1.5     
 Ryan Sessegnon              DEF   £4.5m    1      0       3       1       0.02     0.12     0.14     0     0     22      0.4%     1       1       
-Kenny Tete                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
+Kenny Tete                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Sander Berge                MID   £5.0m    2      0       14      2       0        0.2      0.2      0     0     82      0.4%     2       2       
 Oscar Bobb                  MID   £5.5m    3      0       8       5       0        0.01     0.01     0     0     67      0.3%     2.5     2.5     
 Tom Cairney                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -26,7 +26,7 @@ Josh King                   MID   £5.5m    2      0       8       4       0.47 
 César Palacios              MID   £5.5m    1      0       6       9       0.02     0        0.02     0     0     75      0.2%     1.5     1.5     
 Harrison Reed               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.4%     0       0       
 Kevin Santos Lopes de MacedoMID   £5.5m    1      0       2       0       0        0.04     0.04     0     0     7       0.1%     1       1       
-Emile Smith Rowe            MID   £5.5m    1      0       5       1       0.06     0.02     0.08     0     0     14      0.4%     0.5     1       
+Emile Smith Rowe            MID   £5.5m    1      0       5       1       0.06     0.02     0.08     0     0     14      0.3%     0.5     1       
 Macauley Zepa               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Gonzalo García              FWD   £6.0m    2      0       2       4       0.27     0.01     0.28     0     0     90      4.4%     4       4       
 Jonah Kusi-Asare            FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       6.8%     0       0       
