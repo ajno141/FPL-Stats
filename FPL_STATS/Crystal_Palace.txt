@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-08-31 22:54:55
+Updated: 2026-08-31 23:05:30
 Gameweek: GW2
 Players: 33
 
@@ -21,7 +21,7 @@ Chris Richards              DEF   £5.0m    0      0       -4      6       0.04 
 Borna Sosa                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Takehiro Tomiyasu           DEF   £4.5m    1      0       -3      8       0        0        0        0     0     73      0.3%     1       1       
 Justin Devenny              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Cheick Doucouré             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Cheick Doucouré             MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Joél Drakes-Thomas          MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Romain Esse                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Matheus França de Oliveira  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -35,7 +35,7 @@ Yéremy Pino Santos          MID   £5.5m    5      0       27      10      0.05
 Jesurun Rak-Sakyi           MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ismaïla Sarr                MID   £6.4m    0      0       0       0       0        0        0        0     0     0       1.7%     0       0       
 Adam Wharton                MID   £5.5m    2      0       21      7       0        0.07     0.07     0     0     90      0.9%     3       3       
-Jean-Philippe Mateta        FWD   £6.5m    0      0       0       0       0        0        0        0     0     0       3.6%     1       2       
+Jean-Philippe Mateta        FWD   £6.4m    0      0       0       0       0        0        0        0     0     0       3.6%     1       2       
 Eddie Nketiah               FWD   £5.5m    2      0       8       6       0.36     0        0.36     0     0     67      0.5%     1.5     1.5     
 Jørgen Strand Larsen        FWD   £6.0m    2      0       13      4       0.05     0        0.05     0     0     62      0.5%     1.5     1.5     
 Christantus Uche            FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
