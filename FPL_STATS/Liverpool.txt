@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-08-31 22:02:47
+Updated: 2026-08-31 22:13:22
 Gameweek: GW2
 Players: 35
 
@@ -38,6 +38,6 @@ Sam Szmodics                MID   £5.0m    0      0       0       0       0    
 Jack Taylor                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Chuba Akpom                 FWD   £5.0m    5      0       30      0       0.97     0        0.97     1     0     45      0.7%     3       3       
 Ali Al-Hamadi               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Emersonn Correia da Silva   FWD   £5.5m    1      0       7       1       0        0        0        0     0     45      1.9%     5       5       
+Emersonn Correia da Silva   FWD   £5.5m    1      0       7       1       0        0        0        0     0     45      1.8%     5       5       
 George Hirst                FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Sindre Walle Egeli          FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       2.9%     0.5     1       
