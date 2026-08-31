@@ -1,6 +1,6 @@
 BRENTFORD
 =================================================================================================================================================
-Updated: 2026-08-31 18:32:26
+Updated: 2026-08-31 18:42:58
 Gameweek: GW2
 Players: 26
 
@@ -30,5 +30,5 @@ Mamadou Sangaré             MID   £5.6m    4      0       16      14      0.21
 Kevin Schade                MID   £6.0m    10     3       34      9       0.25     0.02     0.27     1     0     87      3.6%     6.5     6.5     
 Yehor Yarmoliuk             MID   £5.0m    1      0       4       0       0        0.01     0.01     0     0     21      1.0%     1       1       
 Kaye Furo                   FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
-Igor Thiago Nascimento RodriguesFWD   £8.0m    2      0       2       4       0.8      0.01     0.81     0     0     90      15.3%    1       1       
+Igor Thiago Nascimento RodriguesFWD   £8.0m    2      0       2       4       0.8      0.01     0.81     0     0     90      15.2%    1       1       
 Callum Wilson               FWD   £5.5m    1      0       3       1       0.04     0        0.04     0     0     2       0.4%     1       1       
