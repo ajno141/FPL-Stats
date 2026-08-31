@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-08-31 12:10:17
+Updated: 2026-08-31 12:20:59
 Gameweek: GW2
 Players: 33
 
@@ -38,4 +38,4 @@ Alysson Edward Franco da Rocha dos SantosMID   £5.0m    0      0       0       
 Tammy Abraham               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Nicolas Jackson             FWD   £6.5m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Brian Madjo                 FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
-Ollie Watkins               FWD   £7.9m    0      0       0       0       0        0        0        0     0     0       6.6%     0       0       
+Ollie Watkins               FWD   £7.9m    0      0       0       0       0        0        0        0     0     0       6.5%     0       0       
