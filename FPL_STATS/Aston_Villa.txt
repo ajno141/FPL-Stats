@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-08-31 14:50:27
+Updated: 2026-08-31 15:01:02
 Gameweek: GW2
 Players: 33
 
@@ -32,7 +32,7 @@ Samuel Iling-Junior         MID   £5.0m    0      0       0       0       0    
 Boubacar Kamara             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.3%     1       2       
 Luka Lynch                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Johan Manzambi              MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-John McGinn                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       2.7%     0.5     1       
+John McGinn                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       2.6%     0.5     1       
 Amadou Onana                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Alysson Edward Franco da Rocha dos SantosMID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Tammy Abraham               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
