@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-09-01 14:53:03
+Updated: 2026-09-01 15:05:35
 Gameweek: GW2
 Players: 34
 
@@ -28,7 +28,7 @@ Diego Gómez Amarilla        MID   £5.0m    5      0       15      5       0.38
 Jack Hinshelwood            MID   £6.0m    0      0       0       0       0        0        0        0     0     0       1.6%     8       16      
 Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mitoma Kaoru                MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Yankuba Minteh              MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Yankuba Minteh              MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Matt O'Riley                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Nehemiah Oriola             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Ibrahim Osman               MID   £5.0m    1      0       6       1       0        0.01     0.01     0     0     16      0.0%     1       1       
