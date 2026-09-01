@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-08-31 23:57:39
+Updated: 2026-09-01 00:25:15
 Gameweek: GW2
 Players: 35
 
@@ -38,6 +38,6 @@ Taiwo Awoniyi               FWD   £5.5m    2      0       6       3       0.93 
 Norman Bassette             FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Sidiki Cherif               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Jahnoah Markelo             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Ellis Simms                 FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       1.0%     1       2       
+Ellis Simms                 FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.9%     1       2       
 Brandon Thomas-Asante       FWD   £5.0m    1      0       5       2       0        0        0        0     0     32      0.8%     1.5     1.5     
 Haji Wright                 FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
