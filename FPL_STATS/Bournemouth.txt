@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-09-01 16:29:16
+Updated: 2026-09-01 16:51:59
 Gameweek: GW2
 Players: 29
 
@@ -18,7 +18,7 @@ António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    4      0  
 Adam Smith                  DEF   £4.5m    1      0       5       6       0        0.02     0.02     0     0     90      0.1%     1       1       
 Julio Soler Barreto         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Juanlu Sánchez              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Adrien Truffert             DEF   £5.5m    4      2       27      9       0        0.07     0.07     0     0     90      4.0%     2.5     2.5     
+Adrien Truffert             DEF   £5.5m    4      2       27      9       0        0.07     0.07     0     0     90      3.9%     2.5     2.5     
 Tyler Adams                 MID   £5.0m    1      0       4       3       0        0        0        0     0     21      0.2%     1       1       
 Amine Adli                  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 David Brooks                MID   £5.0m    1      0       3       0       0        0.01     0.01     0     0     9       0.1%     0.5     1       
@@ -28,7 +28,7 @@ Ben Gannon-Doak             MID   £5.0m    0      0       0       0       0    
 Justin Kluivert             MID   £6.0m    3      0       12      5       0.61     0.05     0.66     0     0     80      1.2%     3       3       
 Junior Kroupi               MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Alex Scott                  MID   £6.0m    12     3       39      15      0.26     0.27     0.53     1     0     86      1.8%     7       7       
-Rayan Vitor Simplício Rocha MID   £6.5m    2      0       4       5       0.4      0.02     0.42     0     0     90      2.5%     2       2       
+Rayan Vitor Simplício Rocha MID   £6.5m    2      0       4       5       0.4      0.02     0.42     0     0     90      2.4%     2       2       
 Marcus Tavernier            MID   £6.0m    1      0       20      11      0.09     0.21     0.3      0     0     90      2.4%     5.5     5.5     
 Alex Tóth                   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
