@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-09-01 10:18:54
+Updated: 2026-09-01 10:35:37
 Gameweek: GW2
 Players: 35
 
@@ -14,7 +14,7 @@ Aurèle Amenda               DEF   £4.0m    1      0       4       4       0.02
 Jake Bidwell                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Miguel Brau                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jay Dasilva                 DEF   £4.0m    2      0       15      3       0.18     0.05     0.23     0     0     90      0.8%     1.5     1.5     
-Kaine Kesler-Hayden         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Kaine Kesler-Hayden         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Liam Kitching               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Joel Latibeaudiere          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ethan Pinnock               DEF   £4.5m    1      0       -1      2       0        0        0        0     0     12      0.1%     0.5     1       
