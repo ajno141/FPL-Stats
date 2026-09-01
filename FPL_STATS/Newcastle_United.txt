@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-09-01 15:41:51
+Updated: 2026-09-01 16:29:16
 Gameweek: GW2
 Players: 31
 
@@ -16,14 +16,14 @@ Marc Guéhi                  DEF   £6.0m    2      0       12      5       0   
 Joško Gvardiol              DEF   £5.6m    5      0       18      2       0        0.04     0.04     0     1     74      17.2%    7       7       
 Abdukodir Khusanov          DEF   £5.5m    2      0       17      7       0        0.02     0.02     0     0     88      1.7%     2       2       
 Rico Lewis                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.5     1       
-Matheus Nunes               DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       1.2%     0.5     1       
+Matheus Nunes               DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       1.1%     0.5     1       
 Nico O'Reilly               DEF   £6.5m    2      0       11      1       0.02     0.02     0.04     0     0     88      19.4%    2       2       
 Vitor de Oliveira Nunes dos ReisDEF   £4.5m    1      0       3       0       0        0        0        0     0     1       0.0%     0.5     1       
 Rúben dos Santos Gato Alves DiasDEF   £5.5m    2      0       19      6       0.09     0.57     0.66     0     0     90      1.8%     2       2       
 Elliot Anderson             MID   £6.4m    3      0       25      14      0.07     0.22     0.29     0     0     81      5.4%     2.5     2.5     
 Allan Andrade Elias         MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ayyoub Bouaddi              MID   £5.5m    1      0       3       1       0        0.12     0.12     0     0     8       0.1%     1       1       
-Rayan Cherki                MID   £7.7m    14     3       60      3       0.35     0.55     0.9      2     0     81      23.0%    11      11      
+Rayan Cherki                MID   £7.7m    14     3       60      3       0.35     0.55     0.9      2     0     81      23.1%    11      11      
 Jérémy Doku                 MID   £7.4m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
 Claudio Echeverri           MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Phil Foden                  MID   £7.0m    9      1       38      7       0.87     0.45     1.32     0     2     90      4.8%     5       5       

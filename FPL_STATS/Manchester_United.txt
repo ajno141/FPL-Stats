@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-01 15:41:51
+Updated: 2026-09-01 16:29:16
 Gameweek: GW2
 Players: 36
 
@@ -17,7 +17,7 @@ Conor Bradley               DEF   £5.0m    0      0       0       0       0    
 Jeremie Frimpong            DEF   £5.5m    1      0       9       6       0        0.02     0.02     0     0     70      3.2%     0.5     0.5     
 Joe Gomez                   DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jeremy Jacquet              DEF   £5.0m    3      0       13      11      0        0.05     0.05     0     0     76      2.5%     2       2       
-Milos Kerkez                DEF   £5.5m    1      0       9       8       0        0.01     0.01     0     0     70      3.2%     0.5     0.5     
+Milos Kerkez                DEF   £5.5m    1      0       9       8       0        0.01     0.01     0     0     70      3.1%     0.5     0.5     
 Giovanni Leoni              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Wellity Lucky               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Calvin Ramsay               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -38,7 +38,7 @@ Rio Ngumoha                 MID   £5.9m    1      0       5       0       0    
 Trey Nyoni                  MID   £5.0m    1      0       3       5       0        0        0        0     0     13      0.0%     0.5     1       
 Dominik Szoboszlai          MID   £7.0m    4      0       24      13      0.16     0.17     0.33     0     0     90      41.8%    6       6       
 Endo Wataru                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Florian Wirtz               MID   £7.5m    4      0       23      10      0.23     0.2      0.43     0     1     90      10.4%    3       3       
+Florian Wirtz               MID   £7.5m    4      0       23      10      0.23     0.2      0.43     0     1     90      10.3%    3       3       
 Jayden Danns                FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Hugo Ekitiké                FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Alexander Isak              FWD   £9.0m    8      2       30      1       0.99     0        0.99     1     0     90      16.3%    5       5       
