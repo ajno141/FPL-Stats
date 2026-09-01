@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-09-01 22:54:22
+Updated: 2026-09-01 23:07:40
 Gameweek: GW2
 Players: 32
 
@@ -13,7 +13,7 @@ Jaydee Canvot               DEF   £5.0m    0      0       -1      7       0    
 Rio Cardines                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Axel Disasi                 DEF   £4.5m    1      0       -2      1       0        0        0        0     0     16      0.1%     0.5     1       
 Anan Khalaili               DEF   £5.0m    2      0       9       14      0.02     0        0.02     0     0     74      0.1%     1.5     1.5     
-Oscar Mingueza              DEF   £4.5m    1      0       1       1       0        0        0        0     0     15      0.1%     0.5     1       
+Oscar Mingueza              DEF   £4.4m    1      0       1       1       0        0        0        0     0     15      0.1%     0.5     1       
 Tyrick Mitchell             DEF   £4.5m    0      0       -8      5       0.11     0.16     0.27     0     0     90      4.9%     0.5     0.5     
 Chadi Riad Dnanou           DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Chris Richards              DEF   £5.0m    0      0       -4      6       0.04     0        0.04     0     0     90      0.7%     1.5     1.5     
@@ -28,11 +28,11 @@ Zavier Gozo                 MID   £5.0m    1      0       3       1       0    
 Evann Guessand              MID   £5.5m    1      0       3       1       0        0.01     0.01     0     0     27      0.0%     1       1       
 Will Hughes                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       9.9%     0       0       
 Daichi Kamada               MID   £5.0m    2      0       21      9       0.05     0.02     0.07     0     0     90      0.3%     2.5     2.5     
-Jefferson Lerma Solís       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Jefferson Lerma Solís       MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Dwight McNeil               MID   £5.5m    1      0       2       2       0        0        0        0     0     22      0.2%     1.5     1.5     
 Yéremy Pino Santos          MID   £5.5m    5      0       27      10      0.05     0.07     0.12     0     1     67      0.2%     3       3       
 Jesurun Rak-Sakyi           MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Ismaïla Sarr                MID   £6.4m    0      0       0       0       0        0        0        0     0     0       1.5%     0       0       
+Ismaïla Sarr                MID   £6.3m    0      0       0       0       0        0        0        0     0     0       1.5%     0       0       
 Adam Wharton                MID   £5.5m    2      0       21      7       0        0.07     0.07     0     0     90      0.9%     3       3       
 Jean-Philippe Mateta        FWD   £6.4m    0      0       0       0       0        0        0        0     0     0       3.2%     1       2       
 Eddie Nketiah               FWD   £5.5m    2      0       8       6       0.36     0        0.36     0     0     67      0.5%     1.5     1.5     

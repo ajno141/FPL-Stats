@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-09-01 22:54:22
+Updated: 2026-09-01 23:07:40
 Gameweek: GW2
 Players: 24
 
@@ -26,7 +26,7 @@ Hayden Hackney              MID   £5.5m    1      0       3       3       0    
 Tim Iroegbunam              MID   £5.0m    1      0       2       0       0        0        0        0     0     4       0.0%     0.5     1       
 Brennan Johnson             MID   £5.9m    1      0       1       2       0        0        0        0     0     28      0.1%     1       1       
 Iliman Ndiaye               MID   £6.0m    4      0       16      13      0.02     0.07     0.09     0     0     90      14.3%    6.5     6.5     
-Christian Nørgaard          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Christian Nørgaard          MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Merlin Röhl                 MID   £5.0m    2      0       13      9       0        0.01     0.01     0     0     85      0.1%     2.5     2.5     
 Thierno Barry               FWD   £5.5m    2      0       6       3       1.48     0        1.48     0     0     69      4.2%     5       5       
 Norberto Bercique Gomes BetuncalFWD   £5.4m    1      0       2       1       0.04     0        0.04     0     0     20      2.0%     1       1       
