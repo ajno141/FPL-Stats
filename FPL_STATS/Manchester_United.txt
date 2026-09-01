@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-01 17:04:32
+Updated: 2026-09-01 17:20:49
 Gameweek: GW2
 Players: 36
 
@@ -28,7 +28,7 @@ Bradley Barcola             MID   £8.0m    0      0       0       0       0    
 Federico Chiesa             MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Harvey Elliott              MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Cody Gakpo                  MID   £7.0m    5      0       21      3       0        0.65     0.65     0     1     70      7.7%     8.5     8.5     
-Ryan Gravenberch            MID   £6.0m    1      0       7       1       0        0.01     0.01     0     0     19      1.8%     3       3       
+Ryan Gravenberch            MID   £6.0m    1      0       7       1       0        0.01     0.01     0     0     19      1.7%     3       3       
 Curtis Jones                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lewis Koumas                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Alexis Mac Allister         MID   £5.5m    2      0       10      10      0        0.39     0.39     0     0     76      1.5%     1.5     1.5     
