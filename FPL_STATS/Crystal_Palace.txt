@@ -1,16 +1,18 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-09-02 14:48:29
+Updated: 2026-09-02 15:05:21
 Gameweek: GW2
-Players: 32
+Players: 36
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Walter Benítez              GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Dean Henderson              GK    £5.0m    1      0       4       0       0        0        0        0     0     90      1.8%     1.5     1.5     
 Remi Matthews               GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.8%     0       0       
+Honest Ahanor               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jaydee Canvot               DEF   £5.0m    0      0       -1      7       0        0        0        0     0     90      0.3%     0.5     0.5     
 Rio Cardines                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Ben Chilwell                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Axel Disasi                 DEF   £4.5m    1      0       -2      1       0        0        0        0     0     16      0.1%     0.5     1       
 Anan Khalaili               DEF   £5.0m    2      0       9       14      0.02     0        0.02     0     0     74      0.1%     1.5     1.5     
 Oscar Mingueza              DEF   £4.4m    1      0       1       1       0        0        0        0     0     15      0.1%     0.5     1       
@@ -30,9 +32,11 @@ Will Hughes                 MID   £4.5m    0      0       0       0       0    
 Daichi Kamada               MID   £5.0m    2      0       21      9       0.05     0.02     0.07     0     0     90      0.3%     2.5     2.5     
 Jefferson Lerma Solís       MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Dwight McNeil               MID   £5.5m    1      0       2       2       0        0        0        0     0     22      0.2%     1.5     1.5     
+Darío Osorio                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Yéremy Pino Santos          MID   £5.5m    5      0       27      10      0.05     0.07     0.12     0     1     67      0.2%     3       3       
 Jesurun Rak-Sakyi           MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ismaïla Sarr                MID   £6.3m    0      0       0       0       0        0        0        0     0     0       1.4%     0       0       
+Quinten Timber              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Adam Wharton                MID   £5.5m    2      0       21      7       0        0.07     0.07     0     0     90      0.9%     3       3       
 Jean-Philippe Mateta        FWD   £6.4m    0      0       0       0       0        0        0        0     0     0       3.0%     1       2       
 Eddie Nketiah               FWD   £5.5m    2      0       8       6       0.36     0        0.36     0     0     67      0.5%     1.5     1.5     

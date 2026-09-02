@@ -1,8 +1,8 @@
 WOLVERHAMPTON WANDERERS
 =================================================================================================================================================
-Updated: 2026-09-02 14:48:29
+Updated: 2026-09-02 15:05:21
 Gameweek: GW2
-Players: 27
+Players: 30
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -11,6 +11,7 @@ Anthony Patterson           GK    £4.0m    0      0       0       0       0    
 Robin Roefs                 GK    £5.0m    6      0       22      0       0        0        0        0     0     90      3.5%     3.5     3.5     
 Omar Alderete               DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.4%     0.5     1       
 Daniel Ballard              DEF   £5.0m    8      0       27      10      0.03     0        0.03     0     0     90      4.3%     4       4       
+Kevin Danso                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Leo Fuhr Hjelde             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Trai Hume                   DEF   £4.5m    6      0       24      6       0        0.01     0.01     0     0     90      5.6%     4       4       
 Reinildo Mandava            DEF   £4.5m    6      0       26      7       0        0.01     0.01     0     0     90      0.4%     3.5     3.5     
@@ -25,11 +26,13 @@ Jules Ahoka                 MID   £4.5m    0      0       0       0       0    
 Nilson Angulo               MID   £5.0m    3      0       13      5       0        0.04     0.04     0     0     64      0.1%     4       4       
 Djiamgone Jocelin Ta Bi     MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Habib Diarra                MID   £5.5m    4      0       15      0       0        0.16     0.16     0     1     18      0.1%     2.5     2.5     
+Malick Fofana               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Enzo Le Fée                 MID   £5.9m    3      0       13      6       0.37     0.17     0.54     0     0     89      6.6%     2.5     2.5     
 Romaine Mundle              MID   £5.0m    1      0       2       1       0.17     0        0.17     0     0     1       0.0%     0.5     1       
 Chris Rigg                  MID   £5.0m    1      0       3       0       0        0        0        0     0     7       0.1%     1       1       
 Noah Sadiki                 MID   £5.0m    3      0       21      11      0.02     0.02     0.04     0     0     90      0.3%     2.5     2.5     
 Chemsdine Talbi             MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0.5     1       
 Granit Xhaka                MID   £5.5m    6      3       29      7       0        0.36     0.36     0     0     90      4.6%     7.5     7.5     
+Juan Angulo                 FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Brian Brobbey               FWD   £5.9m    2      0       5       4       0.03     0        0.03     0     0     63      10.2%    2       2       
 Wilson Isidor               FWD   £5.5m    8      3       29      0       1.39     0        1.39     1     0     26      1.0%     4.5     4.5     

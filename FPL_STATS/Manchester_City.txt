@@ -1,8 +1,8 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-09-02 14:48:29
+Updated: 2026-09-02 15:05:21
 Gameweek: GW2
-Players: 29
+Players: 31
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -10,6 +10,7 @@ Alex Cairns                 GK    £4.0m    0      0       0       0       0    
 Lucas Estella Perri         GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
 James Trafford              GK    £5.0m    3      0       20      0       0        0        0        0     0     90      5.0%     6       6       
 Michael Zetterer            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Melvin Bard                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jaka Bijol                  DEF   £5.0m    1      0       0       5       0        0        0        0     0     45      0.9%     5.5     5.5     
 Jayden Bogle                DEF   £4.5m    2      0       9       7       0        0.01     0.01     0     0     67      0.5%     4       4       
 Sebastiaan Bornauw          DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -18,10 +19,11 @@ Gabriel Gudmundsson         DEF   £4.5m    0      0       0       0       0    
 James Justin                DEF   £4.5m    2      0       12      8       0.03     0.01     0.04     0     0     90      1.4%     6       6       
 Jayden Lienou               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Tarik Muharemović           DEF   £5.0m    4      0       17      19      0        0.01     0.01     0     0     90      3.3%     5       5       
-Joe Rodon                   DEF   £4.5m    1      0       4       4       0        0        0        0     0     33      3.0%     3.5     3.5     
+Joe Rodon                   DEF   £4.5m    1      0       4       4       0        0        0        0     0     33      2.9%     3.5     3.5     
 Brenden Aaronson            MID   £5.5m    1      0       6       3       0        0.01     0.01     0     0     45      0.7%     2       2       
 Ethan Ampadu                MID   £5.5m    2      0       12      10      0.01     0.09     0.1      0     0     90      1.2%     3.5     3.5     
 Tanaka Ao                   MID   £4.9m    1      0       6       11      0        0.01     0.01     0     0     45      0.2%     0.5     1       
+Jean-Mattéo Bahoya          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Alfie Cresswell             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Wilfried Gnonto             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ilia Gruev                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

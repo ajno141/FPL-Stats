@@ -1,15 +1,15 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-09-02 14:48:29
+Updated: 2026-09-02 15:05:21
 Gameweek: GW2
-Players: 35
+Players: 36
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 David Button                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
 Alex Palmer                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       4.3%     0       0       
 Kjell Scherpen              GK    £4.5m    2      0       9       0       0        0.01     0.01     0     0     90      0.6%     2       2       
-Christian Walton            GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
+Christian Walton            GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Kayne van Oevelen           GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Leif Davis                  DEF   £4.0m    6      0       1       4       0.54     0.12     0.66     1     0     90      5.0%     4       4       
 Issa Diop                   DEF   £4.0m    2      0       7       12      0        0        0        0     0     90      16.0%    2       2       
@@ -39,5 +39,6 @@ Jack Taylor                 MID   £4.5m    0      0       0       0       0    
 Chuba Akpom                 FWD   £5.0m    5      0       30      0       0.97     0        0.97     1     0     45      0.9%     3       3       
 Ali Al-Hamadi               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Emersonn Correia da Silva   FWD   £5.5m    1      0       7       1       0        0        0        0     0     45      1.7%     5       5       
+Zian Flemming               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 George Hirst                FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Sindre Walle Egeli          FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       3.2%     0.5     1       
