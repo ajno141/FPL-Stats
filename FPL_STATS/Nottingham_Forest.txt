@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-09-02 12:49:07
+Updated: 2026-09-02 13:00:03
 Gameweek: GW2
 Players: 34
 
@@ -11,7 +11,7 @@ Karl Darlow                 GK    £4.5m    0      0       0       0       0    
 Tom Heaton                  GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Senne Lammens               GK    £5.0m    2      0       11      0       0        0        0        0     0     90      14.1%    1.5     1.5     
 Harry Amass                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Diogo Dalot Teixeira        DEF   £5.0m    2      0       12      4       0.15     0.12     0.27     0     0     73      2.3%     1.5     1.5     
+Diogo Dalot Teixeira        DEF   £5.0m    2      0       12      4       0.15     0.12     0.27     0     0     73      2.2%     1.5     1.5     
 Tyler Fredricson            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ayden Heaven                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0.5     1       
 Harry Maguire               DEF   £5.0m    4      0       13      5       0.03     0.01     0.04     0     1     90      15.2%    2.5     2.5     
