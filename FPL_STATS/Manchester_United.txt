@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-02 00:29:59
+Updated: 2026-09-02 00:48:08
 Gameweek: GW2
 Players: 36
 
@@ -14,7 +14,7 @@ Armin Pecsi                 GK    £4.0m    0      0       0       0       0    
 Freddie Woodman             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
 Ronald Araujo               DEF   £5.4m    0      0       -1      1       0        0.01     0.01     0     0     13      2.3%     0.5     0.5     
 Conor Bradley               DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jeremie Frimpong            DEF   £5.5m    1      0       9       6       0        0.02     0.02     0     0     70      3.2%     0.5     0.5     
+Jeremie Frimpong            DEF   £5.5m    1      0       9       6       0        0.02     0.02     0     0     70      3.1%     0.5     0.5     
 Joe Gomez                   DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jeremy Jacquet              DEF   £5.0m    3      0       13      11      0        0.05     0.05     0     0     76      2.5%     2       2       
 Milos Kerkez                DEF   £5.5m    1      0       9       8       0        0.01     0.01     0     0     70      3.1%     0.5     0.5     
