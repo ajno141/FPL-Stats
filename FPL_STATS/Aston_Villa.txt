@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-09-02 13:34:27
+Updated: 2026-09-02 13:48:36
 Gameweek: GW2
 Players: 33
 
@@ -15,7 +15,7 @@ Victor Lindelöf             DEF   £4.5m    2      0       10      7       0   
 Ian Maatsen                 DEF   £4.5m    1      0       -5      8       0.07     0        0.07     0     0     90      0.7%     0.5     0.5     
 Tyrone Mings                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0.5     1       
 Kosta Nedeljkovic           DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Triston Rowe                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Triston Rowe                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Matteo Ruggeri              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Pau Torres                  DEF   £4.5m    2      0       6       4       0        0.01     0.01     0     0     90      0.4%     1       1       
 Aaron Wan-Bissaka           DEF   £4.5m    1      0       4       2       0        0        0        0     0     12      0.1%     1       1       
