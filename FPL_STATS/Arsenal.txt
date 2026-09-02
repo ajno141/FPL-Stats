@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-09-02 23:20:18
+Updated: 2026-09-02 23:31:46
 Gameweek: GW2
 Players: 29
 
@@ -29,7 +29,7 @@ Reiss Nelson                MID   £5.5m    0      0       0       0       0    
 Ethan Nwaneri               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Declan Rice                 MID   £7.5m    5      0       19      12      0        0.1      0.1      0     0     84      14.9%    4       4       
 Bukayo Saka                 MID   £9.5m    11     3       46      11      0.63     0.04     0.67     1     0     90      10.6%    10      10      
-Christos Tzolis             MID   £6.5m    0      0       1       3       0        0.01     0.01     0     0     45      21.9%    3       3       
+Christos Tzolis             MID   £6.5m    0      0       1       3       0        0.01     0.01     0     0     45      21.8%    3       3       
 Martín Zubimendi Ibáñez     MID   £5.4m    1      0       5       2       0        0        0        0     0     5       0.8%     1       1       
 Martin Ødegaard             MID   £6.6m    3      0       13      5       0.08     0.07     0.15     0     0     70      11.3%    7       7       
 Gabriel Fernando de Jesus   FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
