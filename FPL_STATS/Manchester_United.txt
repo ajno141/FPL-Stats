@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-02 18:07:28
+Updated: 2026-09-02 18:26:53
 Gameweek: GW2
 Players: 36
 
@@ -16,7 +16,7 @@ Ronald Araujo               DEF   £5.4m    0      0       -1      1       0    
 Conor Bradley               DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jeremie Frimpong            DEF   £5.5m    1      0       9       6       0        0.02     0.02     0     0     70      3.1%     0.5     0.5     
 Joe Gomez                   DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jeremy Jacquet              DEF   £5.0m    3      0       13      11      0        0.05     0.05     0     0     76      2.5%     2       2       
+Jeremy Jacquet              DEF   £5.0m    3      0       13      11      0        0.05     0.05     0     0     76      2.6%     2       2       
 Milos Kerkez                DEF   £5.5m    1      0       9       8       0        0.01     0.01     0     0     70      3.1%     0.5     0.5     
 Giovanni Leoni              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Wellity Lucky               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -27,7 +27,7 @@ Stefan Bajčetić Maquieira   MID   £5.0m    0      0       0       0       0  
 Bradley Barcola             MID   £8.0m    0      0       0       0       0        0        0        0     0     0       0.8%     0       0       
 Federico Chiesa             MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Harvey Elliott              MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Cody Gakpo                  MID   £7.0m    5      0       21      3       0        0.65     0.65     0     1     70      7.9%     8.5     8.5     
+Cody Gakpo                  MID   £7.0m    5      0       21      3       0        0.65     0.65     0     1     70      8.0%     8.5     8.5     
 Ryan Gravenberch            MID   £6.0m    1      0       7       1       0        0.01     0.01     0     0     19      1.7%     3       3       
 Curtis Jones                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lewis Koumas                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
