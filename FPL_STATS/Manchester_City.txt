@@ -1,6 +1,6 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-09-02 13:59:03
+Updated: 2026-09-02 14:17:45
 Gameweek: GW2
 Players: 29
 
@@ -10,7 +10,7 @@ Alex Cairns                 GK    £4.0m    0      0       0       0       0    
 Lucas Estella Perri         GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
 James Trafford              GK    £5.0m    3      0       20      0       0        0        0        0     0     90      5.0%     6       6       
 Michael Zetterer            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Jaka Bijol                  DEF   £5.0m    1      0       0       5       0        0        0        0     0     45      1.0%     5.5     5.5     
+Jaka Bijol                  DEF   £5.0m    1      0       0       5       0        0        0        0     0     45      0.9%     5.5     5.5     
 Jayden Bogle                DEF   £4.5m    2      0       9       7       0        0.01     0.01     0     0     67      0.5%     4       4       
 Sebastiaan Bornauw          DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nico Elvedi                 DEF   £4.5m    1      0       9       6       0        0        0        0     0     56      0.0%     0.5     1       
