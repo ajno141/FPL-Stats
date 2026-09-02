@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-09-02 22:53:25
+Updated: 2026-09-02 23:06:10
 Gameweek: GW2
 Players: 35
 
@@ -20,7 +20,7 @@ Triston Rowe                DEF   £4.0m    0      0       0       0       0    
 Matteo Ruggeri              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Pau Torres                  DEF   £4.5m    2      0       6       4       0        0.01     0.01     0     0     90      0.4%     1       1       
 Aaron Wan-Bissaka           DEF   £4.5m    1      0       4       2       0        0        0        0     0     12      0.1%     1       1       
-Leon Bailey                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Leon Bailey                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Ross Barkley                MID   £5.0m    2      0       23      10      0.03     0.02     0.05     0     0     77      0.3%     2       2       
 Lamare Bogarde              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Emiliano Buendía Stati      MID   £6.0m    2      0       9       5       0.04     0.02     0.06     0     0     90      1.1%     2       2       

@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-02 22:53:25
+Updated: 2026-09-02 23:06:10
 Gameweek: GW2
 Players: 36
 
@@ -9,7 +9,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Alisson Becker              GK    £5.5m    0      0       -5      0       0        0        0        0     0     90      3.8%     1       1       
 Harvey Davies               GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Vitezslav Jaros             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Giorgi Mamardashvili        GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Giorgi Mamardashvili        GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Armin Pecsi                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Freddie Woodman             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
 Ronald Araujo               DEF   £5.4m    0      0       -1      1       0        0.01     0.01     0     0     13      2.2%     0.5     0.5     

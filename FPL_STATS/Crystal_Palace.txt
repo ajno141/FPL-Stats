@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-09-02 22:53:25
+Updated: 2026-09-02 23:06:10
 Gameweek: GW2
 Players: 36
 
@@ -10,7 +10,7 @@ Walter Benítez              GK    £4.5m    0      0       0       0       0   
 Dean Henderson              GK    £5.0m    1      0       4       0       0        0        0        0     0     90      1.8%     1.5     1.5     
 Remi Matthews               GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.8%     0       0       
 Honest Ahanor               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jaydee Canvot               DEF   £5.0m    0      0       -1      7       0        0        0        0     0     90      0.3%     0.5     0.5     
+Jaydee Canvot               DEF   £4.9m    0      0       -1      7       0        0        0        0     0     90      0.3%     0.5     0.5     
 Rio Cardines                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ben Chilwell                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Axel Disasi                 DEF   £4.5m    1      0       -2      1       0        0        0        0     0     16      0.1%     0.5     1       

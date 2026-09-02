@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-09-02 22:53:25
+Updated: 2026-09-02 23:06:10
 Gameweek: GW2
 Players: 30
 
@@ -29,7 +29,7 @@ Callum Hudson-Odoi          MID   £5.9m    1      0       2       0       0    
 Omari Hutchinson            MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 James McAtee                MID   £5.5m    2      0       16      8       0        0.16     0.16     0     0     90      0.1%     2.5     2.5     
 Dan Ndoye                   MID   £5.5m    9      2       30      9       0.35     0.63     0.98     1     0     65      0.6%     6       6       
-Ibrahim Sangaré             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.6%     1       2       
+Ibrahim Sangaré             MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.6%     1       2       
 Xaver Schlager              MID   £5.0m    4      0       15      15      0.05     0        0.05     0     0     90      0.1%     2.5     2.5     
 Ryan Yates                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.5%     0       0       
 Liam Delap                  FWD   £5.5m    1      0       9       0       0.07     0        0.07     0     0     24      0.7%     0.5     1       
