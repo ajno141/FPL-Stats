@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-09-03 00:10:37
+Updated: 2026-09-03 00:36:53
 Gameweek: GW2
 Players: 35
 
@@ -13,7 +13,7 @@ Lucas Digne                 DEF   £4.5m    0      0       0       0       0    
 Andrés García               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.7%     0       0       
 Taylor Harwood-Bellis       DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Victor Lindelöf             DEF   £4.5m    2      0       10      7       0        0.08     0.08     0     0     90      0.3%     0       0       
-Ian Maatsen                 DEF   £4.5m    1      0       -5      8       0.07     0        0.07     0     0     90      0.7%     0.5     0.5     
+Ian Maatsen                 DEF   £4.5m    1      0       -5      8       0.07     0        0.07     0     0     90      0.8%     0.5     0.5     
 Tyrone Mings                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0.5     1       
 Kosta Nedeljkovic           DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Triston Rowe                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
