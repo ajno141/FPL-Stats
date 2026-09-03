@@ -1,8 +1,8 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-09-03 13:47:33
+Updated: 2026-09-03 13:58:34
 Gameweek: GW2
-Players: 35
+Players: 36
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -22,6 +22,7 @@ Mats Wieffer                DEF   £5.0m    0      0       6       7       0.03 
 Igor Julio dos Santos de PauloDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 José María Andrés Baixauli  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Yasin Ayari                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.5%     1       2       
+Femi Azeez                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amario Cozier-Duberry       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Pascal Groß                 MID   £5.5m    13     3       46      6       0.05     0.11     0.16     1     1     90      14.8%    7.5     7.5     
