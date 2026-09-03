@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-09-03 12:59:41
+Updated: 2026-09-03 13:19:21
 Gameweek: GW2
 Players: 29
 
@@ -18,7 +18,7 @@ António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    4      0  
 Adam Smith                  DEF   £4.5m    1      0       5       6       0        0.02     0.02     0     0     90      0.1%     1       1       
 Julio Soler Barreto         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Juanlu Sánchez              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Adrien Truffert             DEF   £5.5m    4      2       27      9       0        0.07     0.07     0     0     90      3.9%     2.5     2.5     
+Adrien Truffert             DEF   £5.5m    4      2       27      9       0        0.07     0.07     0     0     90      3.8%     2.5     2.5     
 Tyler Adams                 MID   £5.0m    1      0       4       3       0        0        0        0     0     21      0.2%     1       1       
 Amine Adli                  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 David Brooks                MID   £5.0m    1      0       3       0       0        0.01     0.01     0     0     9       0.1%     0.5     1       
