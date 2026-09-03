@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-09-03 20:31:49
+Updated: 2026-09-03 20:44:03
 Gameweek: GW2
 Players: 32
 
@@ -13,7 +13,7 @@ Max Alleyne                 DEF   £5.0m    0      0       0       0       0    
 Rayan Aït-Nouri             DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Kaden Braithwaite           DEF   £4.0m    1      0       3       0       0        0        0        0     0     1       0.1%     1       1       
 Marc Guéhi                  DEF   £6.0m    2      0       12      5       0        0.04     0.04     0     0     90      18.8%    6       6       
-Joško Gvardiol              DEF   £5.6m    5      0       18      2       0        0.04     0.04     0     1     74      18.2%    7       7       
+Joško Gvardiol              DEF   £5.6m    5      0       18      2       0        0.04     0.04     0     1     74      18.3%    7       7       
 Abdukodir Khusanov          DEF   £5.5m    2      0       17      7       0        0.02     0.02     0     0     88      1.6%     2       2       
 Rico Lewis                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.5     1       
 Matheus Nunes               DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       1.1%     0.5     1       
