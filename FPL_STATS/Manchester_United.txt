@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-03 17:56:39
+Updated: 2026-09-03 18:15:44
 Gameweek: GW2
 Players: 36
 
@@ -31,7 +31,7 @@ Cody Gakpo                  MID   £7.0m    5      0       21      3       0    
 Ryan Gravenberch            MID   £6.0m    1      0       7       1       0        0.01     0.01     0     0     19      1.7%     3       3       
 Curtis Jones                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lewis Koumas                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
-Alexis Mac Allister         MID   £5.5m    2      0       10      10      0        0.39     0.39     0     0     76      1.5%     1.5     1.5     
+Alexis Mac Allister         MID   £5.5m    2      0       10      10      0        0.39     0.39     0     0     76      1.4%     1.5     1.5     
 James McConnell             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Victor Munoz                MID   £6.5m    6      0       24      7       0.32     0.19     0.51     1     0     90      1.2%     5       5       
 Rio Ngumoha                 MID   £5.9m    1      0       5       0       0        0.03     0.03     0     0     19      0.8%     1.5     1.5     
