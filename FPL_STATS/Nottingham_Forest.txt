@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-09-03 07:46:30
+Updated: 2026-09-03 07:57:27
 Gameweek: GW2
 Players: 34
 
@@ -9,7 +9,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Altay Bayındır              GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Karl Darlow                 GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tom Heaton                  GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Senne Lammens               GK    £5.0m    2      0       11      0       0        0        0        0     0     90      14.0%    1.5     1.5     
+Senne Lammens               GK    £5.0m    2      0       11      0       0        0        0        0     0     90      13.9%    1.5     1.5     
 Harry Amass                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Diogo Dalot Teixeira        DEF   £5.0m    2      0       12      4       0.15     0.12     0.27     0     0     73      2.2%     1.5     1.5     
 Tyler Fredricson            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
