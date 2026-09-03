@@ -1,6 +1,6 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-09-03 17:31:05
+Updated: 2026-09-03 17:45:53
 Gameweek: GW2
 Players: 31
 
@@ -33,7 +33,7 @@ Sean Longstaff              MID   £5.0m    0      0       0       0       0    
 Noah Okafor                 MID   £5.9m    2      0       11      2       0.08     0.01     0.09     0     0     68      0.3%     1.5     1.5     
 Anton Stach                 MID   £6.0m    4      0       13      16      0.07     0.01     0.08     0     0     90      2.9%     8.5     8.5     
 Harry Wilson                MID   £6.4m    1      0       7       6       0.01     0.04     0.05     0     0     45      4.3%     2       2       
-Dominic Calvert-Lewin       FWD   £6.0m    8      2       31      4       0.92     0.02     0.94     1     0     90      26.3%    4.5     4.5     
+Dominic Calvert-Lewin       FWD   £6.0m    8      2       31      4       0.92     0.02     0.94     1     0     90      26.2%    4.5     4.5     
 Mateo Joseph Fernández-RegatilloFWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Lukas Nmecha                FWD   £5.5m    4      0       18      1       0.1      0        0.1      0     1     21      0.5%     2       4       
 Joël Piroe                  FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
