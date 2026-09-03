@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-09-03 18:50:16
+Updated: 2026-09-03 19:00:54
 Gameweek: GW2
 Players: 36
 
@@ -37,7 +37,7 @@ Ibrahim Osman               MID   £5.0m    1      0       6       1       0    
 Tom Watson                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Malick Yalcouyé             MID   £4.5m    8      1       39      7       0.7      0.16     0.86     1     0     73      1.7%     4.5     4.5     
 Zadok Yohanna               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
-Promise David               FWD   £6.0m    1      0       3       0       0        0        0        0     0     10      0.3%     0.5     1       
+Promise David               FWD   £6.0m    1      0       3       0       0        0        0        0     0     10      0.2%     0.5     1       
 Evan Ferguson               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Charalampos Kostoulas       FWD   £5.5m    5      0       17      6       0.17     0.02     0.19     0     1     79      0.4%     3       3       
 Georginio Rutter            FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.8%     2.5     5       
