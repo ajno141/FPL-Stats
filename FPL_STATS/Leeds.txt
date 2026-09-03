@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-09-03 14:18:36
+Updated: 2026-09-03 14:33:52
 Gameweek: GW2
 Players: 43
 
@@ -11,7 +11,7 @@ Harvey Cartwright           GK    £4.0m    0      0       0       0       0    
 Thimothée Lo-Tutala         GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Dillon Phillips             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.5%     0       0       
 Konstantinos Tzolakis       GK    £4.6m    10     3       32      0       0        0        0        0     0     90      7.2%     10      10      
-Semi Ajayi                  DEF   £4.1m    6      0       24      7       0        0        0        0     0     90      8.3%     10      10      
+Semi Ajayi                  DEF   £4.1m    6      0       24      7       0        0        0        0     0     90      8.4%     10      10      
 Lewie Coyle                 DEF   £4.0m    0      0       2       4       0        0        0        0     0     45      0.6%     3       3       
 Cody Drameh                 DEF   £4.0m    1      0       4       3       0        0        0        0     0     45      0.1%     1       1       
 John Egan                   DEF   £4.0m    9      1       25      13      0        0        0        0     0     90      4.6%     8.5     8.5     
@@ -22,7 +22,7 @@ Matty Jacob                 DEF   £4.0m    0      0       0       0       0    
 Cathal McCarthy             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Paddy McNair                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Nobel Mendy                 DEF   £4.0m    1      0       9       9       0.01     0        0.01     0     0     58      5.5%     8       8       
-Brooke Norton-Cuffy         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Brooke Norton-Cuffy         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Matt Targett                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       2.1%     0.5     1       
 David Akintola              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mohamed Belloumi            MID   £5.0m    6      0       23      10      0.12     0.02     0.14     0     1     82      0.8%     4.5     4.5     
