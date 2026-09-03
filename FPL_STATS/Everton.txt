@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-09-03 19:59:54
+Updated: 2026-09-03 20:17:04
 Gameweek: GW2
 Players: 24
 
@@ -23,10 +23,10 @@ Kiernan Dewsbury-Hall       MID   £6.5m    2      0       24      10      0.06 
 Tyler Dibling               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 James Garner                MID   £6.0m    1      0       9       10      0        0        0        0     0     61      0.1%     1       1       
 Tyrique George              MID   £5.5m    2      0       12      2       0.05     0.01     0.06     0     0     61      0.3%     2.5     2.5     
-Jack Grealish               MID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.5     1       
+Jack Grealish               MID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0.5     1       
 Hayden Hackney              MID   £5.5m    1      0       3       3       0        0.01     0.01     0     0     28      0.2%     2       2       
 Brennan Johnson             MID   £5.9m    1      0       1       2       0        0        0        0     0     28      0.1%     1       1       
 Christian Nørgaard          MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Merlin Röhl                 MID   £5.0m    2      0       13      9       0        0.01     0.01     0     0     85      0.1%     2.5     2.5     
 Thierno Barry               FWD   £5.5m    2      0       6       3       1.48     0        1.48     0     0     69      4.5%     5       5       
-Norberto Bercique Gomes BetuncalFWD   £5.4m    1      0       2       1       0.04     0        0.04     0     0     20      1.8%     1       1       
+Norberto Bercique Gomes BetuncalFWD   £5.4m    1      0       2       1       0.04     0        0.04     0     0     20      1.7%     1       1       
