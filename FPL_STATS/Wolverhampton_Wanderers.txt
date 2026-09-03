@@ -1,6 +1,6 @@
 WOLVERHAMPTON WANDERERS
 =================================================================================================================================================
-Updated: 2026-09-03 19:00:54
+Updated: 2026-09-03 19:16:28
 Gameweek: GW2
 Players: 30
 
@@ -13,7 +13,7 @@ Omar Alderete               DEF   £5.0m    0      0       0       0       0    
 Daniel Ballard              DEF   £5.0m    8      0       27      10      0.03     0        0.03     0     0     90      4.2%     4       4       
 Kevin Danso                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Leo Fuhr Hjelde             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Trai Hume                   DEF   £4.5m    6      0       24      6       0        0.01     0.01     0     0     90      5.5%     4       4       
+Trai Hume                   DEF   £4.5m    6      0       24      6       0        0.01     0.01     0     0     90      5.4%     4       4       
 Reinildo Mandava            DEF   £4.5m    6      0       26      7       0        0.01     0.01     0     0     90      0.4%     3.5     3.5     
 Arthur Masuaku              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Thomas Meunier              DEF   £4.5m    6      0       27      8       0.02     0.05     0.07     0     0     90      0.3%     3.5     3.5     
