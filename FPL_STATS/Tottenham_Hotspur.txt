@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-09-03 22:51:08
+Updated: 2026-09-03 23:02:28
 Gameweek: GW2
 Players: 30
 
@@ -13,7 +13,7 @@ Zach Abbott                 DEF   £4.0m    0      0       0       0       0    
 Ola Aina                    DEF   £4.5m    0      0       2       5       0        0.35     0.35     0     0     85      3.1%     2.5     2.5     
 Tyler Bindon                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Murillo Costa dos Santos    DEF   £5.5m    1      0       2       6       0.18     0        0.18     0     0     90      1.6%     2.5     2.5     
-Ousmane Diomande            DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
+Ousmane Diomande            DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Nikola Milenković           DEF   £5.5m    3      0       3       13      0        0        0        0     0     90      1.6%     2.5     2.5     
 Daniel Muñoz Mejía          DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       6.6%     0       0       
 Luca Netz                   DEF   £4.5m    1      0       5       1       0        0        0        0     0     4       0.0%     1       1       
@@ -33,6 +33,6 @@ Ibrahim Sangaré             MID   £4.9m    0      0       0       0       0   
 Xaver Schlager              MID   £5.0m    4      0       15      15      0.05     0        0.05     0     0     90      0.1%     2.5     2.5     
 Ryan Yates                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.5%     0       0       
 Liam Delap                  FWD   £5.5m    1      0       9       0       0.07     0        0.07     0     0     24      0.8%     0.5     1       
-Arnaud Kalimuendo           FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
+Arnaud Kalimuendo           FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Igor Jesus Maciel da Cruz   FWD   £5.9m    1      0       4       5       0.74     0.04     0.78     0     0     90      3.1%     1.5     1.5     
 Chris Wood                  FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       1.2%     0.5     1       

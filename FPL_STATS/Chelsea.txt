@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-09-03 22:51:08
+Updated: 2026-09-03 23:02:28
 Gameweek: GW2
 Players: 35
 
@@ -26,13 +26,13 @@ Raphael Borges Rodrigues    MID   £4.5m    0      0       0       0       0    
 Josh Eccles                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Matt Grimes                 MID   £5.0m    2      0       14      10      0.01     0.04     0.05     0     0     90      0.2%     2       2       
 Gustavo Hamer               MID   £5.5m    1      0       2       0       0        0.02     0.02     0     0     19      0.1%     1       1       
-Ephron Mason-Clark          MID   £5.5m    1      0       4       4       0        0.06     0.06     0     0     57      0.1%     0.5     1       
+Ephron Mason-Clark          MID   £5.4m    1      0       4       4       0        0.06     0.06     0     0     57      0.1%     0.5     1       
 Frank Onyeka                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     1       2       
 Jack Rudoni                 MID   £5.0m    3      0       12      6       0.06     0.09     0.15     0     0     70      0.1%     2       2       
 Tatsuhiro Sakamoto          MID   £4.9m    1      0       8       4       0.02     0.02     0.04     0     0     31      0.1%     0.5     1       
 George Shepherd             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Loum Tchaouna               MID   £5.5m    1      0       7       6       0.05     0.13     0.18     0     0     58      0.1%     1.5     1.5     
-Victor Torp                 MID   £5.5m    1      0       2       2       0        0.01     0.01     0     0     19      0.1%     1       1       
+Victor Torp                 MID   £5.4m    1      0       2       2       0        0.01     0.01     0     0     19      0.1%     1       1       
 Caleb Yirenkyi              MID   £5.0m    3      0       17      7       0.03     0.13     0.16     0     0     70      0.2%     2       2       
 Taiwo Awoniyi               FWD   £5.5m    2      0       6       3       0.93     0.03     0.96     0     0     90      0.7%     1.5     1.5     
 Norman Bassette             FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

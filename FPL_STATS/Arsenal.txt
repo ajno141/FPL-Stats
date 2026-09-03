@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-09-03 22:51:08
+Updated: 2026-09-03 23:02:28
 Gameweek: GW2
 Players: 29
 
@@ -9,7 +9,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Kepa Arrizabalaga Revuelta  GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Illan Meslier               GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 David Raya Martín           GK    £6.0m    6      0       21      0       0        0        0        0     0     90      37.7%    6       6       
-Riccardo Calafiori          DEF   £5.6m    11     2       30      3       0.11     0.46     0.57     0     1     90      44.1%    10      10      
+Riccardo Calafiori          DEF   £5.7m    11     2       30      3       0.11     0.46     0.57     0     1     90      44.1%    10      10      
 Piero Hincapié              DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       1.2%     0.5     1       
 Ezri Konsa Ngoyo            DEF   £4.4m    1      0       3       1       0        0        0        0     0     11      10.6%    0.5     1       
 Cristhian Mosquera          DEF   £5.5m    6      0       25      4       0        0.01     0.01     0     0     78      4.8%     6       6       
@@ -22,7 +22,7 @@ Eberechi Eze                MID   £6.4m    1      0       6       3       0    
 Fábio Ferreira Vieira       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bruno Guimarães Rodriguez MouraMID   £6.8m    1      0       4       3       0        0.01     0.01     0     0     19      2.1%     0.5     1       
 Myles Lewis-Skelly          MID   £5.5m    3      0       15      5       0.07     0.02     0.09     0     0     70      0.7%     3       3       
-Noni Madueke                MID   £6.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0.5     1       
+Noni Madueke                MID   £6.3m    0      0       0       0       0        0        0        0     0     0       0.3%     0.5     1       
 Gabriel Martinelli Silva    MID   £6.3m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Mikel Merino Zazón          MID   £5.9m    1      0       7       4       0        0        0        0     0     19      0.5%     1       1       
 Reiss Nelson                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
