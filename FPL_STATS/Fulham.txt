@@ -1,6 +1,6 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-09-03 15:21:40
+Updated: 2026-09-03 15:36:06
 Gameweek: GW2
 Players: 28
 
@@ -12,7 +12,7 @@ Alfie McNally               GK    £4.0m    0      0       0       0       0    
 David Affengruber           DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Joachim Andersen            DEF   £5.0m    1      0       4       8       0        0.04     0.04     0     0     90      0.1%     0.5     1       
 Calvin Bassey               DEF   £4.5m    2      0       13      7       0        0.01     0.01     0     0     90      0.8%     1       1       
-Timothy Castagne            DEF   £4.5m    6      0       18      2       0        0        0        0     0     67      0.8%     6       6       
+Timothy Castagne            DEF   £4.5m    6      0       18      2       0        0        0        0     0     67      0.9%     6       6       
 Jorge Cuenca Barreno        DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     1.5     3       
 Luc De Fougerolles          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Antonee Robinson            DEF   £4.5m    2      0       10      3       0        0.02     0.02     0     0     90      1.6%     1.5     1.5     
