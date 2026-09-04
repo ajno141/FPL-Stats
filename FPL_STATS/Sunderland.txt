@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-09-04 22:25:01
+Updated: 2026-09-04 22:37:33
 Gameweek: GW3
 Players: 29
 
@@ -22,7 +22,7 @@ Malick Thiaw                DEF   £5.0m    0      0       0       0       0    
 Joelinton Cássio Apolinário de LiraMID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Aladji Bamba                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
 Harvey Barnes               MID   £6.0m    0      0       0       0       0        0        0        0     0     0       1.2%     1.7     2.5     
-Anthony Elanga              MID   £6.1m    0      0       0       0       0        0        0        0     0     0       10.3%    5.7     8.5     
+Anthony Elanga              MID   £6.1m    0      0       0       0       0        0        0        0     0     0       10.4%    5.7     8.5     
 Nico González Iglesias      MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.7     2       
 Lewis Miley                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     2       3       
 Jacob Murphy                MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     0.5     
