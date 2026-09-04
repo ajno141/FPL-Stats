@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-09-04 14:17:31
+Updated: 2026-09-04 14:32:17
 Gameweek: GW2
 Players: 34
 
@@ -14,10 +14,10 @@ Harry Amass                 DEF   £4.0m    0      0       0       0       0    
 Diogo Dalot Teixeira        DEF   £5.0m    2      0       12      4       0.15     0.12     0.27     0     0     73      2.1%     1.5     1.5     
 Tyler Fredricson            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ayden Heaven                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0.5     1       
-Harry Maguire               DEF   £5.0m    4      0       13      5       0.03     0.01     0.04     0     1     90      14.1%    2.5     2.5     
+Harry Maguire               DEF   £5.0m    4      0       13      5       0.03     0.01     0.04     0     1     90      14.0%    2.5     2.5     
 Lisandro Martínez           DEF   £5.0m    1      0       2       0       0.03     0.06     0.09     0     0     90      1.2%     0.5     1       
 Noussair Mazraoui           DEF   £4.5m    1      0       -1      0       0        0        0        0     0     17      0.6%     1       1       
-Luke Shaw                   DEF   £4.5m    2      0       12      8       0        0.02     0.02     0     0     72      15.7%    1.5     1.5     
+Luke Shaw                   DEF   £4.5m    2      0       12      8       0        0.02     0.02     0     0     72      15.6%    1.5     1.5     
 Leny Yoro                   DEF   £4.9m    1      0       -2      2       0        0.01     0.01     0     0     16      0.5%     0.5     1       
 Matthijs de Ligt            DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Carlos Baleba               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
