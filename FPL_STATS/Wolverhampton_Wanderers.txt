@@ -1,6 +1,6 @@
 WOLVERHAMPTON WANDERERS
 =================================================================================================================================================
-Updated: 2026-09-04 20:18:15
+Updated: 2026-09-04 20:32:21
 Gameweek: GW3
 Players: 30
 
@@ -10,7 +10,7 @@ Melker Ellborg              GK    £4.5m    0      0       0       0       0    
 Anthony Patterson           GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Robin Roefs                 GK    £5.0m    0      0       0       0       0        0        0        0     0     0       3.4%     2.3     3.5     
 Omar Alderete               DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0.3     1       
-Daniel Ballard              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       4.1%     2.7     4       
+Daniel Ballard              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       4.0%     2.7     4       
 Kevin Danso                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Leo Fuhr Hjelde             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Trai Hume                   DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       5.4%     2.7     4       
