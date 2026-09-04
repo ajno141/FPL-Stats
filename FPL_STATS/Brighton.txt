@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-09-04 07:07:20
+Updated: 2026-09-04 07:23:21
 Gameweek: GW2
 Players: 36
 
@@ -25,9 +25,9 @@ Yasin Ayari                 MID   £5.4m    0      0       0       0       0    
 Femi Azeez                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amario Cozier-Duberry       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Pascal Groß                 MID   £5.5m    13     3       46      6       0.05     0.11     0.16     1     1     90      15.2%    7.5     7.5     
+Pascal Groß                 MID   £5.5m    13     3       46      6       0.05     0.11     0.16     1     1     90      15.3%    7.5     7.5     
 Diego Gómez Amarilla        MID   £5.0m    5      0       15      5       0.38     0.17     0.55     0     1     90      4.7%     5.5     5.5     
-Jack Hinshelwood            MID   £6.0m    0      0       0       0       0        0        0        0     0     0       1.4%     8       16      
+Jack Hinshelwood            MID   £6.0m    0      0       0       0       0        0        0        0     0     0       1.3%     8       16      
 Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mitoma Kaoru                MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Yankuba Minteh              MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
