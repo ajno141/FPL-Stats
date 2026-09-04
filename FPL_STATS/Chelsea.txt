@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-09-04 05:05:52
+Updated: 2026-09-04 05:21:29
 Gameweek: GW2
 Players: 35
 
@@ -22,7 +22,7 @@ Bobby Thomas                DEF   £4.0m    8      2       28      9       0    
 Luke Woolfenden             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Milan van Ewijk             DEF   £4.0m    2      0       15      2       0        0.19     0.19     0     0     90      11.9%    1.5     1.5     
 Kai Andrews                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
-Raphael Borges Rodrigues    MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
+Raphael Borges Rodrigues    MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Josh Eccles                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Matt Grimes                 MID   £5.0m    2      0       14      10      0.01     0.04     0.05     0     0     90      0.2%     2       2       
 Gustavo Hamer               MID   £5.5m    1      0       2       0       0        0.02     0.02     0     0     19      0.1%     1       1       
