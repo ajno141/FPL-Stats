@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-09-04 22:58:54
+Updated: 2026-09-04 23:15:01
 Gameweek: GW3
 Players: 29
 
@@ -26,7 +26,7 @@ Anthony Elanga              MID   £6.1m    0      0       0       0       0    
 Nico González Iglesias      MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.7     2       
 Lewis Miley                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     2       3       
 Jacob Murphy                MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     0.5     
-Jacob Ramsey                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0.3     0.5     
+Jacob Ramsey                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.3%     0.3     0.5     
 Sean Steur                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.7     1       
 Bazoumana Touré             MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
 Joe Willock                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.4%     3       4.5     

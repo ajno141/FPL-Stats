@@ -1,16 +1,16 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-09-04 22:58:54
+Updated: 2026-09-04 23:15:01
 Gameweek: GW3
 Players: 29
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Kepa Arrizabalaga Revuelta  GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Illan Meslier               GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Kepa Arrizabalaga Revuelta  GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Illan Meslier               GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 David Raya Martín           GK    £6.0m    0      0       0       0       0        0        0        0     0     0       38.4%    4       6       
 Riccardo Calafiori          DEF   £5.7m    0      0       0       0       0        0        0        0     0     0       45.6%    6.7     10      
-Piero Hincapié              DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       1.2%     0.3     1       
+Piero Hincapié              DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       1.2%     0.3     1       
 Ezri Konsa Ngoyo            DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       11.3%    0.3     1       
 Cristhian Mosquera          DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       4.4%     4       6       
 William Saliba              DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       

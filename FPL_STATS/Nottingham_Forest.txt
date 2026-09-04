@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-09-04 22:58:54
+Updated: 2026-09-04 23:15:01
 Gameweek: GW3
 Players: 34
 
@@ -13,7 +13,7 @@ Senne Lammens               GK    £5.0m    0      0       0       0       0    
 Harry Amass                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Diogo Dalot Teixeira        DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       2.1%     1       1.5     
 Tyler Fredricson            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Ayden Heaven                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0.3     1       
+Ayden Heaven                DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0.3     1       
 Harry Maguire               DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       14.1%    1.7     2.5     
 Lisandro Martínez           DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       1.2%     0.3     1       
 Noussair Mazraoui           DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.6%     0.7     1       
@@ -30,11 +30,11 @@ Tyler Fletcher              MID   £4.5m    0      0       0       0       0    
 Shea Lacey                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
 Kobbie Mainoo               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       1.1%     1.7     2.5     
 Bendito Mantato             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Bryan Mbeumo                MID   £8.0m    0      0       0       0       0        0        0        0     0     0       27.0%    4.3     6.5     
+Bryan Mbeumo                MID   £7.9m    0      0       0       0       0        0        0        0     0     0       26.9%    4.3     6.5     
 Mason Mount                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Andrey Nascimento dos SantosMID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.8%     1       1.5     
 Marcus Rashford             MID   £7.0m    0      0       0       0       0        0        0        0     0     0       1.6%     1       1.5     
-Matheus Santos Carneiro da CunhaMID   £8.0m    0      0       0       0       0        0        0        0     0     0       7.8%     3.7     5.5     
+Matheus Santos Carneiro da CunhaMID   £7.9m    0      0       0       0       0        0        0        0     0     0       7.8%     3.7     5.5     
 Youri Tielemans             MID   £5.9m    0      0       0       0       0        0        0        0     0     0       2.0%     2       3       
 Manuel Ugarte Ribeiro       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Chido Obi                   FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       1.2%     0       0       

@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-09-04 22:58:54
+Updated: 2026-09-04 23:15:01
 Gameweek: GW3
 Players: 43
 
@@ -32,7 +32,7 @@ Kieran Dowell               MID   £4.5m    0      0       0       0       0    
 Joe Gelhardt                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lucas Gourna-Douath         MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
 Darko Gyabi                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jens Hjertø-Dahl            MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Jens Hjertø-Dahl            MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Tim Iroegbunam              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
 Abu Kamara                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Eliot Matazo                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
