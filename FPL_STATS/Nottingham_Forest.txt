@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-09-04 13:59:35
+Updated: 2026-09-04 14:17:31
 Gameweek: GW2
 Players: 34
 
@@ -9,7 +9,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Altay Bayındır              GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Karl Darlow                 GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tom Heaton                  GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Senne Lammens               GK    £5.0m    2      0       11      0       0        0        0        0     0     90      13.5%    1.5     1.5     
+Senne Lammens               GK    £5.0m    2      0       11      0       0        0        0        0     0     90      13.4%    1.5     1.5     
 Harry Amass                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Diogo Dalot Teixeira        DEF   £5.0m    2      0       12      4       0.15     0.12     0.27     0     0     73      2.1%     1.5     1.5     
 Tyler Fredricson            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -30,7 +30,7 @@ Tyler Fletcher              MID   £4.5m    0      0       0       0       0    
 Shea Lacey                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Kobbie Mainoo               MID   £5.5m    4      0       25      15      0.14     0.27     0.41     0     0     79      1.1%     2.5     2.5     
 Bendito Mantato             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Bryan Mbeumo                MID   £8.0m    11     2       37      5       1.76     0.21     1.97     1     1     90      27.4%    6.5     6.5     
+Bryan Mbeumo                MID   £8.0m    11     2       37      5       1.76     0.21     1.97     1     1     90      27.3%    6.5     6.5     
 Mason Mount                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Andrey Nascimento dos SantosMID   £4.9m    1      0       2       5       0        0        0        0     0     10      0.8%     1.5     1.5     
 Marcus Rashford             MID   £7.0m    2      0       17      6       0.26     0.05     0.31     0     0     79      1.6%     1.5     1.5     

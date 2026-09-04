@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-09-04 13:59:35
+Updated: 2026-09-04 14:17:31
 Gameweek: GW2
 Players: 35
 
@@ -25,7 +25,7 @@ Ross Barkley                MID   £5.0m    2      0       23      10      0.03 
 Lamare Bogarde              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Emiliano Buendía Stati      MID   £6.0m    2      0       9       5       0.04     0.02     0.06     0     0     90      1.2%     2       2       
 Bradley Burrowes            MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
-Alejandro Garnacho Ferreyra MID   £5.9m    1      0       3       2       0        0        0        0     0     12      0.5%     1       1       
+Alejandro Garnacho Ferreyra MID   £5.9m    1      0       3       2       0        0        0        0     0     12      0.4%     1       1       
 Joao Gomes                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     -1      -2      
 Leon Goretzka               MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 George Hemmings             MID   £4.5m    2      0       5       6       0        0.01     0.01     0     0     70      1.0%     2       2       
