@@ -1,6 +1,6 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-09-04 20:00:27
+Updated: 2026-09-04 20:18:15
 Gameweek: GW3
 Players: 31
 
@@ -19,7 +19,7 @@ Gabriel Gudmundsson         DEF   £4.5m    0      0       0       0       0    
 James Justin                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       1.5%     4       6       
 Jayden Lienou               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Tarik Muharemović           DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       3.3%     3.3     5       
-Joe Rodon                   DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       2.3%     2.3     3.5     
+Joe Rodon                   DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       2.2%     2.3     3.5     
 Brenden Aaronson            MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.7%     1.3     2       
 Ethan Ampadu                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       1.1%     2.3     3.5     
 Tanaka Ao                   MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
