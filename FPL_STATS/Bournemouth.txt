@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-09-04 17:05:23
+Updated: 2026-09-04 17:20:17
 Gameweek: GW2
 Players: 29
 
@@ -9,7 +9,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Will Dennis                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Michele Di Gregorio         GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Fraser Forster              GK    £4.0m    0      0       0       0       0        0        0        0     0     0       3.5%     0       0       
-Đorđe Petrović              GK    £4.5m    3      0       20      0       0        0        0        0     0     90      3.4%     2.5     2.5     
+Đorđe Petrović              GK    £4.5m    3      0       20      0       0        0        0        0     0     90      3.3%     2.5     2.5     
 Julián Araujo Zúñiga        DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bafodé Diakité              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 James Hill                  DEF   £5.5m    4      0       19      12      0        0.74     0.74     0     0     90      0.8%     2.5     2.5     
