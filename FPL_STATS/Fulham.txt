@@ -1,6 +1,6 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-09-04 16:42:22
+Updated: 2026-09-04 16:52:41
 Gameweek: GW2
 Players: 28
 
@@ -15,7 +15,7 @@ Calvin Bassey               DEF   £4.5m    2      0       13      7       0    
 Timothy Castagne            DEF   £4.5m    6      0       18      2       0        0        0        0     0     67      1.0%     6       6       
 Jorge Cuenca Barreno        DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     1.5     3       
 Luc De Fougerolles          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Antonee Robinson            DEF   £4.5m    2      0       10      3       0        0.02     0.02     0     0     90      1.6%     1.5     1.5     
+Antonee Robinson            DEF   £4.5m    2      0       10      3       0        0.02     0.02     0     0     90      1.7%     1.5     1.5     
 Ryan Sessegnon              DEF   £4.5m    1      0       3       1       0.02     0.12     0.14     0     0     22      0.4%     1       1       
 Kenny Tete                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Sander Berge                MID   £5.0m    2      0       14      2       0        0.2      0.2      0     0     82      0.3%     2       2       

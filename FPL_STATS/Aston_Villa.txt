@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-09-04 16:42:22
+Updated: 2026-09-04 16:52:41
 Gameweek: GW2
 Players: 35
 
@@ -19,7 +19,7 @@ Kosta Nedeljkovic           DEF   £4.0m    0      0       0       0       0    
 Triston Rowe                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Matteo Ruggeri              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Pau Torres                  DEF   £4.5m    2      0       6       4       0        0.01     0.01     0     0     90      0.4%     1       1       
-Aaron Wan-Bissaka           DEF   £4.5m    1      0       4       2       0        0        0        0     0     12      0.1%     1       1       
+Aaron Wan-Bissaka           DEF   £4.5m    1      0       4       2       0        0        0        0     0     12      0.2%     1       1       
 Leon Bailey                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Ross Barkley                MID   £5.0m    2      0       23      10      0.03     0.02     0.05     0     0     77      0.3%     2       2       
 Lamare Bogarde              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
@@ -28,7 +28,7 @@ Bradley Burrowes            MID   £4.5m    0      0       0       0       0    
 Alejandro Garnacho Ferreyra MID   £5.9m    1      0       3       2       0        0        0        0     0     12      0.4%     1       1       
 Joao Gomes                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     -1      -2      
 Leon Goretzka               MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-George Hemmings             MID   £4.5m    2      0       5       6       0        0.01     0.01     0     0     70      1.0%     2       2       
+George Hemmings             MID   £4.5m    2      0       5       6       0        0.01     0.01     0     0     70      1.1%     2       2       
 Samuel Iling-Junior         MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Boubacar Kamara             MID   £5.0m    2      0       13      8       0        0.03     0.03     0     0     90      0.3%     2       2       
 Luka Lynch                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       

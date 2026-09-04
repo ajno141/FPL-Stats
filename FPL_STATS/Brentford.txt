@@ -1,6 +1,6 @@
 BRENTFORD
 =================================================================================================================================================
-Updated: 2026-09-04 16:42:22
+Updated: 2026-09-04 16:52:41
 Gameweek: GW2
 Players: 26
 
@@ -26,9 +26,9 @@ Mathias Jensen              MID   £5.5m    0      0       0       0       0    
 Keane Lewis-Potter          MID   £5.5m    6      1       29      11      0.02     0.13     0.15     0     1     87      2.2%     8       8       
 Antoni Milambo              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Dango Ouattara              MID   £6.5m    1      0       16      7       0.02     0.08     0.1      0     0     29      0.8%     2       2       
-Mamadou Sangaré             MID   £5.7m    4      0       16      14      0.21     0.03     0.24     0     0     90      15.4%    9       9       
+Mamadou Sangaré             MID   £5.7m    4      0       16      14      0.21     0.03     0.24     0     0     90      15.5%    9       9       
 Kevin Schade                MID   £6.0m    10     3       34      9       0.25     0.02     0.27     1     0     87      4.6%     6.5     6.5     
 Yehor Yarmoliuk             MID   £4.9m    1      0       4       0       0        0.01     0.01     0     0     21      0.9%     1       1       
 Kaye Furo                   FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
-Igor Thiago Nascimento RodriguesFWD   £8.0m    2      0       2       4       0.8      0.01     0.81     0     0     90      14.1%    1       1       
+Igor Thiago Nascimento RodriguesFWD   £8.0m    2      0       2       4       0.8      0.01     0.81     0     0     90      14.0%    1       1       
 Callum Wilson               FWD   £5.5m    1      0       3       1       0.04     0        0.04     0     0     2       0.4%     1       1       
