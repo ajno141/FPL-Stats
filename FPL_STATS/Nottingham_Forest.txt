@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-09-04 21:34:32
+Updated: 2026-09-04 21:45:29
 Gameweek: GW3
 Players: 34
 
@@ -18,7 +18,7 @@ Harry Maguire               DEF   £5.0m    0      0       0       0       0    
 Lisandro Martínez           DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       1.2%     0.3     1       
 Noussair Mazraoui           DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.6%     0.7     1       
 Luke Shaw                   DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       15.8%    1       1.5     
-Leny Yoro                   DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.6%     0.3     1       
+Leny Yoro                   DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.5%     0.3     1       
 Matthijs de Ligt            DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Carlos Baleba               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Bruno Borges Fernandes      MID   £12.0m   0      0       0       0       0        0        0        0     0     0       48.7%    8.3     12.5    
