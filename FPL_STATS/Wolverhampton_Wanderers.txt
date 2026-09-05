@@ -1,6 +1,6 @@
 WOLVERHAMPTON WANDERERS
 =================================================================================================================================================
-Updated: 2026-09-05 13:57:27
+Updated: 2026-09-05 14:13:38
 Gameweek: GW3
 Players: 30
 
@@ -8,31 +8,31 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Melker Ellborg              GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Anthony Patterson           GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Robin Roefs                 GK    £5.0m    0      0       0       0       0        0        0        0     0     0       3.4%     2.3     3.5     
+Robin Roefs                 GK    £5.0m    1      0       4       0       0        0        0        0     0     7       3.4%     2.7     2.7     
 Omar Alderete               DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.3%     0.3     1       
-Daniel Ballard              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       4.0%     2.7     4       
-Kevin Danso                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
+Daniel Ballard              DEF   £5.0m    7      0       20      1       0.18     0        0.18     1     0     7       4.0%     5       5       
+Kevin Danso                 DEF   £5.0m    1      0       3       0       0        0        0        0     0     7       0.2%     0.3     1       
 Leo Fuhr Hjelde             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Trai Hume                   DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       5.3%     2.7     4       
-Reinildo Mandava            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     2.3     3.5     
+Reinildo Mandava            DEF   £4.5m    1      0       3       0       0        0        0        0     0     7       0.4%     2.7     2.7     
 Arthur Masuaku              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Thomas Meunier              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     2.3     3.5     
-Nordi Mukiele               DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       2.4%     3       9       
+Thomas Meunier              DEF   £4.5m    1      0       2       0       0        0        0        0     0     7       0.3%     2.7     2.7     
+Nordi Mukiele               DEF   £5.5m    1      0       3       0       0        0        0        0     0     7       2.4%     3.3     5       
 Dayann Méthalie             DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Luke O'Nien                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       3.0%     0.3     1       
 Jenson Seelt                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Simon Adingra               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jules Ahoka                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Nilson Angulo               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     2.7     4       
+Nilson Angulo               MID   £5.0m    1      0       4       1       0        0        0        0     0     7       0.2%     3       3       
 Djiamgone Jocelin Ta Bi     MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Habib Diarra                MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     1.7     2.5     
 Malick Fofana               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Enzo Le Fée                 MID   £5.9m    0      0       0       0       0        0        0        0     0     0       5.7%     1.7     2.5     
+Enzo Le Fée                 MID   £5.9m    1      0       3       1       0        0        0        0     0     7       5.7%     2       2       
 Romaine Mundle              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
 Chris Rigg                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.7     1       
-Noah Sadiki                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.3%     1.7     2.5     
+Noah Sadiki                 MID   £5.0m    1      0       3       1       0.11     0.02     0.13     0     0     7       0.3%     2       2       
 Chemsdine Talbi             MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
-Granit Xhaka                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       4.6%     5       7.5     
+Granit Xhaka                MID   £5.5m    1      0       3       3       0        0        0        0     0     7       4.6%     5.3     5.3     
 Juan Angulo                 FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Brian Brobbey               FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       9.1%     1.3     2       
+Brian Brobbey               FWD   £5.9m    1      0       4       0       0        0.03     0.03     0     0     7       9.1%     1.7     1.7     
 Wilson Isidor               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       1.1%     3       4.5     
