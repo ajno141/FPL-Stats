@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-09-05 08:30:37
+Updated: 2026-09-05 08:43:41
 Gameweek: GW3
 Players: 35
 
@@ -20,7 +20,7 @@ Joel Latibeaudiere          DEF   £4.0m    0      0       0       0       0    
 Ethan Pinnock               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
 Bobby Thomas                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       8.5%     3.7     5.5     
 Luke Woolfenden             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Milan van Ewijk             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       11.8%    1       1.5     
+Milan van Ewijk             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       11.7%    1       1.5     
 Kai Andrews                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Raphael Borges Rodrigues    MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Josh Eccles                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
