@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-09-05 16:44:22
+Updated: 2026-09-05 16:54:47
 Gameweek: GW3
 Players: 29
 
@@ -28,7 +28,7 @@ Mikel Merino Zazón          MID   £5.9m    0      0       0       0       0   
 Reiss Nelson                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ethan Nwaneri               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Declan Rice                 MID   £7.5m    0      0       0       0       0        0        0        0     0     0       14.2%    2.7     4       
-Bukayo Saka                 MID   £9.5m    0      0       0       0       0        0        0        0     0     0       11.0%    6.7     10      
+Bukayo Saka                 MID   £9.5m    0      0       0       0       0        0        0        0     0     0       11.1%    6.7     10      
 Christos Tzolis             MID   £6.5m    0      0       0       0       0        0        0        0     0     0       18.9%    2       3       
 Martín Zubimendi Ibáñez     MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.8%     0.7     1       
 Martin Ødegaard             MID   £6.6m    0      0       0       0       0        0        0        0     0     0       11.1%    4.7     7       
