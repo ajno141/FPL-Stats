@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-09-05 14:13:38
+Updated: 2026-09-05 14:27:06
 Gameweek: GW3
 Players: 30
 
@@ -8,31 +8,31 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Steven Benda                GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 John Victor Maciel Furtado  GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Matz Sels                   GK    £5.0m    1      0       4       0       0        0        0        0     0     11      1.4%     1.3     1.3     
+Matz Sels                   GK    £5.0m    1      0       4       0       0        0        0        0     0     25      1.4%     1.3     1.3     
 Zach Abbott                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Ola Aina                    DEF   £4.5m    1      0       5       1       0        0        0        0     0     11      3.1%     2       2       
+Ola Aina                    DEF   £4.5m    1      0       5       2       0        0        0        0     0     25      3.1%     2       2       
 Tyler Bindon                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Murillo Costa dos Santos    DEF   £5.5m    1      0       6       3       0        0        0        0     0     11      1.5%     2       2       
+Murillo Costa dos Santos    DEF   £5.5m    3      2       7       4       0.04     0        0.04     0     0     25      1.5%     2.7     2.7     
 Ousmane Diomande            DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
-Nikola Milenković           DEF   £5.5m    1      0       3       1       0        0        0        0     0     11      1.6%     2       2       
+Nikola Milenković           DEF   £5.5m    1      0       4       3       0        0        0        0     0     25      1.6%     2       2       
 Daniel Muñoz Mejía          DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       6.4%     0       0       
 Luca Netz                   DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.7     1       
-Jair Paula da Cunha Filho   DEF   £4.5m    1      0       5       4       0        0        0        0     0     11      0.2%     1       1       
+Jair Paula da Cunha Filho   DEF   £4.5m    1      0       4       6       0        0        0        0     0     25      0.2%     1       1       
 Omar Richards               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Felipe Rodrigues da Silva   DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nicolò Savona               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Neco Williams               DEF   £5.0m    1      0       3       0       0        0        0        0     0     11      8.2%     3       3       
+Neco Williams               DEF   £5.0m    1      0       3       1       0        0.04     0.04     0     0     25      8.2%     3       3       
 Dilane Bakwa                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nicolás Domínguez           MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
-Morgan Gibbs-White          MID   £7.9m    1      0       3       1       0        0        0        0     0     11      9.4%     5.3     5.3     
+Morgan Gibbs-White          MID   £7.9m    1      0       3       2       0        0        0        0     0     25      9.4%     5.3     5.3     
 Callum Hudson-Odoi          MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
 Omari Hutchinson            MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-James McAtee                MID   £5.5m    1      0       4       2       0        0        0        0     0     11      0.1%     2       2       
-Dan Ndoye                   MID   £5.5m    1      0       3       1       0        0        0        0     0     11      0.7%     4.3     4.3     
+James McAtee                MID   £5.5m    1      0       5       2       0.01     0        0.01     0     0     25      0.1%     2       2       
+Dan Ndoye                   MID   £5.5m    1      0       4       3       0        0        0        0     0     25      0.7%     4.3     4.3     
 Ibrahim Sangaré             MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.6%     0.7     2       
-Xaver Schlager              MID   £5.0m    1      0       5       2       0        0        0        0     0     11      0.1%     2       2       
+Xaver Schlager              MID   £5.0m    1      0       5       3       0        0        0        0     0     25      0.1%     2       2       
 Ryan Yates                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.4%     0       0       
-Liam Delap                  FWD   £5.5m    1      0       2       2       0        0        0        0     0     11      0.8%     0.7     1       
+Liam Delap                  FWD   £5.5m    1      0       3       4       0        0        0        0     0     25      0.8%     0.7     1       
 Arnaud Kalimuendo           FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
 Igor Jesus Maciel da Cruz   FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       3.0%     1       1.5     
 Chris Wood                  FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       1.2%     0.3     1       

@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-09-05 14:13:38
+Updated: 2026-09-05 14:27:06
 Gameweek: GW3
 Players: 35
 
@@ -19,7 +19,7 @@ Kosta Nedeljkovic           DEF   £4.0m    0      0       0       0       0    
 Triston Rowe                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Matteo Ruggeri              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
 Pau Torres                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0.7     1       
-Aaron Wan-Bissaka           DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
+Aaron Wan-Bissaka           DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.5     1       
 Leon Bailey                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Ross Barkley                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.3%     1.3     2       
 Lamare Bogarde              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
