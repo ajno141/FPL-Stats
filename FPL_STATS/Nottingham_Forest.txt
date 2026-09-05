@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-09-05 18:55:37
+Updated: 2026-09-05 19:09:43
 Gameweek: GW3
 Players: 34
 
@@ -17,7 +17,7 @@ Ayden Heaven                DEF   £4.4m    0      0       0       0       0    
 Harry Maguire               DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       13.9%    1.7     2.5     
 Lisandro Martínez           DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       1.2%     0.3     1       
 Noussair Mazraoui           DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.6%     0.7     1       
-Luke Shaw                   DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       15.5%    1       1.5     
+Luke Shaw                   DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       15.4%    1       1.5     
 Leny Yoro                   DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.5%     0.3     1       
 Matthijs de Ligt            DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Carlos Baleba               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -35,7 +35,7 @@ Mason Mount                 MID   £5.4m    0      0       0       0       0    
 Andrey Nascimento dos SantosMID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.8%     1       1.5     
 Marcus Rashford             MID   £7.0m    0      0       0       0       0        0        0        0     0     0       1.6%     1       1.5     
 Matheus Santos Carneiro da CunhaMID   £7.9m    0      0       0       0       0        0        0        0     0     0       7.7%     3.7     5.5     
-Youri Tielemans             MID   £5.9m    0      0       0       0       0        0        0        0     0     0       2.0%     2       3       
+Youri Tielemans             MID   £5.9m    0      0       0       0       0        0        0        0     0     0       1.9%     2       3       
 Manuel Ugarte Ribeiro       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Chido Obi                   FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       1.2%     0       0       
 Benjamin Sesko              FWD   £7.0m    0      0       0       0       0        0        0        0     0     0       1.6%     0.7     1       

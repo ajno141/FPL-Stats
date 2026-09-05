@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-09-05 18:55:37
+Updated: 2026-09-05 19:09:43
 Gameweek: GW3
 Players: 29
 
@@ -17,7 +17,7 @@ Lewis Hall                  DEF   £5.1m    4      0       20      6       0.01 
 Tino Livramento             DEF   £4.9m    1      0       3       0       0        0        0        0     0     1       0.0%     0.3     1       
 Alex Murphy                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Fabian Schär                DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
-Leo Shahar                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
+Leo Shahar                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Malick Thiaw                DEF   £5.0m    -1     0       0       3       0        0.05     0.05     0     0     90      2.2%     2.7     2.7     
 Joelinton Cássio Apolinário de LiraMID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Aladji Bamba                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       

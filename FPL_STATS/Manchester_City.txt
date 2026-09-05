@@ -1,6 +1,6 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-09-05 18:55:37
+Updated: 2026-09-05 19:09:43
 Gameweek: GW3
 Players: 31
 
@@ -8,20 +8,20 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Alex Cairns                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Lucas Estella Perri         GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
-James Trafford              GK    £5.0m    3      0       17      0       0        0        0        0     0     90      5.2%     5       5       
+James Trafford              GK    £5.0m    3      0       18      0       0        0        0        0     0     90      5.2%     5       5       
 Michael Zetterer            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Melvin Bard                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jaka Bijol                  DEF   £5.0m    1      0       1       4       0        0        0        0     0     29      0.9%     4       4       
-Jayden Bogle                DEF   £4.5m    14     3       30      1       0.9      0.02     0.92     1     0     60      0.7%     7.3     7.3     
+Jayden Bogle                DEF   £4.5m    14     3       30      2       0.9      0.02     0.92     1     0     60      0.7%     7.3     7.3     
 Sebastiaan Bornauw          DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nico Elvedi                 DEF   £4.5m    4      0       12      10      0        0.57     0.57     0     0     90      0.0%     1.7     2.5     
 Gabriel Gudmundsson         DEF   £4.5m    2      0       9       5       0        0        0        0     0     90      0.0%     0.7     2       
-James Justin                DEF   £4.5m    4      0       9       10      0.13     0        0.13     0     0     90      1.5%     5.3     5.3     
+James Justin                DEF   £4.5m    4      0       9       10      0.14     0        0.14     0     0     90      1.5%     5.3     5.3     
 Jayden Lienou               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Tarik Muharemović           DEF   £5.0m    4      0       10      13      0        0.01     0.01     0     0     90      3.3%     4.7     4.7     
 Joe Rodon                   DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       2.1%     2.3     3.5     
 Brenden Aaronson            MID   £5.4m    1      0       5       0       0        0        0        0     0     28      0.7%     1.7     1.7     
-Ethan Ampadu                MID   £5.5m    2      0       11      11      0        0.01     0.01     0     0     90      1.1%     3       3       
+Ethan Ampadu                MID   £5.5m    2      0       13      11      0        0.01     0.01     0     0     90      1.1%     3       3       
 Tanaka Ao                   MID   £4.9m    5      0       18      8       0.53     0.01     0.54     0     1     72      0.2%     2       3       
 Jean-Mattéo Bahoya          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Alfie Cresswell             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -33,7 +33,7 @@ Sean Longstaff              MID   £4.9m    0      0       0       0       0    
 Noah Okafor                 MID   £5.9m    3      0       9       0       0        0.01     0.01     0     0     61      0.3%     2       2       
 Anton Stach                 MID   £6.0m    2      0       7       6       0.32     0.1      0.42     0     0     90      3.0%     6.3     6.3     
 Harry Wilson                MID   £6.4m    0      0       0       1       0        0        0        0     0     17      3.8%     1.3     1.3     
-Dominic Calvert-Lewin       FWD   £6.0m    1      0       0       3       0.83     0.06     0.89     0     0     72      25.7%    3.3     3.3     
+Dominic Calvert-Lewin       FWD   £6.0m    1      0       0       3       0.56     0.06     0.62     0     0     72      25.7%    3.3     3.3     
 Mateo Joseph Fernández-RegatilloFWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Lukas Nmecha                FWD   £5.5m    1      0       2       0       0.17     0.14     0.31     0     0     17      0.5%     1.7     2.5     
 Joël Piroe                  FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
