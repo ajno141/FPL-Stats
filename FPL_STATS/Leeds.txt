@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-09-05 15:29:45
+Updated: 2026-09-05 15:41:58
 Gameweek: GW3
 Players: 43
 
@@ -39,7 +39,7 @@ Eliot Matazo                MID   £4.5m    0      0       0       0       0    
 Liam Millar                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     2       3       
 Hidemasa Morita             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
 Christos Mouzakitis         MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Regan Slater                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       4.8%     2.7     4       
+Regan Slater                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       4.9%     2.7     4       
 Elliot Stroud               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     1       1.5     
 Sorba Thomas                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Óscar Zambrano              MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
