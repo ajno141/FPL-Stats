@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-09-05 21:45:50
+Updated: 2026-09-05 21:56:05
 Gameweek: GW3
 Players: 29
 
@@ -15,7 +15,7 @@ Ezri Konsa Ngoyo            DEF   £4.4m    0      0       0       0       0    
 Cristhian Mosquera          DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       4.3%     4       6       
 William Saliba              DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Jurriën Timber              DEF   £6.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Benjamin White              DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       7.6%     6       9       
+Benjamin White              DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       7.7%     6       9       
 Gabriel dos Santos MagalhãesDEF   £8.0m    0      0       0       0       0        0        0        0     0     0       25.6%    4.3     6.5     
 Max Dowman                  MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Eberechi Eze                MID   £6.4m    0      0       0       0       0        0        0        0     0     0       1.4%     0.7     1       
