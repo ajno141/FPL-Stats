@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-09-05 13:11:39
+Updated: 2026-09-05 13:24:58
 Gameweek: GW3
 Players: 29
 
@@ -9,29 +9,29 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Will Dennis                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Michele Di Gregorio         GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Fraser Forster              GK    £4.0m    0      0       0       0       0        0        0        0     0     0       3.3%     0       0       
-Đorđe Petrović              GK    £4.5m    2      0       4       0       0        0        0        0     0     79      3.4%     2.3     2.3     
+Đorđe Petrović              GK    £4.5m    1      0       0       0       0        0        0        0     0     90      3.4%     2       2       
 Julián Araujo Zúñiga        DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bafodé Diakité              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-James Hill                  DEF   £5.5m    2      0       7       6       0        0.01     0.01     0     0     79      0.9%     2.3     2.3     
+James Hill                  DEF   £5.5m    1      0       3       6       0        0.02     0.02     0     0     90      0.9%     2       2       
 Veljko Milosavljevic        DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    2      0       11      5       0.02     0.01     0.03     0     0     79      0.4%     2.7     2.7     
-Adam Smith                  DEF   £4.5m    2      0       7       2       0.01     0.04     0.05     0     0     79      0.1%     1.3     1.3     
+António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    1      0       7       5       0.02     0.01     0.03     0     0     90      0.4%     2.3     2.3     
+Adam Smith                  DEF   £4.5m    0      0       1       2       0.01     0.04     0.05     0     0     90      0.1%     1       1       
 Julio Soler Barreto         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Juanlu Sánchez              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Adrien Truffert             DEF   £5.5m    2      0       3       5       0.01     0.05     0.06     0     0     79      3.8%     2.3     2.3     
+Adrien Truffert             DEF   £5.5m    0      0       1       6       0.01     0.06     0.07     0     0     90      3.8%     1.7     1.7     
 Tyler Adams                 MID   £5.0m    4      0       15      13      0        0.01     0.01     0     0     75      0.3%     2       2       
 Amine Adli                  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-David Brooks                MID   £5.0m    1      0       3       0       0        0        0        0     0     3       0.1%     0.7     1       
+David Brooks                MID   £5.0m    1      0       2       0       0        0        0        0     0     14      0.1%     0.7     1       
 Ryan Christie               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
-Lewis Cook                  MID   £5.0m    1      0       3       1       0        0        0        0     0     3       0.2%     2.3     2.3     
-Ben Gannon-Doak             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
-Justin Kluivert             MID   £6.0m    1      0       6       4       0.05     0        0.05     0     0     75      1.1%     2.3     2.3     
+Lewis Cook                  MID   £5.0m    1      0       3       1       0        0        0        0     0     14      0.2%     2.3     2.3     
+Ben Gannon-Doak             MID   £5.0m    1      0       3       2       0.06     0        0.06     0     0     1       0.1%     0.7     1       
+Justin Kluivert             MID   £6.0m    1      0       6       4       0.05     0.01     0.06     0     0     75      1.1%     2.3     2.3     
 Junior Kroupi               MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Alex Scott                  MID   £6.0m    10     2       33      11      0.06     0.01     0.07     0     2     79      2.1%     8       8       
-Rayan Vitor Simplício Rocha MID   £6.5m    2      0       6       2       0.04     0.01     0.05     0     0     79      2.2%     2       2       
-Marcus Tavernier            MID   £6.0m    10     3       44      9       0.99     0.01     1        1     0     79      2.3%     7       7       
+Alex Scott                  MID   £6.0m    10     2       37      11      0.06     0.02     0.08     0     2     90      2.1%     8       8       
+Rayan Vitor Simplício Rocha MID   £6.5m    2      0       6       2       0.04     0.01     0.05     0     0     89      2.2%     2       2       
+Marcus Tavernier            MID   £6.0m    10     3       43      9       1.01     0.05     1.06     1     0     88      2.3%     7       7       
 Alex Tóth                   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
-Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
+Daniel Jebbison             FWD   £5.0m    1      0       4       0       0        0        0        0     0     1       0.1%     0.7     1       
 Álvaro Rodríguez            FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
-Francisco Evanilson de Lima BarbosaFWD   £6.0m    2      0       4       7       0.31     0.01     0.32     0     0     79      3.3%     3.7     3.7     
+Francisco Evanilson de Lima BarbosaFWD   £6.0m    2      0       4       7       0.31     0.01     0.32     0     0     90      3.3%     3.7     3.7     
 Enes Ünal                   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

@@ -1,6 +1,6 @@
 WOLVERHAMPTON WANDERERS
 =================================================================================================================================================
-Updated: 2026-09-05 13:11:39
+Updated: 2026-09-05 13:24:58
 Gameweek: GW3
 Players: 30
 
@@ -23,7 +23,7 @@ Luke O'Nien                 DEF   £4.0m    0      0       0       0       0    
 Jenson Seelt                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Simon Adingra               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jules Ahoka                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Nilson Angulo               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     2.7     4       
+Nilson Angulo               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     2.7     4       
 Djiamgone Jocelin Ta Bi     MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Habib Diarra                MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     1.7     2.5     
 Malick Fofana               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
