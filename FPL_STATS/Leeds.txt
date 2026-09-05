@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-09-05 06:45:45
+Updated: 2026-09-05 06:56:24
 Gameweek: GW3
 Players: 43
 
@@ -11,10 +11,10 @@ Harvey Cartwright           GK    £4.0m    0      0       0       0       0    
 Thimothée Lo-Tutala         GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Dillon Phillips             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.5%     0       0       
 Konstantinos Tzolakis       GK    £4.6m    0      0       0       0       0        0        0        0     0     0       7.8%     6.7     10      
-Semi Ajayi                  DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       9.3%     6.7     10      
+Semi Ajayi                  DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       9.4%     6.7     10      
 Lewie Coyle                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.5%     2       3       
 Cody Drameh                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.7     1       
-John Egan                   DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       5.1%     5.7     8.5     
+John Egan                   DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       5.2%     5.7     8.5     
 Ryan Giles                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.1%     4       6       
 Lucas Herrington            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.6%     0.7     1       
 Charlie Hughes              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
