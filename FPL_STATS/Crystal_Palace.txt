@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-09-05 22:56:39
+Updated: 2026-09-05 23:11:47
 Gameweek: GW3
 Players: 36
 
@@ -31,7 +31,7 @@ Evann Guessand              MID   £5.5m    0      0       0       0       0    
 Will Hughes                 MID   £4.5m    1      0       3       3       0        0        0        0     0     16      9.3%     0.3     1       
 Daichi Kamada               MID   £5.0m    5      0       21      4       0        0.01     0.01     0     1     88      0.3%     3.3     3.3     
 Jefferson Lerma Solís       MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Dwight McNeil               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     1       1.5     
+Dwight McNeil               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     1       1.5     
 Darío Osorio                MID   £5.5m    1      0       2       1       0        0        0        0     0     1       0.0%     1       1       
 Yéremy Pino Santos          MID   £5.5m    5      0       25      5       0.25     0.3      0.55     0     1     88      0.2%     3.7     3.7     
 Jesurun Rak-Sakyi           MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-05 22:56:39
+Updated: 2026-09-05 23:11:47
 Gameweek: GW3
 Players: 36
 
@@ -14,7 +14,7 @@ Armin Pecsi                 GK    £4.0m    0      0       0       0       0    
 Freddie Woodman             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
 Ronald Araujo               DEF   £5.4m    8      0       27      10      0        0.01     0.01     0     0     90      2.2%     3       3       
 Conor Bradley               DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jeremie Frimpong            DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       2.8%     0.3     0.5     
+Jeremie Frimpong            DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       2.8%     0.3     0.5     
 Joe Gomez                   DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jeremy Jacquet              DEF   £5.0m    5      0       28      9       0        0.03     0.03     0     0     90      2.6%     3       3       
 Milos Kerkez                DEF   £5.5m    5      0       23      5       0        0.03     0.03     0     0     90      2.9%     2       2       
@@ -28,7 +28,7 @@ Bradley Barcola             MID   £8.0m    1      0       5       0       0    
 Federico Chiesa             MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Harvey Elliott              MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Cody Gakpo                  MID   £7.1m    11     2       43      10      0.06     0.4      0.46     0     2     90      10.2%    9.3     9.3     
-Ryan Gravenberch            MID   £6.0m    1      0       2       2       0        0        0        0     0     26      1.6%     2.3     2.3     
+Ryan Gravenberch            MID   £5.9m    1      0       2       2       0        0        0        0     0     26      1.6%     2.3     2.3     
 Curtis Jones                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lewis Koumas                MID   £5.0m    1      0       3       0       0        0        0        0     0     1       0.0%     0.7     1       
 Alexis Mac Allister         MID   £5.5m    2      0       14      11      0.08     0.02     0.1      0     0     83      1.4%     1.7     1.7     
