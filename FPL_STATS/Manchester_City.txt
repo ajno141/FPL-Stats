@@ -1,6 +1,6 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-09-05 14:49:29
+Updated: 2026-09-05 14:59:55
 Gameweek: GW3
 Players: 31
 
@@ -21,8 +21,8 @@ Jayden Lienou               DEF   £4.0m    0      0       0       0       0    
 Tarik Muharemović           DEF   £5.0m    1      0       5       3       0        0.01     0.01     0     0     45      3.3%     3.7     3.7     
 Joe Rodon                   DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       2.1%     2.3     3.5     
 Brenden Aaronson            MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.7%     1.3     2       
-Ethan Ampadu                MID   £5.5m    1      0       5       4       0        0        0        0     0     45      1.1%     2.7     2.7     
-Tanaka Ao                   MID   £4.9m    5      1       14      4       0.45     0        0.45     0     1     45      0.2%     2.3     3.5     
+Ethan Ampadu                MID   £5.5m    1      0       4       3       0        0        0        0     0     45      1.1%     2.7     2.7     
+Tanaka Ao                   MID   £4.9m    5      1       14      4       0.45     0        0.45     0     1     45      0.2%     2       3       
 Jean-Mattéo Bahoya          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Alfie Cresswell             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Wilfried Gnonto             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
