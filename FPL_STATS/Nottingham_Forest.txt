@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-09-06 22:03:37
+Updated: 2026-09-06 22:20:03
 Gameweek: GW3
 Players: 34
 
@@ -14,7 +14,7 @@ Harry Amass                 DEF   £4.0m    0      0       0       0       0    
 Diogo Dalot Teixeira        DEF   £4.9m    1      0       8       4       0.01     0.01     0.02     0     0     83      2.1%     1.3     1.3     
 Tyler Fredricson            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ayden Heaven                DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0.3     1       
-Harry Maguire               DEF   £5.0m    2      0       1       12      0        0.01     0.01     0     0     90      13.4%    2.3     2.3     
+Harry Maguire               DEF   £5.0m    2      0       1       12      0        0.01     0.01     0     0     90      13.3%    2.3     2.3     
 Lisandro Martínez           DEF   £5.0m    3      0       7       10      0        0        0        0     0     90      1.2%     1.3     2       
 Noussair Mazraoui           DEF   £4.5m    1      0       -1      1       0        0.01     0.01     0     0     1       0.6%     1       1       
 Luke Shaw                   DEF   £4.5m    4      0       22      8       0.02     0.23     0.25     0     1     90      14.7%    2.3     2.3     
