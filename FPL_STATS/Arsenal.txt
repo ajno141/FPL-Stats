@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-09-06 21:40:49
+Updated: 2026-09-06 21:51:54
 Gameweek: GW3
 Players: 29
 
@@ -8,7 +8,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Kepa Arrizabalaga Revuelta  GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Illan Meslier               GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-David Raya Martín           GK    £6.0m    3      0       15      0       0        0        0        0     0     90      38.6%    5       5       
+David Raya Martín           GK    £6.0m    3      0       15      0       0        0        0        0     0     90      38.7%    5       5       
 Riccardo Calafiori          DEF   £5.7m    2      0       0       1       0.44     0.03     0.47     0     0     66      46.7%    7.3     7.3     
 Piero Hincapié              DEF   £5.3m    1      0       3       3       0        0        0        0     0     23      1.1%     0.7     1       
 Ezri Konsa Ngoyo            DEF   £4.4m    4      0       15      10      0        0.01     0.01     0     0     90      12.1%    1.7     2.5     
@@ -16,7 +16,7 @@ Cristhian Mosquera          DEF   £5.5m    0      0       0       0       0    
 William Saliba              DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Jurriën Timber              DEF   £6.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Benjamin White              DEF   £5.5m    2      0       11      6       0        0.03     0.03     0     0     90      7.7%     6.7     6.7     
-Gabriel dos Santos MagalhãesDEF   £8.0m    2      0       10      7       0.31     0.02     0.33     0     0     90      25.3%    5       5       
+Gabriel dos Santos MagalhãesDEF   £8.0m    2      0       10      7       0.31     0.02     0.33     0     0     90      25.2%    5       5       
 Max Dowman                  MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Eberechi Eze                MID   £6.4m    0      0       0       0       0        0        0        0     0     0       1.4%     0.7     1       
 Fábio Ferreira Vieira       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

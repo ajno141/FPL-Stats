@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-09-06 21:40:49
+Updated: 2026-09-06 21:51:54
 Gameweek: GW3
 Players: 43
 
@@ -21,7 +21,7 @@ Charlie Hughes              DEF   £4.0m    0      0       0       0       0    
 Matty Jacob                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cathal McCarthy             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Paddy McNair                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
-Nobel Mendy                 DEF   £4.0m    8      0       22      10      0.03     0        0.03     0     0     70      6.2%     8       8       
+Nobel Mendy                 DEF   £4.0m    8      0       22      10      0.03     0        0.03     0     0     70      6.3%     8       8       
 Brooke Norton-Cuffy         DEF   £4.0m    1      0       3       1       0        0        0        0     0     26      0.2%     1       1       
 Matt Targett                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       2.0%     0.3     1       
 David Akintola              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
