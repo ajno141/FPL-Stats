@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-09-06 07:15:40
+Updated: 2026-09-06 07:29:32
 Gameweek: GW3
 Players: 36
 
@@ -33,7 +33,7 @@ Daichi Kamada               MID   £5.0m    5      0       21      4       0    
 Jefferson Lerma Solís       MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Dwight McNeil               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     1       1.5     
 Darío Osorio                MID   £5.5m    1      0       2       1       0        0        0        0     0     1       0.0%     1       1       
-Yéremy Pino Santos          MID   £5.5m    5      0       25      5       0.25     0.3      0.55     0     1     88      0.2%     3.7     3.7     
+Yéremy Pino Santos          MID   £5.5m    5      0       25      5       0.25     0.3      0.55     0     1     88      0.3%     3.7     3.7     
 Jesurun Rak-Sakyi           MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ismaïla Sarr                MID   £6.3m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
 Quinten Timber              MID   £5.0m    2      0       8       6       0.02     0        0.02     0     0     73      0.0%     2       2       
