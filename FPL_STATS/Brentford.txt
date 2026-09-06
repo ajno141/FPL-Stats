@@ -1,6 +1,6 @@
 BRENTFORD
 =================================================================================================================================================
-Updated: 2026-09-06 20:26:40
+Updated: 2026-09-06 20:40:02
 Gameweek: GW3
 Players: 26
 
@@ -17,7 +17,7 @@ Kim Ji-soo                  DEF   £4.5m    0      0       0       0       0    
 Michael Kayode              DEF   £4.6m    1      0       2       5       0.03     0        0.03     0     0     45      9.3%     5.3     5.3     
 Jannik Schuster             DEF   £4.5m    4      0       11      10      0.1      0.01     0.11     0     0     73      0.1%     1.3     4       
 Sepp van den Berg           DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Jaidon Anthony              MID   £6.0m    1      0       3       4       0.05     0.01     0.06     0     0     45      0.2%     1.3     1.3     
+Jaidon Anthony              MID   £6.0m    1      0       3       4       0.05     0.01     0.06     0     0     45      0.1%     1.3     1.3     
 Mikkel Damsgaard            MID   £5.5m    8      3       30      4       0        0.21     0.21     0     1     85      0.5%     4       4       
 Josh Dasilva                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Fábio Freitas Gouveia CarvalhoMID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
