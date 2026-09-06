@@ -1,32 +1,32 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-09-06 13:57:31
+Updated: 2026-09-06 14:14:36
 Gameweek: GW3
 Players: 24
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Tom King                    GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jordan Pickford             GK    £5.5m    1      0       7       0       0        0        0        0     0     45      8.7%     3.7     3.7     
+Jordan Pickford             GK    £5.5m    1      0       3       0       0        0        0        0     0     52      8.7%     3.7     3.7     
 Mark Travers                GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Adam Aznou                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Jarrad Branthwaite          DEF   £5.5m    2      1       11      8       0.04     0        0.04     0     0     45      1.8%     4       4       
+Jarrad Branthwaite          DEF   £5.5m    1      0       7       8       0.04     0        0.04     0     0     52      1.8%     3.7     3.7     
 Michael Keane               DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
 Ainsley Maitland-Niles      DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Vitalii Mykolenko           DEF   £4.5m    1      0       6       2       0        0.01     0.01     0     0     45      1.8%     3.7     3.7     
+Vitalii Mykolenko           DEF   £4.5m    1      0       2       3       0        0.01     0.01     0     0     52      1.8%     3.7     3.7     
 Jake O'Brien                DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Nathan Patterson            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-James Tarkowski             DEF   £6.0m    1      0       8       5       0        0        0        0     0     45      10.9%    6.3     6.3     
+James Tarkowski             DEF   £6.0m    1      0       9       6       0        0        0        0     0     52      10.9%    6.3     6.3     
 Carlos Alcaraz Durán        MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     0.5     
-Harrison Armstrong          MID   £5.0m    0      0       2       4       0        0.03     0.03     0     0     45      0.4%     3.3     3.3     
-Kiernan Dewsbury-Hall       MID   £6.5m    1      0       6       3       0.01     0.02     0.03     0     0     45      4.4%     4.7     4.7     
+Harrison Armstrong          MID   £5.0m    0      0       3       5       0        0.03     0.03     0     0     52      0.4%     3.3     3.3     
+Kiernan Dewsbury-Hall       MID   £6.5m    1      0       6       3       0.01     0.02     0.03     0     0     52      4.4%     4.7     4.7     
 Tyler Dibling               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-James Garner                MID   £6.0m    3      2       13      6       0        0.03     0.03     0     0     45      0.1%     1.7     1.7     
-Tyrique George              MID   £5.5m    1      0       7       2       0        0.01     0.01     0     0     45      0.2%     2       2       
+James Garner                MID   £6.0m    2      1       13      6       0        0.03     0.03     0     0     52      0.1%     1.3     1.3     
+Tyrique George              MID   £5.5m    1      0       8       3       0        0.01     0.01     0     0     52      0.2%     2       2       
 Jack Grealish               MID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0.3     1       
 Hayden Hackney              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     1.3     2       
-Brennan Johnson             MID   £5.9m    0      0       -2      5       0        0.02     0.02     0     0     45      0.1%     0.7     0.7     
+Brennan Johnson             MID   £5.9m    0      0       -2      5       0        0.02     0.02     0     0     52      0.1%     0.7     0.7     
 Christian Nørgaard          MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Merlin Röhl                 MID   £5.0m    1      0       9       3       0        0.09     0.09     0     0     45      0.1%     2       2       
-Thierno Barry               FWD   £5.6m    1      0       1       2       0.3      0.02     0.32     0     0     45      5.1%     3.7     3.7     
+Merlin Röhl                 MID   £5.0m    1      0       10      5       0        0.13     0.13     0     0     52      0.1%     2       2       
+Thierno Barry               FWD   £5.6m    1      0       1       2       0.3      0.02     0.32     0     0     52      5.1%     3.7     3.7     
 Norberto Bercique Gomes BetuncalFWD   £5.4m    0      0       0       0       0        0        0        0     0     0       1.3%     0.7     1       
