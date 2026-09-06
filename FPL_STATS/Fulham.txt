@@ -1,6 +1,6 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-09-06 11:41:02
+Updated: 2026-09-06 11:51:52
 Gameweek: GW3
 Players: 28
 
@@ -11,7 +11,7 @@ Bernd Leno                  GK    £4.5m    1      0       8       0       0    
 Alfie McNally               GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 David Affengruber           DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Joachim Andersen            DEF   £5.0m    1      0       8       7       0        0.06     0.06     0     0     90      0.1%     0.7     1       
-Calvin Bassey               DEF   £4.5m    1      0       2       2       0        0.04     0.04     0     0     90      0.8%     1       1       
+Calvin Bassey               DEF   £4.5m    1      0       2       2       0        0.04     0.04     0     0     90      0.7%     1       1       
 Timothy Castagne            DEF   £4.5m    1      0       -1      7       0.58     0.19     0.77     0     0     90      0.9%     4.3     4.3     
 Jorge Cuenca Barreno        DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     1       3       
 Luc De Fougerolles          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -23,7 +23,7 @@ Oscar Bobb                  MID   £5.5m    2      0       17      4       0.32 
 Tom Cairney                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Shea Charles                MID   £5.0m    2      0       18      11      0        0.09     0.09     0     0     78      0.1%     1.3     1.3     
 Alex Iwobi                  MID   £5.5m    2      0       15      4       0.04     0.26     0.3      0     0     82      0.8%     2       2       
-Josh King                   MID   £5.5m    10     3       38      7       0.31     0.27     0.58     1     0     90      0.8%     6.3     6.3     
+Josh King                   MID   £5.5m    10     3       38      7       0.31     0.27     0.58     1     0     90      0.9%     6.3     6.3     
 Hugo Larsson                MID   £5.0m    1      0       3       1       0.13     0.22     0.35     0     0     11      0.0%     1       1       
 Manuel Ángel Morán Ibáñez   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 César Palacios              MID   £5.5m    8      1       27      0       0.8      0.02     0.82     1     0     60      0.2%     3.7     3.7     
