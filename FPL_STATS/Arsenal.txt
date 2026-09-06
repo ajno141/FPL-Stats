@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-09-06 15:04:11
+Updated: 2026-09-06 15:20:12
 Gameweek: GW3
 Players: 29
 
@@ -9,7 +9,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Kepa Arrizabalaga Revuelta  GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Illan Meslier               GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 David Raya Martín           GK    £6.0m    0      0       0       0       0        0        0        0     0     0       38.6%    4       6       
-Riccardo Calafiori          DEF   £5.7m    0      0       0       0       0        0        0        0     0     0       46.2%    6.7     10      
+Riccardo Calafiori          DEF   £5.7m    0      0       0       0       0        0        0        0     0     0       46.3%    6.7     10      
 Piero Hincapié              DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       1.1%     0.3     1       
 Ezri Konsa Ngoyo            DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       11.5%    0.3     1       
 Cristhian Mosquera          DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       4.2%     4       6       
