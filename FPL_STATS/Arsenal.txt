@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-09-06 16:09:06
+Updated: 2026-09-06 16:25:17
 Gameweek: GW3
 Players: 29
 
@@ -8,30 +8,30 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Kepa Arrizabalaga Revuelta  GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Illan Meslier               GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-David Raya Martín           GK    £6.0m    1      0       3       0       0        0        0        0     0     36      38.6%    4.3     4.3     
-Riccardo Calafiori          DEF   £5.7m    1      0       -3      1       0.38     0.03     0.41     0     0     36      46.4%    7       7       
+David Raya Martín           GK    £6.0m    1      0       4       0       0        0        0        0     0     45      38.6%    4.3     4.3     
+Riccardo Calafiori          DEF   £5.7m    1      0       -3      1       0.38     0.03     0.41     0     0     45      46.4%    7       7       
 Piero Hincapié              DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       1.1%     0.3     1       
-Ezri Konsa Ngoyo            DEF   £4.4m    1      0       0       3       0        0        0        0     0     36      11.6%    0.7     1       
+Ezri Konsa Ngoyo            DEF   £4.4m    1      0       3       4       0        0        0        0     0     45      11.6%    0.7     1       
 Cristhian Mosquera          DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       4.1%     4       6       
 William Saliba              DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Jurriën Timber              DEF   £6.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Benjamin White              DEF   £5.5m    1      0       3       3       0        0.02     0.02     0     0     36      7.7%     6.3     6.3     
-Gabriel dos Santos MagalhãesDEF   £8.0m    1      0       -2      3       0.32     0        0.32     0     0     36      25.5%    4.7     4.7     
+Benjamin White              DEF   £5.5m    1      0       4       3       0        0.02     0.02     0     0     45      7.7%     6.3     6.3     
+Gabriel dos Santos MagalhãesDEF   £8.0m    1      0       -2      3       0.32     0.01     0.33     0     0     45      25.4%    4.7     4.7     
 Max Dowman                  MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Eberechi Eze                MID   £6.4m    0      0       0       0       0        0        0        0     0     0       1.4%     0.7     1       
 Fábio Ferreira Vieira       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bruno Guimarães Rodriguez MouraMID   £6.8m    0      0       0       0       0        0        0        0     0     0       2.0%     0.3     1       
-Myles Lewis-Skelly          MID   £5.5m    1      0       3       2       0.03     0.08     0.11     0     0     36      0.7%     2.3     2.3     
+Myles Lewis-Skelly          MID   £5.5m    1      0       0       2       0.03     0.09     0.12     0     0     45      0.7%     2.3     2.3     
 Noni Madueke                MID   £6.3m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
 Gabriel Martinelli Silva    MID   £6.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Mikel Merino Zazón          MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.5%     0.7     1       
 Reiss Nelson                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ethan Nwaneri               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Declan Rice                 MID   £7.4m    4      0       17      1       0        0.03     0.03     0     1     36      14.0%    4       4       
-Bukayo Saka                 MID   £9.5m    1      0       6       2       0.05     0.02     0.07     0     0     36      11.2%    7       7       
-Christos Tzolis             MID   £6.5m    1      0       7       4       0        0.11     0.11     0     0     36      18.5%    2.3     2.3     
+Declan Rice                 MID   £7.4m    5      1       18      2       0        0.04     0.04     0     1     45      14.0%    4.3     4.3     
+Bukayo Saka                 MID   £9.5m    1      0       6       2       0.05     0.03     0.08     0     0     45      11.2%    7       7       
+Christos Tzolis             MID   £6.5m    1      0       7       4       0        0.12     0.12     0     0     45      18.5%    2.3     2.3     
 Martín Zubimendi Ibáñez     MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.8%     0.7     1       
-Martin Ødegaard             MID   £6.6m    1      0       14      0       0.11     0.85     0.96     0     0     36      11.1%    5       5       
+Martin Ødegaard             MID   £6.6m    1      0       14      1       0.11     0.85     0.96     0     0     45      11.1%    5       5       
 Gabriel Fernando de Jesus   FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Viktor Gyökeres             FWD   £7.3m    0      0       0       0       0        0        0        0     0     0       4.4%     0       0       
-Kai Havertz                 FWD   £7.5m    8      3       33      0       0.26     0.09     0.35     1     0     36      6.8%     5.3     5.3     
+Kai Havertz                 FWD   £7.5m    8      3       34      1       0.26     0.09     0.35     1     0     45      6.8%     5.3     5.3     
