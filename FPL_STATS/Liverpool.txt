@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-09-07 22:53:14
+Updated: 2026-09-07 23:06:47
 Gameweek: GW3
 Players: 36
 
@@ -26,7 +26,7 @@ Abdul Fatawu                MID   £5.5m    2      0       14      6       0.03 
 Cameron Humphreys           MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Saša Lukić                  MID   £5.0m    2      0       13      4       0        0.02     0.02     0     0     90      0.1%     2.7     2.7     
 Daizen Maeda                MID   £5.4m    2      0       9       5       0.04     0        0.04     0     0     65      0.3%     2       2       
-Azor Matusiwa               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Azor Matusiwa               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Kasey McAteer               MID   £4.5m    1      0       5       1       0.05     0        0.05     0     0     11      1.2%     1       1       
 Anis Mehmeti                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Florentino Ibrain Morris LuísMID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
