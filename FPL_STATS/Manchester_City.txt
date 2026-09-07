@@ -1,6 +1,6 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-09-07 16:03:11
+Updated: 2026-09-07 16:21:35
 Gameweek: GW3
 Players: 31
 
@@ -15,7 +15,7 @@ Jaka Bijol                  DEF   £5.0m    1      0       1       4       0    
 Jayden Bogle                DEF   £4.5m    14     3       30      2       0.9      0.02     0.92     1     0     60      1.2%     7.3     7.3     
 Sebastiaan Bornauw          DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nico Elvedi                 DEF   £4.5m    4      0       12      10      0        0.57     0.57     0     0     90      0.0%     1.7     2.5     
-Gabriel Gudmundsson         DEF   £4.5m    2      0       9       5       0        0        0        0     0     90      0.0%     0.7     2       
+Gabriel Gudmundsson         DEF   £4.5m    2      0       9       5       0        0        0        0     0     90      0.1%     0.7     2       
 James Justin                DEF   £4.5m    4      0       9       10      0.14     0        0.14     0     0     90      1.5%     5.3     5.3     
 Jayden Lienou               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Tarik Muharemović           DEF   £5.0m    4      0       10      13      0        0.01     0.01     0     0     90      3.4%     4.7     4.7     
