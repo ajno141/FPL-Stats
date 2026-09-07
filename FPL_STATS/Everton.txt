@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-09-07 01:09:19
+Updated: 2026-09-07 01:24:26
 Gameweek: GW3
 Players: 25
 
@@ -30,4 +30,4 @@ Brennan Johnson             MID   £5.9m    1      0       3       8       0.05 
 Christian Nørgaard          MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Merlin Röhl                 MID   £5.0m    1      0       10      6       0        0.13     0.13     0     0     74      0.1%     2       2       
 Thierno Barry               FWD   £5.6m    2      0       7       4       0.38     0.02     0.4      0     0     90      5.3%     4       4       
-Norberto Bercique Gomes BetuncalFWD   £5.4m    0      0       0       0       0        0        0        0     0     0       1.3%     0.7     1       
+Norberto Bercique Gomes BetuncalFWD   £5.4m    0      0       0       0       0        0        0        0     0     0       1.2%     0.7     1       
