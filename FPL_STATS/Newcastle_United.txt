@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-09-07 06:45:40
+Updated: 2026-09-07 07:01:01
 Gameweek: GW3
 Players: 33
 
@@ -13,7 +13,7 @@ Max Alleyne                 DEF   £5.0m    0      0       0       0       0    
 Rayan Aït-Nouri             DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
 Kaden Braithwaite           DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Marc Guéhi                  DEF   £6.0m    8      2       31      9       0        0.02     0.02     0     0     90      18.7%    6.7     6.7     
-Joško Gvardiol              DEF   £5.6m    8      2       31      8       0.01     0.02     0.03     0     0     90      19.5%    7.3     7.3     
+Joško Gvardiol              DEF   £5.6m    8      2       31      8       0.01     0.02     0.03     0     0     90      19.6%    7.3     7.3     
 Abdukodir Khusanov          DEF   £5.5m    5      0       22      6       0        0.02     0.02     0     0     90      1.6%     3       3       
 Rico Lewis                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
 Matheus Nunes               DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       1.0%     0.3     1       
@@ -33,7 +33,7 @@ Mateo Kovačić               MID   £5.4m    0      0       0       0       0  
 Ryan McAidoo                MID   £4.5m    1      0       5       4       0        0        0        0     0     3       0.1%     1       1       
 Jeremy Monga                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Divine Mukasa               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Iliman Ndiaye               MID   £5.9m    3      0       12      5       0.02     0.04     0.06     0     0     86      10.7%    5.3     5.3     
+Iliman Ndiaye               MID   £5.9m    3      0       12      5       0.02     0.04     0.06     0     0     86      10.6%    5.3     5.3     
 Kalvin Phillips             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Floyd Samba                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
