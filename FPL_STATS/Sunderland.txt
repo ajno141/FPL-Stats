@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-09-08 07:59:59
+Updated: 2026-09-08 08:21:01
 Gameweek: GW3
 Players: 29
 
@@ -18,7 +18,7 @@ Tino Livramento             DEF   £4.9m    1      0       3       0       0    
 Alex Murphy                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Fabian Schär                DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
 Leo Shahar                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Malick Thiaw                DEF   £5.0m    -1     0       0       3       0        0.05     0.05     0     0     90      2.2%     2.7     2.7     
+Malick Thiaw                DEF   £5.0m    -1     0       0       3       0        0.05     0.05     0     0     90      2.1%     2.7     2.7     
 Joelinton Cássio Apolinário de LiraMID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Aladji Bamba                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
 Harvey Barnes               MID   £6.0m    12     2       37      6       0.11     0.03     0.14     1     1     90      1.9%     5.7     5.7     
