@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-09-10 01:59:27
+Updated: 2026-09-10 02:18:37
 Gameweek: GW3
 Players: 43
 
@@ -28,7 +28,7 @@ David Akintola              MID   £5.0m    0      0       0       0       0    
 Mohamed Belloumi            MID   £5.0m    5      0       15      12      0.03     0.01     0.04     0     0     81      1.0%     4.7     4.7     
 Mohamed-Ali Cho             MID   £5.0m    1      0       5       0       0.05     0        0.05     0     0     8       0.0%     1       1       
 Matt Crooks                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0.7     2       
-Kieran Dowell               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
+Kieran Dowell               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Joe Gelhardt                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lucas Gourna-Douath         MID   £5.0m    2      0       7       10      0        0.01     0.01     0     0     81      0.0%     1       1.5     
 Darko Gyabi                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
