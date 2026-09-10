@@ -1,8 +1,8 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-09-10 15:00:01
+Updated: 2026-09-10 15:19:29
 Gameweek: GW3
-Players: 35
+Players: 36
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -24,6 +24,7 @@ Milan van Ewijk             DEF   £4.0m    3      0       5       11      0    
 Kai Andrews                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Raphael Borges Rodrigues    MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Josh Eccles                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Yann Gboho                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Matt Grimes                 MID   £5.0m    2      0       8       8       0.04     0        0.04     0     0     90      0.1%     2       2       
 Gustavo Hamer               MID   £5.4m    1      0       1       2       0        0        0        0     0     5       0.1%     1       1       
 Ephron Mason-Clark          MID   £5.4m    2      0       4       5       0        0        0        0     0     70      0.1%     1       1.5     
