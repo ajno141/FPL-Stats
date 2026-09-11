@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-09-11 14:23:00
+Updated: 2026-09-11 14:38:58
 Gameweek: GW3
 Players: 30
 
@@ -28,7 +28,7 @@ Morgan Gibbs-White          MID   £7.9m    3      0       3       7       0.48 
 Callum Hudson-Odoi          MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
 Omari Hutchinson            MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 James McAtee                MID   £5.5m    2      0       22      7       0.13     0.22     0.35     0     0     90      0.1%     2.3     2.3     
-Dan Ndoye                   MID   £5.5m    1      0       5       5       0        0        0        0     0     58      0.7%     4.3     4.3     
+Dan Ndoye                   MID   £5.5m    1      0       5       5       0        0        0        0     0     58      0.6%     4.3     4.3     
 Ibrahim Sangaré             MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.5%     0.7     2       
 Xaver Schlager              MID   £5.0m    3      0       18      10      0.03     0.06     0.09     0     0     90      0.1%     2.7     2.7     
 Ryan Yates                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.4%     0       0       
