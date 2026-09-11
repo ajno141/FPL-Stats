@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-11 22:54:02
+Updated: 2026-09-11 23:07:27
 Gameweek: GW3
 Players: 36
 
@@ -37,7 +37,7 @@ Victor Munoz                MID   £6.5m    3      0       9       4       0    
 Rio Ngumoha                 MID   £5.8m    0      0       0       0       0        0        0        0     0     0       0.6%     1       1.5     
 Trey Nyoni                  MID   £4.9m    1      0       3       0       0        0        0        0     0     6       0.0%     0.7     1       
 Dominik Szoboszlai          MID   £7.0m    3      0       20      9       0.16     0.08     0.24     0     0     90      38.5%    5       5       
-Endo Wataru                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Endo Wataru                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Florian Wirtz               MID   £7.4m    3      0       14      4       0.18     0.05     0.23     0     0     90      8.0%     3       3       
 Jayden Danns                FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Hugo Ekitiké                FWD   £7.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
