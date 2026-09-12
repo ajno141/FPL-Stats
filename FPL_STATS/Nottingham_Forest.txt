@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-09-12 18:16:03
+Updated: 2026-09-12 18:31:52
 Gameweek: GW4
 Players: 34
 
@@ -34,7 +34,7 @@ Bryan Mbeumo                MID   £7.9m    0      0       0       0       0    
 Mason Mount                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Andrey Nascimento dos SantosMID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.7%     1       1.3     
 Marcus Rashford             MID   £7.0m    0      0       0       0       0        0        0        0     0     0       1.6%     1.5     2       
-Matheus Santos Carneiro da CunhaMID   £7.9m    0      0       0       0       0        0        0        0     0     0       6.5%     3.5     4.7     
+Matheus Santos Carneiro da CunhaMID   £7.9m    0      0       0       0       0        0        0        0     0     0       6.4%     3.5     4.7     
 Youri Tielemans             MID   £5.9m    0      0       0       0       0        0        0        0     0     0       1.7%     2       2.7     
 Manuel Ugarte Ribeiro       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Chido Obi                   FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       1.2%     0       0       
