@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-09-12 17:46:57
+Updated: 2026-09-12 17:57:15
 Gameweek: GW4
 Players: 36
 
@@ -13,7 +13,7 @@ Diego Coppola               DEF   £4.5m    0      0       0       0       0    
 Maxim De Cuyper             DEF   £4.8m    0      0       0       0       0        0        0        0     0     0       22.1%    5.2     7       
 Lewis Dunk                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       1.4%     2.5     3.3     
 Jaouen Hadjam               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Ferdi Kadıoğlu              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       1.8%     0.5     1       
+Ferdi Kadıoğlu              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       1.7%     0.5     1       
 João Pedro Loureiro da CostaDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     0.7     
 Pascal Struijk              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
 Michael Svoboda             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
