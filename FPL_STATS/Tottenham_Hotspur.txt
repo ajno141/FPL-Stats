@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-09-12 20:09:05
+Updated: 2026-09-12 20:25:29
 Gameweek: GW4
 Players: 30
 
@@ -12,7 +12,7 @@ Matz Sels                   GK    £5.0m    3      0       20      0       0    
 Zach Abbott                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Ola Aina                    DEF   £4.5m    2      0       9       8       0        0.01     0.01     0     0     90      2.6%     2       2       
 Tyler Bindon                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Murillo Costa dos Santos    DEF   £5.5m    6      0       18      12      0        0.01     0.01     0     1     90      1.6%     4.8     4.8     
+Murillo Costa dos Santos    DEF   £5.5m    6      0       18      12      0        0.01     0.01     0     1     90      1.7%     4.8     4.8     
 Ousmane Diomande            DEF   £5.4m    4      0       13      14      0.06     0        0.06     0     0     90      0.5%     1.2     2.5     
 Nikola Milenković           DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       1.6%     3       4       
 Daniel Muñoz Mejía          DEF   £5.4m    2      0       20      7       0.09     0.17     0.26     0     0     90      5.6%     0.8     1       
