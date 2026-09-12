@@ -1,6 +1,6 @@
 BRENTFORD
 =================================================================================================================================================
-Updated: 2026-09-12 21:47:45
+Updated: 2026-09-12 21:58:01
 Gameweek: GW4
 Players: 26
 
@@ -14,7 +14,7 @@ El Hadji Malick Diouf       DEF   £4.5m    1      0       4       1       0    
 Rico Henry                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
 Aaron Hickey                DEF   £4.5m    1      0       4       7       0.03     0.03     0.06     0     0     70      0.1%     1       1       
 Kim Ji-soo                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Michael Kayode              DEF   £4.6m    1      0       5       1       0        0.15     0.15     0     0     19      8.8%     4.2     4.2     
+Michael Kayode              DEF   £4.6m    1      0       5       1       0        0.15     0.15     0     0     19      8.7%     4.2     4.2     
 Jannik Schuster             DEF   £4.5m    3      0       5       12      0        0.01     0.01     0     0     90      0.1%     1.8     3.5     
 Sepp van den Berg           DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Jaidon Anthony              MID   £6.0m    1      0       12      11      0        0.1      0.1      0     0     59      0.1%     1.2     1.2     
@@ -30,5 +30,5 @@ Mamadou Sangaré             MID   £5.7m    4      0       19      13      0   
 Kevin Schade                MID   £6.0m    15     3       49      4       0.21     0.1      0.31     2     0     90      4.1%     7.5     7.5     
 Yehor Yarmoliuk             MID   £4.9m    4      0       19      5       0        0.21     0.21     0     1     59      0.7%     1.5     1.5     
 Kaye Furo                   FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
-Igor Thiago Nascimento RodriguesFWD   £7.9m    1      0       3       1       0.11     0.03     0.14     0     0     90      10.5%    1.2     1.2     
+Igor Thiago Nascimento RodriguesFWD   £7.9m    1      0       3       1       0.11     0.03     0.14     0     0     90      10.4%    1.2     1.2     
 Callum Wilson               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0.8     1       

@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-09-12 21:47:45
+Updated: 2026-09-12 21:58:01
 Gameweek: GW4
 Players: 37
 
@@ -21,7 +21,7 @@ Stephen Mfuni               DEF   £4.0m    0      0       0       0       0    
 Ethan Pinnock               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     1       2       
 Bobby Thomas                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       9.2%     3.8     5       
 Luke Woolfenden             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Milan van Ewijk             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       10.6%    1.5     2       
+Milan van Ewijk             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       10.5%    1.5     2       
 Kai Andrews                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Raphael Borges Rodrigues    MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Josh Eccles                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
