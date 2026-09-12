@@ -1,7 +1,7 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-09-12 12:53:55
-Gameweek: GW3
+Updated: 2026-09-12 13:21:44
+Gameweek: GW4
 Players: 43
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -10,42 +10,42 @@ Jack Butland                GK    £4.5m    0      0       0       0       0    
 Harvey Cartwright           GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Thimothée Lo-Tutala         GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Dillon Phillips             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.4%     0       0       
-Konstantinos Tzolakis       GK    £4.6m    6      0       25      0       0        0        0        0     0     90      10.0%    8.7     8.7     
-Semi Ajayi                  DEF   £4.2m    5      0       17      6       0        0        0        0     0     90      12.6%    8.3     8.3     
-Lewie Coyle                 DEF   £4.0m    6      0       19      0       0        0.01     0.01     0     0     63      0.6%     4       4       
-Cody Drameh                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.7     1       
-John Egan                   DEF   £4.1m    6      0       18      7       0        0        0        0     0     90      6.4%     7.7     7.7     
-Ryan Giles                  DEF   £4.0m    8      2       30      4       0        0.04     0.04     0     0     90      1.8%     6.7     6.7     
-Lucas Herrington            DEF   £4.0m    1      0       2       2       0        0        0        0     0     19      0.6%     1       1       
+Konstantinos Tzolakis       GK    £4.6m    0      0       0       0       0        0        0        0     0     0       10.0%    6.5     8.7     
+Semi Ajayi                  DEF   £4.2m    0      0       0       0       0        0        0        0     0     0       12.6%    6.2     8.3     
+Lewie Coyle                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.6%     3       4       
+Cody Drameh                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
+John Egan                   DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       6.4%     5.8     7.7     
+Ryan Giles                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.8%     5       6.7     
+Lucas Herrington            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.6%     0.8     1       
 Charlie Hughes              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Matty Jacob                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cathal McCarthy             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Paddy McNair                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
-Nobel Mendy                 DEF   £4.1m    8      0       22      10      0.03     0        0.03     0     0     70      8.3%     8       8       
-Brooke Norton-Cuffy         DEF   £4.0m    1      0       3       1       0        0        0        0     0     26      0.3%     1       1       
-Matt Targett                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.9%     0.3     1       
+Paddy McNair                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
+Nobel Mendy                 DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       8.4%     6       8       
+Brooke Norton-Cuffy         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0.5     1       
+Matt Targett                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.9%     0.2     1       
 David Akintola              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Mohamed Belloumi            MID   £5.0m    5      0       15      12      0.03     0.01     0.04     0     0     81      1.0%     4.7     4.7     
-Mohamed-Ali Cho             MID   £5.0m    1      0       5       0       0.05     0        0.05     0     0     8       0.0%     1       1       
-Matt Crooks                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0.7     2       
+Mohamed Belloumi            MID   £5.0m    0      0       0       0       0        0        0        0     0     0       1.0%     3.5     4.7     
+Mohamed-Ali Cho             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.7     1       
+Matt Crooks                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0.5     2       
 Kieran Dowell               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Joe Gelhardt                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Lucas Gourna-Douath         MID   £5.0m    2      0       7       10      0        0.01     0.01     0     0     81      0.0%     1       1.5     
+Lucas Gourna-Douath         MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.8     1.5     
 Darko Gyabi                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jens Hjertø-Dahl            MID   £4.9m    1      0       4       1       0        0        0        0     0     8       0.1%     0.3     1       
-Tim Iroegbunam              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
+Jens Hjertø-Dahl            MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
+Tim Iroegbunam              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
 Abu Kamara                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Eliot Matazo                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Liam Millar                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     2       3       
-Hidemasa Morita             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
+Liam Millar                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     1.5     3       
+Hidemasa Morita             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
 Christos Mouzakitis         MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Regan Slater                MID   £4.5m    3      0       10      6       0.04     0.01     0.05     0     0     90      5.6%     3.7     3.7     
-Elliot Stroud               MID   £5.0m    3      0       5       2       0.04     0.01     0.05     0     0     62      0.1%     2       2       
-Sorba Thomas                MID   £5.5m    1      0       5       1       0        0.04     0.04     0     0     27      0.0%     1       1       
+Regan Slater                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       5.6%     2.8     3.7     
+Elliot Stroud               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     1.5     2       
+Sorba Thomas                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Óscar Zambrano              MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Abdülkadir Ömür             MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ilyas Ansah                 FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mason Burstow               FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Enis Destan                 FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Oli McBurnie                FWD   £5.5m    2      0       2       3       0.38     0.05     0.43     0     0     90      1.9%     2.7     2.7     
+Oli McBurnie                FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       1.9%     2       2.7     
 Robinio Vaz                 FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
