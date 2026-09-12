@@ -1,6 +1,6 @@
 BRENTFORD
 =================================================================================================================================================
-Updated: 2026-09-12 14:50:04
+Updated: 2026-09-12 15:00:34
 Gameweek: GW4
 Players: 26
 
@@ -8,11 +8,11 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Caoimhín Kelleher           GK    £5.0m    1      0       3       0       0        0        0        0     0     45      6.7%     3       3       
 Hákon Rafn Valdimarsson     GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Kristoffer Ajer             DEF   £4.5m    1      0       0       6       0        0        0        0     0     45      4.6%     3.5     3.5     
+Kristoffer Ajer             DEF   £4.5m    1      0       -1      6       0.01     0        0.01     0     0     45      4.6%     3.5     3.5     
 Nathan Collins              DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       1.4%     2.5     3.3     
 El Hadji Malick Diouf       DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Rico Henry                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
-Aaron Hickey                DEF   £4.5m    1      0       3       4       0        0.01     0.01     0     0     45      0.1%     1       1       
+Aaron Hickey                DEF   £4.5m    1      0       4       6       0        0.01     0.01     0     0     45      0.1%     1       1       
 Kim Ji-soo                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Michael Kayode              DEF   £4.6m    0      0       0       0       0        0        0        0     0     0       8.9%     4       5.3     
 Jannik Schuster             DEF   £4.5m    1      0       0       4       0        0        0        0     0     45      0.1%     1.2     2.5     
@@ -21,14 +21,14 @@ Jaidon Anthony              MID   £6.0m    1      0       11      10      0    
 Mikkel Damsgaard            MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.5%     3       4       
 Josh Dasilva                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Fábio Freitas Gouveia CarvalhoMID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Vitaly Janelt               MID   £5.0m    1      0       6       8       0        0.01     0.01     0     0     45      2.4%     5.5     5.5     
+Vitaly Janelt               MID   £5.0m    1      0       6       9       0        0.03     0.03     0     0     45      2.4%     5.5     5.5     
 Mathias Jensen              MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     1.5     6       
 Keane Lewis-Potter          MID   £5.5m    1      0       0       1       0.03     0.01     0.04     0     0     45      2.1%     4.8     4.8     
 Antoni Milambo              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Dango Ouattara              MID   £6.4m    0      0       0       0       0        0        0        0     0     0       0.6%     1.2     1.7     
-Mamadou Sangaré             MID   £5.7m    1      0       8       6       0        0.01     0.01     0     0     45      13.1%    4.8     4.8     
-Kevin Schade                MID   £6.0m    8      2       24      0       0.17     0.01     0.18     1     0     45      3.7%     5.8     5.8     
-Yehor Yarmoliuk             MID   £4.9m    5      1       18      2       0        0.11     0.11     0     1     45      0.7%     1.8     1.8     
+Mamadou Sangaré             MID   £5.7m    1      0       8       6       0        0.01     0.01     0     0     45      13.0%    4.8     4.8     
+Kevin Schade                MID   £6.0m    8      2       24      1       0.17     0.1      0.27     1     0     45      3.7%     5.8     5.8     
+Yehor Yarmoliuk             MID   £4.9m    5      1       18      2       0        0.12     0.12     0     1     45      0.7%     1.8     1.8     
 Kaye Furo                   FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
-Igor Thiago Nascimento RodriguesFWD   £7.9m    1      0       0       0       0.07     0.01     0.08     0     0     45      10.7%    1.2     1.2     
+Igor Thiago Nascimento RodriguesFWD   £7.9m    0      0       -3      0       0.07     0.01     0.08     0     0     45      10.7%    1       1       
 Callum Wilson               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0.8     1       

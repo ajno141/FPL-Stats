@@ -1,6 +1,6 @@
 WOLVERHAMPTON WANDERERS
 =================================================================================================================================================
-Updated: 2026-09-12 14:50:04
+Updated: 2026-09-12 15:00:34
 Gameweek: GW4
 Players: 30
 
@@ -30,7 +30,7 @@ Malick Fofana               MID   £5.5m    0      0       0       0       0    
 Enzo Le Fée                 MID   £5.8m    0      0       0       0       0        0        0        0     0     0       4.4%     3.2     4.3     
 Romaine Mundle              MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
 Chris Rigg                  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
-Noah Sadiki                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.3%     1.5     2       
+Noah Sadiki                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.2%     1.5     2       
 Chemsdine Talbi             MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
 Granit Xhaka                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       4.2%     4.5     6       
 Juan Angulo                 FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
