@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-12 08:08:13
+Updated: 2026-09-12 08:24:29
 Gameweek: GW3
 Players: 36
 
@@ -22,7 +22,7 @@ Giovanni Leoni              DEF   £4.0m    0      0       0       0       0    
 Wellity Lucky               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Calvin Ramsay               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Kostas Tsimikas             DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
-Virgil van Dijk             DEF   £6.5m    6      0       32      7       0        0.02     0.02     0     0     90      17.2%    3       3       
+Virgil van Dijk             DEF   £6.5m    6      0       32      7       0        0.02     0.02     0     0     90      17.1%    3       3       
 Stefan Bajčetić Maquieira   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bradley Barcola             MID   £8.0m    1      0       5       0       0        0.07     0.07     0     0     26      2.1%     1       1       
 Federico Chiesa             MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -41,4 +41,4 @@ Endo Wataru                 MID   £4.9m    0      0       0       0       0    
 Florian Wirtz               MID   £7.4m    3      0       14      4       0.18     0.05     0.23     0     0     90      7.9%     3       3       
 Jayden Danns                FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Hugo Ekitiké                FWD   £7.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Alexander Isak              FWD   £9.1m    13     3       61      3       0.21     0.05     0.26     2     0     63      23.5%    7.7     7.7     
+Alexander Isak              FWD   £9.1m    13     3       61      3       0.21     0.05     0.26     2     0     63      23.6%    7.7     7.7     

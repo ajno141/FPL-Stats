@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-09-12 08:08:13
+Updated: 2026-09-12 08:24:29
 Gameweek: GW3
 Players: 29
 
@@ -11,7 +11,7 @@ Illan Meslier               GK    £4.9m    0      0       0       0       0    
 David Raya Martín           GK    £6.0m    3      0       15      0       0        0.01     0.01     0     0     90      39.1%    5       5       
 Riccardo Calafiori          DEF   £5.8m    2      0       0       1       0.39     0.03     0.42     0     0     66      49.1%    7.3     7.3     
 Piero Hincapié              DEF   £5.3m    1      0       3       3       0        0        0        0     0     23      1.0%     0.7     1       
-Ezri Konsa Ngoyo            DEF   £4.5m    4      0       15      10      0        0.01     0.01     0     0     90      16.4%    1.7     2.5     
+Ezri Konsa Ngoyo            DEF   £4.5m    4      0       15      10      0        0.01     0.01     0     0     90      16.5%    1.7     2.5     
 Cristhian Mosquera          DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       2.6%     4       6       
 William Saliba              DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Jurriën Timber              DEF   £6.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -31,7 +31,7 @@ Declan Rice                 MID   £7.4m    5      0       22      6       0.03 
 Bukayo Saka                 MID   £9.5m    2      0       13      4       0.23     0.23     0.46     0     0     89      11.6%    7.3     7.3     
 Christos Tzolis             MID   £6.4m    5      1       31      8       0        0.2      0.2      0     1     90      16.0%    3.7     3.7     
 Martín Zubimendi Ibáñez     MID   £5.4m    1      0       1       4       0.08     0.02     0.1      0     0     23      0.7%     1       1       
-Martin Ødegaard             MID   £6.7m    10     3       47      3       0.72     0.88     1.6      1     0     76      17.9%    8       8       
+Martin Ødegaard             MID   £6.7m    10     3       47      3       0.72     0.88     1.6      1     0     76      18.0%    8       8       
 Gabriel Fernando de Jesus   FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Viktor Gyökeres             FWD   £7.2m    1      0       2       1       0        0        0        0     0     12      3.7%     0.3     1       
 Kai Havertz                 FWD   £7.5m    8      2       38      1       0.27     0.27     0.54     1     0     77      8.0%     5.3     5.3     
