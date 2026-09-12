@@ -1,12 +1,12 @@
 BRENTFORD
 =================================================================================================================================================
-Updated: 2026-09-12 16:06:13
+Updated: 2026-09-12 16:22:10
 Gameweek: GW4
 Players: 26
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Caoimhín Kelleher           GK    £5.0m    3      0       20      0       0        0        0        0     0     90      6.6%     3.5     3.5     
+Caoimhín Kelleher           GK    £5.0m    3      0       19      0       0        0        0        0     0     90      6.6%     3.5     3.5     
 Hákon Rafn Valdimarsson     GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Kristoffer Ajer             DEF   £4.5m    1      0       -2      9       0.01     0        0.01     0     0     90      4.6%     3.5     3.5     
 Nathan Collins              DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       1.4%     2.5     3.3     
@@ -14,14 +14,14 @@ El Hadji Malick Diouf       DEF   £4.5m    1      0       4       2       0    
 Rico Henry                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
 Aaron Hickey                DEF   £4.5m    1      0       4       7       0.04     0.02     0.06     0     0     70      0.1%     1       1       
 Kim Ji-soo                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Michael Kayode              DEF   £4.6m    1      0       5       1       0        0.08     0.08     0     0     19      8.8%     4.2     4.2     
+Michael Kayode              DEF   £4.6m    1      0       5       1       0        0.13     0.13     0     0     19      8.8%     4.2     4.2     
 Jannik Schuster             DEF   £4.5m    3      0       5       12      0        0.01     0.01     0     0     90      0.1%     1.8     3.5     
 Sepp van den Berg           DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Jaidon Anthony              MID   £6.0m    1      0       12      11      0        0.1      0.1      0     0     59      0.1%     1.2     1.2     
-Mikkel Damsgaard            MID   £5.5m    1      0       2       4       0.09     0        0.09     0     0     30      0.5%     3.2     3.2     
+Mikkel Damsgaard            MID   £5.5m    1      0       2       3       0.09     0        0.09     0     0     30      0.5%     3.2     3.2     
 Josh Dasilva                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Fábio Freitas Gouveia CarvalhoMID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Vitaly Janelt               MID   £5.0m    4      0       20      20      0        0.08     0.08     0     0     90      2.4%     6.2     6.2     
+Vitaly Janelt               MID   £5.0m    4      0       18      20      0        0.08     0.08     0     0     90      2.4%     6.2     6.2     
 Mathias Jensen              MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     1.5     6       
 Keane Lewis-Potter          MID   £5.5m    1      0       0       1       0.03     0.13     0.16     0     0     59      2.1%     4.8     4.8     
 Antoni Milambo              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

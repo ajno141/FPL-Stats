@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-09-12 16:06:13
+Updated: 2026-09-12 16:22:10
 Gameweek: GW4
 Players: 35
 
@@ -14,7 +14,7 @@ Andrés García               DEF   £4.0m    0      0       0       0       0  
 Taylor Harwood-Bellis       DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Victor Lindelöf             DEF   £4.5m    1      0       2       2       0.44     0.01     0.45     0     0     90      0.3%     1.8     1.8     
 Ian Maatsen                 DEF   £4.5m    1      0       6       3       0.18     0.02     0.2      0     0     90      0.8%     2.2     2.2     
-Tyrone Mings                DEF   £4.5m    0      0       0       4       0.13     0        0.13     0     0     65      0.4%     1.8     2.3     
+Tyrone Mings                DEF   £4.5m    0      0       0       4       0.09     0        0.09     0     0     65      0.4%     1.8     2.3     
 Kosta Nedeljkovic           DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Triston Rowe                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Matteo Ruggeri              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
