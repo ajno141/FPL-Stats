@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-12 21:09:28
+Updated: 2026-09-12 21:24:52
 Gameweek: GW4
 Players: 36
 
@@ -17,7 +17,7 @@ Conor Bradley               DEF   £5.0m    0      0       0       0       0    
 Jeremie Frimpong            DEF   £5.4m    1      0       12      4       0        0.12     0.12     0     0     18      2.2%     0.5     0.7     
 Joe Gomez                   DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jeremy Jacquet              DEF   £5.0m    9      3       36      5       0        0.02     0.02     0     0     90      2.8%     4.5     4.5     
-Milos Kerkez                DEF   £5.4m    1      0       6       3       0        0.01     0.01     0     0     45      2.7%     1.8     1.8     
+Milos Kerkez                DEF   £5.4m    1      0       6       3       0        0.01     0.01     0     0     45      2.6%     1.8     1.8     
 Giovanni Leoni              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Wellity Lucky               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Calvin Ramsay               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
