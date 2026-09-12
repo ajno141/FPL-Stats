@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-09-12 22:53:30
+Updated: 2026-09-12 23:06:40
 Gameweek: GW4
 Players: 36
 
@@ -35,10 +35,10 @@ Dwight McNeil               MID   £5.4m    0      0       0       0       0    
 Darío Osorio                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Yéremy Pino Santos          MID   £5.5m    1      0       4       1       0        0.01     0.01     0     0     36      0.5%     3       3       
 Jesurun Rak-Sakyi           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Ismaïla Sarr                MID   £6.3m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
+Ismaïla Sarr                MID   £6.2m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Quinten Timber              MID   £5.0m    4      0       24      16      0.1      0.03     0.13     0     0     90      0.0%     3       3       
 Adam Wharton                MID   £5.5m    2      0       13      5       0.08     0.04     0.12     0     0     76      0.8%     2.5     2.5     
-Jean-Philippe Mateta        FWD   £6.4m    0      0       0       0       0        0        0        0     0     0       1.6%     0.5     2       
+Jean-Philippe Mateta        FWD   £6.3m    0      0       0       0       0        0        0        0     0     0       1.6%     0.5     2       
 Eddie Nketiah               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.7%     1.8     2.3     
 Jørgen Strand Larsen        FWD   £6.0m    8      2       39      2       0.09     0.02     0.11     1     0     83      0.6%     3       3       
 Christantus Uche            FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

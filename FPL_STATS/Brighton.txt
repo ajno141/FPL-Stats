@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-09-12 22:53:30
+Updated: 2026-09-12 23:06:40
 Gameweek: GW4
 Players: 36
 
@@ -41,4 +41,4 @@ Promise David               FWD   £6.0m    0      0       0       0       0    
 Evan Ferguson               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Charalampos Kostoulas       FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.5%     2       2.7     
 Georginio Rutter            FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.6%     1.2     5       
-Stefanos Tzimas             FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Stefanos Tzimas             FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

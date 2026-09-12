@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-09-12 22:53:30
+Updated: 2026-09-12 23:06:40
 Gameweek: GW4
 Players: 37
 
@@ -26,7 +26,7 @@ Kai Andrews                 MID   £4.5m    0      0       0       0       0    
 Raphael Borges Rodrigues    MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Josh Eccles                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Yann Gboho                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Matt Grimes                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     1.5     2       
+Matt Grimes                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     1.5     2       
 Gustavo Hamer               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.8     1       
 Ephron Mason-Clark          MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.8     1.5     
 Frank Onyeka                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     1       2       

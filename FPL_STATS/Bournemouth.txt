@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-09-12 22:53:30
+Updated: 2026-09-12 23:06:40
 Gameweek: GW4
 Players: 29
 
@@ -13,7 +13,7 @@ Fraser Forster              GK    £4.0m    0      0       0       0       0    
 Julián Araujo Zúñiga        DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bafodé Diakité              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 James Hill                  DEF   £5.5m    2      0       5       11      0        0.01     0.01     0     0     90      0.8%     2       2       
-Veljko Milosavljevic        DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Veljko Milosavljevic        DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    3      0       -2      10      0.58     0.23     0.81     0     0     90      0.4%     2.5     2.5     
 Adam Smith                  DEF   £4.5m    0      0       -1      6       0        0.01     0.01     0     0     90      0.1%     0.5     0.5     
 Julio Soler Barreto         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
