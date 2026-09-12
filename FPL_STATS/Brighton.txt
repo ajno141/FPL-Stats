@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-09-12 18:31:52
+Updated: 2026-09-12 18:44:37
 Gameweek: GW4
 Players: 36
 
@@ -27,7 +27,7 @@ Facundo Buonanotte          MID   £5.0m    0      0       0       0       0    
 Amario Cozier-Duberry       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Pascal Groß                 MID   £5.6m    0      0       0       0       0        0        0        0     0     0       16.2%    4       5.3     
 Diego Gómez Amarilla        MID   £5.0m    0      0       0       0       0        0        0        0     0     0       4.9%     3.2     4.3     
-Jack Hinshelwood            MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.9%     4       16      
+Jack Hinshelwood            MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.8%     4       16      
 Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mitoma Kaoru                MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Yankuba Minteh              MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
