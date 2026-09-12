@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-09-12 15:17:07
+Updated: 2026-09-12 15:30:11
 Gameweek: GW4
 Players: 29
 
@@ -9,29 +9,29 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Will Dennis                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Michele Di Gregorio         GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Fraser Forster              GK    £4.0m    0      0       0       0       0        0        0        0     0     0       3.4%     0       0       
-Đorđe Petrović              GK    £4.5m    1      0       0       0       0        0        0        0     0     52      3.3%     1.8     1.8     
+Đorđe Petrović              GK    £4.5m    1      0       -4      0       0        0        0        0     0     64      3.3%     1.8     1.8     
 Julián Araujo Zúñiga        DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bafodé Diakité              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-James Hill                  DEF   £5.5m    1      0       10      7       0        0.01     0.01     0     0     52      0.8%     1.8     1.8     
+James Hill                  DEF   £5.5m    0      0       5       8       0        0.01     0.01     0     0     64      0.8%     1.8     1.8     
 Veljko Milosavljevic        DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    1      0       -1      3       0.87     0.01     0.88     0     0     52      0.4%     2       2       
-Adam Smith                  DEF   £4.5m    1      0       -1      3       0        0.01     0.01     0     0     52      0.1%     0.8     0.8     
+António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    1      0       -3      7       0.87     0.08     0.95     0     0     64      0.4%     2       2       
+Adam Smith                  DEF   £4.5m    1      0       0       4       0        0.01     0.01     0     0     64      0.1%     0.8     0.8     
 Julio Soler Barreto         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Juanlu Sánchez              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Adrien Truffert             DEF   £5.5m    3      0       12      12      0        0.12     0.12     0     0     52      3.4%     2       2       
-Tyler Adams                 MID   £5.0m    1      0       11      8       0        0.02     0.02     0     0     52      0.3%     1.8     1.8     
+Adrien Truffert             DEF   £5.5m    3      0       12      12      0        0.12     0.12     0     0     64      3.4%     2       2       
+Tyler Adams                 MID   £5.0m    2      0       14      9       0        0.02     0.02     0     0     64      0.3%     2       2       
 Amine Adli                  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 David Brooks                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Ryan Christie               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Lewis Cook                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     1.8     2.3     
 Ben Gannon-Doak             MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
-Justin Kluivert             MID   £6.0m    9      3       28      4       0.21     0.01     0.22     1     0     52      1.0%     4       4       
+Justin Kluivert             MID   £6.0m    8      1       31      4       0.21     0.02     0.23     1     0     64      1.0%     3.8     3.8     
 Junior Kroupi               MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Alex Scott                  MID   £6.1m    1      0       4       9       0.18     0.04     0.22     0     0     52      5.8%     6.2     6.2     
-Rayan Vitor Simplício Rocha MID   £6.4m    1      0       3       1       0.3      0.01     0.31     0     0     52      1.9%     1.8     1.8     
-Marcus Tavernier            MID   £6.0m    0      0       11      5       0        0.45     0.45     0     0     52      3.7%     5.2     5.2     
+Alex Scott                  MID   £6.1m    2      0       12      10      0.18     0.04     0.22     0     0     64      5.8%     6.5     6.5     
+Rayan Vitor Simplício Rocha MID   £6.4m    2      0       6       2       0.3      0.01     0.31     0     0     64      1.9%     2       2       
+Marcus Tavernier            MID   £6.0m    8      2       33      5       0.11     0.45     0.56     1     0     64      3.8%     7.2     7.2     
 Alex Tóth                   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
 Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Álvaro Rodríguez            FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
-Francisco Evanilson de Lima BarbosaFWD   £6.0m    1      0       4       1       0        0.2      0.2      0     0     52      3.3%     3       3       
+Francisco Evanilson de Lima BarbosaFWD   £6.0m    5      0       18      3       0        0.21     0.21     0     1     64      3.3%     4       4       
 Enes Ünal                   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

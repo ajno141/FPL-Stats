@@ -1,26 +1,26 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-09-12 15:17:07
+Updated: 2026-09-12 15:30:11
 Gameweek: GW4
 Players: 36
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Walter Benítez              GK    £4.5m    0      0       -4      0       0        0        0        0     0     52      0.1%     0       0       
-Dean Henderson              GK    £5.0m    0      0       0       0       0        0        0        0     0     0       2.0%     1.2     1.7     
+Walter Benítez              GK    £4.5m    1      0       2       0       0        0        0        0     0     64      0.1%     0.2     1       
+Dean Henderson              GK    £5.0m    0      0       0       0       0        0        0        0     0     0       1.9%     1.2     1.7     
 Remi Matthews               GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.7%     0       0       
-Honest Ahanor               DEF   £4.5m    0      0       5       6       0        0        0        0     0     52      0.0%     0       0       
+Honest Ahanor               DEF   £4.5m    1      0       13      9       0        0        0        0     0     64      0.0%     0       0       
 Jaydee Canvot               DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0.5     0.7     
 Rio Cardines                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ben Chilwell                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     3.5     7       
 Axel Disasi                 DEF   £4.5m    -3     0       -14     6       0        0        0        0     0     33      0.1%     0.2     0.3     
-Anan Khalaili               DEF   £5.0m    6      0       8       1       0.07     0.13     0.2      1     0     52      0.3%     3       3       
+Anan Khalaili               DEF   £5.0m    7      0       11      1       0.07     0.13     0.2      1     0     64      0.3%     3       3       
 Oscar Mingueza              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
-Tyrick Mitchell             DEF   £4.5m    0      0       -1      1       0        0.05     0.05     0     0     52      6.6%     4       4       
+Tyrick Mitchell             DEF   £4.5m    1      0       2       1       0        0.06     0.06     0     0     64      6.6%     4.2     4.2     
 Chadi Riad Dnanou           DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
-Chris Richards              DEF   £5.0m    0      0       2       6       0        0.06     0.06     0     0     52      0.7%     1       1       
+Chris Richards              DEF   £5.0m    1      0       5       8       0        0.06     0.06     0     0     64      0.7%     1.2     1.2     
 Borna Sosa                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Takehiro Tomiyasu           DEF   £4.5m    1      0       0       3       0        0        0        0     0     15      0.3%     0.8     1       
+Takehiro Tomiyasu           DEF   £4.5m    1      0       0       3       0        0        0        0     0     27      0.3%     0.8     1       
 Justin Devenny              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cheick Doucouré             MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Joél Drakes-Thomas          MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -29,16 +29,16 @@ Matheus França de Oliveira  MID   £4.9m    0      0       0       0       0   
 Zavier Gozo                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
 Evann Guessand              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Will Hughes                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       8.4%     0.2     1       
-Daichi Kamada               MID   £5.0m    5      1       13      0       0        0.02     0.02     0     1     52      0.4%     3.8     3.8     
+Daichi Kamada               MID   £5.0m    6      1       16      0       0        0.02     0.02     0     1     64      0.4%     4       4       
 Jefferson Lerma Solís       MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Dwight McNeil               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.8     1.5     
 Darío Osorio                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Yéremy Pino Santos          MID   £5.5m    1      0       4       1       0        0.01     0.01     0     0     36      0.5%     3       3       
 Jesurun Rak-Sakyi           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ismaïla Sarr                MID   £6.3m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
-Quinten Timber              MID   £5.0m    1      0       11      8       0        0.02     0.02     0     0     52      0.0%     1.5     1.5     
-Adam Wharton                MID   £5.5m    1      0       6       4       0.08     0.02     0.1      0     0     52      0.9%     2.2     2.2     
+Quinten Timber              MID   £5.0m    3      1       16      11      0        0.03     0.03     0     0     64      0.0%     1.5     1.5     
+Adam Wharton                MID   £5.5m    2      0       9       4       0.08     0.03     0.11     0     0     64      0.9%     2.5     2.5     
 Jean-Philippe Mateta        FWD   £6.4m    0      0       0       0       0        0        0        0     0     0       1.7%     0.5     2       
 Eddie Nketiah               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.7%     1.8     2.3     
-Jørgen Strand Larsen        FWD   £6.0m    1      0       6       1       0.05     0.01     0.06     0     0     52      0.6%     1.2     1.2     
+Jørgen Strand Larsen        FWD   £6.0m    2      0       10      1       0.05     0.01     0.06     0     0     64      0.6%     1.5     1.5     
 Christantus Uche            FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
