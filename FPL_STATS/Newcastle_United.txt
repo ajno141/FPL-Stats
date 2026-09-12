@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-09-12 16:22:11
+Updated: 2026-09-12 16:35:03
 Gameweek: GW4
 Players: 33
 
@@ -27,7 +27,7 @@ Rayan Cherki                MID   £7.8m    0      0       0       0       0    
 Jérémy Doku                 MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Claudio Echeverri           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Enzo Fernández              MID   £6.9m    0      0       0       0       0        0        0        0     0     0       3.2%     1       2       
-Phil Foden                  MID   £7.0m    0      0       0       0       0        0        0        0     0     0       4.0%     2.8     3.7     
+Phil Foden                  MID   £7.0m    0      0       0       0       0        0        0        0     0     0       3.9%     2.8     3.7     
 Rodrigo 'Rodri' Hernandez CascanteMID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mateo Kovačić               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Ryan McAidoo                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.7     1       
