@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-09-12 13:33:37
+Updated: 2026-09-12 13:44:19
 Gameweek: GW4
 Players: 29
 
@@ -8,8 +8,8 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Will Dennis                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Michele Di Gregorio         GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Fraser Forster              GK    £4.0m    0      0       0       0       0        0        0        0     0     0       3.6%     0       0       
-Đorđe Petrović              GK    £4.5m    0      0       0       0       0        0        0        0     0     0       3.2%     1.5     2       
+Fraser Forster              GK    £4.0m    0      0       0       0       0        0        0        0     0     0       3.4%     0       0       
+Đorđe Petrović              GK    £4.5m    0      0       0       0       0        0        0        0     0     0       3.3%     1.5     2       
 Julián Araujo Zúñiga        DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bafodé Diakité              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 James Hill                  DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       0.8%     1.5     2       
@@ -27,9 +27,9 @@ Lewis Cook                  MID   £5.0m    0      0       0       0       0    
 Ben Gannon-Doak             MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Justin Kluivert             MID   £6.0m    0      0       0       0       0        0        0        0     0     0       1.0%     1.8     2.3     
 Junior Kroupi               MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Alex Scott                  MID   £6.1m    0      0       0       0       0        0        0        0     0     0       6.1%     6       8       
+Alex Scott                  MID   £6.1m    0      0       0       0       0        0        0        0     0     0       5.8%     6       8       
 Rayan Vitor Simplício Rocha MID   £6.4m    0      0       0       0       0        0        0        0     0     0       1.9%     1.5     2       
-Marcus Tavernier            MID   £6.0m    0      0       0       0       0        0        0        0     0     0       3.9%     5.2     7       
+Marcus Tavernier            MID   £6.0m    0      0       0       0       0        0        0        0     0     0       3.7%     5.2     7       
 Alex Tóth                   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
 Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Álvaro Rodríguez            FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       

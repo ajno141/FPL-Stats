@@ -1,41 +1,41 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-09-12 13:33:37
+Updated: 2026-09-12 13:44:19
 Gameweek: GW4
 Players: 33
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Marcus Bettinelli           GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Gianluigi Donnarumma        GK    £5.5m    0      0       0       0       0        0        0        0     0     0       7.5%     2.5     3.3     
+Gianluigi Donnarumma        GK    £5.5m    0      0       0       0       0        0        0        0     0     0       7.6%     2.5     3.3     
 Gerónimo Rulli              GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Max Alleyne                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Rayan Aït-Nouri             DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
 Kaden Braithwaite           DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
-Marc Guéhi                  DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       18.3%    5       6.7     
-Joško Gvardiol              DEF   £5.6m    0      0       0       0       0        0        0        0     0     0       19.9%    5.5     7.3     
+Marc Guéhi                  DEF   £6.0m    0      0       0       0       0        0        0        0     0     0       18.5%    5       6.7     
+Joško Gvardiol              DEF   £5.6m    0      0       0       0       0        0        0        0     0     0       20.3%    5.5     7.3     
 Abdukodir Khusanov          DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       1.6%     2.2     3       
 Rico Lewis                  DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
 Matheus Nunes               DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       0.9%     0.2     1       
-Nico O'Reilly               DEF   £6.4m    0      0       0       0       0        0        0        0     0     0       12.9%    1       2       
+Nico O'Reilly               DEF   £6.4m    0      0       0       0       0        0        0        0     0     0       13.3%    1       2       
 Vitor de Oliveira Nunes dos ReisDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
 Rúben dos Santos Gato Alves DiasDEF   £5.5m    0      0       0       0       0        0        0        0     0     0       1.8%     2.5     3.3     
-Elliot Anderson             MID   £6.3m    0      0       0       0       0        0        0        0     0     0       4.2%     2       2.7     
+Elliot Anderson             MID   £6.3m    0      0       0       0       0        0        0        0     0     0       4.3%     2       2.7     
 Allan Andrade Elias         MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ayyoub Bouaddi              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.7     1       
-Rayan Cherki                MID   £7.8m    0      0       0       0       0        0        0        0     0     0       28.7%    6.2     8.3     
+Rayan Cherki                MID   £7.8m    0      0       0       0       0        0        0        0     0     0       29.3%    6.2     8.3     
 Jérémy Doku                 MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Claudio Echeverri           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Enzo Fernández              MID   £6.9m    0      0       0       0       0        0        0        0     0     0       3.2%     1       2       
-Phil Foden                  MID   £7.0m    0      0       0       0       0        0        0        0     0     0       3.7%     2.8     3.7     
+Phil Foden                  MID   £7.0m    0      0       0       0       0        0        0        0     0     0       4.0%     2.8     3.7     
 Rodrigo 'Rodri' Hernandez CascanteMID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mateo Kovačić               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Ryan McAidoo                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.7     1       
 Jeremy Monga                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Divine Mukasa               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Iliman Ndiaye               MID   £5.9m    0      0       0       0       0        0        0        0     0     0       8.4%     4       5.3     
+Iliman Ndiaye               MID   £5.9m    0      0       0       0       0        0        0        0     0     0       8.8%     4       5.3     
 Kalvin Phillips             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Floyd Samba                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Antoine Semenyo             MID   £8.4m    0      0       0       0       0        0        0        0     0     0       15.8%    3.2     4.3     
-Erling Haaland              FWD   £15.5m   0      0       0       0       0        0        0        0     0     0       71.1%    6       8       
+Antoine Semenyo             MID   £8.4m    0      0       0       0       0        0        0        0     0     0       16.2%    3.2     4.3     
+Erling Haaland              FWD   £15.5m   0      0       0       0       0        0        0        0     0     0       71.6%    6       8       

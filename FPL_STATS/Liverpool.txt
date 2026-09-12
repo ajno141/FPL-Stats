@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-09-12 13:33:37
+Updated: 2026-09-12 13:44:19
 Gameweek: GW4
 Players: 36
 
@@ -12,7 +12,7 @@ Kjell Scherpen              GK    £4.5m    0      0       0       0       0    
 Christian Walton            GK    £4.4m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Kayne van Oevelen           GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Leif Davis                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       5.1%     2.2     3       
-Issa Diop                   DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       14.2%    1.8     2.3     
+Issa Diop                   DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       14.3%    1.8     2.3     
 Darnell Furlong             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.5%     0.2     1       
 Jacob Greaves               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.2%     0.5     0.7     
 Ben Johnson                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
