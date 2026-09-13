@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-09-13 20:44:24
+Updated: 2026-09-13 20:54:34
 Gameweek: GW4
 Players: 33
 
@@ -33,7 +33,7 @@ Mateo Kovačić               MID   £5.4m    0      0       0       0       0  
 Ryan McAidoo                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.7     1       
 Jeremy Monga                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Divine Mukasa               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Iliman Ndiaye               MID   £5.9m    1      0       15      10      0        0.01     0.01     0     0     45      8.4%     4.2     4.2     
+Iliman Ndiaye               MID   £5.9m    1      0       15      10      0        0.01     0.01     0     0     45      8.3%     4.2     4.2     
 Kalvin Phillips             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Floyd Samba                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
