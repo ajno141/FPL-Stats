@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-09-13 21:23:22
+Updated: 2026-09-13 21:36:12
 Gameweek: GW4
 Players: 37
 
@@ -10,7 +10,7 @@ Jason Steele                GK    £4.0m    0      0       0       0       0    
 Bart Verbruggen             GK    £4.5m    8      0       39      0       0        0        0        0     0     90      22.1%    4.2     4.2     
 Olivier Boscagli            DEF   £4.5m    6      0       25      9       0.01     0.03     0.04     0     0     77      0.3%     3.2     3.2     
 Diego Coppola               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Maxim De Cuyper             DEF   £4.8m    11     2       41      1       0.03     0.04     0.07     0     1     90      22.6%    8       8       
+Maxim De Cuyper             DEF   £4.8m    11     2       41      1       0.03     0.04     0.07     0     1     90      22.7%    8       8       
 Lewis Dunk                  DEF   £4.5m    12     0       39      6       0.03     0.03     0.06     1     0     90      1.4%     5.5     5.5     
 Jaouen Hadjam               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ferdi Kadıoğlu              DEF   £4.4m    6      0       24      2       0        0.09     0.09     0     0     90      1.7%     2       2.7     
@@ -26,7 +26,7 @@ Femi Azeez                  MID   £5.5m    0      0       0       0       0    
 Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amario Cozier-Duberry       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Pascal Groß                 MID   £5.6m    17     3       56      6       0.82     0.19     1.01     1     2     90      16.9%    8.2     8.2     
-Diego Gómez Amarilla        MID   £5.0m    3      0       6       3       0.14     0.06     0.2      0     0     83      4.8%     4       4       
+Diego Gómez Amarilla        MID   £5.0m    3      0       6       3       0.14     0.06     0.2      0     0     83      4.7%     4       4       
 Jack Hinshelwood            MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.8%     4       16      
 Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Younes Ibrahim              MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
