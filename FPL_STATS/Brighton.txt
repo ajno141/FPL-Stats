@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-09-13 00:10:14
+Updated: 2026-09-13 00:34:05
 Gameweek: GW4
 Players: 36
 
@@ -18,7 +18,7 @@ João Pedro Loureiro da CostaDEF   £4.5m    0      0       0       0       0   
 Pascal Struijk              DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
 Michael Svoboda             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Luka Vušković               DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       3.2%     4.5     6       
-Mats Wieffer                DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.3%     1.8     3.5     
+Mats Wieffer                DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     1.8     3.5     
 Igor Julio dos Santos de PauloDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 José María Andrés Baixauli  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Yasin Ayari                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.4%     1       2       
