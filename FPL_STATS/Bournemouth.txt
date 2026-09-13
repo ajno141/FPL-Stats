@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-09-13 22:55:02
+Updated: 2026-09-13 23:09:37
 Gameweek: GW4
 Players: 29
 
@@ -17,7 +17,7 @@ Veljko Milosavljevic        DEF   £4.9m    0      0       0       0       0    
 António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    3      0       -2      10      0.58     0.23     0.81     0     0     90      0.4%     2.5     2.5     
 Adam Smith                  DEF   £4.5m    0      0       -1      6       0        0.01     0.01     0     0     90      0.1%     0.5     0.5     
 Julio Soler Barreto         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Juanlu Sánchez              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
+Juanlu Sánchez              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Adrien Truffert             DEF   £5.5m    3      0       23      16      0.08     0.1      0.18     0     0     90      3.3%     2       2       
 Tyler Adams                 MID   £5.0m    2      0       16      10      0.03     0.02     0.05     0     0     81      0.3%     2       2       
 Amine Adli                  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -29,7 +29,7 @@ Justin Kluivert             MID   £6.0m    8      1       31      4       0.21 
 Junior Kroupi               MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Alex Scott                  MID   £6.1m    4      0       19      15      0.19     0.05     0.24     0     0     90      5.9%     7       7       
 Rayan Vitor Simplício Rocha MID   £6.4m    2      0       7       3       0.39     0.02     0.41     0     0     81      1.8%     2       2       
-Marcus Tavernier            MID   £6.0m    8      2       44      8       0.2      0.47     0.67     1     0     82      4.6%     7.2     7.2     
+Marcus Tavernier            MID   £6.1m    8      2       44      8       0.2      0.47     0.67     1     0     82      4.6%     7.2     7.2     
 Alex Tóth                   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
 Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Álvaro Rodríguez            FWD   £6.0m    1      0       3       0       0        0        0        0     0     1       0.1%     0.5     1       
