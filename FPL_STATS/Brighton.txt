@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-09-13 15:37:05
+Updated: 2026-09-13 15:48:23
 Gameweek: GW4
 Players: 36
 
@@ -21,7 +21,7 @@ Luka Vušković               DEF   £5.0m    6      0       26      9       0.1
 Mats Wieffer                DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     1.8     3.5     
 Igor Julio dos Santos de PauloDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 José María Andrés Baixauli  MID   £5.5m    4      0       12      4       0.2      0.01     0.21     0     1     25      0.0%     2       4       
-Yasin Ayari                 MID   £5.4m    8      0       37      8       0.32     0.03     0.35     1     0     90      0.4%     3       4       
+Yasin Ayari                 MID   £5.4m    8      0       37      7       0.32     0.03     0.35     1     0     90      0.4%     3       4       
 Femi Azeez                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amario Cozier-Duberry       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
