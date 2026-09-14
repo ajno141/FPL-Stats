@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-14 22:56:33
+Updated: 2026-09-14 23:12:13
 Gameweek: GW4
 Players: 36
 
@@ -32,7 +32,7 @@ Ryan Gravenberch            MID   £5.9m    1      0       13      10      0.04 
 Curtis Jones                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lewis Koumas                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Alexis Mac Allister         MID   £5.4m    1      0       7       4       0.02     0.02     0.04     0     0     30      1.3%     1.5     1.5     
-James McConnell             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
+James McConnell             MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Victor Munoz                MID   £6.5m    1      0       5       2       0.1      0        0.1      0     0     59      1.1%     3.5     3.5     
 Rio Ngumoha                 MID   £5.8m    1      0       -1      1       0.11     0        0.11     0     0     18      0.5%     1       1.3     
 Trey Nyoni                  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
