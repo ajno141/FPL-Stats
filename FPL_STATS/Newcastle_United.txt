@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-09-14 22:12:19
+Updated: 2026-09-14 22:29:17
 Gameweek: GW4
 Players: 33
 
@@ -23,7 +23,7 @@ Rúben dos Santos Gato Alves DiasDEF   £5.5m    6      0       24      7       
 Elliot Anderson             MID   £6.3m    5      0       18      14      0        0.01     0.01     0     0     90      4.2%     3.2     3.2     
 Allan Andrade Elias         MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ayyoub Bouaddi              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.7     1       
-Rayan Cherki                MID   £7.8m    1      0       4       1       0.03     0.06     0.09     0     0     45      28.7%    6.5     6.5     
+Rayan Cherki                MID   £7.8m    1      0       4       1       0.03     0.06     0.09     0     0     45      28.6%    6.5     6.5     
 Jérémy Doku                 MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Claudio Echeverri           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Enzo Fernández              MID   £6.9m    2      0       17      10      0.18     0.13     0.31     0     0     81      3.3%     1.5     2       
@@ -38,4 +38,4 @@ Kalvin Phillips             MID   £5.0m    0      0       0       0       0    
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Floyd Samba                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Antoine Semenyo             MID   £8.4m    3      0       7       3       0        0.06     0.06     0     0     90      15.6%    4       4       
-Erling Haaland              FWD   £15.5m   9      3       36      3       0.87     0.01     0.88     1     0     90      72.1%    8.2     8.2     
+Erling Haaland              FWD   £15.5m   9      3       36      3       0.87     0.01     0.88     1     0     90      72.2%    8.2     8.2     
