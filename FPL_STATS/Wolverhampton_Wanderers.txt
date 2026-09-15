@@ -1,6 +1,6 @@
 WOLVERHAMPTON WANDERERS
 =================================================================================================================================================
-Updated: 2026-09-15 04:23:38
+Updated: 2026-09-15 04:41:13
 Gameweek: GW4
 Players: 30
 
@@ -19,7 +19,7 @@ Arthur Masuaku              DEF   £4.0m    0      0       0       0       0    
 Thomas Meunier              DEF   £4.5m    2      0       5       2       0.13     0        0.13     0     0     75      0.3%     2.8     2.8     
 Nordi Mukiele               DEF   £5.4m    0      0       -5      6       0.7      0.02     0.72     0     0     90      2.1%     3.2     4.3     
 Dayann Méthalie             DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Luke O'Nien                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       2.6%     0.2     1       
+Luke O'Nien                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       2.5%     0.2     1       
 Jenson Seelt                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Simon Adingra               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jules Ahoka                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
