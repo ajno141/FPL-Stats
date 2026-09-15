@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-09-15 22:51:13
+Updated: 2026-09-15 23:02:21
 Gameweek: GW4
 Players: 30
 
@@ -16,7 +16,7 @@ Amar Dedic                  DEF   £4.5m    0      0       -3      6       0    
 Lewis Hall                  DEF   £5.2m    0      0       9       6       0.02     0.01     0.03     0     0     90      14.4%    4.5     4.5     
 Tino Livramento             DEF   £4.9m    3      0       9       3       0        0.01     0.01     0     1     32      0.1%     1       2       
 Alex Murphy                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Fabian Schär                DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
+Fabian Schär                DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
 Leo Shahar                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Malick Thiaw                DEF   £5.0m    2      0       -6      11      0        0        0        0     0     90      2.2%     2.5     2.5     
 Joelinton Cássio Apolinário de LiraMID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

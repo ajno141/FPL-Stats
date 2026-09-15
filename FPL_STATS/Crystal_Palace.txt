@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-09-15 22:51:13
+Updated: 2026-09-15 23:02:21
 Gameweek: GW4
 Players: 36
 
@@ -20,7 +20,7 @@ Tyrick Mitchell             DEF   £4.5m    1      0       6       1       0    
 Chadi Riad Dnanou           DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
 Chris Richards              DEF   £5.0m    2      0       2       13      0        0.06     0.06     0     0     90      0.6%     1.5     1.5     
 Borna Sosa                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Takehiro Tomiyasu           DEF   £4.5m    0      0       6       5       0        0.01     0.01     0     0     53      0.3%     0.5     0.7     
+Takehiro Tomiyasu           DEF   £4.4m    0      0       6       5       0        0.01     0.01     0     0     53      0.3%     0.5     0.7     
 Justin Devenny              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cheick Doucouré             MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Joél Drakes-Thomas          MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
