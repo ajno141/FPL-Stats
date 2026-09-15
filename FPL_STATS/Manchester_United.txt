@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-15 08:11:36
+Updated: 2026-09-15 08:31:58
 Gameweek: GW4
 Players: 36
 
@@ -22,7 +22,7 @@ Giovanni Leoni              DEF   £4.0m    0      0       0       0       0    
 Wellity Lucky               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Calvin Ramsay               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Kostas Tsimikas             DEF   £4.9m    1      0       2       3       0        0.01     0.01     0     0     45      0.1%     0.5     1       
-Virgil van Dijk             DEF   £6.5m    8      0       25      10      0        0.01     0.01     0     0     90      16.8%    4.2     4.2     
+Virgil van Dijk             DEF   £6.5m    8      0       25      10      0        0.01     0.01     0     0     90      16.7%    4.2     4.2     
 Stefan Bajčetić Maquieira   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bradley Barcola             MID   £8.0m    3      0       9       5       0.21     0.03     0.24     0     0     71      2.0%     2       2       
 Federico Chiesa             MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
