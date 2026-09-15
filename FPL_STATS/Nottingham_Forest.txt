@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-09-15 20:52:52
+Updated: 2026-09-15 21:06:03
 Gameweek: GW4
 Players: 34
 
@@ -28,7 +28,7 @@ Patrick Dorgu               MID   £5.8m    4      0       19      12      0    
 Jack Fletcher               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tyler Fletcher              MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Shea Lacey                  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
-Kobbie Mainoo               MID   £5.5m    4      0       20      13      0.03     0.07     0.1      0     0     90      1.5%     4.5     4.5     
+Kobbie Mainoo               MID   £5.5m    4      0       20      13      0.03     0.07     0.1      0     0     90      1.6%     4.5     4.5     
 Bendito Mantato             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Bryan Mbeumo                MID   £7.9m    2      0       9       5       0.49     0.08     0.57     0     0     90      22.8%    5.8     5.8     
 Mason Mount                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
