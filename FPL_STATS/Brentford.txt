@@ -1,6 +1,6 @@
 BRENTFORD
 =================================================================================================================================================
-Updated: 2026-09-16 04:58:44
+Updated: 2026-09-16 05:16:40
 Gameweek: GW4
 Players: 27
 
@@ -21,7 +21,7 @@ Jaidon Anthony              MID   £5.9m    1      0       12      11      0    
 Mikkel Damsgaard            MID   £5.5m    1      0       3       4       0.1      0        0.1      0     0     30      0.4%     3.2     3.2     
 Josh Dasilva                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Fábio Freitas Gouveia CarvalhoMID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Vitaly Janelt               MID   £5.0m    4      0       20      20      0        0.08     0.08     0     0     90      2.4%     6.2     6.2     
+Vitaly Janelt               MID   £5.0m    4      0       20      20      0        0.08     0.08     0     0     90      2.5%     6.2     6.2     
 Mathias Jensen              MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     1.5     6       
 Keane Lewis-Potter          MID   £5.5m    1      0       0       2       0.03     0.13     0.16     0     0     59      1.9%     4.8     4.8     
 Antoni Milambo              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
