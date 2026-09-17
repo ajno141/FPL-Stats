@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-17 09:18:33
+Updated: 2026-09-17 09:34:32
 Gameweek: GW4
 Players: 36
 
@@ -24,7 +24,7 @@ Calvin Ramsay               DEF   £4.0m    0      0       0       0       0    
 Kostas Tsimikas             DEF   £4.9m    1      0       2       3       0        0.01     0.01     0     0     45      0.1%     0.5     1       
 Virgil van Dijk             DEF   £6.5m    8      0       25      10      0        0.01     0.01     0     0     90      16.6%    4.2     4.2     
 Stefan Bajčetić Maquieira   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Bradley Barcola             MID   £8.0m    3      0       9       5       0.21     0.03     0.24     0     0     71      2.0%     2       2       
+Bradley Barcola             MID   £8.0m    3      0       9       5       0.21     0.03     0.24     0     0     71      1.9%     2       2       
 Federico Chiesa             MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Harvey Elliott              MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cody Gakpo                  MID   £7.2m    1      0       3       2       0.08     0.02     0.1      0     0     30      12.4%    7.2     7.2     
