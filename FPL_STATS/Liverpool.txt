@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-09-18 18:15:35
+Updated: 2026-09-18 18:33:01
 Gameweek: GW5
 Players: 36
 
@@ -8,37 +8,37 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 -------------------------------------------------------------------------------------------------------------------------------------------------
 David Button                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Alex Palmer                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       4.0%     0       0       
-Kjell Scherpen              GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.6%     1.8     1.8     
+Kjell Scherpen              GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.6%     1.4     1.8     
 Christian Walton            GK    £4.4m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Kayne van Oevelen           GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Leif Davis                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       6.9%     5.8     5.8     
-Issa Diop                   DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       13.1%    2       2       
+Leif Davis                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       7.0%     4.6     5.8     
+Issa Diop                   DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       13.1%    1.6     2       
 Darnell Furlong             DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.7%     0.2     1       
-Jacob Greaves               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.1%     0.8     0.8     
+Jacob Greaves               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.1%     0.6     0.8     
 Ben Johnson                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Cédric Kipré                DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       1.2%     0       0       
-Dara O'Shea                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       2.8%     2       2       
-Abdoul Ouattara             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.9%     1       1       
+Dara O'Shea                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       2.8%     1.6     2       
+Abdoul Ouattara             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.9%     0.8     1       
 Wes Burns                   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jack Clarke                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.2%     2.2     3       
-Julio Enciso                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.8%     3.2     3.2     
-Abdul Fatawu                MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.2%     2.2     2.2     
+Jack Clarke                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.2%     1.8     3       
+Julio Enciso                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.8%     2.6     3.2     
+Abdul Fatawu                MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.2%     1.8     2.2     
 Cameron Humphreys           MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Saša Lukić                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     2.2     2.2     
-Daizen Maeda                MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.2%     1.8     1.8     
+Saša Lukić                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     1.8     2.2     
+Daizen Maeda                MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.2%     1.4     1.8     
 Azor Matusiwa               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Kasey McAteer               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.1%     0.8     1       
+Kasey McAteer               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.1%     0.6     1       
 Anis Mehmeti                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Florentino Ibrain Morris LuísMID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
-Marcelino Núñez             MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     1.5     3       
+Marcelino Núñez             MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     1.2     3       
 Chiedozie Ogbene            MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Exequiel Palacios           MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     3       3       
+Exequiel Palacios           MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     2.2     3       
 Jaden Philogene             MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
 Sam Szmodics                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jack Taylor                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Chuba Akpom                 FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       1.2%     1.5     3       
+Chuba Akpom                 FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       1.2%     1.2     3       
 Ali Al-Hamadi               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Emersonn Correia da Silva   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       3.3%     6       6       
-Zian Flemming               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     3       3       
+Emersonn Correia da Silva   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       3.3%     4.8     6       
+Zian Flemming               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     2       3       
 George Hirst                FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Sindre Walle Egeli          FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       3.7%     0.2     1       
