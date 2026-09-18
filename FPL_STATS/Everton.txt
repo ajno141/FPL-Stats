@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-09-18 05:17:16
+Updated: 2026-09-18 05:31:16
 Gameweek: GW4
 Players: 25
 
@@ -19,7 +19,7 @@ Nathan Patterson            DEF   £4.5m    0      0       0       0       0    
 James Tarkowski             DEF   £6.1m    8      2       32      8       0        0.01     0.01     0     0     90      14.0%    7.2     7.2     
 Carlos Alcaraz Durán        MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     0.5     
 Harrison Armstrong          MID   £5.0m    3      0       6       5       0        0.02     0.02     0     0     90      0.4%     3.5     3.5     
-Kiernan Dewsbury-Hall       MID   £6.5m    2      0       16      6       0.17     0.09     0.26     0     0     90      5.7%     4.2     4.2     
+Kiernan Dewsbury-Hall       MID   £6.5m    2      0       16      6       0.17     0.09     0.26     0     0     90      5.8%     4.2     4.2     
 Tyler Dibling               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 James Garner                MID   £6.0m    4      0       23      17      0.04     0.02     0.06     0     0     90      0.2%     2       2       
 Tyrique George              MID   £5.5m    3      0       13      3       0.05     0.15     0.2      0     0     64      0.9%     4.5     4.5     
