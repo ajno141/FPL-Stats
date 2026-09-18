@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-09-18 07:47:44
+Updated: 2026-09-18 07:58:17
 Gameweek: GW4
 Players: 29
 
@@ -18,7 +18,7 @@ António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    3      0  
 Adam Smith                  DEF   £4.5m    0      0       -1      6       0        0.01     0.01     0     0     90      0.1%     0.5     0.5     
 Julio Soler Barreto         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Juanlu Sánchez              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Adrien Truffert             DEF   £5.5m    3      0       23      16      0.08     0.1      0.18     0     0     90      3.2%     2       2       
+Adrien Truffert             DEF   £5.5m    3      0       23      16      0.08     0.1      0.18     0     0     90      3.1%     2       2       
 Tyler Adams                 MID   £5.0m    2      0       16      10      0.03     0.02     0.05     0     0     81      0.3%     2       2       
 Amine Adli                  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 David Brooks                MID   £5.0m    0      0       -1      3       0        0        0        0     0     7       0.1%     0.5     0.7     
@@ -33,5 +33,5 @@ Marcus Tavernier            MID   £6.1m    8      2       44      8       0.2  
 Alex Tóth                   MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
 Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Álvaro Rodríguez            FWD   £6.0m    1      0       3       0       0        0        0        0     0     1       0.1%     0.5     1       
-Francisco Evanilson de Lima BarbosaFWD   £6.0m    5      0       22      4       0        0.25     0.25     0     1     90      3.3%     4       4       
+Francisco Evanilson de Lima BarbosaFWD   £6.0m    5      0       22      4       0        0.25     0.25     0     1     90      3.2%     4       4       
 Enes Ünal                   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
