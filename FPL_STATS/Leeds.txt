@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-09-18 18:33:01
+Updated: 2026-09-18 18:46:02
 Gameweek: GW5
 Players: 43
 
@@ -15,17 +15,17 @@ Semi Ajayi                  DEF   £4.2m    0      0       0       0       0    
 Lewie Coyle                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     2.6     3.2     
 Cody Drameh                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.4     1       
 John Egan                   DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       7.1%     5       6.2     
-Ryan Giles                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       3.0%     4.8     6       
+Ryan Giles                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       2.8%     4.8     6       
 Lucas Herrington            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.6%     0.8     1       
-Charlie Hughes              DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
+Charlie Hughes              DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Matty Jacob                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cathal McCarthy             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Paddy McNair                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
-Nobel Mendy                 DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       6.4%     5       6.2     
+Nobel Mendy                 DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       6.6%     5       6.2     
 Brooke Norton-Cuffy         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0.3     0.5     
 Matt Targett                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.7%     0.2     1       
 David Akintola              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Mohamed Belloumi            MID   £5.1m    0      0       0       0       0        0        0        0     0     0       4.6%     5.4     6.8     
+Mohamed Belloumi            MID   £5.1m    0      0       0       0       0        0        0        0     0     0       4.3%     5.4     6.8     
 Mohamed-Ali Cho             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.8     1       
 Matt Crooks                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0.6     1.5     
 Kieran Dowell               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
