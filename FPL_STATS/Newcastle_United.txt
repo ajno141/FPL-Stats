@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-09-18 21:08:31
+Updated: 2026-09-18 21:23:38
 Gameweek: GW5
 Players: 33
 
@@ -27,7 +27,7 @@ Rayan Cherki                MID   £7.8m    0      0       0       0       0    
 Jérémy Doku                 MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Claudio Echeverri           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Enzo Fernández              MID   £6.9m    0      0       0       0       0        0        0        0     0     0       3.5%     1.2     2       
-Phil Foden                  MID   £6.9m    0      0       0       0       0        0        0        0     0     0       2.1%     1.8     2.2     
+Phil Foden                  MID   £6.9m    0      0       0       0       0        0        0        0     0     0       2.0%     1.8     2.2     
 Rodrigo 'Rodri' Hernandez CascanteMID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mateo Kovačić               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.4     1       
 Ryan McAidoo                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
@@ -37,5 +37,5 @@ Iliman Ndiaye               MID   £5.9m    0      0       0       0       0    
 Kalvin Phillips             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Floyd Samba                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Antoine Semenyo             MID   £8.4m    0      0       0       0       0        0        0        0     0     0       14.8%    3.2     4       
+Antoine Semenyo             MID   £8.4m    0      0       0       0       0        0        0        0     0     0       14.7%    3.2     4       
 Erling Haaland              FWD   £15.6m   0      0       0       0       0        0        0        0     0     0       73.3%    6.6     8.2     
