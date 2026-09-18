@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-09-18 11:24:41
+Updated: 2026-09-18 11:38:55
 Gameweek: GW4
 Players: 36
 
@@ -11,12 +11,12 @@ Alex Palmer                 GK    £4.0m    0      0       0       0       0    
 Kjell Scherpen              GK    £4.5m    1      0       6       0       0        0        0        0     0     90      0.6%     1.8     1.8     
 Christian Walton            GK    £4.4m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Kayne van Oevelen           GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Leif Davis                  DEF   £4.0m    14     1       35      2       0.52     0.19     0.71     1     2     90      6.6%     5.8     5.8     
+Leif Davis                  DEF   £4.0m    14     1       35      2       0.52     0.19     0.71     1     2     90      6.7%     5.8     5.8     
 Issa Diop                   DEF   £4.0m    1      0       8       7       0        0.13     0.13     0     0     90      13.4%    2       2       
 Darnell Furlong             DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.6%     0.2     1       
 Jacob Greaves               DEF   £4.0m    1      0       7       6       0        0.01     0.01     0     0     87      1.1%     0.8     0.8     
 Ben Johnson                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Cédric Kipré                DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
+Cédric Kipré                DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
 Dara O'Shea                 DEF   £4.0m    1      0       5       9       0        0.08     0.08     0     0     90      2.8%     2       2       
 Abdoul Ouattara             DEF   £4.0m    1      0       5       1       0        0        0        0     0     2       0.9%     1       1       
 Wes Burns                   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
