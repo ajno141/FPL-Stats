@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-09-18 22:52:44
+Updated: 2026-09-18 23:05:28
 Gameweek: GW5
 Players: 43
 
@@ -27,7 +27,7 @@ Matt Targett                DEF   £4.0m    0      0       0       0       0    
 David Akintola              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mohamed Belloumi            MID   £5.1m    0      0       0       0       0        0        0        0     0     0       4.4%     5.4     6.8     
 Mohamed-Ali Cho             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.8     1       
-Matt Crooks                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0.6     1.5     
+Matt Crooks                 MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.5%     0.6     1.5     
 Kieran Dowell               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Joe Gelhardt                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lucas Gourna-Douath         MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.6     1.5     

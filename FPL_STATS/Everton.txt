@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-09-18 22:52:44
+Updated: 2026-09-18 23:05:28
 Gameweek: GW5
 Players: 25
 
@@ -13,13 +13,13 @@ Adam Aznou                  DEF   £4.0m    0      0       0       0       0    
 Jarrad Branthwaite          DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       2.3%     3.8     4.8     
 Michael Keane               DEF   £4.8m    0      0       0       0       0        0        0        0     0     0       0.8%     0       0       
 Ainsley Maitland-Niles      DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       1.0%     4.3     6.5     
-Vitalii Mykolenko           DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       4.2%     4.4     5.5     
+Vitalii Mykolenko           DEF   £4.6m    0      0       0       0       0        0        0        0     0     0       4.2%     4.4     5.5     
 Jake O'Brien                DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.3%     0.2     1       
 Nathan Patterson            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 James Tarkowski             DEF   £6.1m    0      0       0       0       0        0        0        0     0     0       14.1%    5.8     7.2     
 Carlos Alcaraz Durán        MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     0.5     
 Harrison Armstrong          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.4%     2.8     3.5     
-Kiernan Dewsbury-Hall       MID   £6.5m    0      0       0       0       0        0        0        0     0     0       6.2%     3.4     4.2     
+Kiernan Dewsbury-Hall       MID   £6.6m    0      0       0       0       0        0        0        0     0     0       6.2%     3.4     4.2     
 Tyler Dibling               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 James Garner                MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.2%     1.6     2       
 Tyrique George              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       1.0%     3.6     4.5     
