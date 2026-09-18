@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-09-18 22:14:59
+Updated: 2026-09-18 22:29:04
 Gameweek: GW5
 Players: 30
 
@@ -12,7 +12,7 @@ Ewen Jaouen                 GK    £4.5m    0      0       0       0       0    
 Nick Pope                   GK    £4.9m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
 Sven Botman                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.7%     2.2     2.8     
 Dan Burn                    DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.8%     0       0       
-Amar Dedic                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       2.2%     2.6     3.2     
+Amar Dedic                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       2.1%     2.6     3.2     
 Lewis Hall                  DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       14.9%    3.6     4.5     
 Tino Livramento             DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.8     2       
 Alex Murphy                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -21,7 +21,7 @@ Leo Shahar                  DEF   £4.0m    0      0       0       0       0    
 Malick Thiaw                DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       2.2%     2       2.5     
 Joelinton Cássio Apolinário de LiraMID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Aladji Bamba                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.4     1       
-Harvey Barnes               MID   £6.0m    0      0       0       0       0        0        0        0     0     0       4.4%     3.8     4.8     
+Harvey Barnes               MID   £6.0m    0      0       0       0       0        0        0        0     0     0       4.5%     3.8     4.8     
 Anthony Elanga              MID   £6.2m    0      0       0       0       0        0        0        0     0     0       6.0%     3.6     6       
 Nico González Iglesias      MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     1       1.7     
 Lewis Miley                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     1.6     2       
