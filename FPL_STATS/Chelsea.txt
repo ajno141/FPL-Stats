@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-09-18 22:29:04
+Updated: 2026-09-18 22:41:55
 Gameweek: GW5
 Players: 37
 
@@ -19,7 +19,7 @@ Liam Kitching               DEF   £4.0m    0      0       0       0       0    
 Joel Latibeaudiere          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Stephen Mfuni               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Ethan Pinnock               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     1.2     2       
-Bobby Thomas                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       8.7%     3       3.8     
+Bobby Thomas                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       8.6%     3       3.8     
 Luke Woolfenden             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Milan van Ewijk             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       9.5%     1.2     1.5     
 Kai Andrews                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
