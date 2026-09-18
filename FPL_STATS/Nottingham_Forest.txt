@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-09-18 13:42:38
+Updated: 2026-09-18 13:54:28
 Gameweek: GW4
 Players: 34
 
@@ -9,7 +9,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Altay Bayındır              GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Karl Darlow                 GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tom Heaton                  GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Senne Lammens               GK    £4.9m    2      0       5       0       0        0        0        0     0     90      10.4%    1.8     1.8     
+Senne Lammens               GK    £4.9m    2      0       5       0       0        0        0        0     0     90      10.3%    1.8     1.8     
 Harry Amass                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Diogo Dalot Teixeira        DEF   £4.9m    2      0       9       3       0.02     0.05     0.07     0     0     90      1.7%     1.5     1.5     
 Tyler Fredricson            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -21,7 +21,7 @@ Luke Shaw                   DEF   £4.4m    0      0       0       0       0    
 Leny Yoro                   DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.5%     0.5     1       
 Matthijs de Ligt            DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Carlos Baleba               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Bruno Borges Fernandes      MID   £12.0m   2      0       17      7       0.03     0.33     0.36     0     0     90      40.4%    7.2     7.2     
+Bruno Borges Fernandes      MID   £12.0m   2      0       17      7       0.03     0.33     0.36     0     0     90      40.3%    7.2     7.2     
 Toby Collyer                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amad Diallo                 MID   £5.7m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Patrick Dorgu               MID   £5.8m    4      0       19      12      0        0.03     0.03     0     0     90      0.5%     1.5     1.5     
