@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-09-18 13:27:11
+Updated: 2026-09-18 13:42:38
 Gameweek: GW4
 Players: 30
 
@@ -22,7 +22,7 @@ Malick Thiaw                DEF   £5.0m    2      0       -6      11      0    
 Joelinton Cássio Apolinário de LiraMID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Aladji Bamba                MID   £4.9m    1      0       4       2       0        0        0        0     0     10      0.1%     0.5     1       
 Harvey Barnes               MID   £6.0m    2      0       13      6       0.29     0.31     0.6      0     0     90      4.0%     4.8     4.8     
-Anthony Elanga              MID   £6.2m    0      0       0       0       0        0        0        0     0     0       6.8%     4.5     6       
+Anthony Elanga              MID   £6.2m    0      0       0       0       0        0        0        0     0     0       6.7%     4.5     6       
 Nico González Iglesias      MID   £5.5m    1      0       3       1       0        0        0        0     0     18      0.2%     1.2     1.7     
 Lewis Miley                 MID   £5.5m    0      0       9       10      0        0.03     0.03     0     0     79      0.1%     2       2       
 Mason Miley                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
