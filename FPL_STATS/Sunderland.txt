@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-09-19 15:54:02
+Updated: 2026-09-19 16:08:14
 Gameweek: GW5
 Players: 30
 
@@ -13,20 +13,20 @@ Nick Pope                   GK    £4.9m    0      0       0       0       0    
 Sven Botman                 DEF   £5.0m    4      0       17      16      0.05     0        0.05     0     0     90      0.7%     3       3       
 Dan Burn                    DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.8%     0       0       
 Amar Dedic                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       2.1%     2.6     3.2     
-Lewis Hall                  DEF   £5.2m    10     2       33      6       0.19     0.11     0.3      1     0     90      15.1%    5.6     5.6     
+Lewis Hall                  DEF   £5.2m    12     2       35      11      0.19     0.11     0.3      1     0     90      15.1%    6       6       
 Tino Livramento             DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.8     2       
 Alex Murphy                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Fabian Schär                DEF   £4.9m    1      0       1       6       0        0.01     0.01     0     0     24      0.2%     0.4     1       
+Fabian Schär                DEF   £4.9m    1      0       1       7       0        0.01     0.01     0     0     24      0.2%     0.4     1       
 Leo Shahar                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Malick Thiaw                DEF   £5.0m    4      0       12      11      0        0.01     0.01     0     0     90      2.2%     2.8     2.8     
+Malick Thiaw                DEF   £5.0m    4      0       13      14      0        0.01     0.01     0     0     90      2.2%     2.8     2.8     
 Joelinton Cássio Apolinário de LiraMID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Aladji Bamba                MID   £4.9m    1      0       5       2       0        0        0        0     0     3       0.1%     0.6     1       
-Harvey Barnes               MID   £6.1m    10     2       33      8       0.07     0.11     0.18     0     2     90      4.6%     5.8     5.8     
-Anthony Elanga              MID   £6.1m    0      0       0       0       0        0        0        0     0     0       5.7%     3.6     6       
+Aladji Bamba                MID   £4.9m    1      0       3       3       0        0        0        0     0     3       0.1%     0.6     1       
+Harvey Barnes               MID   £6.1m    9      1       33      9       0.07     0.11     0.18     0     2     90      4.6%     5.6     5.6     
+Anthony Elanga              MID   £6.1m    0      0       0       0       0        0        0        0     0     0       5.6%     3.6     6       
 Nico González Iglesias      MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     1       1.7     
-Lewis Miley                 MID   £5.5m    4      0       19      15      0        0.04     0.04     0     0     90      0.1%     2.4     2.4     
+Lewis Miley                 MID   £5.5m    4      0       19      16      0        0.04     0.04     0     0     90      0.1%     2.4     2.4     
 Mason Miley                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jacob Murphy                MID   £5.9m    1      0       11      6       0.04     0.07     0.11     0     0     90      0.1%     0.6     0.6     
+Jacob Murphy                MID   £5.9m    1      0       12      8       0.04     0.07     0.11     0     0     90      0.1%     0.6     0.6     
 Jacob Ramsey                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.3%     1.4     2.3     
 Sean Steur                  MID   £4.9m    3      0       18      7       0        0.03     0.03     0     0     65      0.1%     1.6     1.6     
 Bazoumana Touré             MID   £5.8m    1      0       2       2       0        0        0        0     0     16      0.1%     1.6     2.7     
@@ -34,5 +34,5 @@ Joe Willock                 MID   £5.0m    10     3       38      6       0.24 
 Matias Fernandez-Pardo      FWD   £6.0m    2      0       7       2       0.03     0        0.03     0     0     73      0.1%     1.3     1.3     
 Sean Neave                  FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
 William Osula               FWD   £5.8m    0      0       0       0       0        0        0        0     0     0       0.3%     0.8     4       
-Yoane Wissa                 FWD   £6.2m    0      0       0       4       0.79     0.01     0.8      0     0     90      19.3%    3       3       
+Yoane Wissa                 FWD   £6.2m    0      0       1       5       0.79     0.01     0.8      0     0     90      19.3%    3       3       
 Nick Woltemade              FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.5%     0.8     4       
