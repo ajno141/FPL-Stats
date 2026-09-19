@@ -1,6 +1,6 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-09-19 22:32:46
+Updated: 2026-09-19 22:43:31
 Gameweek: GW5
 Players: 31
 
@@ -12,7 +12,7 @@ James Trafford              GK    £5.0m    0      0       0       0       0    
 Michael Zetterer            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Melvin Bard                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
 Jaka Bijol                  DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.7%     2.4     4       
-Jayden Bogle                DEF   £4.6m    0      0       0       0       0        0        0        0     0     0       6.1%     7.4     9.2     
+Jayden Bogle                DEF   £4.6m    0      0       0       0       0        0        0        0     0     0       6.2%     7.4     9.2     
 Sebastiaan Bornauw          DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nico Elvedi                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     1.4     2.3     
 Gabriel Gudmundsson         DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     1.6     4       
