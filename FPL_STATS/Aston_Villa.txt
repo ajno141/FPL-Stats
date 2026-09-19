@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-09-19 13:36:47
+Updated: 2026-09-19 13:47:12
 Gameweek: GW5
 Players: 35
 
@@ -21,7 +21,7 @@ Matteo Ruggeri              DEF   £4.5m    3      0       13      13      0.03 
 Pau Torres                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0.6     1       
 Aaron Wan-Bissaka           DEF   £4.5m    1      0       6       6       0        0.01     0.01     0     0     45      0.2%     1.5     1.5     
 Leon Bailey                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Ross Barkley                MID   £5.0m    1      0       4       6       0        0        0        0     0     6       0.3%     2       2       
+Ross Barkley                MID   £5.0m    1      0       3       5       0        0        0        0     0     6       0.3%     2       2       
 Lamare Bogarde              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
 Emiliano Buendía Stati      MID   £5.9m    12     3       47      13      0.14     0.06     0.2      1     0     90      0.9%     4.2     4.2     
 Bradley Burrowes            MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
