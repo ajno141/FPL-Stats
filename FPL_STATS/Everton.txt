@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-09-19 17:27:52
+Updated: 2026-09-19 17:40:01
 Gameweek: GW5
 Players: 25
 
@@ -29,5 +29,5 @@ Hayden Hackney              MID   £5.5m    1      0       3       0       0    
 Brennan Johnson             MID   £5.9m    3      0       6       8       0.82     0        0.82     0     0     65      0.1%     1.8     1.8     
 Christian Nørgaard          MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Merlin Röhl                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     1.2     2       
-Thierno Barry               FWD   £5.6m    6      0       28      5       0.59     0.01     0.6      1     0     90      7.9%     4       4       
+Thierno Barry               FWD   £5.6m    6      0       28      5       0.59     0.01     0.6      1     0     90      8.0%     4       4       
 Norberto Bercique Gomes BetuncalFWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.7%     0.4     1       
