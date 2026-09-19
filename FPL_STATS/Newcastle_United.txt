@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-09-19 01:16:33
+Updated: 2026-09-19 01:31:20
 Gameweek: GW5
 Players: 33
 
@@ -17,7 +17,7 @@ Joško Gvardiol              DEF   £5.7m    0      0       0       0       0   
 Abdukodir Khusanov          DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       1.4%     1.8     3       
 Rico Lewis                  DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
 Matheus Nunes               DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       1.0%     2       5       
-Nico O'Reilly               DEF   £6.4m    0      0       0       0       0        0        0        0     0     0       11.6%    1       1.7     
+Nico O'Reilly               DEF   £6.4m    0      0       0       0       0        0        0        0     0     0       11.5%    1       1.7     
 Vitor de Oliveira Nunes dos ReisDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
 Rúben dos Santos Gato Alves DiasDEF   £5.5m    0      0       0       0       0        0        0        0     0     0       1.9%     3.2     4       
 Elliot Anderson             MID   £6.3m    0      0       0       0       0        0        0        0     0     0       4.2%     2.6     3.2     
