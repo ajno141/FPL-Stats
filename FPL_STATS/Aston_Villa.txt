@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-09-19 13:47:12
+Updated: 2026-09-19 13:57:34
 Gameweek: GW5
 Players: 35
 
@@ -13,7 +13,7 @@ Lucas Digne                 DEF   £4.5m    0      0       0       0       0    
 Andrés García               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.6%     0       0       
 Taylor Harwood-Bellis       DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Victor Lindelöf             DEF   £4.5m    1      0       1       6       0        0        0        0     0     90      0.3%     1.6     1.6     
-Ian Maatsen                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.6%     1.8     2.2     
+Ian Maatsen                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     1.8     2.2     
 Tyrone Mings                DEF   £4.5m    3      0       9       12      0        0        0        0     0     90      0.4%     2       2.5     
 Kosta Nedeljkovic           DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Triston Rowe                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
