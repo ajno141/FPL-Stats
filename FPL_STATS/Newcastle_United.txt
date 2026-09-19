@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-09-19 16:48:47
+Updated: 2026-09-19 16:59:32
 Gameweek: GW5
 Players: 33
 
@@ -37,5 +37,5 @@ Iliman Ndiaye               MID   £5.8m    0      0       0       0       0    
 Kalvin Phillips             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Floyd Samba                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Antoine Semenyo             MID   £8.4m    0      0       0       0       0        0        0        0     0     0       14.7%    3.2     4       
+Antoine Semenyo             MID   £8.4m    0      0       0       0       0        0        0        0     0     0       14.6%    3.2     4       
 Erling Haaland              FWD   £15.6m   0      0       0       0       0        0        0        0     0     0       73.3%    6.6     8.2     
