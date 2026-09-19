@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-09-19 17:50:14
+Updated: 2026-09-19 18:00:26
 Gameweek: GW5
 Players: 37
 
@@ -8,38 +8,38 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Dan Bentley                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Oliver Dovin                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
-Carl Rushworth              GK    £4.5m    12     3       37      0       0        0        0        0     1     60      0.8%     2.4     2.4     
+Carl Rushworth              GK    £4.5m    11     2       37      0       0        0        0        0     1     71      0.8%     3.2     3.2     
 Ben Wilson                  GK    £4.4m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Aurèle Amenda               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0.8     1       
 Jake Bidwell                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Miguel Brau                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jay Dasilva                 DEF   £4.0m    14     2       35      2       0.33     0.04     0.37     1     0     60      0.7%     2.8     2.8     
+Jay Dasilva                 DEF   £4.0m    15     3       38      3       0.33     0.04     0.37     1     0     71      0.7%     4       4       
 Kaine Kesler-Hayden         DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Liam Kitching               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Joel Latibeaudiere          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Stephen Mfuni               DEF   £4.0m    6      0       19      2       0        0.01     0.01     0     0     60      0.1%     0.5     1       
-Ethan Pinnock               DEF   £4.5m    8      0       22      12      0        0        0        0     0     60      0.1%     1.8     2.2     
-Bobby Thomas                DEF   £4.0m    7      1       26      9       0.06     0.04     0.1      0     0     60      8.6%     3.4     3.4     
+Stephen Mfuni               DEF   £4.0m    6      0       24      5       0        0.01     0.01     0     0     71      0.1%     3       6       
+Ethan Pinnock               DEF   £4.5m    8      0       22      13      0        0        0        0     0     71      0.1%     2.8     3.5     
+Bobby Thomas                DEF   £4.0m    9      1       27      10      0.06     0.04     0.1      0     0     71      8.6%     4.8     4.8     
 Luke Woolfenden             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Milan van Ewijk             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       9.4%     1.2     1.5     
 Kai Andrews                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Raphael Borges Rodrigues    MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Josh Eccles                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Yann Gboho                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Matt Grimes                 MID   £4.9m    3      0       10      9       0.02     0        0.02     0     0     60      0.1%     1.8     1.8     
+Matt Grimes                 MID   £4.9m    3      0       10      9       0.02     0        0.02     0     0     71      0.1%     2.2     2.2     
 Gustavo Hamer               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.6     1       
 Ephron Mason-Clark          MID   £5.4m    1      0       6       2       0.02     0.05     0.07     0     0     45      0.1%     1       1.2     
-Frank Onyeka                MID   £4.9m    3      0       9       6       0        0        0        0     0     60      0.1%     1.4     1.8     
-Jack Rudoni                 MID   £4.9m    3      0       12      10      0.09     0.19     0.28     0     0     60      0.1%     1.8     1.8     
+Frank Onyeka                MID   £4.9m    3      0       10      7       0        0        0        0     0     71      0.1%     1.8     2.2     
+Jack Rudoni                 MID   £4.9m    5      0       14      13      0.09     0.19     0.28     0     0     71      0.1%     2.6     2.6     
 Tatsuhiro Sakamoto          MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
 George Shepherd             MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Loum Tchaouna               MID   £5.4m    1      0       6       1       0.04     0        0.04     0     0     15      0.1%     1       1.2     
+Loum Tchaouna               MID   £5.4m    1      0       6       1       0.04     0        0.04     0     0     26      0.1%     1       1.2     
 Victor Torp                 MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0.6     1       
-Caleb Yirenkyi              MID   £4.9m    3      0       3       4       0        0.01     0.01     0     0     60      0.1%     1.4     1.4     
+Caleb Yirenkyi              MID   £4.9m    3      0       9       5       0        0.01     0.01     0     0     71      0.1%     1.8     1.8     
 Taiwo Awoniyi               FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.4%     0.6     0.8     
 Norman Bassette             FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Sidiki Cherif               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
 Jahnoah Markelo             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ellis Simms                 FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0.6     1.5     
-Brandon Thomas-Asante       FWD   £5.0m    2      0       11      5       0.08     0.01     0.09     0     0     60      0.7%     1.2     1.2     
+Brandon Thomas-Asante       FWD   £5.0m    2      0       11      7       0.08     0.01     0.09     0     0     71      0.7%     1.4     1.4     
 Haji Wright                 FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
