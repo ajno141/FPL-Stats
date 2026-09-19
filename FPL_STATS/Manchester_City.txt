@@ -1,6 +1,6 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-09-19 18:00:26
+Updated: 2026-09-19 18:20:15
 Gameweek: GW5
 Players: 31
 
@@ -32,7 +32,7 @@ Daniel James                MID   £4.9m    0      0       0       0       0    
 Sean Longstaff              MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.4     1       
 Noah Okafor                 MID   £5.8m    0      0       0       0       0        0        0        0     0     0       0.4%     3       3.8     
 Anton Stach                 MID   £6.0m    0      0       0       0       0        0        0        0     0     0       2.6%     4.4     5.5     
-Harry Wilson                MID   £6.2m    0      0       0       0       0        0        0        0     0     0       2.0%     1       1.2     
+Harry Wilson                MID   £6.2m    0      0       0       0       0        0        0        0     0     0       1.9%     1       1.2     
 Dominic Calvert-Lewin       FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       25.7%    4       5       
 Mateo Joseph Fernández-RegatilloFWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Lukas Nmecha                FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.5%     1.2     2       
