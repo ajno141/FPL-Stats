@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-09-19 22:54:27
+Updated: 2026-09-19 23:08:03
 Gameweek: GW5
 Players: 37
 
@@ -24,7 +24,7 @@ Luke Woolfenden             DEF   £4.0m    0      0       0       0       0    
 Milan van Ewijk             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       9.4%     1.2     1.5     
 Kai Andrews                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Raphael Borges Rodrigues    MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Josh Eccles                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Josh Eccles                 MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Yann Gboho                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Matt Grimes                 MID   £4.9m    3      0       17      10      0.02     0.06     0.08     0     0     90      0.1%     2.2     2.2     
 Gustavo Hamer               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.6     1       
