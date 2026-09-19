@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-09-19 21:31:32
+Updated: 2026-09-19 21:42:36
 Gameweek: GW5
 Players: 36
 
@@ -38,7 +38,7 @@ Jesurun Rak-Sakyi           MID   £4.9m    0      0       0       0       0    
 Ismaïla Sarr                MID   £6.2m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Quinten Timber              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     2       3       
 Adam Wharton                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.8%     2       2.5     
-Jean-Philippe Mateta        FWD   £6.3m    0      0       0       0       0        0        0        0     0     0       1.4%     0.4     2       
+Jean-Philippe Mateta        FWD   £6.3m    0      0       0       0       0        0        0        0     0     0       1.3%     0.4     2       
 Eddie Nketiah               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.5%     1.4     2.3     
 Jørgen Strand Larsen        FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.6%     2.4     3       
 Christantus Uche            FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
