@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-09-20 11:56:40
+Updated: 2026-09-20 12:16:51
 Gameweek: GW5
 Players: 29
 
@@ -32,6 +32,6 @@ Bukayo Saka                 MID   £9.5m    2      0       14      2       0.34 
 Christos Tzolis             MID   £6.3m    2      0       9       3       0        0.07     0.07     0     0     72      12.9%    3.2     3.2     
 Martín Zubimendi Ibáñez     MID   £5.3m    1      0       2       1       0.13     0        0.13     0     0     30      0.6%     1       1       
 Martin Ødegaard             MID   £6.8m    2      0       10      2       0.07     0.02     0.09     0     0     72      20.0%    5.8     5.8     
-Gabriel Fernando de Jesus   FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
+Gabriel Fernando de Jesus   FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Viktor Gyökeres             FWD   £7.1m    1      0       5       0       0        0.23     0.23     0     0     17      3.1%     0.4     1       
 Kai Havertz                 FWD   £7.6m    2      0       5       3       0.78     0.02     0.8      0     0     90      8.5%     3.8     3.8     
