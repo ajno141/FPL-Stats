@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-09-20 13:17:55
+Updated: 2026-09-20 13:31:15
 Gameweek: GW5
 Players: 30
 
@@ -34,5 +34,5 @@ Xaver Schlager              MID   £5.0m    2      0       16      7       0.05 
 Ryan Yates                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.2%     0       0       
 Liam Delap                  FWD   £5.6m    1      0       9       8       0.13     0.21     0.34     0     0     90      2.9%     1.8     2.2     
 Arnaud Kalimuendo           FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
-Igor Jesus Maciel da Cruz   FWD   £5.8m    1      0       4       3       0.16     0.01     0.17     0     0     31      2.8%     2.4     2.4     
+Igor Jesus Maciel da Cruz   FWD   £5.8m    1      0       4       3       0.16     0.01     0.17     0     0     31      2.7%     2.4     2.4     
 Chris Wood                  FWD   £5.8m    1      0       4       0       0        0        0        0     0     17      0.9%     0.8     1       
