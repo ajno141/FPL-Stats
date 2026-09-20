@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-09-20 13:43:22
+Updated: 2026-09-20 13:54:12
 Gameweek: GW5
 Players: 30
 
@@ -21,7 +21,7 @@ Jair Paula da Cunha Filho   DEF   £4.5m    1      0       5       8       0.02 
 Omar Richards               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Felipe Rodrigues da Silva   DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nicolò Savona               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Neco Williams               DEF   £5.0m    2      0       19      2       0.09     0.21     0.3      0     0     90      9.1%     3.8     3.8     
+Neco Williams               DEF   £5.0m    2      0       19      2       0.09     0.21     0.3      0     0     90      9.0%     3.8     3.8     
 Dilane Bakwa                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nicolás Domínguez           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
 Morgan Gibbs-White          MID   £8.0m    2      0       25      2       0        0.4      0.4      0     0     90      15.9%    5.6     5.6     
