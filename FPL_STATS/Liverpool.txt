@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-09-20 14:23:17
+Updated: 2026-09-20 14:36:43
 Gameweek: GW5
 Players: 36
 
@@ -27,7 +27,7 @@ Cameron Humphreys           MID   £4.5m    0      0       0       0       0    
 Saša Lukić                  MID   £4.9m    2      0       14      6       0        0.25     0.25     0     0     72      0.1%     2.2     2.2     
 Daizen Maeda                MID   £5.3m    1      0       5       1       0        0.01     0.01     0     0     16      0.2%     1.6     1.6     
 Azor Matusiwa               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Kasey McAteer               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.1%     0.6     1       
+Kasey McAteer               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       1.0%     0.6     1       
 Anis Mehmeti                MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Florentino Ibrain Morris LuísMID   £4.9m    1      0       1       0       0        0        0        0     0     17      0.1%     0.4     1       
 Marcelino Núñez             MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     1.2     3       
