@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-09-20 19:24:25
+Updated: 2026-09-20 19:35:22
 Gameweek: GW5
 Players: 25
 
@@ -16,7 +16,7 @@ Ainsley Maitland-Niles      DEF   £4.5m    8      2       39      8       0    
 Vitalii Mykolenko           DEF   £4.6m    5      0       29      6       0.04     0.02     0.06     0     0     90      4.2%     5.4     5.4     
 Jake O'Brien                DEF   £4.9m    1      0       3       1       0        0        0        0     0     1       0.3%     0.4     1       
 Nathan Patterson            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-James Tarkowski             DEF   £6.1m    14     3       43      12      0.01     0.01     0.02     0     1     90      15.0%    8.6     8.6     
+James Tarkowski             DEF   £6.1m    14     3       43      12      0.01     0.01     0.02     0     1     90      15.1%    8.6     8.6     
 Carlos Alcaraz Durán        MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     0.5     
 Harrison Armstrong          MID   £5.0m    2      0       13      5       0.12     0.37     0.49     0     0     90      0.4%     3.2     3.2     
 Kiernan Dewsbury-Hall       MID   £6.6m    3      0       10      7       0.37     0.34     0.71     0     0     90      6.1%     4       4       
