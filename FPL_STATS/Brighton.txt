@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-09-20 15:52:51
+Updated: 2026-09-20 16:05:55
 Gameweek: GW5
 Players: 37
 
@@ -10,14 +10,14 @@ Jason Steele                GK    £4.0m    0      0       0       0       0    
 Bart Verbruggen             GK    £4.5m    6      0       27      0       0        0        0        0     0     90      21.7%    4.6     4.6     
 Olivier Boscagli            DEF   £4.5m    6      0       24      7       0.01     0.02     0.03     0     0     90      0.3%     3.8     3.8     
 Diego Coppola               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Maxim De Cuyper             DEF   £4.9m    6      1       30      7       0.02     0.23     0.25     0     0     90      26.1%    7.6     7.6     
+Maxim De Cuyper             DEF   £4.9m    6      1       30      7       0.02     0.23     0.25     0     0     90      26.2%    7.6     7.6     
 Lewis Dunk                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       1.5%     4.4     5.5     
 Jaouen Hadjam               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ferdi Kadıoğlu              DEF   £4.4m    5      0       18      3       0.04     0.02     0.06     0     0     75      1.6%     2.6     3.2     
 João Pedro Loureiro da CostaDEF   £4.5m    1      0       2       1       0        0.14     0.14     0     0     14      0.0%     0.8     0.8     
 Pascal Struijk              DEF   £4.9m    5      0       24      6       0.16     0        0.16     0     0     85      0.2%     1.4     2.3     
 Michael Svoboda             DEF   £5.0m    1      0       5       1       0        0        0        0     0     4       0.1%     0.2     1       
-Luka Vušković               DEF   £5.0m    8      0       27      12      0        0        0        0     0     90      3.3%     6.4     6.4     
+Luka Vušković               DEF   £5.0m    8      0       27      12      0        0        0        0     0     90      3.4%     6.4     6.4     
 Mats Wieffer                DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.2%     1.4     3.5     
 Igor Julio dos Santos de PauloDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 José María Andrés Baixauli  MID   £5.5m    8      0       27      9       0.28     0.11     0.39     1     0     84      0.0%     4       6       
@@ -40,6 +40,6 @@ Malick Yalcouyé             MID   £4.5m    1      0       9       1       0.04
 Zadok Yohanna               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
 Promise David               FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     0.5     
 Evan Ferguson               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Charalampos Kostoulas       FWD   £5.5m    10     2       40      4       0.18     0.01     0.19     1     1     75      2.2%     5.6     5.6     
+Charalampos Kostoulas       FWD   £5.5m    10     2       40      4       0.18     0.01     0.19     1     1     75      2.3%     5.6     5.6     
 Georginio Rutter            FWD   £5.3m    1      0       2       2       0.09     0.01     0.1      0     0     14      0.5%     1.2     3       
 Stefanos Tzimas             FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
