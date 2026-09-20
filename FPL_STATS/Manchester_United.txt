@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-09-20 21:43:03
+Updated: 2026-09-20 21:53:19
 Gameweek: GW5
 Players: 36
 
@@ -27,7 +27,7 @@ Stefan Bajčetić Maquieira   MID   £5.0m    0      0       0       0       0  
 Bradley Barcola             MID   £8.0m    3      0       8       3       0.05     0.03     0.08     0     0     71      1.9%     2.3     2.3     
 Federico Chiesa             MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Harvey Elliott              MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Cody Gakpo                  MID   £7.2m    3      0       13      5       0.2      0.49     0.69     0     0     90      12.7%    6.4     6.4     
+Cody Gakpo                  MID   £7.2m    3      0       13      5       0.2      0.49     0.69     0     0     90      12.6%    6.4     6.4     
 Ryan Gravenberch            MID   £5.8m    1      0       3       1       0        0.01     0.01     0     0     9       1.1%     1.8     1.8     
 Curtis Jones                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lewis Koumas                MID   £5.0m    1      0       7       0       0.25     0        0.25     0     0     9       0.0%     0.6     1       
