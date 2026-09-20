@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-09-20 17:26:46
+Updated: 2026-09-20 17:39:27
 Gameweek: GW5
 Players: 33
 
@@ -13,7 +13,7 @@ Max Alleyne                 DEF   £5.0m    0      0       0       0       0    
 Rayan Aït-Nouri             DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Kaden Braithwaite           DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
 Marc Guéhi                  DEF   £6.0m    4      0       12      4       0.05     0.01     0.06     0     1     90      18.5%    6       6       
-Joško Gvardiol              DEF   £5.7m    4      0       22      7       0        0.63     0.63     0     1     90      26.2%    7.4     7.4     
+Joško Gvardiol              DEF   £5.7m    4      0       22      7       0        0.63     0.63     0     1     90      26.3%    7.4     7.4     
 Abdukodir Khusanov          DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       1.4%     1.8     3       
 Rico Lewis                  DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
 Matheus Nunes               DEF   £5.9m    3      0       0       10      0        0.01     0.01     0     0     90      1.0%     2.6     4.3     
@@ -38,4 +38,4 @@ Kalvin Phillips             MID   £5.0m    0      0       0       0       0    
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Floyd Samba                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Antoine Semenyo             MID   £8.4m    17     2       65      7       0.14     0.17     0.31     2     1     90      14.8%    6.6     6.6     
-Erling Haaland              FWD   £15.6m   6      0       25      2       1.09     0.02     1.11     1     0     90      73.4%    7.8     7.8     
+Erling Haaland              FWD   £15.6m   6      0       25      2       1.09     0.02     1.11     1     0     90      73.5%    7.8     7.8     
