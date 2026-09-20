@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-09-20 21:00:55
+Updated: 2026-09-20 21:17:41
 Gameweek: GW5
 Players: 30
 
@@ -25,7 +25,7 @@ Neco Williams               DEF   £5.0m    2      0       19      2       0.09 
 Dilane Bakwa                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nicolás Domínguez           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
 Morgan Gibbs-White          MID   £8.0m    2      0       25      2       0        0.4      0.4      0     0     90      15.8%    5.6     5.6     
-Callum Hudson-Odoi          MID   £5.8m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
+Callum Hudson-Odoi          MID   £5.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
 Omari Hutchinson            MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 James McAtee                MID   £5.5m    2      0       17      4       0.21     0.04     0.25     0     0     82      0.1%     2.4     2.4     
 Dan Ndoye                   MID   £5.5m    1      0       3       1       0.2      0.05     0.25     0     0     58      0.7%     3       3       
