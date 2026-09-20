@@ -1,6 +1,6 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-09-20 19:45:42
+Updated: 2026-09-20 19:56:12
 Gameweek: GW5
 Players: 28
 
@@ -11,7 +11,7 @@ Bernd Leno                  GK    £4.5m    3      0       18      0       0    
 Alfie McNally               GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 David Affengruber           DEF   £4.5m    4      0       17      11      0        0.02     0.02     0     0     90      0.0%     4       6       
 Joachim Andersen            DEF   £5.0m    1      0       0       5       0        0        0        0     0     10      0.1%     0.6     1       
-Calvin Bassey               DEF   £4.5m    6      1       26      8       0.04     0.01     0.05     0     1     90      0.7%     3       3       
+Calvin Bassey               DEF   £4.5m    6      1       26      8       0.06     0.01     0.07     0     1     90      0.7%     3       3       
 Timothy Castagne            DEF   £4.5m    1      0       3       9       0        0.01     0.01     0     0     90      0.9%     4       4       
 Jorge Cuenca Barreno        DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.6     3       
 Luc De Fougerolles          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -22,7 +22,7 @@ Sander Berge                MID   £4.9m    3      0       16      2       0.05 
 Oscar Bobb                  MID   £5.5m    3      0       6       6       0.22     0.09     0.31     0     0     70      0.3%     2.6     2.6     
 Tom Cairney                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Shea Charles                MID   £5.0m    4      0       16      13      0        0.02     0.02     0     0     90      0.1%     2.6     2.6     
-Alex Iwobi                  MID   £5.4m    5      2       27      6       0.22     0.41     0.63     0     0     70      0.6%     2.8     2.8     
+Alex Iwobi                  MID   £5.4m    5      2       27      7       0.19     0.41     0.6      0     0     70      0.6%     2.8     2.8     
 Josh King                   MID   £5.5m    2      0       10      5       0.38     0.03     0.41     0     0     79      2.2%     4.8     4.8     
 Hugo Larsson                MID   £5.0m    1      0       3       4       0        0        0        0     0     13      0.0%     1       1       
 Manuel Ángel Morán Ibáñez   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -31,6 +31,6 @@ Harrison Reed               MID   £4.4m    0      0       0       0       0    
 Kevin Santos Lopes de MacedoMID   £5.3m    1      0       6       2       0.04     0        0.04     0     0     19      0.0%     0.8     1       
 Emile Smith Rowe            MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0.6     1       
 Macaulay Zepa               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Gonzalo García              FWD   £6.0m    2      0       3       2       0.64     0.33     0.97     0     0     79      3.7%     2.8     2.8     
+Gonzalo García              FWD   £6.0m    2      0       3       2       0.69     0.33     1.02     0     0     79      3.7%     2.8     2.8     
 Jonah Kusi-Asare            FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       5.5%     0       0       
-Rodrigo Muniz Carvalho      FWD   £5.4m    0      0       -1      2       0        0        0        0     0     10      0.4%     0.6     0.8     
+Rodrigo Muniz Carvalho      FWD   £5.4m    0      0       -1      1       0        0        0        0     0     10      0.4%     0.6     0.8     
