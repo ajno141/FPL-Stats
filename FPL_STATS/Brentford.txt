@@ -1,6 +1,6 @@
 BRENTFORD
 =================================================================================================================================================
-Updated: 2026-09-20 15:16:02
+Updated: 2026-09-20 15:30:02
 Gameweek: GW5
 Players: 29
 
@@ -29,8 +29,8 @@ Keane Lewis-Potter          MID   £5.5m    3      0       15      9       0.15 
 Antoni Milambo              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Gustavo Nunes Fernandes GomesMID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Dango Ouattara              MID   £6.3m    1      0       2       0       0        0        0        0     0     9       0.5%     1.4     1.4     
-Mamadou Sangaré             MID   £5.6m    0      0       0       3       0        0        0        0     0     21      10.6%    4.4     4.4     
-Kevin Schade                MID   £6.1m    9      0       27      7       0.54     0.02     0.56     0     2     90      8.9%     7.8     7.8     
+Mamadou Sangaré             MID   £5.6m    0      0       0       3       0        0        0        0     0     21      10.5%    4.4     4.4     
+Kevin Schade                MID   £6.1m    9      0       27      7       0.54     0.02     0.56     0     2     90      9.0%     7.8     7.8     
 Yehor Yarmoliuk             MID   £4.8m    3      0       19      10      0.03     0.06     0.09     0     0     68      0.7%     1.8     1.8     
 Kaye Furo                   FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.9%     0       0       
 Igor Thiago Nascimento RodriguesFWD   £7.8m    5      0       26      3       0.72     0.03     0.75     1     0     90      9.0%     2       2       
