@@ -1,29 +1,29 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-09-20 16:05:55
+Updated: 2026-09-20 16:22:11
 Gameweek: GW5
 Players: 28
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Benjamin Lecomte            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
-Bernd Leno                  GK    £4.5m    1      0       5       0       0        0        0        0     0     33      3.2%     3.2     3.2     
+Bernd Leno                  GK    £4.5m    1      0       9       0       0        0        0        0     0     45      3.2%     3.2     3.2     
 Alfie McNally               GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-David Affengruber           DEF   £4.5m    2      1       10      4       0        0        0        0     0     33      0.0%     3.3     5       
+David Affengruber           DEF   £4.5m    1      0       11      6       0        0        0        0     0     45      0.0%     3       4.5     
 Joachim Andersen            DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.4     1       
-Calvin Bassey               DEF   £4.5m    1      0       7       4       0        0        0        0     0     33      0.7%     2       2       
-Timothy Castagne            DEF   £4.5m    1      0       2       2       0        0        0        0     0     33      0.9%     4       4       
+Calvin Bassey               DEF   £4.5m    3      2       14      5       0        0.01     0.01     0     0     45      0.7%     2.4     2.4     
+Timothy Castagne            DEF   £4.5m    1      0       3       3       0        0        0        0     0     45      0.9%     4       4       
 Jorge Cuenca Barreno        DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.6     3       
 Luc De Fougerolles          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Antonee Robinson            DEF   £4.5m    1      0       6       0       0        0.05     0.05     0     0     33      1.4%     2.2     2.2     
+Antonee Robinson            DEF   £4.5m    1      0       8       2       0        0.05     0.05     0     0     45      1.4%     2.2     2.2     
 Ryan Sessegnon              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0.6     1       
 Kenny Tete                  DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Sander Berge                MID   £4.9m    1      0       6       3       0.05     0        0.05     0     0     33      0.3%     1.8     1.8     
-Oscar Bobb                  MID   £5.5m    1      0       3       4       0.22     0.07     0.29     0     0     33      0.3%     2.2     2.2     
+Sander Berge                MID   £4.9m    1      0       5       2       0.05     0        0.05     0     0     45      0.3%     1.8     1.8     
+Oscar Bobb                  MID   £5.5m    1      0       3       5       0.22     0.07     0.29     0     0     45      0.3%     2.2     2.2     
 Tom Cairney                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Shea Charles                MID   £5.0m    1      0       6       6       0        0        0        0     0     33      0.1%     2       2       
-Alex Iwobi                  MID   £5.4m    4      3       15      3       0        0.4      0.4      0     0     33      0.6%     2.6     2.6     
-Josh King                   MID   £5.5m    1      0       3       1       0.38     0        0.38     0     0     33      2.2%     4.6     4.6     
+Shea Charles                MID   £5.0m    1      0       7       8       0        0.01     0.01     0     0     45      0.1%     2       2       
+Alex Iwobi                  MID   £5.4m    3      2       14      3       0.16     0.4      0.55     0     0     45      0.6%     2.4     2.4     
+Josh King                   MID   £5.5m    0      0       -1      2       0.38     0        0.38     0     0     45      2.2%     4.4     4.4     
 Hugo Larsson                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.7     1       
 Manuel Ángel Morán Ibáñez   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 César Palacios              MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.2%     2.2     3.7     
@@ -31,6 +31,6 @@ Harrison Reed               MID   £4.4m    0      0       0       0       0    
 Kevin Santos Lopes de MacedoMID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.0%     0.6     1       
 Emile Smith Rowe            MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0.6     1       
 Macaulay Zepa               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Gonzalo García              FWD   £6.0m    1      0       -3      1       0.64     0        0.64     0     0     33      3.7%     2.6     2.6     
+Gonzalo García              FWD   £6.0m    1      0       1       1       0.64     0.33     0.97     0     0     45      3.7%     2.6     2.6     
 Jonah Kusi-Asare            FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       5.6%     0       0       
 Rodrigo Muniz Carvalho      FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.4%     0.6     1       
