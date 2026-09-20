@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-09-20 22:56:27
+Updated: 2026-09-20 23:11:31
 Gameweek: GW5
 Players: 37
 
@@ -35,7 +35,7 @@ Tatsuhiro Sakamoto          MID   £4.8m    0      0       0       0       0    
 George Shepherd             MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Loum Tchaouna               MID   £5.4m    1      0       5       3       0.04     0        0.04     0     0     45      0.1%     0.8     1.2     
 Victor Torp                 MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
-Caleb Yirenkyi              MID   £4.9m    3      0       10      5       0        0.01     0.01     0     0     90      0.1%     2       1.8     
+Caleb Yirenkyi              MID   £4.8m    3      0       10      5       0        0.01     0.01     0     0     90      0.1%     2       1.8     
 Taiwo Awoniyi               FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.4%     0.5     0.8     
 Norman Bassette             FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Sidiki Cherif               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
