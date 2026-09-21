@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-09-21 21:46:26
+Updated: 2026-09-21 21:56:52
 Gameweek: GW5
 Players: 36
 
@@ -12,7 +12,7 @@ Remi Matthews               GK    £4.0m    0      0       0       0       0    
 Honest Ahanor               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     1       3       
 Jaydee Canvot               DEF   £4.8m    8      0       26      10      0        0.12     0.12     0     0     90      0.2%     2.2     2.5     
 Rio Cardines                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Ben Chilwell                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.5%     2.7     4       
+Ben Chilwell                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     2.7     4       
 Axel Disasi                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     0.3     
 Anan Khalaili               DEF   £5.0m    6      0       23      6       0        0.02     0.02     0     0     90      0.3%     4.5     3.8     
 Oscar Mingueza              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
