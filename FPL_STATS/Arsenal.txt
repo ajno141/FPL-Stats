@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-09-21 13:33:21
+Updated: 2026-09-21 13:47:36
 Gameweek: GW5
 Players: 29
 
@@ -14,7 +14,7 @@ Piero Hincapié              DEF   £5.2m    0      0       0       0       0   
 Ezri Konsa Ngoyo            DEF   £4.6m    1      0       2       4       0.23     0.01     0.24     0     0     90      19.4%    3       3       
 Cristhian Mosquera          DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       1.7%     1.5     6       
 William Saliba              DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Jurriën Timber              DEF   £6.5m    0      0       -6      2       0        0.02     0.02     0     0     59      0.3%     0.2     0.5     
+Jurriën Timber              DEF   £6.5m    0      0       -6      2       0        0.02     0.02     0     0     59      0.4%     0.2     0.5     
 Benjamin White              DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       5.2%     2.5     5.2     
 Gabriel dos Santos MagalhãesDEF   £8.0m    1      0       6       9       0        0.14     0.14     0     0     90      22.9%    5       5       
 Max Dowman                  MID   £5.3m    1      0       4       0       0        0.08     0.08     0     0     9       0.1%     0.2     1       
