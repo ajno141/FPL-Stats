@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-09-21 00:43:23
+Updated: 2026-09-21 00:57:32
 Gameweek: GW5
 Players: 34
 
@@ -38,5 +38,5 @@ Matheus Santos Carneiro da CunhaMID   £7.9m    10     3       32      3       0
 Youri Tielemans             MID   £5.8m    4      0       22      13      0.09     0.2      0.29     0     0     90      1.5%     2.8     2.8     
 Manuel Ugarte Ribeiro       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Chido Obi                   FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
-Benjamin Sesko              FWD   £7.0m    0      0       0       0       0        0        0        0     0     0       1.8%     1.6     2       
+Benjamin Sesko              FWD   £7.0m    0      0       0       0       0        0        0        0     0     0       1.7%     1.6     2       
 Joshua Zirkzee              FWD   £5.3m    1      0       4       1       0        0        0        0     0     13      0.4%     0.4     1       
