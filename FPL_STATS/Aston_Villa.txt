@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-09-21 22:53:29
+Updated: 2026-09-21 23:07:17
 Gameweek: GW5
 Players: 36
 
@@ -23,7 +23,7 @@ Pau Torres                  DEF   £4.5m    0      0       0       0       0    
 Aaron Wan-Bissaka           DEF   £4.5m    1      0       6       6       0        0.01     0.01     0     0     45      0.2%     1.5     1.5     
 Leon Bailey                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Ross Barkley                MID   £5.0m    1      0       3       4       0        0        0        0     0     6       0.3%     2       2       
-Lamare Bogarde              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
+Lamare Bogarde              MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
 Emiliano Buendía Stati      MID   £5.9m    12     3       50      15      0.14     0.07     0.21     1     0     90      1.0%     4.2     4.2     
 Bradley Burrowes            MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Alejandro Garnacho Ferreyra MID   £5.8m    0      0       0       0       0        0        0        0     0     0       0.3%     0.6     1       
