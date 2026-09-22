@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-09-22 18:29:02
+Updated: 2026-09-22 18:46:01
 Gameweek: GW5
 Players: 37
 
@@ -40,6 +40,6 @@ Malick Yalcouyé             MID   £4.5m    1      0       9       1       0.04
 Zadok Yohanna               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Promise David               FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     0.5     
 Evan Ferguson               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Charalampos Kostoulas       FWD   £5.6m    10     2       40      4       0.18     0.01     0.19     1     1     75      3.4%     6.8     5.6     
+Charalampos Kostoulas       FWD   £5.6m    10     2       40      4       0.18     0.01     0.19     1     1     75      3.5%     6.8     5.6     
 Georginio Rutter            FWD   £5.3m    1      0       2       2       0.09     0.01     0.1      0     0     14      0.5%     0.2     3       
 Stefanos Tzimas             FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
