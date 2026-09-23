@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-09-23 17:23:21
+Updated: 2026-09-23 20:34:50
 Gameweek: GW5
 Players: 43
 
@@ -23,7 +23,7 @@ Cathal McCarthy             DEF   £4.0m    0      0       0       0       0    
 Paddy McNair                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Nobel Mendy                 DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       6.3%     2.5     6.2     
 Brooke Norton-Cuffy         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     0.5     
-Matt Targett                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.7%     0       1       
+Matt Targett                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.6%     0       1       
 David Akintola              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mohamed Belloumi            MID   £5.1m    4      0       22      11      0.35     0.31     0.66     0     1     82      4.9%     7       6.2     
 Mohamed-Ali Cho             MID   £5.0m    6      0       25      0       0.27     0.2      0.47     1     0     27      0.0%     2.2     2.2     
