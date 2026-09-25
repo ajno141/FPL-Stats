@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-09-25 20:31:07
+Updated: 2026-09-25 23:28:57
 Gameweek: GW5
 Players: 37
 
@@ -10,7 +10,7 @@ Jason Steele                GK    £4.0m    0      0       0       0       0    
 Bart Verbruggen             GK    £4.5m    6      0       27      0       0        0        0        0     0     90      21.6%    4.2     4.6     
 Olivier Boscagli            DEF   £4.5m    6      0       24      7       0.01     0.02     0.03     0     0     90      0.3%     3.2     3.8     
 Diego Coppola               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Maxim De Cuyper             DEF   £4.9m    6      1       30      7       0.02     0.23     0.25     0     0     90      27.6%    5.2     7.6     
+Maxim De Cuyper             DEF   £5.0m    6      1       30      7       0.02     0.23     0.25     0     0     90      27.6%    5.2     7.6     
 Lewis Dunk                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       1.5%     4       5.5     
 Jaouen Hadjam               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ferdi Kadıoğlu              DEF   £4.4m    5      0       18      3       0.04     0.02     0.06     0     0     75      1.6%     3.2     3.2     
@@ -37,7 +37,7 @@ Nehemiah Oriola             MID   £4.5m    0      0       0       0       0    
 Ibrahim Osman               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Tom Watson                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Malick Yalcouyé             MID   £4.5m    1      0       9       1       0.04     0.18     0.22     0     0     5       4.0%     4.8     4       
-Zadok Yohanna               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
+Zadok Yohanna               MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Promise David               FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     0.5     
 Evan Ferguson               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Charalampos Kostoulas       FWD   £5.6m    10     2       40      4       0.18     0.01     0.19     1     1     75      3.8%     6.8     5.6     
