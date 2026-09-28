@@ -1,12 +1,12 @@
 WOLVERHAMPTON WANDERERS
 =================================================================================================================================================
-Updated: 2026-09-28 19:48:38
+Updated: 2026-09-28 23:58:37
 Gameweek: GW5
 Players: 30
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Melker Ellborg              GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Melker Ellborg              GK    £4.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Anthony Patterson           GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Robin Roefs                 GK    £4.9m    0      0       -8      0       0        0.01     0.01     0     0     90      2.5%     2.5     2.2     
 Omar Alderete               DEF   £4.8m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
@@ -25,7 +25,7 @@ Simon Adingra               MID   £4.9m    0      0       0       0       0    
 Jules Ahoka                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Nilson Angulo               MID   £5.0m    4      0       13      4       0.45     0.01     0.46     0     1     59      0.1%     2.8     3.2     
 Djiamgone Jocelin Ta Bi     MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Habib Diarra                MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     1       2.5     
+Habib Diarra                MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.0%     1       2.5     
 Malick Fofana               MID   £5.5m    1      0       6       3       0.39     0.01     0.4      0     0     30      0.0%     1       1       
 Enzo Le Fée                 MID   £5.7m    5      0       33      3       0        0.52     0.52     0     1     90      3.4%     4       3.6     
 Romaine Mundle              MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
