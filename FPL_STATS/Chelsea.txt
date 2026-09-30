@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-09-29 21:20:58
+Updated: 2026-09-30 00:36:06
 Gameweek: GW5
 Players: 37
 
@@ -19,7 +19,7 @@ Liam Kitching               DEF   £4.0m    0      0       0       0       0    
 Joel Latibeaudiere          DEF   £4.0m    1      0       3       2       0        0        0        0     0     1       0.0%     0.3     1       
 Stephen Mfuni               DEF   £4.0m    6      0       27      8       0        0.01     0.01     0     0     90      0.1%     3       6       
 Ethan Pinnock               DEF   £4.5m    8      0       24      19      0        0        0        0     0     90      0.1%     4.3     3.5     
-Bobby Thomas                DEF   £4.0m    9      1       37      13      0.06     0.04     0.1      0     0     90      8.6%     4.3     4.8     
+Bobby Thomas                DEF   £4.0m    9      1       37      13      0.06     0.04     0.1      0     0     90      8.5%     4.3     4.8     
 Luke Woolfenden             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Milan van Ewijk             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       8.7%     1       1.5     
 Kai Andrews                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
@@ -42,4 +42,4 @@ Sidiki Cherif               FWD   £5.0m    0      0       0       0       0    
 Jahnoah Markelo             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ellis Simms                 FWD   £4.9m    1      0       3       0       0        0        0        0     0     16      0.6%     0.7     1.3     
 Brandon Thomas-Asante       FWD   £5.0m    4      0       16      16      0.13     0.01     0.13     0     0     90      0.8%     2       1.8     
-Haji Wright                 FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Haji Wright                 FWD   £5.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       

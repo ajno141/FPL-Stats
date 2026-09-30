@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-09-29 21:20:58
+Updated: 2026-09-30 00:36:06
 Gameweek: GW5
 Players: 36
 
@@ -19,7 +19,7 @@ Tyrone Mings                DEF   £4.5m    3      0       10      13      0    
 Kosta Nedeljkovic           DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Triston Rowe                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Matteo Ruggeri              DEF   £4.5m    3      0       11      13      0.03     0.01     0.04     0     0     90      0.1%     1       1.7     
-Pau Torres                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0.8     1       
+Pau Torres                  DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0.8     1       
 Aaron Wan-Bissaka           DEF   £4.5m    1      0       6       6       0        0.01     0.01     0     0     45      0.2%     1.5     1.5     
 Leon Bailey                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Ross Barkley                MID   £5.0m    1      0       3       4       0        0        0        0     0     6       0.3%     2       2       
