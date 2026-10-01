@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-09-30 22:09:36
+Updated: 2026-10-01 01:17:25
 Gameweek: GW5
 Players: 34
 
@@ -13,7 +13,7 @@ Senne Lammens               GK    £4.9m    4      0       22      0       0    
 Harry Amass                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Diogo Dalot Teixeira        DEF   £4.9m    2      0       11      2       0.06     0.05     0.11     0     0     90      1.6%     1.7     1.6     
 Tyler Fredricson            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Ayden Heaven                DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0       1       
+Ayden Heaven                DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.3%     0       1       
 Harry Maguire               DEF   £4.8m    2      0       17      5       0.01     0.03     0.04     0     0     90      8.6%     1.7     2       
 Lisandro Martínez           DEF   £5.0m    0      0       6       4       0.15     0.02     0.17     0     0     90      1.3%     1.7     1.5     
 Noussair Mazraoui           DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.5%     0.3     1       
