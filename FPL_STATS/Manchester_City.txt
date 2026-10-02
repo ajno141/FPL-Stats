@@ -1,6 +1,6 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-10-02 20:05:38
+Updated: 2026-10-02 23:44:36
 Gameweek: GW5
 Players: 31
 
@@ -12,7 +12,7 @@ James Trafford              GK    £5.0m    10     3       34      0       0    
 Michael Zetterer            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Melvin Bard                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
 Jaka Bijol                  DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0.3     4       
-Jayden Bogle                DEF   £4.6m    5      0       14      1       0.07     0        0.07     0     0     66      7.2%     11.3    8.4     
+Jayden Bogle                DEF   £4.6m    5      0       14      1       0.07     0        0.07     0     0     66      7.3%     11.3    8.4     
 Sebastiaan Bornauw          DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nico Elvedi                 DEF   £4.5m    6      0       27      4       0.07     0.01     0.08     0     0     90      0.1%     4       3.2     
 Gabriel Gudmundsson         DEF   £4.5m    6      0       27      5       0        0.03     0.03     0     0     90      0.1%     4.7     4.7     
@@ -29,7 +29,7 @@ Wilfried Gnonto             MID   £5.0m    0      0       0       0       0    
 Ilia Gruev                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jack Harrison               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Daniel James                MID   £4.9m    1      0       3       1       0        0        0        0     0     23      0.1%     0.7     1       
-Sean Longstaff              MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
+Sean Longstaff              MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
 Noah Okafor                 MID   £5.8m    3      0       17      5       0.02     0.01     0.03     0     0     75      0.4%     5       3.6     
 Anton Stach                 MID   £6.0m    5      0       13      13      0.05     0.08     0.13     0     0     90      2.5%     3.3     5.4     
 Harry Wilson                MID   £6.2m    0      0       0       0       0        0        0        0     0     0       1.7%     0.3     1.2     
