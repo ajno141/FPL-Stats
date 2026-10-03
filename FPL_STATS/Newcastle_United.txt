@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-10-03 20:10:40
+Updated: 2026-10-03 23:04:46
 Gameweek: GW5
 Players: 33
 
@@ -17,7 +17,7 @@ Joško Gvardiol              DEF   £5.7m    4      0       22      7       0   
 Abdukodir Khusanov          DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       1.4%     1.7     3       
 Rico Lewis                  DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
 Matheus Nunes               DEF   £5.9m    1      0       0       9       0        0.01     0.01     0     0     90      1.0%     3.3     3.7     
-Nico O'Reilly               DEF   £6.3m    1      0       3       2       0.78     0        0.78     0     0     5       10.9%    0.7     1.5     
+Nico O'Reilly               DEF   £6.3m    1      0       3       2       0.78     0        0.78     0     0     5       10.8%    0.7     1.5     
 Vitor de Oliveira Nunes dos ReisDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Rúben dos Santos Gato Alves DiasDEF   £5.5m    1      0       -7      4       0.2      0        0.2      0     0     90      1.9%     4.3     3.4     
 Elliot Anderson             MID   £6.3m    2      0       15      9       0.02     0.02     0.04     0     0     90      4.0%     3.3     3       
@@ -29,7 +29,7 @@ Claudio Echeverri           MID   £4.9m    0      0       0       0       0    
 Enzo Fernández              MID   £6.9m    7      0       33      5       0.04     0.26     0.3      1     0     90      3.6%     4       3.2     
 Phil Foden                  MID   £6.9m    0      0       0       0       0        0        0        0     0     0       1.8%     -0.3    2.2     
 Rodrigo 'Rodri' Hernandez CascanteMID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Mateo Kovačić               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
+Mateo Kovačić               MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Ryan McAidoo                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
 Jeremy Monga                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Divine Mukasa               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -38,4 +38,4 @@ Kalvin Phillips             MID   £5.0m    0      0       0       0       0    
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Floyd Samba                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Antoine Semenyo             MID   £8.4m    17     2       65      7       0.16     0.17     0.33     2     1     90      15.2%    8.7     6.6     
-Erling Haaland              FWD   £15.6m   6      0       25      2       1.09     0.02     1.11     1     0     90      73.8%    8       7.8     
+Erling Haaland              FWD   £15.6m   6      0       25      2       1.09     0.02     1.11     1     0     90      73.9%    8       7.8     
