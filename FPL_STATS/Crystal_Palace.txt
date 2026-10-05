@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-10-04 21:37:47
+Updated: 2026-10-05 00:09:20
 Gameweek: GW5
 Players: 36
 
@@ -23,7 +23,7 @@ Borna Sosa                  DEF   £4.5m    0      0       0       0       0    
 Takehiro Tomiyasu           DEF   £4.4m    1      0       4       3       0        0.01     0.01     0     0     45      0.3%     0.3     0.8     
 Justin Devenny              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cheick Doucouré             MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Joél Drakes-Thomas          MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Joél Drakes-Thomas          MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Romain Esse                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Matheus França de Oliveira  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Zavier Gozo                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
