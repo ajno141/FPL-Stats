@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-10-06 08:04:33
+Updated: 2026-10-06 15:04:31
 Gameweek: GW5
 Players: 29
 
@@ -11,7 +11,7 @@ Illan Meslier               GK    £4.9m    0      0       0       0       0    
 David Raya Martín           GK    £6.1m    1      0       6       0       0        0        0        0     0     90      42.3%    6       6       
 Riccardo Calafiori          DEF   £5.9m    1      0       -3      5       0.07     0.03     0.1      0     0     90      50.5%    3       5.8     
 Piero Hincapié              DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       0.9%     0.3     1       
-Ezri Konsa Ngoyo            DEF   £4.6m    1      0       2       4       0.23     0.01     0.24     0     0     90      19.3%    3.7     3       
+Ezri Konsa Ngoyo            DEF   £4.6m    1      0       2       4       0.23     0.01     0.24     0     0     90      19.2%    3.7     3       
 Cristhian Mosquera          DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       1.6%     0       6       
 William Saliba              DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Jurriën Timber              DEF   £6.5m    0      0       -6      2       0        0.02     0.02     0     0     59      0.4%     0.3     0.5     
