@@ -1,13 +1,13 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-10-07 17:25:20
+Updated: 2026-10-07 22:11:13
 Gameweek: GW5
 Players: 33
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Marcus Bettinelli           GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Gianluigi Donnarumma        GK    £5.5m    2      0       9       0       0        0        0        0     0     90      7.6%     4.5     3.8     
+Gianluigi Donnarumma        GK    £5.5m    2      0       9       0       0        0        0        0     0     90      7.5%     4.5     3.8     
 Gerónimo Rulli              GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Max Alleyne                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Rayan Aït-Nouri             DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
@@ -20,7 +20,7 @@ Matheus Nunes               DEF   £5.9m    1      0       0       9       0    
 Nico O'Reilly               DEF   £6.3m    1      0       3       2       0.78     0        0.78     0     0     5       10.7%    1       1.5     
 Vitor de Oliveira Nunes dos ReisDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Rúben dos Santos Gato Alves DiasDEF   £5.5m    1      0       -7      4       0.2      0        0.2      0     0     90      1.9%     3.5     3.4     
-Elliot Anderson             MID   £6.3m    2      0       15      9       0.02     0.02     0.04     0     0     90      4.0%     3.5     3       
+Elliot Anderson             MID   £6.3m    2      0       15      9       0.02     0.02     0.04     0     0     90      3.9%     3.5     3       
 Allan Andrade Elias         MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ayyoub Bouaddi              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
 Rayan Cherki                MID   £7.8m    8      1       35      5       0.13     0.13     0.26     1     0     84      28.5%    4.5     6.8     
