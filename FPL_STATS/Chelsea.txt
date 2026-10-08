@@ -1,19 +1,19 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-10-08 01:56:42
+Updated: 2026-10-08 08:36:08
 Gameweek: GW5
 Players: 37
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Dan Bentley                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
+Dan Bentley                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Oliver Dovin                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
 Carl Rushworth              GK    £4.5m    11     2       38      0       0        0        0        0     1     90      0.8%     5.5     3.2     
 Ben Wilson                  GK    £4.4m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Aurèle Amenda               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.6%     0       1       
 Jake Bidwell                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Miguel Brau                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jay Dasilva                 DEF   £4.0m    15     3       40      4       0.32     0.04     0.36     1     0     90      0.7%     7.5     4       
+Jay Dasilva                 DEF   £4.0m    15     3       40      4       0.32     0.04     0.36     1     0     90      0.8%     7.5     4       
 Kaine Kesler-Hayden         DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Liam Kitching               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Joel Latibeaudiere          DEF   £4.0m    1      0       3       2       0        0        0        0     0     1       0.0%     0.5     1       
