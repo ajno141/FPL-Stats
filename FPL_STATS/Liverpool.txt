@@ -1,18 +1,18 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-10-08 08:36:08
+Updated: 2026-10-08 15:50:44
 Gameweek: GW5
 Players: 36
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 David Button                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
-Alex Palmer                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       3.9%     0       0       
+Alex Palmer                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       3.8%     0       0       
 Kjell Scherpen              GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.6%     0.5     1.8     
 Christian Walton            GK    £4.4m    2      0       10      0       0        0.01     0.01     0     0     90      0.4%     1       2       
 Kayne van Oevelen           GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Leif Davis                  DEF   £4.0m    2      0       2       5       0.42     0.02     0.44     0     0     90      7.1%     8       5       
-Issa Diop                   DEF   £4.0m    4      0       13      10      0.06     0.01     0.07     0     0     90      12.6%    2.5     2.4     
+Issa Diop                   DEF   £4.0m    4      0       13      10      0.06     0.01     0.07     0     0     90      12.5%    2.5     2.4     
 Darnell Furlong             DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.6%     0       1       
 Jacob Greaves               DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       1.1%     0.5     0.8     
 Ben Johnson                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
@@ -38,7 +38,7 @@ Sam Szmodics                MID   £5.0m    0      0       0       0       0    
 Jack Taylor                 MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Chuba Akpom                 FWD   £5.0m    1      0       3       0       0.17     0        0.17     0     0     9       1.2%     0.5     2.3     
 Ali Al-Hamadi               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Emersonn Correia da Silva   FWD   £5.5m    2      0       9       1       0.13     0.01     0.14     0     0     80      3.7%     7       5.2     
+Emersonn Correia da Silva   FWD   £5.5m    2      0       9       1       0.13     0.01     0.14     0     0     80      3.8%     7       5.2     
 Zian Flemming               FWD   £5.5m    0      0       -2      3       0.1      0        0.1      0     0     9       0.1%     2.5     2       
 George Hirst                FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Sindre Walle Egeli          FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       3.5%     0       1       

@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-10-08 08:36:08
+Updated: 2026-10-08 15:50:44
 Gameweek: GW5
 Players: 29
 
@@ -14,7 +14,7 @@ Julián Araujo Zúñiga        DEF   £4.4m    0      0       0       0       0 
 Bafodé Diakité              DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 James Hill                  DEF   £5.5m    4      0       15      15      0        0.02     0.02     0     0     90      0.8%     3       2.4     
 Veljko Milosavljevic        DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    3      0       8       15      0        0.02     0.02     0     0     90      0.4%     3       2.6     
+António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    3      0       8       15      0        0.02     0.02     0     0     90      0.5%     3       2.6     
 Adam Smith                  DEF   £4.5m    2      0       3       0       0        0.02     0.02     0     0     74      0.1%     1       0.8     
 Julio Soler Barreto         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Juanlu Sánchez              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
@@ -27,7 +27,7 @@ Lewis Cook                  MID   £5.0m    1      0       3       2       0    
 Ben Gannon-Doak             MID   £4.9m    1      0       3       0       0        0.02     0.02     0     0     2       0.1%     1       1       
 Justin Kluivert             MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.8%     4       3.8     
 Junior Kroupi               MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Alex Scott                  MID   £6.1m    2      0       17      8       0.12     0.07     0.19     0     0     90      5.5%     3       6       
+Alex Scott                  MID   £6.1m    2      0       17      8       0.12     0.07     0.19     0     0     90      5.4%     3       6       
 Rayan Vitor Simplício Rocha MID   £6.3m    2      0       17      4       0        0.35     0.35     0     0     87      1.5%     2       2       
 Marcus Tavernier            MID   £6.1m    2      0       14      6       0        0.11     0.11     0     0     74      6.9%     5       6.2     
 Alex Tóth                   MID   £4.9m    1      0       3       0       0        0        0        0     0     2       0.0%     0.5     1       
