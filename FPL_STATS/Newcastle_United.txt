@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-10-07 22:11:13
+Updated: 2026-10-08 01:56:42
 Gameweek: GW5
 Players: 33
 
@@ -30,7 +30,7 @@ Enzo Fernández              MID   £6.9m    7      0       33      5       0.04
 Phil Foden                  MID   £6.9m    0      0       0       0       0        0        0        0     0     0       1.7%     -1      2.2     
 Rodrigo 'Rodri' Hernandez CascanteMID   £6.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Mateo Kovačić               MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
-Ryan McAidoo                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
+Ryan McAidoo                MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Jeremy Monga                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Divine Mukasa               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Iliman Ndiaye               MID   £5.8m    5      0       31      4       0.1      0.14     0.24     0     1     74      6.6%     3       4.4     
