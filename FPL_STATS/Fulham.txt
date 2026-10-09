@@ -1,13 +1,13 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-10-09 00:55:54
+Updated: 2026-10-09 07:10:59
 Gameweek: GW5
 Players: 28
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Benjamin Lecomte            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
-Bernd Leno                  GK    £4.5m    3      0       18      0       0        0        0        0     0     90      3.5%     6       3.6     
+Bernd Leno                  GK    £4.5m    3      0       18      0       0        0        0        0     0     90      3.6%     6       3.6     
 Alfie McNally               GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 David Affengruber           DEF   £4.5m    4      0       17      11      0        0.02     0.02     0     0     90      0.2%     6       6       
 Joachim Andersen            DEF   £5.0m    1      0       0       5       0        0        0        0     0     10      0.2%     0.5     1       
@@ -15,7 +15,7 @@ Calvin Bassey               DEF   £4.5m    6      1       26      8       0.06 
 Timothy Castagne            DEF   £4.5m    1      0       3       9       0        0.01     0.01     0     0     90      1.0%     3.5     4       
 Jorge Cuenca Barreno        DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       3       
 Luc De Fougerolles          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Antonee Robinson            DEF   £4.5m    2      0       19      7       0        0.09     0.09     0     0     90      1.5%     4       2.4     
+Antonee Robinson            DEF   £4.5m    2      0       19      7       0        0.09     0.09     0     0     90      1.6%     4       2.4     
 Ryan Sessegnon              DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.3%     0       1       
 Kenny Tete                  DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Sander Berge                MID   £4.9m    3      0       16      2       0.05     0.02     0.07     0     0     76      0.3%     3       2.2     
