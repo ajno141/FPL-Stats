@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-10-08 20:53:26
+Updated: 2026-10-09 00:55:54
 Gameweek: GW5
 Players: 29
 
@@ -11,7 +11,7 @@ Illan Meslier               GK    £4.9m    0      0       0       0       0    
 David Raya Martín           GK    £6.1m    1      0       6       0       0        0        0        0     0     90      42.6%    7.5     6       
 Riccardo Calafiori          DEF   £5.9m    1      0       -3      5       0.07     0.03     0.1      0     0     90      50.7%    3.5     5.8     
 Piero Hincapié              DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       0.9%     0       1       
-Ezri Konsa Ngoyo            DEF   £4.6m    1      0       2       4       0.23     0.01     0.24     0     0     90      18.8%    3.5     3       
+Ezri Konsa Ngoyo            DEF   £4.6m    1      0       2       4       0.23     0.01     0.24     0     0     90      18.7%    3.5     3       
 Cristhian Mosquera          DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       1.6%     0       6       
 William Saliba              DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Jurriën Timber              DEF   £6.5m    0      0       -6      2       0        0.02     0.02     0     0     59      0.5%     0.5     0.5     
@@ -28,8 +28,8 @@ Mikel Merino Zazón          MID   £5.7m    1      0       4       4       0   
 Reiss Nelson                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ethan Nwaneri               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Declan Rice                 MID   £7.4m    1      0       13      8       0.02     0.06     0.08     0     0     90      11.3%    3.5     4       
-Bukayo Saka                 MID   £9.6m    2      0       14      2       0.34     0.55     0.89     0     0     80      14.7%    5       6.4     
-Christos Tzolis             MID   £6.3m    2      0       9       3       0        0.07     0.07     0     0     72      11.3%    2.5     3.2     
+Bukayo Saka                 MID   £9.6m    2      0       14      2       0.34     0.55     0.89     0     0     80      14.8%    5       6.4     
+Christos Tzolis             MID   £6.3m    2      0       9       3       0        0.07     0.07     0     0     72      11.2%    2.5     3.2     
 Martín Zubimendi Ibáñez     MID   £5.3m    1      0       2       1       0.13     0        0.13     0     0     30      0.6%     1       1       
 Martin Ødegaard             MID   £6.8m    2      0       10      2       0.07     0.02     0.09     0     0     72      19.9%    2.5     5.8     
 Gabriel Fernando de Jesus   FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
