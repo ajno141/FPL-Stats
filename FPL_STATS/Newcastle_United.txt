@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-10-10 19:19:35
+Updated: 2026-10-10 22:42:26
 Gameweek: GW6
 Players: 33
 
@@ -23,8 +23,8 @@ Rúben dos Santos Gato Alves DiasDEF   £5.5m    0      0       0       0       
 Elliot Anderson             MID   £6.3m    0      0       0       0       0        0        0        0     0     0       3.8%     2.3     3       
 Allan Andrade Elias         MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ayyoub Bouaddi              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
-Rayan Cherki                MID   £7.8m    0      0       0       0       0        0        0        0     0     0       28.8%    3       6.8     
-Jérémy Doku                 MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.7%     0.3     1       
+Rayan Cherki                MID   £7.8m    0      0       0       0       0        0        0        0     0     0       28.9%    3       6.8     
+Jérémy Doku                 MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.8%     0.3     1       
 Claudio Echeverri           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Enzo Fernández              MID   £6.9m    0      0       0       0       0        0        0        0     0     0       3.8%     3       3.2     
 Phil Foden                  MID   £6.9m    0      0       0       0       0        0        0        0     0     0       1.5%     -0.7    2.2     
@@ -38,4 +38,4 @@ Kalvin Phillips             MID   £5.0m    0      0       0       0       0    
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Floyd Samba                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Antoine Semenyo             MID   £8.4m    0      0       0       0       0        0        0        0     0     0       13.5%    6.7     6.6     
-Erling Haaland              FWD   £15.6m   0      0       0       0       0        0        0        0     0     0       74.5%    5       7.8     
+Erling Haaland              FWD   £15.6m   0      0       0       0       0        0        0        0     0     0       74.6%    5       7.8     
