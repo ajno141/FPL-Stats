@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-10-10 02:38:10
+Updated: 2026-10-10 09:00:07
 Gameweek: GW5
 Players: 30
 
@@ -21,10 +21,10 @@ Jair Paula da Cunha Filho   DEF   £4.5m    1      0       5       8       0.02 
 Omar Richards               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Felipe Rodrigues da Silva   DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nicolò Savona               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Neco Williams               DEF   £5.0m    2      0       19      2       0.09     0.21     0.3      0     0     90      7.9%     2       3.8     
+Neco Williams               DEF   £5.0m    2      0       19      2       0.09     0.21     0.3      0     0     90      7.5%     2       3.8     
 Dilane Bakwa                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nicolás Domínguez           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
-Morgan Gibbs-White          MID   £8.0m    2      0       25      2       0        0.4      0.4      0     0     90      15.8%    5       5.6     
+Morgan Gibbs-White          MID   £8.0m    2      0       25      2       0        0.4      0.4      0     0     90      15.9%    5       5.6     
 Callum Hudson-Odoi          MID   £5.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Omari Hutchinson            MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 James McAtee                MID   £5.5m    2      0       17      4       0.21     0.04     0.25     0     0     82      0.1%     2.5     2.4     
@@ -34,5 +34,5 @@ Xaver Schlager              MID   £5.0m    2      0       16      7       0.05 
 Ryan Yates                  MID   £4.4m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
 Liam Delap                  FWD   £5.6m    1      0       9       8       0.13     0.21     0.34     0     0     90      2.5%     3       2.2     
 Arnaud Kalimuendo           FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
-Igor Jesus Maciel da Cruz   FWD   £5.8m    1      0       4       3       0.16     0.01     0.17     0     0     31      2.3%     4       2.4     
+Igor Jesus Maciel da Cruz   FWD   £5.8m    1      0       4       3       0.16     0.01     0.17     0     0     31      2.2%     4       2.4     
 Chris Wood                  FWD   £5.8m    1      0       4       0       0        0        0        0     0     17      0.9%     1       1       

@@ -1,25 +1,25 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-10-10 02:38:10
+Updated: 2026-10-10 09:00:07
 Gameweek: GW5
 Players: 25
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Tom King                    GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jordan Pickford             GK    £5.5m    8      1       34      0       0        0        0        0     0     90      9.2%     7       5       
+Jordan Pickford             GK    £5.5m    8      1       34      0       0        0        0        0     0     90      9.3%     7       5       
 Mark Travers                GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Adam Aznou                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Jarrad Branthwaite          DEF   £5.5m    8      0       27      14      0        0        0        0     0     90      2.7%     7       5.4     
 Michael Keane               DEF   £4.8m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Ainsley Maitland-Niles      DEF   £4.5m    8      2       39      8       0        0.11     0.11     0     0     90      1.5%     7       7       
-Vitalii Mykolenko           DEF   £4.6m    5      0       29      6       0.04     0.02     0.06     0     0     90      3.7%     8       5.4     
+Vitalii Mykolenko           DEF   £4.6m    5      0       29      6       0.04     0.02     0.06     0     0     90      3.6%     8       5.4     
 Jake O'Brien                DEF   £4.8m    1      0       3       1       0        0        0        0     0     1       0.3%     1       1       
 Nathan Patterson            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-James Tarkowski             DEF   £6.2m    14     3       43      12      0.01     0.01     0.02     0     1     90      18.3%    11      8.6     
+James Tarkowski             DEF   £6.2m    14     3       43      12      0.01     0.01     0.02     0     1     90      18.6%    11      8.6     
 Carlos Alcaraz Durán        MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0.5     
 Harrison Armstrong          MID   £5.0m    2      0       13      5       0.12     0.37     0.49     0     0     90      0.4%     2.5     3.2     
-Kiernan Dewsbury-Hall       MID   £6.6m    3      0       10      7       0.37     0.34     0.71     0     0     90      5.7%     2.5     4       
+Kiernan Dewsbury-Hall       MID   £6.6m    3      0       10      7       0.37     0.34     0.71     0     0     90      5.6%     2.5     4       
 Tyler Dibling               MID   £5.3m    1      0       10      0       0.17     0.16     0.33     0     0     24      0.0%     0.5     1       
 James Garner                MID   £6.0m    3      0       14      9       0.16     0.04     0.2      0     0     90      0.2%     3.5     2.2     
 Tyrique George              MID   £5.5m    1      0       4       2       0.03     0.01     0.04     0     0     11      0.8%     2       3.8     
@@ -30,4 +30,4 @@ Brennan Johnson             MID   £5.9m    3      0       6       8       0.82 
 Christian Nørgaard          MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Merlin Röhl                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       2       
 Thierno Barry               FWD   £5.7m    6      0       28      5       0.52     0.01     0.53     1     0     90      8.7%     4       4       
-Norberto Bercique Gomes BetuncalFWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.6%     0       1       
+Norberto Bercique Gomes BetuncalFWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.5%     0       1       
