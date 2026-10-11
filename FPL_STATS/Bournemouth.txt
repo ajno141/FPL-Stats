@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-10-11 07:19:42
+Updated: 2026-10-11 14:12:16
 Gameweek: GW6
 Players: 29
 
@@ -25,7 +25,7 @@ David Brooks                MID   £5.0m    1      0       5       3       0    
 Ryan Christie               MID   £5.0m    3      0       21      13      0.03     0.4      0.43     0     0     72      0.0%     2       1.6     
 Lewis Cook                  MID   £5.0m    1      0       3       4       0        0        0        0     0     17      0.2%     0.7     1.5     
 Ben Gannon-Doak             MID   £4.9m    1      0       10      5       0        0.05     0.05     0     0     45      0.1%     1       1       
-Justin Kluivert             MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.7%     2.7     3.8     
+Justin Kluivert             MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.6%     2.7     3.8     
 Junior Kroupi               MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Alex Scott                  MID   £6.1m    0      0       0       0       0        0        0        0     0     0       4.1%     2       6       
 Rayan Vitor Simplício Rocha MID   £6.3m    2      0       8       3       0.27     0.03     0.3      0     0     90      1.5%     2       2       
@@ -33,5 +33,5 @@ Marcus Tavernier            MID   £6.1m    1      0       5       5       0    
 Alex Tóth                   MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
 Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
 Álvaro Rodríguez            FWD   £6.0m    1      0       3       3       0.02     0.03     0.05     0     0     18      0.1%     0.7     1       
-Francisco Evanilson de Lima BarbosaFWD   £6.0m    7      1       41      8       0.61     0.1      0.71     1     0     90      3.3%     4.7     4.2     
+Francisco Evanilson de Lima BarbosaFWD   £6.0m    7      1       41      8       0.61     0.1      0.71     1     0     90      3.4%     4.7     4.2     
 Enes Ünal                   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-10-11 07:19:42
+Updated: 2026-10-11 14:12:16
 Gameweek: GW6
 Players: 29
 
@@ -16,7 +16,7 @@ Cristhian Mosquera          DEF   £5.3m    0      0       0       0       0    
 William Saliba              DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Jurriën Timber              DEF   £6.5m    1      0       3       1       0        0.05     0.05     0     0     27      0.6%     0.7     0.7     
 Benjamin White              DEF   £5.4m    5      0       20      4       0        0.17     0.17     0     1     62      4.4%     2       5.2     
-Gabriel dos Santos MagalhãesDEF   £7.9m    2      0       7       5       0        0.01     0.01     0     0     90      22.3%    4       4.5     
+Gabriel dos Santos MagalhãesDEF   £7.9m    2      0       7       5       0        0.01     0.01     0     0     90      22.2%    4       4.5     
 Max Dowman                  MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
 Eberechi Eze                MID   £6.2m    0      0       0       0       0        0        0        0     0     0       1.1%     0.7     1       
 Fábio Ferreira Vieira       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -29,9 +29,9 @@ Reiss Nelson                MID   £5.5m    0      0       0       0       0    
 Ethan Nwaneri               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Declan Rice                 MID   £7.3m    7      2       28      10      0        0.08     0.08     0     1     90      10.7%    4.7     4.5     
 Bukayo Saka                 MID   £9.6m    2      0       9       8       0.41     0.06     0.47     0     0     90      17.1%    4       5.7     
-Christos Tzolis             MID   £6.3m    0      0       0       0       0        0        0        0     0     0       7.3%     1.7     3.2     
+Christos Tzolis             MID   £6.3m    0      0       0       0       0        0        0        0     0     0       7.2%     1.7     3.2     
 Martín Zubimendi Ibáñez     MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.5%     0.7     1       
-Martin Ødegaard             MID   £6.8m    1      0       12      6       0.82     0.12     0.94     0     0     89      20.3%    2       5       
+Martin Ødegaard             MID   £6.8m    1      0       12      6       0.82     0.12     0.94     0     0     89      20.2%    2       5       
 Gabriel Fernando de Jesus   FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Viktor Gyökeres             FWD   £7.1m    1      0       10      4       0        0.16     0.16     0     0     27      3.8%     0.7     1       
 Kai Havertz                 FWD   £7.5m    2      0       3       0       0.14     0.02     0.16     0     0     62      6.7%     1.7     3.5     
