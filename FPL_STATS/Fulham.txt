@@ -1,6 +1,6 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-10-11 22:44:11
+Updated: 2026-10-12 01:49:04
 Gameweek: GW6
 Players: 28
 
@@ -27,7 +27,7 @@ Josh King                   MID   £5.6m    2      0       13      3       0    
 Hugo Larsson                MID   £5.0m    1      0       3       0       0.06     0        0.06     0     0     3       0.0%     1       1       
 Manuel Ángel Morán Ibáñez   MID   £5.0m    0      0       -1      2       0        0        0        0     0     19      0.0%     0       0       
 César Palacios              MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     3       
-Harrison Reed               MID   £4.4m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
+Harrison Reed               MID   £4.4m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
 Kevin Santos Lopes de MacedoMID   £5.3m    1      0       6       2       0.15     0        0.15     0     0     14      0.0%     1       1       
 Emile Smith Rowe            MID   £5.3m    0      0       -1      0       0        0        0        0     0     3       0.2%     0.3     0.8     
 Macaulay Zepa               MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
