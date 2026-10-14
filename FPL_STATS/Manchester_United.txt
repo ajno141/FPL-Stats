@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-10-14 12:29:15
+Updated: 2026-10-14 17:32:15
 Gameweek: GW6
 Players: 36
 
@@ -36,7 +36,7 @@ James McConnell             MID   £4.4m    0      0       0       0       0    
 Victor Munoz                MID   £6.5m    2      0       12      6       0.05     0.01     0.06     0     0     90      0.8%     1.5     2.8     
 Rio Ngumoha                 MID   £5.7m    1      0       3       0       0        0        0        0     0     15      0.4%     0.5     1.2     
 Trey Nyoni                  MID   £4.8m    1      0       4       2       0        0        0        0     0     24      0.0%     1       1       
-Dominik Szoboszlai          MID   £6.9m    0      0       0       0       0        0        0        0     0     0       27.9%    1       4       
+Dominik Szoboszlai          MID   £6.9m    0      0       0       0       0        0        0        0     0     0       27.8%    1       4       
 Endo Wataru                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Florian Wirtz               MID   £7.3m    2      0       7       4       0.15     0.2      0.35     0     0     65      5.2%     4       3.3     
 Jayden Danns                FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       

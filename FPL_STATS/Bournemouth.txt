@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-10-14 12:29:15
+Updated: 2026-10-14 17:32:15
 Gameweek: GW6
 Players: 29
 
@@ -11,7 +11,7 @@ Michele Di Gregorio         GK    £4.5m    0      0       0       0       0    
 Fraser Forster              GK    £4.0m    0      0       0       0       0        0        0        0     0     0       3.5%     0       0       
 Đorđe Petrović              GK    £4.5m    0      0       -8      0       0        0        0        0     0     90      2.9%     1       1.5     
 Julián Araujo Zúñiga        DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Bafodé Diakité              DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
+Bafodé Diakité              DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 James Hill                  DEF   £5.5m    2      0       -6      11      0        0.02     0.02     0     0     90      0.8%     3       2.3     
 Veljko Milosavljevic        DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    0      0       -12     5       0.45     0.03     0.48     0     0     90      0.6%     1.5     2.2     
