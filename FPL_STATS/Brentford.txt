@@ -1,6 +1,6 @@
 BRENTFORD
 =================================================================================================================================================
-Updated: 2026-10-14 20:56:10
+Updated: 2026-10-14 23:45:10
 Gameweek: GW6
 Players: 29
 
@@ -21,7 +21,7 @@ Jannik Schuster             DEF   £4.5m    1      0       0       6       0    
 Sepp van den Berg           DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Jaidon Anthony              MID   £5.9m    5      0       18      7       0.09     0.01     0.1      0     1     84      0.2%     7.5     3.3     
 Mikkel Damsgaard            MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.3%     1.5     3.2     
-Josh Dasilva                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Josh Dasilva                MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Fábio Freitas Gouveia CarvalhoMID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     3       6       
 Vitaly Janelt               MID   £5.0m    3      0       12      14      0        0.05     0.05     0     0     90      2.5%     3       5.2     
 Mathias Jensen              MID   £5.4m    1      0       9       1       0        0.06     0.06     0     0     23      0.1%     0.5     3.5     
