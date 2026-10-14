@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-10-13 23:04:32
+Updated: 2026-10-14 01:50:24
 Gameweek: GW6
 Players: 34
 
@@ -19,7 +19,7 @@ Alex Murphy                 DEF   £4.0m    0      0       0       0       0    
 Miodrag Pivas               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Fabian Schär                DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
 Leo Shahar                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Malick Thiaw                DEF   £5.0m    0      0       -3      8       0        0.02     0.02     0     0     90      2.2%     2       2.3     
+Malick Thiaw                DEF   £5.0m    0      0       -3      8       0        0.02     0.02     0     0     90      2.1%     2       2.3     
 Joelinton Cássio Apolinário de LiraMID   £5.4m    0      0       -1      5       0        0.01     0.01     0     0     31      0.0%     0       0       
 Aladji Bamba                MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.7     1       
 Harvey Barnes               MID   £6.1m    2      0       15      7       0.35     0.35     0.7      0     0     90      8.2%     4.3     5       
