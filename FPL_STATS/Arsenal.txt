@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-10-14 06:48:02
+Updated: 2026-10-14 12:29:15
 Gameweek: GW6
 Players: 29
 
@@ -16,7 +16,7 @@ Cristhian Mosquera          DEF   £5.3m    0      0       0       0       0    
 William Saliba              DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Jurriën Timber              DEF   £6.5m    1      0       3       1       0        0.05     0.05     0     0     27      0.6%     0.5     0.7     
 Benjamin White              DEF   £5.4m    5      0       20      4       0        0.17     0.17     0     1     62      4.4%     2.5     5.2     
-Gabriel dos Santos MagalhãesDEF   £7.9m    2      0       7       5       0        0.01     0.01     0     0     90      21.9%    1.5     4.5     
+Gabriel dos Santos MagalhãesDEF   £7.9m    2      0       7       5       0        0.01     0.01     0     0     90      21.8%    1.5     4.5     
 Max Dowman                  MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Eberechi Eze                MID   £6.2m    0      0       0       0       0        0        0        0     0     0       1.1%     0.5     1       
 Fábio Ferreira Vieira       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
