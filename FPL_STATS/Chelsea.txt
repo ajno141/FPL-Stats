@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-10-16 21:48:50
+Updated: 2026-10-16 23:58:43
 Gameweek: GW6
 Players: 37
 
@@ -16,7 +16,7 @@ Miguel Brau                 DEF   £4.0m    0      0       0       0       0    
 Jay Dasilva                 DEF   £4.0m    5      0       14      3       0        0.02     0.02     0     1     90      1.2%     10      4.2     
 Kaine Kesler-Hayden         DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Liam Kitching               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Joel Latibeaudiere          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
+Joel Latibeaudiere          DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Stephen Mfuni               DEF   £4.0m    7      0       19      1       0.21     0        0.21     1     0     7       0.1%     6.5     6.5     
 Ethan Pinnock               DEF   £4.5m    2      0       6       4       0        0        0        0     0     90      0.1%     5       3.2     
 Bobby Thomas                DEF   £4.0m    4      0       21      22      0        0.01     0.01     0     0     90      9.0%     6.5     4.7     

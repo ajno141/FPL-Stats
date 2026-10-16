@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-10-16 21:48:50
+Updated: 2026-10-16 23:58:43
 Gameweek: GW6
 Players: 36
 
@@ -30,7 +30,7 @@ Azor Matusiwa               MID   £4.9m    0      0       0       0       0    
 Kasey McAteer               MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.9%     0       1       
 Anis Mehmeti                MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Florentino Ibrain Morris LuísMID   £4.8m    2      0       20      9       0        0.13     0.13     0     0     62      0.1%     1.5     1.3     
-Marcelino Núñez             MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       3       
+Marcelino Núñez             MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0       3       
 Chiedozie Ogbene            MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Exequiel Palacios           MID   £5.0m    1      0       8       7       0        0.02     0.02     0     0     27      0.1%     1.5     2.4     
 Jaden Philogene             MID   £5.4m    2      0       9       3       0.03     0.02     0.05     0     0     62      0.1%     1.5     1.3     

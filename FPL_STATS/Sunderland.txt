@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-10-16 21:48:50
+Updated: 2026-10-16 23:58:43
 Gameweek: GW6
 Players: 34
 
@@ -23,14 +23,14 @@ Malick Thiaw                DEF   £5.0m    0      0       -3      8       0    
 Joelinton Cássio Apolinário de LiraMID   £5.4m    0      0       -1      5       0        0.01     0.01     0     0     31      0.0%     0       0       
 Aladji Bamba                MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1       
 Harvey Barnes               MID   £6.1m    2      0       15      7       0.35     0.35     0.7      0     0     90      8.0%     5.5     5       
-Anthony Elanga              MID   £6.1m    0      0       0       0       0        0        0        0     0     0       2.8%     0       6       
+Anthony Elanga              MID   £6.0m    0      0       0       0       0        0        0        0     0     0       2.8%     0       6       
 Nico González Iglesias      MID   £5.5m    7      2       33      9       0        0.22     0.22     0     1     90      0.2%     3.5     3       
 Lewis Miley                 MID   £5.5m    1      0       14      6       0        0.01     0.01     0     0     58      0.1%     2.5     2.2     
 Mason Miley                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Michael Mills               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jacob Murphy                MID   £5.9m    1      0       5       2       0.26     0.15     0.41     0     0     58      0.1%     1       0.7     
 Jacob Ramsey                MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.2%     0       2.3     
-Sean Steur                  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     1.5     1.6     
+Sean Steur                  MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     1.5     1.6     
 Kyran Thompson              MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bazoumana Touré             MID   £5.8m    1      0       8       4       0.09     0.07     0.16     0     0     31      0.1%     1       2.2     
 Joe Willock                 MID   £5.0m    1      0       2       2       0.31     0.06     0.37     0     0     58      0.6%     5.5     3.8     
@@ -38,5 +38,5 @@ Matias Fernandez-Pardo      FWD   £6.0m    2      0       5       5       0.49 
 Sean Neave                  FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 William Osula               FWD   £5.8m    1      0       2       0       0.12     0        0.12     0     0     12      0.3%     0.5     2.5     
 Vakhtang Salia              FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Yoane Wissa                 FWD   £6.3m    2      0       7       0       0.15     0.01     0.16     0     0     77      16.6%    1       2.8     
+Yoane Wissa                 FWD   £6.2m    2      0       7       0       0.15     0.01     0.16     0     0     77      16.4%    1       2.8     
 Nick Woltemade              FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.4%     0       4       

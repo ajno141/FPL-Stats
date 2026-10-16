@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-10-16 21:48:50
+Updated: 2026-10-16 23:58:43
 Gameweek: GW6
 Players: 36
 
@@ -14,7 +14,7 @@ Armin Pecsi                 GK    £4.0m    0      0       0       0       0    
 Freddie Woodman             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
 Ronald Araujo               DEF   £5.4m    0      0       1       6       0        0.01     0.01     0     0     74      3.2%     3.5     3.7     
 Conor Bradley               DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jeremie Frimpong            DEF   £5.3m    1      0       -1      0       0        0        0        0     0     15      1.6%     0.5     0.8     
+Jeremie Frimpong            DEF   £5.2m    1      0       -1      0       0        0        0        0     0     15      1.6%     0.5     0.8     
 Joe Gomez                   DEF   £4.9m    1      0       3       1       0        0        0        0     0     2       0.0%     0.5     1       
 Jeremy Jacquet              DEF   £5.0m    3      0       0       12      0.27     0        0.27     0     0     87      3.9%     4.5     4.5     
 Milos Kerkez                DEF   £5.3m    1      0       1       8       0        0.02     0.02     0     0     90      2.0%     3.5     2.3     
@@ -24,7 +24,7 @@ Calvin Ramsay               DEF   £4.0m    0      0       0       0       0    
 Kostas Tsimikas             DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Virgil van Dijk             DEF   £6.5m    0      0       -3      4       0        0.01     0.01     0     0     90      15.6%    4       4.2     
 Stefan Bajčetić Maquieira   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Bradley Barcola             MID   £8.0m    2      0       21      10      0.05     0.02     0.07     0     0     87      2.5%     2.5     2.2     
+Bradley Barcola             MID   £8.0m    2      0       21      10      0.05     0.02     0.07     0     0     87      2.6%     2.5     2.2     
 Federico Chiesa             MID   £5.3m    1      0       3       0       0        0        0        0     0     2       0.0%     0.5     1       
 Harvey Elliott              MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cody Gakpo                  MID   £7.1m    0      0       0       0       0        0        0        0     0     0       6.9%     1.5     6.4     
@@ -36,9 +36,9 @@ James McConnell             MID   £4.4m    0      0       0       0       0    
 Victor Munoz                MID   £6.5m    2      0       12      6       0.05     0.01     0.06     0     0     90      0.8%     1.5     2.8     
 Rio Ngumoha                 MID   £5.7m    1      0       3       0       0        0        0        0     0     15      0.4%     0.5     1.2     
 Trey Nyoni                  MID   £4.8m    1      0       4       2       0        0        0        0     0     24      0.0%     1       1       
-Dominik Szoboszlai          MID   £6.9m    0      0       0       0       0        0        0        0     0     0       24.3%    1       4       
+Dominik Szoboszlai          MID   £6.8m    0      0       0       0       0        0        0        0     0     0       23.9%    1       4       
 Endo Wataru                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Florian Wirtz               MID   £7.3m    2      0       7       4       0.15     0.2      0.35     0     0     65      5.1%     4       3.3     
+Florian Wirtz               MID   £7.2m    2      0       7       4       0.15     0.2      0.35     0     0     65      5.1%     4       3.3     
 Jayden Danns                FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Hugo Ekitiké                FWD   £7.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Alexander Isak              FWD   £9.0m    0      0       0       0       0        0        0        0     0     0       12.8%    4       6.6     
+Alexander Isak              FWD   £9.0m    0      0       0       0       0        0        0        0     0     0       12.6%    4       6.6     
