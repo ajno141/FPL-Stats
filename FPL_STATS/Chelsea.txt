@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-10-16 15:20:11
+Updated: 2026-10-16 18:51:23
 Gameweek: GW6
 Players: 37
 
@@ -13,13 +13,13 @@ Ben Wilson                  GK    £4.4m    0      0       0       0       0    
 Aurèle Amenda               DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.5%     0       1       
 Jake Bidwell                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Miguel Brau                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jay Dasilva                 DEF   £4.0m    5      0       14      3       0        0.02     0.02     0     1     90      1.1%     10      4.2     
+Jay Dasilva                 DEF   £4.0m    5      0       14      3       0        0.02     0.02     0     1     90      1.2%     10      4.2     
 Kaine Kesler-Hayden         DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Liam Kitching               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Joel Latibeaudiere          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Stephen Mfuni               DEF   £4.0m    7      0       19      1       0.21     0        0.21     1     0     7       0.1%     6.5     6.5     
 Ethan Pinnock               DEF   £4.5m    2      0       6       4       0        0        0        0     0     90      0.1%     5       3.2     
-Bobby Thomas                DEF   £4.0m    4      0       21      22      0        0.01     0.01     0     0     90      8.9%     6.5     4.7     
+Bobby Thomas                DEF   £4.0m    4      0       21      22      0        0.01     0.01     0     0     90      9.0%     6.5     4.7     
 Luke Woolfenden             DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Milan van Ewijk             DEF   £3.9m    6      0       17      14      0        0.01     0.01     0     1     90      7.4%     3       2.4     
 Kai Andrews                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
