@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-10-15 23:07:36
+Updated: 2026-10-16 01:18:33
 Gameweek: GW6
 Players: 43
 
@@ -25,7 +25,7 @@ Nobel Mendy                 DEF   £4.1m    3      0       5       13      0.3  
 Brooke Norton-Cuffy         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0.5     
 Matt Targett                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.4%     0       1       
 David Akintola              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Mohamed Belloumi            MID   £5.2m    6      0       25      2       0.17     0.04     0.21     1     0     26      7.5%     5       6.2     
+Mohamed Belloumi            MID   £5.2m    6      0       25      2       0.17     0.04     0.21     1     0     26      7.6%     5       6.2     
 Mohamed-Ali Cho             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     3       2.2     
 Matt Crooks                 MID   £4.4m    1      0       5       6       0        0.01     0.01     0     0     64      0.5%     0.5     1       
 Kieran Dowell               MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
