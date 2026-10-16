@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-10-16 18:51:23
+Updated: 2026-10-16 21:48:50
 Gameweek: GW6
 Players: 36
 
@@ -33,12 +33,12 @@ George Hemmings             MID   £4.5m    0      0       0       0       0    
 Samuel Iling-Junior         MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Boubacar Kamara             MID   £5.0m    4      0       21      13      0.05     0.08     0.13     0     0     90      0.3%     5       3.2     
 Luka Lynch                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Johan Manzambi              MID   £5.9m    5      0       23      4       0.54     0.16     0.7      0     1     85      1.5%     9       6.3     
+Johan Manzambi              MID   £5.9m    5      0       23      4       0.54     0.16     0.7      0     1     85      1.6%     9       6.3     
 Ibrahim Mbaye               MID   £6.0m    1      0       6       3       0.04     0.07     0.11     0     0     26      0.1%     1       1       
 John McGinn                 MID   £5.4m    10     3       36      6       0.87     0.07     0.94     1     0     90      2.7%     8       4.5     
 Amadou Onana                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Alysson Edward Franco da Rocha dos SantosMID   £5.0m    1      0       3       0       0        0        0        0     0     4       0.0%     0.5     1.8     
 Tammy Abraham               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.5     1       
-Nicolas Jackson             FWD   £6.6m    9      3       36      2       0.42     0.13     0.55     1     0     90      3.5%     7.5     3.8     
+Nicolas Jackson             FWD   £6.6m    9      3       36      2       0.42     0.13     0.55     1     0     90      3.6%     7.5     3.8     
 Brian Madjo                 FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Ollie Watkins               FWD   £7.8m    0      0       0       0       0        0        0        0     0     0       2.4%     0       0       

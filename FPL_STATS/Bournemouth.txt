@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-10-16 18:51:23
+Updated: 2026-10-16 21:48:50
 Gameweek: GW6
 Players: 29
 
@@ -27,7 +27,7 @@ Lewis Cook                  MID   £5.0m    1      0       3       4       0    
 Ben Gannon-Doak             MID   £4.8m    1      0       10      5       0        0.05     0.05     0     0     45      0.1%     1       1       
 Justin Kluivert             MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.6%     0       3.8     
 Junior Kroupi               MID   £7.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Alex Scott                  MID   £6.0m    0      0       0       0       0        0        0        0     0     0       3.3%     1       6       
+Alex Scott                  MID   £6.0m    0      0       0       0       0        0        0        0     0     0       3.2%     1       6       
 Rayan Vitor Simplício Rocha MID   £6.3m    2      0       8       3       0.27     0.03     0.3      0     0     90      1.5%     2       2       
 Marcus Tavernier            MID   £6.1m    1      0       5       5       0        0.04     0.04     0     0     72      7.5%     1.5     5.3     
 Alex Tóth                   MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
