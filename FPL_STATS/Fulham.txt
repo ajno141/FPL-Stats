@@ -1,6 +1,6 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-10-16 01:18:33
+Updated: 2026-10-16 05:56:31
 Gameweek: GW6
 Players: 28
 
@@ -9,7 +9,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Benjamin Lecomte            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
 Bernd Leno                  GK    £4.5m    2      0       11      0       0        0        0        0     0     90      4.1%     2.5     3.3     
 Alfie McNally               GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-David Affengruber           DEF   £4.5m    3      0       3       11      0.08     0.01     0.09     0     0     90      0.6%     3.5     5       
+David Affengruber           DEF   £4.5m    3      0       3       11      0.08     0.01     0.09     0     0     90      0.7%     3.5     5       
 Joachim Andersen            DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0.5     1       
 Calvin Bassey               DEF   £4.5m    2      0       2       12      0        0.02     0.02     0     0     90      1.0%     4       2.8     
 Timothy Castagne            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       1.2%     0.5     4       
