@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-10-17 17:58:18
+Updated: 2026-10-17 20:27:16
 Gameweek: GW7
 Players: 37
 
@@ -13,7 +13,7 @@ Ben Wilson                  GK    £4.4m    0      0       0       0       0    
 Aurèle Amenda               DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.5%     0       1       
 Jake Bidwell                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Miguel Brau                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jay Dasilva                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.3%     6.7     4.2     
+Jay Dasilva                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.4%     6.7     4.2     
 Kaine Kesler-Hayden         DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Liam Kitching               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Joel Latibeaudiere          DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
