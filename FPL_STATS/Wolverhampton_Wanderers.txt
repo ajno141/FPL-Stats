@@ -1,6 +1,6 @@
 WOLVERHAMPTON WANDERERS
 =================================================================================================================================================
-Updated: 2026-10-17 12:22:43
+Updated: 2026-10-17 15:47:13
 Gameweek: GW7
 Players: 30
 
@@ -16,7 +16,7 @@ Leo Fuhr Hjelde             DEF   £4.0m    0      0       0       0       0    
 Trai Hume                   DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       2.1%     0.7     2.2     
 Reinildo Mandava            DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0.7     1.8     
 Arthur Masuaku              DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Thomas Meunier              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     1.3     2.5     
+Thomas Meunier              DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     1.3     2.5     
 Nordi Mukiele               DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       1.8%     1       3.2     
 Dayann Méthalie             DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Luke O'Nien                 DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       2.5%     0       1       

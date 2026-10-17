@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-10-17 12:22:43
+Updated: 2026-10-17 15:47:13
 Gameweek: GW7
 Players: 29
 
@@ -31,7 +31,7 @@ Declan Rice                 MID   £7.3m    0      0       0       0       0    
 Bukayo Saka                 MID   £9.6m    0      0       0       0       0        0        0        0     0     0       17.0%    1.3     5.7     
 Christos Tzolis             MID   £6.2m    0      0       0       0       0        0        0        0     0     0       5.2%     0.7     3.2     
 Martín Zubimendi Ibáñez     MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.5%     0.3     1       
-Martin Ødegaard             MID   £6.8m    0      0       0       0       0        0        0        0     0     0       19.1%    1       5       
+Martin Ødegaard             MID   £6.8m    0      0       0       0       0        0        0        0     0     0       19.0%    1       5       
 Gabriel Fernando de Jesus   FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Viktor Gyökeres             FWD   £7.1m    0      0       0       0       0        0        0        0     0     0       3.4%     0.7     1       
+Viktor Gyökeres             FWD   £7.1m    0      0       0       0       0        0        0        0     0     0       3.3%     0.7     1       
 Kai Havertz                 FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       6.5%     1.3     3.5     
