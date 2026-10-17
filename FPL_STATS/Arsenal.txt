@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-10-17 15:47:13
+Updated: 2026-10-17 17:58:18
 Gameweek: GW7
 Players: 29
 
@@ -9,7 +9,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Kepa Arrizabalaga Revuelta  GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Illan Meslier               GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 David Raya Martín           GK    £6.1m    0      0       0       0       0        0        0        0     0     0       43.8%    1.3     5.5     
-Riccardo Calafiori          DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       53.2%    3.3     6.3     
+Riccardo Calafiori          DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       53.3%    3.3     6.3     
 Piero Hincapié              DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       0.8%     0.3     1       
 Ezri Konsa Ngoyo            DEF   £4.6m    0      0       0       0       0        0        0        0     0     0       17.4%    1.7     3.2     
 Cristhian Mosquera          DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       1.4%     0       6       
@@ -29,9 +29,9 @@ Reiss Nelson                MID   £5.5m    0      0       0       0       0    
 Ethan Nwaneri               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Declan Rice                 MID   £7.3m    0      0       0       0       0        0        0        0     0     0       10.9%    2.7     4.5     
 Bukayo Saka                 MID   £9.6m    0      0       0       0       0        0        0        0     0     0       17.0%    1.3     5.7     
-Christos Tzolis             MID   £6.2m    0      0       0       0       0        0        0        0     0     0       5.2%     0.7     3.2     
+Christos Tzolis             MID   £6.2m    0      0       0       0       0        0        0        0     0     0       5.1%     0.7     3.2     
 Martín Zubimendi Ibáñez     MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.5%     0.3     1       
 Martin Ødegaard             MID   £6.8m    0      0       0       0       0        0        0        0     0     0       19.0%    1       5       
 Gabriel Fernando de Jesus   FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Viktor Gyökeres             FWD   £7.1m    0      0       0       0       0        0        0        0     0     0       3.3%     0.7     1       
-Kai Havertz                 FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       6.5%     1.3     3.5     
+Kai Havertz                 FWD   £7.5m    0      0       0       0       0        0        0        0     0     0       6.4%     1.3     3.5     
