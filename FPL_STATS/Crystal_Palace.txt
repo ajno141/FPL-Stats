@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-10-18 00:14:51
+Updated: 2026-10-18 04:42:53
 Gameweek: GW7
 Players: 36
 
@@ -13,7 +13,7 @@ Honest Ahanor               DEF   £4.5m    0      0       0       0       0    
 Jaydee Canvot               DEF   £4.8m    0      0       0       0       0        0        0        0     0     0       0.2%     4       2.8     
 Rio Cardines                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ben Chilwell                DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0       4       
-Axel Disasi                 DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0.3     
+Axel Disasi                 DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0.3     
 Anan Khalaili               DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.3%     2.7     3.5     
 Oscar Mingueza              DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Tyrick Mitchell             DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       5.8%     3.7     4.7     
