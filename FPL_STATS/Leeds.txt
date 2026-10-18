@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-10-18 18:54:12
+Updated: 2026-10-18 21:13:54
 Gameweek: GW7
 Players: 43
 
@@ -21,11 +21,11 @@ Charlie Hughes              DEF   £3.9m    0      0       0       0       0    
 Matty Jacob                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cathal McCarthy             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Paddy McNair                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
-Nobel Mendy                 DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       5.7%     1       5.6     
+Nobel Mendy                 DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       5.6%     1       5.6     
 Brooke Norton-Cuffy         DEF   £4.0m    2      0       3       3       0        0        0        0     0     67      0.2%     0.7     1       
 Matt Targett                DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       1.4%     0       1       
 David Akintola              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Mohamed Belloumi            MID   £5.2m    2      0       16      6       0.07     0.14     0.21     0     0     90      9.0%     4       5.6     
+Mohamed Belloumi            MID   £5.2m    2      0       16      6       0.07     0.14     0.21     0     0     90      9.1%     4       5.6     
 Mohamed-Ali Cho             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     2       2.2     
 Matt Crooks                 MID   £4.4m    2      0       6       4       0        0        0        0     0     67      0.6%     1       1.2     
 Kieran Dowell               MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
