@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-10-18 13:14:56
+Updated: 2026-10-18 16:35:18
 Gameweek: GW7
 Players: 36
 
@@ -38,7 +38,7 @@ Sam Szmodics                MID   £5.0m    0      0       0       0       0    
 Jack Taylor                 MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Chuba Akpom                 FWD   £5.0m    1      0       6       1       0        0        0        0     0     12      1.0%     1       1.8     
 Ali Al-Hamadi               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Emersonn Correia da Silva   FWD   £5.6m    2      0       0       1       0.23     0        0.23     0     0     77      3.8%     2       4.3     
+Emersonn Correia da Silva   FWD   £5.6m    2      0       0       1       0.23     0        0.23     0     0     77      3.7%     2       4.3     
 Zian Flemming               FWD   £5.5m    5      0       18      1       0.9      0        0.9      1     0     12      0.1%     2       2.4     
 George Hirst                FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Sindre Walle Egeli          FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       3.4%     0.3     1       

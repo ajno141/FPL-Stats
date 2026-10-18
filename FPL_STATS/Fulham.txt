@@ -1,6 +1,6 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-10-18 13:14:56
+Updated: 2026-10-18 16:35:18
 Gameweek: GW7
 Players: 28
 
@@ -11,7 +11,7 @@ Bernd Leno                  GK    £4.5m    6      0       27      0       0    
 Alfie McNally               GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 David Affengruber           DEF   £4.5m    6      0       22      7       0        0.01     0.01     0     0     90      0.7%     4.3     5.2     
 Joachim Andersen            DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
-Calvin Bassey               DEF   £4.5m    8      0       25      10      0.15     0.02     0.17     0     0     90      1.0%     5.3     3.6     
+Calvin Bassey               DEF   £4.5m    8      0       25      10      0.15     0.02     0.17     0     0     90      1.1%     5.3     3.6     
 Timothy Castagne            DEF   £4.5m    8      2       32      6       0        0.11     0.11     0     0     90      1.2%     3       4.7     
 Jorge Cuenca Barreno        DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       3       
 Luc De Fougerolles          DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
