@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-10-18 21:13:54
+Updated: 2026-10-18 23:18:38
 Gameweek: GW7
 Players: 33
 
@@ -11,7 +11,7 @@ Gianluigi Donnarumma        GK    £5.5m    1      0       2       0       0    
 Gerónimo Rulli              GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Max Alleyne                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Rayan Aït-Nouri             DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
-Kaden Braithwaite           DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
+Kaden Braithwaite           DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
 Marc Guéhi                  DEF   £6.0m    1      0       5       3       0        0.14     0.14     0     0     90      17.9%    3.7     5.3     
 Joško Gvardiol              DEF   £5.8m    0      0       -4      2       0        0.09     0.09     0     0     29      28.6%    2.7     5.9     
 Abdukodir Khusanov          DEF   £5.3m    1      0       -1      1       0        0        0        0     0     14      1.2%     0.3     2.5     
@@ -23,7 +23,7 @@ Rúben dos Santos Gato Alves DiasDEF   £5.5m    1      0       8       4       
 Elliot Anderson             MID   £6.3m    1      0       7       5       0        0        0        0     0     13      3.9%     3       3.1     
 Allan Andrade Elias         MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
 Ayyoub Bouaddi              MID   £5.5m    2      0       23      11      0        0.02     0.02     0     0     90      0.2%     0.7     1       
-Rayan Cherki                MID   £8.0m    0      0       0       0       0        0        0        0     0     0       37.1%    6       7.3     
+Rayan Cherki                MID   £8.0m    0      0       0       0       0        0        0        0     0     0       37.2%    6       7.3     
 Jérémy Doku                 MID   £7.4m    6      1       31      4       0.13     0.35     0.48     0     1     76      2.1%     6.3     6.3     
 Claudio Echeverri           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Enzo Fernández              MID   £6.9m    1      0       6       4       0.45     0.27     0.72     0     0     40      4.0%     3.7     2.8     
@@ -36,6 +36,6 @@ Divine Mukasa               MID   £4.5m    0      0       0       0       0    
 Iliman Ndiaye               MID   £5.8m    5      0       25      7       1.09     0.06     1.15     0     1     90      5.5%     3.7     4       
 Kalvin Phillips             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Floyd Samba                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Antoine Semenyo             MID   £8.3m    1      0       2       1       0        0        0        0     0     13      14.1%    7       5.3     
+Floyd Samba                 MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Antoine Semenyo             MID   £8.3m    1      0       2       1       0        0        0        0     0     13      14.0%    7       5.3     
 Erling Haaland              FWD   £15.7m   13     3       71      2       0.85     0.37     1.22     2     0     90      76.7%    8.3     8.3     
