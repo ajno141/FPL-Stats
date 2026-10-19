@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-10-19 01:24:19
+Updated: 2026-10-19 06:31:14
 Gameweek: GW7
 Players: 37
 
@@ -30,7 +30,7 @@ Matt Grimes                 MID   £4.9m    0      0       0       0       0    
 Gustavo Hamer               MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Ephron Mason-Clark          MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.1%     1.3     1.6     
 Frank Onyeka                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     1.3     2       
-Jack Rudoni                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.2%     4       3.3     
+Jack Rudoni                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.3%     4       3.3     
 Tatsuhiro Sakamoto          MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
 George Shepherd             MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Loum Tchaouna               MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1.2     
