@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-10-21 06:44:51
+Updated: 2026-10-21 12:28:12
 Gameweek: GW7
 Players: 36
 
@@ -9,7 +9,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Marco Bizot                 GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Zion Suzuki                 GK    £5.0m    8      2       27      0       0        0        0        0     0     90      2.0%     5       4.3     
 James Wright                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Matty Cash                  DEF   £4.4m    8      0       20      10      0.06     0.01     0.07     0     0     90      4.2%     4       2.3     
+Matty Cash                  DEF   £4.4m    8      0       20      10      0.06     0.01     0.07     0     0     90      4.1%     4       2.3     
 Lucas Digne                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Andrés García               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.4%     0       0       
 Taylor Harwood-Bellis       DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
