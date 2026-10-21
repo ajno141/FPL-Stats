@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-10-21 01:51:32
+Updated: 2026-10-21 06:44:51
 Gameweek: GW7
 Players: 37
 
@@ -8,16 +8,16 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Jason Steele                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       3.8%     0       0       
 Bart Verbruggen             GK    £4.6m    6      0       22      0       0        0.01     0.01     0     0     90      22.6%    7.5     5.4     
-Olivier Boscagli            DEF   £4.5m    10     1       38      6       0        0.15     0.15     0     1     80      0.4%     7.5     4.9     
+Olivier Boscagli            DEF   £4.5m    10     1       38      6       0        0.15     0.15     0     1     80      0.5%     7.5     4.9     
 Diego Coppola               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Maxim De Cuyper             DEF   £5.3m    6      0       29      4       0        0.13     0.13     0     0     90      41.0%    10.5    8.4     
+Maxim De Cuyper             DEF   £5.3m    6      0       29      4       0        0.13     0.13     0     0     90      41.1%    10.5    8.4     
 Lewis Dunk                  DEF   £4.5m    6      0       29      9       0        0.01     0.01     0     0     89      1.5%     3.5     4.8     
 Jaouen Hadjam               DEF   £4.5m    1      0       3       1       0        0        0        0     0     9       0.1%     4       4       
 Ferdi Kadıoğlu              DEF   £4.4m    6      0       27      6       0.03     0.02     0.05     0     0     90      1.7%     7.5     4.7     
 João Pedro Loureiro da CostaDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     0.8     
 Pascal Struijk              DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     -1      1.2     
 Michael Svoboda             DEF   £5.0m    1      0       3       2       0        0        0        0     0     1       0.1%     0.5     1       
-Luka Vušković               DEF   £5.1m    11     0       36      12      0.37     0.09     0.46     0     1     90      5.6%     9.5     7.3     
+Luka Vušković               DEF   £5.1m    11     0       36      12      0.37     0.09     0.46     0     1     90      5.7%     9.5     7.3     
 Mats Wieffer                DEF   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0       3.5     
 Igor Julio dos Santos de PauloDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 José María Andrés Baixauli  MID   £5.5m    2      0       9       7       0        0.02     0.02     0     0     90      0.1%     2.5     4.2     
