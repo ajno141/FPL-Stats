@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-10-22 13:11:13
+Updated: 2026-10-22 17:59:29
 Gameweek: GW7
 Players: 33
 
@@ -12,7 +12,7 @@ Gerónimo Rulli              GK    £4.9m    0      0       0       0       0   
 Max Alleyne                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Rayan Aït-Nouri             DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Kaden Braithwaite           DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
-Marc Guéhi                  DEF   £6.0m    1      0       6       3       0        0.12     0.12     0     0     90      17.8%    3.5     5.3     
+Marc Guéhi                  DEF   £6.0m    1      0       6       3       0        0.12     0.12     0     0     90      17.7%    3.5     5.3     
 Joško Gvardiol              DEF   £5.8m    0      0       -4      2       0        0.09     0.09     0     0     29      28.1%    2       5.9     
 Abdukodir Khusanov          DEF   £5.3m    1      0       -1      1       0        0        0        0     0     14      1.2%     0.5     2.5     
 Rico Lewis                  DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
@@ -23,7 +23,7 @@ Rúben dos Santos Gato Alves DiasDEF   £5.5m    1      0       8       4       
 Elliot Anderson             MID   £6.3m    1      0       7       5       0        0        0        0     0     13      3.9%     3.5     3.1     
 Allan Andrade Elias         MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Ayyoub Bouaddi              MID   £5.5m    2      0       23      11      0        0.02     0.02     0     0     90      0.2%     1       1       
-Rayan Cherki                MID   £8.0m    0      0       0       0       0        0        0        0     0     0       38.1%    5       7.3     
+Rayan Cherki                MID   £8.0m    0      0       0       0       0        0        0        0     0     0       38.2%    5       7.3     
 Jérémy Doku                 MID   £7.5m    6      1       31      4       0.13     0.36     0.49     0     1     76      2.7%     9       6.3     
 Claudio Echeverri           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Enzo Fernández              MID   £6.9m    1      0       8       5       0.45     0.26     0.71     0     0     40      4.0%     2       2.8     
@@ -37,5 +37,5 @@ Iliman Ndiaye               MID   £5.8m    5      0       30      7       0.88 
 Kalvin Phillips             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Floyd Samba                 MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Antoine Semenyo             MID   £8.3m    1      0       2       1       0        0        0        0     0     13      11.6%    2       5.3     
+Antoine Semenyo             MID   £8.3m    1      0       2       1       0        0        0        0     0     13      11.4%    2       5.3     
 Erling Haaland              FWD   £15.7m   13     3       71      2       0.87     0.23     1.1      2     0     90      76.9%    9.5     8.3     
