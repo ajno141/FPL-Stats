@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-10-22 07:36:50
+Updated: 2026-10-22 13:11:13
 Gameweek: GW7
 Players: 43
 
@@ -17,7 +17,7 @@ Cody Drameh                 DEF   £4.0m    0      0       0       0       0    
 John Egan                   DEF   £4.1m    4      0       12      12      0        0        0        0     0     90      7.2%     2.5     4.4     
 Ryan Giles                  DEF   £4.0m    1      0       3       3       0        0        0        0     0     22      2.9%     1.5     3.9     
 Lucas Herrington            DEF   £4.0m    0      0       -4      8       0        0        0        0     0     45      0.5%     0       0.8     
-Charlie Hughes              DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
+Charlie Hughes              DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Matty Jacob                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cathal McCarthy             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Paddy McNair                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
