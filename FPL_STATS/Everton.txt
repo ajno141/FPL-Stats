@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-10-22 17:59:29
+Updated: 2026-10-22 21:27:36
 Gameweek: GW7
 Players: 25
 
@@ -11,7 +11,7 @@ Jordan Pickford             GK    £5.5m    2      0       11      0       0    
 Mark Travers                GK    £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Adam Aznou                  DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Jarrad Branthwaite          DEF   £5.5m    1      0       5       8       0.06     0.01     0.07     0     0     90      2.4%     2       4.4     
-Michael Keane               DEF   £4.7m    0      0       0       0       0        0        0        0     0     0       0.7%     0.5     1       
+Michael Keane               DEF   £4.7m    0      0       0       0       0        0        0        0     0     0       0.6%     0.5     1       
 Ainsley Maitland-Niles      DEF   £4.5m    1      0       -1      4       0        0.01     0.01     0     0     54      1.5%     2.5     5.2     
 Vitalii Mykolenko           DEF   £4.6m    1      0       17      4       0        0.21     0.21     0     0     90      2.7%     0.5     4.7     
 Jake O'Brien                DEF   £4.8m    0      0       0       0       0        0        0        0     0     0       0.3%     0.5     1       
