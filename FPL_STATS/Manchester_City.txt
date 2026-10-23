@@ -1,6 +1,6 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-10-23 09:36:12
+Updated: 2026-10-23 14:25:15
 Gameweek: GW7
 Players: 31
 
@@ -12,13 +12,13 @@ James Trafford              GK    £5.0m    2      0       13      0       0    
 Michael Zetterer            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Melvin Bard                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Jaka Bijol                  DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.6%     0.5     3.2     
-Jayden Bogle                DEF   £4.7m    2      0       12      3       0.04     0.33     0.37     0     0     90      10.5%    1.5     6.4     
+Jayden Bogle                DEF   £4.7m    2      0       12      3       0.04     0.33     0.37     0     0     90      10.6%    1.5     6.4     
 Sebastiaan Bornauw          DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nico Elvedi                 DEF   £4.5m    2      0       13      6       0.12     0.02     0.14     0     0     90      0.1%     1.5     2.7     
 Gabriel Gudmundsson         DEF   £4.5m    1      0       1       2       0        0        0        0     0     90      0.1%     2.5     3.8     
 James Justin                DEF   £4.5m    2      0       16      6       0        0.09     0.09     0     0     90      2.2%     4       4.9     
 Jayden Lienou               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Tarik Muharemović           DEF   £5.0m    5      0       21      5       0.06     0.16     0.22     0     1     90      5.2%     3.5     4.9     
+Tarik Muharemović           DEF   £5.0m    5      0       21      5       0.06     0.16     0.22     0     1     90      5.3%     3.5     4.9     
 Joe Rodon                   DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.5%     0       3.5     
 Brenden Aaronson            MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.4%     0.5     1.3     
 Ethan Ampadu                MID   £5.3m    1      0       7       10      0        0.04     0.04     0     0     90      0.8%     1       3.3     

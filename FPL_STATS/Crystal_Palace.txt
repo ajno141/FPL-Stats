@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-10-23 09:36:12
+Updated: 2026-10-23 14:25:15
 Gameweek: GW7
 Players: 36
 
@@ -16,7 +16,7 @@ Ben Chilwell                DEF   £4.4m    0      0       0       0       0    
 Axel Disasi                 DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0.3     
 Anan Khalaili               DEF   £5.0m    0      0       -9      9       0.08     0.03     0.11     0     0     90      0.3%     1       3       
 Oscar Mingueza              DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
-Tyrick Mitchell             DEF   £4.5m    0      0       -7      7       0        0        0        0     0     90      5.6%     2       4       
+Tyrick Mitchell             DEF   £4.5m    0      0       -7      7       0        0        0        0     0     90      5.5%     2       4       
 Chadi Riad Dnanou           DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Chris Richards              DEF   £4.9m    2      0       -7      13      0        0.01     0.01     0     0     90      0.6%     3       2.9     
 Borna Sosa                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
