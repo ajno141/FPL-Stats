@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-10-24 09:02:09
+Updated: 2026-10-24 13:15:35
 Gameweek: GW8
 Players: 37
 
@@ -10,7 +10,7 @@ Jason Steele                GK    £4.0m    0      0       0       0       0    
 Bart Verbruggen             GK    £4.6m    0      0       0       0       0        0        0        0     0     0       22.7%    5       5.4     
 Olivier Boscagli            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.6%     5       4.9     
 Diego Coppola               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Maxim De Cuyper             DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       42.2%    7       8.4     
+Maxim De Cuyper             DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       42.3%    7       8.4     
 Lewis Dunk                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       1.4%     2.3     4.8     
 Jaouen Hadjam               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     2.7     4       
 Ferdi Kadıoğlu              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       1.7%     5       4.7     
