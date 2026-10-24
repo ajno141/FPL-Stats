@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-10-24 21:32:43
+Updated: 2026-10-24 23:39:39
 Gameweek: GW8
 Players: 36
 
@@ -39,6 +39,6 @@ John McGinn                 MID   £5.4m    6      1       29      7       0    
 Amadou Onana                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Alysson Edward Franco da Rocha dos SantosMID   £4.9m    1      0       3       5       0.1      0.01     0.11     0     0     58      0.1%     0.7     1.4     
 Tammy Abraham               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
-Nicolas Jackson             FWD   £6.6m    13     3       66      7       0.37     0.02     0.39     2     0     81      5.8%     8       4.9     
+Nicolas Jackson             FWD   £6.7m    13     3       66      7       0.37     0.02     0.39     2     0     81      6.0%     8       4.9     
 Brian Madjo                 FWD   £5.4m    0      0       2       0       0        0        0        0     0     8       0.2%     0       0       
 Ollie Watkins               FWD   £7.8m    0      0       0       0       0        0        0        0     0     0       2.3%     0       0       

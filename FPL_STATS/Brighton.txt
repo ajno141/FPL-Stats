@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-10-24 21:32:43
+Updated: 2026-10-24 23:39:39
 Gameweek: GW8
 Players: 37
 
@@ -17,7 +17,7 @@ Ferdi Kadıoğlu              DEF   £4.4m    0      0       0       0       0  
 João Pedro Loureiro da CostaDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     0.8     
 Pascal Struijk              DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     -0.7    1.2     
 Michael Svoboda             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
-Luka Vušković               DEF   £5.1m    0      0       0       0       0        0        0        0     0     0       6.3%     6.3     7.3     
+Luka Vušković               DEF   £5.1m    0      0       0       0       0        0        0        0     0     0       6.4%     6.3     7.3     
 Mats Wieffer                DEF   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0       3.5     
 Igor Julio dos Santos de PauloDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 José María Andrés Baixauli  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     1.7     4.2     
