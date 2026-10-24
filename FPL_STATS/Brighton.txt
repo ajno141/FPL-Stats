@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-10-24 13:15:35
+Updated: 2026-10-24 16:41:50
 Gameweek: GW8
 Players: 37
 
@@ -17,7 +17,7 @@ Ferdi Kadıoğlu              DEF   £4.4m    0      0       0       0       0  
 João Pedro Loureiro da CostaDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     0.8     
 Pascal Struijk              DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     -0.7    1.2     
 Michael Svoboda             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.3     1       
-Luka Vušković               DEF   £5.1m    0      0       0       0       0        0        0        0     0     0       6.2%     6.3     7.3     
+Luka Vušković               DEF   £5.1m    0      0       0       0       0        0        0        0     0     0       6.3%     6.3     7.3     
 Mats Wieffer                DEF   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0       3.5     
 Igor Julio dos Santos de PauloDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 José María Andrés Baixauli  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     1.7     4.2     
@@ -25,7 +25,7 @@ Yasin Ayari                 MID   £5.4m    0      0       0       0       0    
 Femi Azeez                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amario Cozier-Duberry       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Pascal Groß                 MID   £6.2m    0      0       0       0       0        0        0        0     0     0       46.4%    3.7     8.3     
+Pascal Groß                 MID   £6.2m    0      0       0       0       0        0        0        0     0     0       46.5%    3.7     8.3     
 Diego Gómez Amarilla        MID   £5.0m    0      0       0       0       0        0        0        0     0     0       4.0%     4.3     5.3     
 Jack Hinshelwood            MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.6%     2       11      
 Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -36,7 +36,7 @@ Matt O'Riley                MID   £5.4m    0      0       0       0       0    
 Nehemiah Oriola             MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Ibrahim Osman               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Tom Watson                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Malick Yalcouyé             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       3.3%     0.7     3.1     
+Malick Yalcouyé             MID   £4.5m    0      0       0       0       0        0        0        0     0     0       3.2%     0.7     3.1     
 Zadok Yohanna               MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Promise David               FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0.5     
 Evan Ferguson               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

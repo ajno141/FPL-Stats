@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-10-24 13:15:35
+Updated: 2026-10-24 16:41:50
 Gameweek: GW8
 Players: 36
 
@@ -11,13 +11,13 @@ Alex Palmer                 GK    £4.0m    0      0       0       0       0    
 Kjell Scherpen              GK    £4.4m    0      0       0       0       0        0        0        0     0     0       0.5%     0       1.8     
 Christian Walton            GK    £4.4m    3      0       13      0       0        0        0        0     0     90      0.5%     2.3     2.2     
 Kayne van Oevelen           GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Leif Davis                  DEF   £4.0m    2      0       20      6       0        0.06     0.06     0     0     90      7.4%     1       3.5     
+Leif Davis                  DEF   £4.0m    2      0       20      6       0        0.06     0.06     0     0     90      7.3%     1       3.5     
 Issa Diop                   DEF   £3.9m    1      0       5       6       0        0        0        0     0     90      10.9%    2       2.2     
 Darnell Furlong             DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.6%     0       1       
 Jacob Greaves               DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       1.1%     0.3     0.8     
 Ben Johnson                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cédric Kipré                DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.8%     0       0       
-Dara O'Shea                 DEF   £4.0m    2      0       7       8       0        0.01     0.01     0     0     90      2.8%     5.3     3.2     
+Dara O'Shea                 DEF   £4.0m    2      0       7       8       0        0.01     0.01     0     0     90      2.9%     5.3     3.2     
 Abdoul Ouattara             DEF   £4.0m    2      0       11      7       0        0.02     0.02     0     0     90      1.0%     5       2.6     
 Wes Burns                   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jack Clarke                 MID   £5.3m    1      0       3       3       0.05     0        0.05     0     0     29      0.2%     2       2.4     
@@ -41,4 +41,4 @@ Ali Al-Hamadi               FWD   £5.0m    0      0       0       0       0    
 Emersonn Correia da Silva   FWD   £5.5m    1      0       5       2       0        0.05     0.05     0     0     59      3.5%     1.7     3.9     
 Zian Flemming               FWD   £5.5m    1      0       5       4       0        0.01     0.01     0     0     30      0.1%     2.3     2.2     
 George Hirst                FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Sindre Walle Egeli          FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       3.2%     0.3     1       
+Sindre Walle Egeli          FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       3.1%     0.3     1       

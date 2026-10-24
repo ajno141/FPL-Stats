@@ -1,6 +1,6 @@
 SUNDERLAND
 =================================================================================================================================================
-Updated: 2026-10-24 13:15:35
+Updated: 2026-10-24 16:41:50
 Gameweek: GW8
 Players: 34
 
@@ -38,5 +38,5 @@ Matias Fernandez-Pardo      FWD   £6.0m    0      0       0       0       0    
 Sean Neave                  FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 William Osula               FWD   £5.8m    0      0       0       0       0        0        0        0     0     0       0.3%     0.3     1.7     
 Vakhtang Salia              FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Yoane Wissa                 FWD   £6.1m    0      0       0       0       0        0        0        0     0     0       12.5%    1       2.6     
+Yoane Wissa                 FWD   £6.1m    0      0       0       0       0        0        0        0     0     0       12.4%    1       2.6     
 Nick Woltemade              FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.4%     0       4       
