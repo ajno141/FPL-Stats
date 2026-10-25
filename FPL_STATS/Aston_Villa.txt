@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-10-24 23:39:39
+Updated: 2026-10-25 01:39:40
 Gameweek: GW8
 Players: 36
 
@@ -33,7 +33,7 @@ George Hemmings             MID   £4.5m    0      0       0       0       0    
 Samuel Iling-Junior         MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Boubacar Kamara             MID   £5.0m    4      0       18      16      0        0        0        0     0     90      0.3%     4.3     3.5     
 Luka Lynch                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Johan Manzambi              MID   £6.0m    1      0       8       6       0.07     0        0.07     0     0     65      3.3%     5.7     6.2     
+Johan Manzambi              MID   £6.0m    1      0       8       6       0.07     0        0.07     0     0     65      3.4%     5.7     6.2     
 Ibrahim Mbaye               MID   £6.0m    4      0       16      1       0        0.04     0.04     0     1     31      0.1%     2       1.6     
 John McGinn                 MID   £5.4m    6      1       29      7       0        0.21     0.21     0     1     65      2.9%     5.7     4.2     
 Amadou Onana                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

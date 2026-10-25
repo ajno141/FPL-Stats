@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-10-24 23:39:39
+Updated: 2026-10-25 01:39:40
 Gameweek: GW8
 Players: 29
 
@@ -25,7 +25,7 @@ David Brooks                MID   £5.0m    0      0       0       0       0    
 Ryan Christie               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     1.7     1.7     
 Lewis Cook                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     1       1.6     
 Ben Gannon-Doak             MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.7     1       
-Justin Kluivert             MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.6%     0.3     3.2     
+Justin Kluivert             MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.7%     0.3     3.2     
 Junior Kroupi               MID   £7.3m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Alex Scott                  MID   £6.0m    0      0       0       0       0        0        0        0     0     0       2.5%     0       6       
 Rayan Vitor Simplício Rocha MID   £6.3m    0      0       0       0       0        0        0        0     0     0       1.5%     1.7     2.1     
