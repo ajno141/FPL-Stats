@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-10-25 06:53:21
+Updated: 2026-10-25 12:17:26
 Gameweek: GW8
 Players: 29
 
@@ -16,7 +16,7 @@ James Hill                  DEF   £5.5m    0      0       0       0       0    
 Veljko Milosavljevic        DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.7%     2.7     3       
 Adam Smith                  DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     2       1.4     
-Julio Soler Barreto         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
+Julio Soler Barreto         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.3%     0.3     1       
 Juanlu Sánchez              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
 Adrien Truffert             DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       2.7%     1.7     2.1     
 Tyler Adams                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.3%     1.3     2.3     
@@ -29,9 +29,9 @@ Justin Kluivert             MID   £5.9m    0      0       0       0       0    
 Junior Kroupi               MID   £7.3m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Alex Scott                  MID   £6.0m    0      0       0       0       0        0        0        0     0     0       2.5%     0       6       
 Rayan Vitor Simplício Rocha MID   £6.3m    0      0       0       0       0        0        0        0     0     0       1.5%     1.7     2.1     
-Marcus Tavernier            MID   £6.3m    0      0       0       0       0        0        0        0     0     0       14.4%    3.7     6       
+Marcus Tavernier            MID   £6.3m    0      0       0       0       0        0        0        0     0     0       14.5%    3.7     6       
 Alex Tóth                   MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Álvaro Rodríguez            FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.7     1       
-Francisco Evanilson de Lima BarbosaFWD   £6.2m    0      0       0       0       0        0        0        0     0     0       6.2%     6.3     5.3     
+Francisco Evanilson de Lima BarbosaFWD   £6.2m    0      0       0       0       0        0        0        0     0     0       6.3%     6.3     5.3     
 Enes Ünal                   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
