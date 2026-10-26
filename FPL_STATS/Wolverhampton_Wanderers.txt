@@ -1,6 +1,6 @@
 WOLVERHAMPTON WANDERERS
 =================================================================================================================================================
-Updated: 2026-10-25 23:40:43
+Updated: 2026-10-26 01:44:59
 Gameweek: GW8
 Players: 31
 
@@ -22,7 +22,7 @@ Dayann Méthalie             DEF   £4.5m    0      0       0       0       0   
 Luke O'Nien                 DEF   £3.9m    9      1       26      17      0.15     0.01     0.16     0     0     90      2.4%     3.3     3.7     
 Jenson Seelt                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Simon Adingra               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Jules Ahoka                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
+Jules Ahoka                 MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0.3     1       
 Nilson Angulo               MID   £5.0m    3      0       17      6       0.16     0.11     0.26     0     0     78      0.1%     1.7     3       
 Djiamgone Jocelin Ta Bi     MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0.3     1       
 Habib Diarra                MID   £5.3m    1      0       3       1       0        0        0        0     0     11      0.0%     0.7     1.8     
