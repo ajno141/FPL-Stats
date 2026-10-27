@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-10-27 02:25:01
+Updated: 2026-10-27 08:12:54
 Gameweek: GW8
 Players: 29
 
@@ -28,8 +28,8 @@ Ben Gannon-Doak             MID   £4.8m    1      0       6       5       0    
 Justin Kluivert             MID   £5.9m    6      0       22      5       0        0.18     0.18     0     1     62      0.7%     2.3     3.7     
 Junior Kroupi               MID   £7.3m    1      0       4       2       0        0        0        0     0     3       0.3%     0.3     1       
 Alex Scott                  MID   £5.9m    0      0       0       0       0        0        0        0     0     0       2.4%     0       6       
-Rayan Vitor Simplício Rocha MID   £6.3m    10     0       29      17      0.91     0.02     0.93     1     0     90      1.7%     5       3.1     
-Marcus Tavernier            MID   £6.4m    10     2       40      6       0.72     0.21     0.93     1     0     86      17.8%    7       6.5     
+Rayan Vitor Simplício Rocha MID   £6.3m    10     0       29      17      0.91     0.02     0.93     1     0     90      1.8%     5       3.1     
+Marcus Tavernier            MID   £6.4m    10     2       40      6       0.72     0.21     0.93     1     0     86      17.9%    7       6.5     
 Alex Tóth                   MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Álvaro Rodríguez            FWD   £6.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.7     1       
