@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-10-27 14:34:12
+Updated: 2026-10-27 19:36:30
 Gameweek: GW8
 Players: 43
 
@@ -21,7 +21,7 @@ Charlie Hughes              DEF   £3.9m    0      0       0       0       0    
 Matty Jacob                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cathal McCarthy             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Paddy McNair                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
-Nobel Mendy                 DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       4.9%     1       5.6     
+Nobel Mendy                 DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       4.8%     1       5.6     
 Brooke Norton-Cuffy         DEF   £3.9m    1      0       4       2       0        0.01     0.01     0     0     25      0.3%     1       1       
 Matt Targett                DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       1.2%     0       1       
 David Akintola              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -39,7 +39,7 @@ Eliot Matazo                MID   £4.5m    0      0       0       0       0    
 Liam Millar                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       3       
 Hidemasa Morita             MID   £4.9m    1      0       3       4       0        0        0        0     0     18      0.0%     1       1       
 Christos Mouzakitis         MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Regan Slater                MID   £4.5m    2      0       15      5       0.05     0.06     0.11     0     0     90      4.7%     1.7     2.5     
+Regan Slater                MID   £4.5m    2      0       15      5       0.05     0.06     0.11     0     0     90      4.6%     1.7     2.5     
 Elliot Stroud               MID   £4.9m    4      0       13      12      0        0.03     0.03     0     0     90      0.1%     2.7     2.5     
 Sorba Thomas                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     3       2.6     
 Óscar Zambrano              MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
