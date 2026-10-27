@@ -1,6 +1,6 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-10-26 23:37:30
+Updated: 2026-10-27 02:25:01
 Gameweek: GW8
 Players: 31
 
@@ -12,11 +12,11 @@ James Trafford              GK    £5.0m    10     3       33      0       0    
 Michael Zetterer            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Melvin Bard                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Jaka Bijol                  DEF   £5.0m    8      0       25      15      0.02     0        0.02     0     0     90      0.6%     3       4.2     
-Jayden Bogle                DEF   £4.7m    5      0       21      5       0.12     0.12     0.24     0     0     90      11.1%    2.7     6.2     
+Jayden Bogle                DEF   £4.8m    5      0       21      5       0.12     0.12     0.24     0     0     90      11.1%    2.7     6.2     
 Sebastiaan Bornauw          DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nico Elvedi                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     1       2.7     
 Gabriel Gudmundsson         DEF   £4.5m    6      0       21      6       0.02     0        0.02     0     0     90      0.1%     3.7     4.2     
-James Justin                DEF   £4.5m    6      0       23      6       0.02     0.03     0.05     0     0     90      2.2%     4.7     5       
+James Justin                DEF   £4.5m    6      0       23      6       0.02     0.03     0.05     0     0     90      2.3%     4.7     5       
 Jayden Lienou               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Tarik Muharemović           DEF   £5.1m    9      1       26      13      0.1      0.01     0.11     0     0     90      5.7%     5.3     5.4     
 Joe Rodon                   DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.5%     0       3.5     
@@ -33,7 +33,7 @@ Sean Longstaff              MID   £4.8m    1      0       4       0       0.32 
 Noah Okafor                 MID   £5.8m    1      0       8       2       0.07     0.15     0.22     0     0     25      0.4%     1.7     2.9     
 Anton Stach                 MID   £6.0m    1      0       4       1       0        0.01     0.01     0     0     24      2.1%     1.7     4       
 Harry Wilson                MID   £6.2m    3      0       14      6       0        0.11     0.11     0     0     65      1.2%     1.3     1.5     
-Dominic Calvert-Lewin       FWD   £6.1m    2      0       5       0       0        0.01     0.01     0     0     84      21.5%    4.3     4.4     
+Dominic Calvert-Lewin       FWD   £6.1m    2      0       5       0       0        0.01     0.01     0     0     84      21.4%    4.3     4.4     
 Mateo Joseph Fernández-RegatilloFWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lukas Nmecha                FWD   £5.3m    1      0       3       1       0        0.03     0.03     0     0     5       0.4%     1       1.4     
 Joël Piroe                  FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
