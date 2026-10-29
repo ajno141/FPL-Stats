@@ -1,13 +1,13 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-10-29 00:18:45
+Updated: 2026-10-29 06:01:41
 Gameweek: GW8
 Players: 36
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Marco Bizot                 GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
-Zion Suzuki                 GK    £5.0m    4      0       26      0       0        0        0        0     0     90      2.8%     4.7     4.3     
+Zion Suzuki                 GK    £5.0m    4      0       26      0       0        0        0        0     0     90      2.9%     4.7     4.3     
 James Wright                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Matty Cash                  DEF   £4.3m    3      0       4       13      0        0        0        0     0     90      4.2%     3.7     2.4     
 Lucas Digne                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -39,6 +39,6 @@ John McGinn                 MID   £5.4m    6      1       29      7       0    
 Amadou Onana                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Alysson Edward Franco da Rocha dos SantosMID   £4.9m    1      0       3       5       0.1      0.01     0.11     0     0     58      0.1%     0.7     1.4     
 Tammy Abraham               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
-Nicolas Jackson             FWD   £6.8m    13     3       66      7       0.37     0.02     0.39     2     0     81      13.1%    8       4.9     
+Nicolas Jackson             FWD   £6.8m    13     3       66      7       0.37     0.02     0.39     2     0     81      13.3%    8       4.9     
 Brian Madjo                 FWD   £5.4m    0      0       2       0       0        0        0        0     0     8       0.2%     0       0       
 Ollie Watkins               FWD   £7.8m    0      0       0       0       0        0        0        0     0     0       2.3%     0       0       
