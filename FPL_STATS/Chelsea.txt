@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-10-30 08:56:02
+Updated: 2026-10-30 15:34:23
 Gameweek: GW8
 Players: 37
 
@@ -19,7 +19,7 @@ Liam Kitching               DEF   £4.0m    0      0       0       0       0    
 Joel Latibeaudiere          DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Stephen Mfuni               DEF   £4.0m    1      0       0       4       0.09     0.01     0.1      0     0     30      0.2%     2.7     4.7     
 Ethan Pinnock               DEF   £4.5m    4      0       9       14      0.03     0.01     0.04     0     0     90      0.1%     2.3     3       
-Bobby Thomas                DEF   £4.0m    1      0       7       4       0.04     0        0.04     0     0     59      9.1%     2.7     4       
+Bobby Thomas                DEF   £4.0m    1      0       7       4       0.04     0        0.04     0     0     59      8.9%     2.7     4       
 Luke Woolfenden             DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Milan van Ewijk             DEF   £3.9m    2      0       10      7       0.01     0.01     0.02     0     0     90      7.2%     3       2.1     
 Kai Andrews                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
@@ -38,7 +38,7 @@ Victor Torp                 MID   £5.3m    0      0       0       0       0    
 Caleb Yirenkyi              MID   £4.8m    3      0       8       6       0        0        0        0     0     66      0.1%     2.3     2       
 Taiwo Awoniyi               FWD   £5.4m    1      0       2       0       0        0        0        0     0     23      0.3%     0.7     0.8     
 Norman Bassette             FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Sidiki Cherif               FWD   £5.0m    2      0       8       1       0.02     0        0.02     0     0     66      0.4%     5       4       
+Sidiki Cherif               FWD   £5.0m    2      0       8       1       0.02     0        0.02     0     0     66      0.5%     5       4       
 Jahnoah Markelo             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ellis Simms                 FWD   £4.9m    0      0       0       0       0        0        0        0     0     0       0.6%     2       2.5     
 Brandon Thomas-Asante       FWD   £5.0m    2      0       10      2       0.15     0        0.15     0     0     66      1.1%     4       2.6     
