@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-10-29 22:59:22
+Updated: 2026-10-30 02:30:51
 Gameweek: GW8
 Players: 43
 
@@ -21,7 +21,7 @@ Charlie Hughes              DEF   £3.9m    0      0       0       0       0    
 Matty Jacob                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cathal McCarthy             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Paddy McNair                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
-Nobel Mendy                 DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       4.8%     1       5.6     
+Nobel Mendy                 DEF   £4.1m    0      0       0       0       0        0        0        0     0     0       4.7%     1       5.6     
 Brooke Norton-Cuffy         DEF   £3.9m    1      0       4       2       0        0.01     0.01     0     0     25      0.4%     1       1       
 Matt Targett                DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       1.2%     0       1       
 David Akintola              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
