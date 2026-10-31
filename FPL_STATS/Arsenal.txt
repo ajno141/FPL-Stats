@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-10-31 19:17:49
+Updated: 2026-10-31 22:36:00
 Gameweek: GW9
 Players: 29
 
@@ -9,14 +9,14 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Kepa Arrizabalaga Revuelta  GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Illan Meslier               GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 David Raya Martín           GK    £6.2m    0      0       0       0       0        0        0        0     0     0       46.3%    4.8     6.1     
-Riccardo Calafiori          DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       48.1%    4       5.6     
+Riccardo Calafiori          DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       48.0%    4       5.6     
 Piero Hincapié              DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       0.7%     0.2     1       
-Ezri Konsa Ngoyo            DEF   £4.7m    0      0       0       0       0        0        0        0     0     0       21.8%    6.8     5.6     
+Ezri Konsa Ngoyo            DEF   £4.7m    0      0       0       0       0        0        0        0     0     0       21.9%    6.8     5.6     
 Cristhian Mosquera          DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       1.2%     0       6       
 William Saliba              DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Jurriën Timber              DEF   £6.5m    0      0       0       0       0        0        0        0     0     0       0.8%     0.5     0.8     
 Benjamin White              DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       4.8%     5.2     6       
-Gabriel dos Santos MagalhãesDEF   £8.0m    0      0       0       0       0        0        0        0     0     0       23.9%    6.8     6.5     
+Gabriel dos Santos MagalhãesDEF   £8.0m    0      0       0       0       0        0        0        0     0     0       24.0%    6.8     6.5     
 Max Dowman                  MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
 Eberechi Eze                MID   £6.2m    0      0       0       0       0        0        0        0     0     0       1.2%     1       1.3     
 Fábio Ferreira Vieira       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -28,7 +28,7 @@ Mikel Merino Zazón          MID   £5.7m    0      0       0       0       0   
 Reiss Nelson                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ethan Nwaneri               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Declan Rice                 MID   £7.4m    0      0       0       0       0        0        0        0     0     0       11.8%    4.8     4.9     
-Bukayo Saka                 MID   £9.5m    0      0       0       0       0        0        0        0     0     0       6.7%     1.2     5.3     
+Bukayo Saka                 MID   £9.5m    0      0       0       0       0        0        0        0     0     0       6.6%     1.2     5.3     
 Christos Tzolis             MID   £6.1m    0      0       0       0       0        0        0        0     0     0       3.8%     0       3.2     
 Martín Zubimendi Ibáñez     MID   £5.2m    0      0       0       0       0        0        0        0     0     0       0.5%     0.2     1       
 Martin Ødegaard             MID   £6.7m    0      0       0       0       0        0        0        0     0     0       16.8%    1.8     4.5     

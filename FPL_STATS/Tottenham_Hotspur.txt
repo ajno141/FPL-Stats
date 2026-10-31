@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-10-31 19:17:49
+Updated: 2026-10-31 22:36:00
 Gameweek: GW9
 Players: 30
 
@@ -21,7 +21,7 @@ Jair Paula da Cunha Filho   DEF   £4.4m    1      0       10      6       0    
 Omar Richards               DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Felipe Rodrigues da Silva   DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nicolò Savona               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Neco Williams               DEF   £5.0m    1      0       5       5       0        0.05     0.05     0     0     90      5.9%     3.2     3.6     
+Neco Williams               DEF   £5.0m    1      0       5       5       0        0.05     0.05     0     0     90      5.8%     3.2     3.6     
 Dilane Bakwa                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nicolás Domínguez           MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0.8     2       
 Morgan Gibbs-White          MID   £7.9m    2      0       10      1       0.13     0.37     0.5      0     0     90      11.2%    1.5     4.2     
@@ -34,5 +34,5 @@ Xaver Schlager              MID   £5.0m    1      0       2       4       0.02 
 Ryan Yates                  MID   £4.4m    1      0       4       6       0.28     0.01     0.29     0     0     45      1.0%     0.2     1       
 Liam Delap                  FWD   £5.4m    2      0       0       3       0.17     0.01     0.18     0     0     64      1.6%     2       2.1     
 Arnaud Kalimuendo           FWD   £5.4m    1      0       2       1       0.03     0        0.03     0     0     25      0.0%     0.8     1       
-Igor Jesus Maciel da Cruz   FWD   £5.7m    0      0       0       0       0        0        0        0     0     0       1.2%     0       2.4     
+Igor Jesus Maciel da Cruz   FWD   £5.7m    0      0       0       0       0        0        0        0     0     0       1.1%     0       2.4     
 Chris Wood                  FWD   £5.7m    1      0       2       0       0        0        0        0     0     25      0.8%     1       1       
