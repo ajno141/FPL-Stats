@@ -1,7 +1,7 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-10-31 08:56:23
-Gameweek: GW8
+Updated: 2026-10-31 15:10:07
+Gameweek: GW9
 Players: 34
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
@@ -9,34 +9,34 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 Altay Bayındır              GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Karl Darlow                 GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tom Heaton                  GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Senne Lammens               GK    £4.8m    1      0       0       0       0        0.04     0.04     0     0     90      7.7%     2       2.1     
+Senne Lammens               GK    £4.8m    3      0       19      0       0        0        0        0     0     90      7.7%     2.2     2.2     
 Harry Amass                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Diogo Dalot Teixeira        DEF   £4.8m    1      0       5       6       0.03     0.03     0.06     0     0     90      1.3%     1.7     1.6     
+Diogo Dalot Teixeira        DEF   £4.8m    1      0       8       9       0        0.04     0.04     0     0     90      1.3%     1.5     1.6     
 Tyler Fredricson            DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Ayden Heaven                DEF   £4.3m    0      0       4       8       0        0        0        0     0     64      0.2%     0.3     0.7     
-Harry Maguire               DEF   £4.7m    0      0       -3      5       0        0.05     0.05     0     0     90      5.8%     2       2       
-Lisandro Martínez           DEF   £4.8m    1      0       2       4       0.02     0.66     0.68     0     0     25      1.1%     1.7     1.6     
-Noussair Mazraoui           DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.4%     1       1.5     
-Luke Shaw                   DEF   £4.2m    0      0       0       0       0        0        0        0     0     0       3.9%     1       2.4     
-Leny Yoro                   DEF   £4.8m    1      0       0       5       0.18     0.19     0.37     0     0     90      0.5%     2.7     2       
+Ayden Heaven                DEF   £4.3m    1      0       2       2       0        0        0        0     0     24      0.2%     0.5     0.8     
+Harry Maguire               DEF   £4.7m    0      0       3       8       0        0        0        0     0     90      5.7%     1.5     1.8     
+Lisandro Martínez           DEF   £4.8m    -2     0       -13     3       0        0.01     0.01     0     0     62      1.1%     0.8     1.1     
+Noussair Mazraoui           DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.4%     0.8     1.5     
+Luke Shaw                   DEF   £4.2m    0      0       0       0       0        0        0        0     0     0       3.8%     0.8     2.4     
+Leny Yoro                   DEF   £4.8m    1      0       10      7       0        0.02     0.02     0     0     90      0.5%     2.2     1.8     
 Matthijs de Ligt            DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Carlos Baleba               MID   £4.9m    2      0       14      9       0.05     0.02     0.07     0     0     71      0.3%     2.3     2.3     
-Bruno Borges Fernandes      MID   £11.7m   0      0       0       0       0        0        0        0     0     0       22.7%    0.7     4.7     
+Carlos Baleba               MID   £4.9m    1      0       3       5       0.02     0.01     0.03     0     0     57      0.3%     2       2       
+Bruno Borges Fernandes      MID   £11.7m   2      0       16      8       0.32     0.11     0.43     0     0     90      22.5%    1       4.4     
 Toby Collyer                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Amad Diallo                 MID   £5.7m    2      0       15      4       0.02     0.09     0.11     0     0     77      0.3%     1.7     1.7     
+Amad Diallo                 MID   £5.7m    2      0       6       10      0.55     0.06     0.61     0     0     76      0.3%     1.8     1.8     
 Patrick Dorgu               MID   £5.7m    0      0       0       0       0        0        0        0     0     0       0.3%     0       2       
 Jack Fletcher               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tyler Fletcher              MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-Shea Lacey                  MID   £4.9m    1      0       4       1       0.03     0.01     0.04     0     0     12      0.1%     0.3     1       
-Kobbie Mainoo               MID   £5.5m    0      0       0       0       0        0        0        0     0     0       1.1%     1.3     4.3     
+Shea Lacey                  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
+Kobbie Mainoo               MID   £5.5m    0      0       0       3       0        0        0        0     0     32      1.1%     1       3.7     
 Bendito Mantato             MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
-Bryan Mbeumo                MID   £7.9m    2      0       14      3       0.26     0.04     0.3      0     0     90      21.0%    6       5.4     
-Mason Mount                 MID   £5.4m    2      0       23      9       0.08     0.15     0.23     0     0     90      0.0%     1       1.3     
-Andrey Nascimento dos SantosMID   £4.7m    3      0       19      13      0.15     0.04     0.19     0     0     90      0.5%     1.3     1.6     
-Marcus Rashford             MID   £6.8m    0      0       0       0       0        0        0        0     0     0       1.0%     0.3     1.8     
-Matheus Santos Carneiro da CunhaMID   £7.8m    1      0       15      5       0.29     0.02     0.31     0     0     45      5.7%     4       4.8     
-Youri Tielemans             MID   £5.7m    0      0       1       0       0        0        0        0     0     45      1.3%     3.3     3       
+Bryan Mbeumo                MID   £7.9m    1      0       12      5       0.02     0.33     0.35     0     0     90      21.2%    4.8     4.9     
+Mason Mount                 MID   £5.4m    1      0       4       2       0        0        0        0     0     24      0.0%     1       1.2     
+Andrey Nascimento dos SantosMID   £4.7m    2      0       6       9       0.04     0.01     0.05     0     0     65      0.5%     1.5     1.7     
+Marcus Rashford             MID   £6.8m    0      0       0       0       0        0        0        0     0     0       1.0%     0.2     1.8     
+Matheus Santos Carneiro da CunhaMID   £7.8m    2      0       14      6       0.16     0.1      0.26     0     0     65      5.7%     3.5     4.4     
+Youri Tielemans             MID   £5.7m    0      0       0       0       0        0        0        0     0     0       1.3%     2.5     3       
 Manuel Ugarte Ribeiro       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Chido Obi                   FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Benjamin Sesko              FWD   £6.9m    0      0       0       0       0        0        0        0     0     0       1.0%     0       2       
-Joshua Zirkzee              FWD   £5.3m    1      0       3       1       0.07     0.01     0.08     0     0     18      0.4%     0.7     1       
+Joshua Zirkzee              FWD   £5.3m    0      0       1       0       0.05     0        0.05     0     0     13      0.4%     0.5     0.8     
