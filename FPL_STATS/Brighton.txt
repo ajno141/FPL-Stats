@@ -1,13 +1,13 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-10-31 02:44:37
+Updated: 2026-10-31 08:56:23
 Gameweek: GW8
 Players: 37
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Jason Steele                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       3.6%     0       0       
-Bart Verbruggen             GK    £4.6m    2      0       11      0       0        0        0        0     0     90      22.0%    5.7     5       
+Bart Verbruggen             GK    £4.6m    2      0       11      0       0        0        0        0     0     90      21.9%    5.7     5       
 Olivier Boscagli            DEF   £4.5m    -1     0       -13     4       0.07     0.04     0.11     0     0     45      0.6%     4.7     4.1     
 Diego Coppola               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Maxim De Cuyper             DEF   £5.3m    1      0       6       5       0.05     0.28     0.33     0     0     90      42.4%    7.3     7.5     
@@ -25,7 +25,7 @@ Yasin Ayari                 MID   £5.4m    2      0       8       3       0.32 
 Femi Azeez                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amario Cozier-Duberry       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Pascal Groß                 MID   £6.2m    0      0       15      5       0        0.35     0.35     0     0     90      45.6%    3.7     7.2     
+Pascal Groß                 MID   £6.2m    0      0       15      5       0        0.35     0.35     0     0     90      45.5%    3.7     7.2     
 Diego Gómez Amarilla        MID   £5.0m    2      0       12      7       0.13     0.22     0.35     0     0     90      3.9%     5       4.9     
 Jack Hinshelwood            MID   £5.9m    1      0       5       3       0        0.02     0.02     0     0     45      0.6%     2.3     7.7     
 Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
