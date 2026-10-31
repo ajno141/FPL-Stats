@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-10-30 23:42:51
+Updated: 2026-10-31 02:44:37
 Gameweek: GW8
 Players: 37
 
@@ -10,7 +10,7 @@ Jason Steele                GK    £4.0m    0      0       0       0       0    
 Bart Verbruggen             GK    £4.6m    2      0       11      0       0        0        0        0     0     90      22.0%    5.7     5       
 Olivier Boscagli            DEF   £4.5m    -1     0       -13     4       0.07     0.04     0.11     0     0     45      0.6%     4.7     4.1     
 Diego Coppola               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Maxim De Cuyper             DEF   £5.3m    1      0       6       5       0.05     0.28     0.33     0     0     90      42.5%    7.3     7.5     
+Maxim De Cuyper             DEF   £5.3m    1      0       6       5       0.05     0.28     0.33     0     0     90      42.4%    7.3     7.5     
 Lewis Dunk                  DEF   £4.5m    1      0       8       7       0        0.01     0.01     0     0     90      1.4%     2.7     4.3     
 Jaouen Hadjam               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     2.7     4       
 Ferdi Kadıoğlu              DEF   £4.4m    1      0       3       0       0        0        0        0     0     5       1.5%     5.3     4.1     
@@ -25,7 +25,7 @@ Yasin Ayari                 MID   £5.4m    2      0       8       3       0.32 
 Femi Azeez                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amario Cozier-Duberry       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Pascal Groß                 MID   £6.2m    0      0       15      5       0        0.35     0.35     0     0     90      45.7%    3.7     7.2     
+Pascal Groß                 MID   £6.2m    0      0       15      5       0        0.35     0.35     0     0     90      45.6%    3.7     7.2     
 Diego Gómez Amarilla        MID   £5.0m    2      0       12      7       0.13     0.22     0.35     0     0     90      3.9%     5       4.9     
 Jack Hinshelwood            MID   £5.9m    1      0       5       3       0        0.02     0.02     0     0     45      0.6%     2.3     7.7     
 Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -36,10 +36,10 @@ Matt O'Riley                MID   £5.4m    0      0       0       0       0    
 Nehemiah Oriola             MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Ibrahim Osman               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Tom Watson                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Malick Yalcouyé             MID   £4.5m    1      0       2       2       0        0.17     0.17     0     0     36      3.0%     1       2.9     
+Malick Yalcouyé             MID   £4.5m    1      0       2       2       0        0.17     0.17     0     0     36      2.9%     1       2.9     
 Zadok Yohanna               MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Promise David               FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0.5     
-Evan Ferguson               FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Charalampos Kostoulas       FWD   £5.8m    2      0       15      6       0.52     0.03     0.55     0     0     90      10.1%    5       5.4     
+Evan Ferguson               FWD   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
+Charalampos Kostoulas       FWD   £5.8m    2      0       15      6       0.52     0.03     0.55     0     0     90      10.0%    5       5.4     
 Georginio Rutter            FWD   £5.3m    1      0       4       2       0.01     0.23     0.24     0     0     15      0.4%     2       2.4     
 Stefanos Tzimas             FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
