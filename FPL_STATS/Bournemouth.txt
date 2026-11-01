@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-11-01 14:53:57
+Updated: 2026-11-01 19:20:51
 Gameweek: GW9
 Players: 29
 
@@ -14,7 +14,7 @@ Julián Araujo Zúñiga        DEF   £4.4m    0      0       0       0       0 
 Bafodé Diakité              DEF   £4.9m    1      0       3       0       0        0        0        0     0     2       0.1%     0.8     1       
 James Hill                  DEF   £5.5m    6      0       24      9       0.01     0        0.01     0     0     90      2.4%     6.5     4.2     
 Veljko Milosavljevic        DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    8      2       26      9       0        0.01     0.01     0     0     90      2.1%     6       4.1     
+António João Pereira de Albuquerque Tavares da SilvaDEF   £5.0m    8      2       26      9       0        0.01     0.01     0     0     90      2.2%     6       4.1     
 Adam Smith                  DEF   £4.5m    6      0       22      5       0        0        0        0     0     87      0.2%     4.5     2.4     
 Julio Soler Barreto         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
 Juanlu Sánchez              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
@@ -26,12 +26,12 @@ Ryan Christie               MID   £5.0m    4      0       16      15      0.07 
 Lewis Cook                  MID   £5.0m    1      0       4       6       0        0        0        0     0     22      0.2%     2.5     2       
 Ben Gannon-Doak             MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.8     1       
 Justin Kluivert             MID   £5.9m    6      0       19      5       0.12     0.01     0.13     0     1     67      0.8%     3.2     4       
-Junior Kroupi               MID   £7.3m    4      0       21      3       0        0.28     0.28     0     1     22      0.4%     1.2     2.5     
+Junior Kroupi               MID   £7.3m    4      0       21      3       0        0.28     0.28     0     1     22      0.5%     1.2     2.5     
 Alex Scott                  MID   £5.9m    0      0       0       0       0        0        0        0     0     0       2.2%     0       6       
 Rayan Vitor Simplício Rocha MID   £6.3m    3      0       7       8       0.05     0.03     0.08     0     0     87      2.2%     4.5     3.1     
-Marcus Tavernier            MID   £6.6m    3      0       12      3       0.1      0.03     0.13     0     0     90      26.3%    6       6.1     
+Marcus Tavernier            MID   £6.6m    3      0       12      3       0.1      0.03     0.13     0     0     90      26.5%    6       6.1     
 Alex Tóth                   MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Álvaro Rodríguez            FWD   £6.0m    1      0       6       2       0.09     0.01     0.1      0     0     14      0.1%     0.8     1       
-Francisco Evanilson de Lima BarbosaFWD   £6.4m    9      3       42      6       0.49     0.03     0.52     1     0     75      16.0%    8.5     5.8     
+Francisco Evanilson de Lima BarbosaFWD   £6.4m    9      3       42      6       0.49     0.03     0.52     1     0     75      16.4%    8.5     5.8     
 Enes Ünal                   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
