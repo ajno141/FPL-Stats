@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-11-02 02:08:37
+Updated: 2026-11-02 09:26:34
 Gameweek: GW9
 Players: 33
 
@@ -17,13 +17,13 @@ Joško Gvardiol              DEF   £5.7m    2      0       12      6       0.03
 Abdukodir Khusanov          DEF   £5.3m    4      0       15      11      0.06     0.02     0.08     0     0     90      1.2%     2       2.8     
 Rico Lewis                  DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
 Matheus Nunes               DEF   £5.9m    2      0       9       5       0.15     0.11     0.26     0     0     90      0.9%     2.5     3.5     
-Nico O'Reilly               DEF   £6.2m    1      0       8       3       0.18     0.08     0.26     0     0     26      8.4%     2       2       
+Nico O'Reilly               DEF   £6.2m    1      0       8       3       0.18     0.08     0.26     0     0     26      8.3%     2       2       
 Vitor de Oliveira Nunes dos ReisDEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Rúben dos Santos Gato Alves DiasDEF   £5.5m    2      0       8       3       0        0.02     0.02     0     0     90      2.0%     2.5     3       
 Elliot Anderson             MID   £6.3m    4      0       27      13      0        0.22     0.22     0     0     90      3.7%     3       3       
 Allan Andrade Elias         MID   £6.0m    1      0       6       1       0.02     0.03     0.05     0     0     11      0.0%     0.5     1       
 Ayyoub Bouaddi              MID   £5.5m    1      0       6       3       0        0.01     0.01     0     0     54      0.2%     0.8     1       
-Rayan Cherki                MID   £7.9m    1      0       9       2       0.07     0.07     0.14     0     0     35      36.2%    2.8     5.6     
+Rayan Cherki                MID   £7.9m    1      0       9       2       0.07     0.07     0.14     0     0     35      36.1%    2.8     5.6     
 Jérémy Doku                 MID   £7.5m    2      0       28      11      0.14     0.43     0.57     0     0     90      4.6%     5.5     4.6     
 Claudio Echeverri           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Enzo Fernández              MID   £6.9m    2      0       12      3       0.12     0.14     0.26     0     0     63      3.8%     2       2.6     
