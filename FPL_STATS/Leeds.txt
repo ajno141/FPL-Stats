@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-11-01 22:55:39
+Updated: 2026-11-02 02:08:37
 Gameweek: GW9
 Players: 43
 
@@ -20,7 +20,7 @@ Lucas Herrington            DEF   £4.0m    0      0       0       0       0    
 Charlie Hughes              DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Matty Jacob                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cathal McCarthy             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Paddy McNair                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
+Paddy McNair                DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Nobel Mendy                 DEF   £4.1m    3      0       6       10      0        0        0        0     0     90      4.7%     1.5     5.2     
 Brooke Norton-Cuffy         DEF   £3.9m    1      0       5       2       0.04     0        0.04     0     0     13      0.4%     1       1       
 Matt Targett                DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       1.2%     0       1       
