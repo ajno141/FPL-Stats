@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-11-02 19:41:19
+Updated: 2026-11-03 01:48:23
 Gameweek: GW9
 Players: 36
 
@@ -14,7 +14,7 @@ Jaydee Canvot               DEF   £4.8m    3      0       5       14      0    
 Rio Cardines                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ben Chilwell                DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.3%     0       4       
 Axel Disasi                 DEF   £4.4m    3      0       5       14      0        0        0        0     0     90      0.1%     1.5     1.4     
-Anan Khalaili               DEF   £5.0m    1      0       3       6       0        0        0        0     0     30      0.3%     0.8     2.4     
+Anan Khalaili               DEF   £5.0m    1      0       3       6       0        0        0        0     0     30      0.2%     0.8     2.4     
 Oscar Mingueza              DEF   £4.3m    0      0       -3      5       0        0        0        0     0     59      0.0%     0       0.7     
 Tyrick Mitchell             DEF   £4.5m    3      0       8       14      0        0.01     0.01     0     0     90      5.0%     2       3.6     
 Chadi Riad Dnanou           DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
