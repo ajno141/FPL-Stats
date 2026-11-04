@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-11-03 21:58:09
+Updated: 2026-11-04 02:05:54
 Gameweek: GW9
 Players: 30
 
@@ -10,7 +10,7 @@ Steven Benda                GK    £4.5m    0      0       0       0       0    
 John Victor Maciel Furtado  GK    £4.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Matz Sels                   GK    £5.0m    1      0       0       0       0        0        0        0     0     90      1.4%     1.8     2.3     
 Zach Abbott                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Ola Aina                    DEF   £4.3m    1      0       4       2       0        0        0        0     0     45      1.5%     0.2     1.5     
+Ola Aina                    DEF   £4.2m    1      0       4       2       0        0        0        0     0     45      1.5%     0.2     1.5     
 Tyler Bindon                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Murillo Costa dos Santos    DEF   £5.5m    3      0       11      15      0.04     0.01     0.05     0     0     90      2.1%     2       3.4     
 Ousmane Diomande            DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       0.5%     0.8     2       
