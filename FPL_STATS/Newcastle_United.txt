@@ -1,13 +1,13 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-11-04 02:05:54
+Updated: 2026-11-04 09:03:53
 Gameweek: GW9
 Players: 33
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Marcus Bettinelli           GK    £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Gianluigi Donnarumma        GK    £5.5m    2      0       16      0       0        0        0        0     0     90      7.4%     3.2     3.6     
+Gianluigi Donnarumma        GK    £5.5m    2      0       16      0       0        0        0        0     0     90      7.3%     3.2     3.6     
 Gerónimo Rulli              GK    £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Max Alleyne                 DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Rayan Aït-Nouri             DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
@@ -37,5 +37,5 @@ Iliman Ndiaye               MID   £5.8m    2      0       12      3       0.42 
 Kalvin Phillips             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Floyd Samba                 MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Antoine Semenyo             MID   £8.2m    0      0       0       0       0        0        0        0     0     0       6.2%     1       5.3     
+Antoine Semenyo             MID   £8.2m    0      0       0       0       0        0        0        0     0     0       6.1%     1       5.3     
 Erling Haaland              FWD   £15.8m   2      0       6       1       0.47     0.08     0.55     0     0     90      79.0%    7.2     7.6     
