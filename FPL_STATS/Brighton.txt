@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-11-04 17:08:34
+Updated: 2026-11-04 22:36:35
 Gameweek: GW9
 Players: 37
 
@@ -11,7 +11,7 @@ Bart Verbruggen             GK    £4.6m    11     3       46      0       0    
 Olivier Boscagli            DEF   £4.5m    6      0       20      5       0        0        0        0     0     63      0.6%     5       4.3     
 Diego Coppola               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Maxim De Cuyper             DEF   £5.4m    9      1       30      3       0.24     0        0.24     0     1     71      45.2%    7.8     7.7     
-Lewis Dunk                  DEF   £4.5m    6      0       26      5       0        0        0        0     0     90      1.4%     3.5     4.5     
+Lewis Dunk                  DEF   £4.5m    6      0       26      5       0        0        0        0     0     90      1.5%     3.5     4.5     
 Jaouen Hadjam               DEF   £4.5m    1      0       8       3       0        0        0        0     0     26      0.1%     2.2     3       
 Ferdi Kadıoğlu              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       1.4%     4       4.1     
 João Pedro Loureiro da CostaDEF   £4.5m    8      0       27      10      0        0        0        0     0     90      0.0%     2.2     1.6     
