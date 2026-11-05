@@ -1,6 +1,6 @@
 BRENTFORD
 =================================================================================================================================================
-Updated: 2026-11-05 17:50:48
+Updated: 2026-11-05 22:57:47
 Gameweek: GW9
 Players: 29
 
@@ -23,14 +23,14 @@ Jaidon Anthony              MID   £5.9m    4      0       18      6       0    
 Mikkel Damsgaard            MID   £5.3m    1      0       4       3       0.04     0.02     0.06     0     0     28      0.3%     0.8     2.4     
 Josh Dasilva                MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Fábio Freitas Gouveia CarvalhoMID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       6       
-Vitaly Janelt               MID   £5.0m    5      0       17      15      0        0.01     0.01     0     0     90      1.7%     1.8     4.4     
+Vitaly Janelt               MID   £5.0m    5      0       17      15      0        0.01     0.01     0     0     90      1.6%     1.8     4.4     
 Mathias Jensen              MID   £5.4m    3      0       10      8       0.04     0.01     0.05     0     0     61      0.1%     1.8     2.6     
 Keane Lewis-Potter          MID   £5.5m    3      0       11      10      0        0.02     0.02     0     0     90      1.9%     4       4.2     
 Antoni Milambo              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Gustavo Nunes Fernandes GomesMID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Dango Ouattara              MID   £6.2m    6      0       22      7       0        0        0        0     1     71      0.4%     4.5     2.8     
 Mamadou Sangaré             MID   £5.4m    3      0       10      10      0.07     0.01     0.08     0     0     61      6.1%     2.2     3.4     
-Kevin Schade                MID   £6.2m    3      0       9       7       0        0        0        0     0     83      14.1%    1.5     5       
+Kevin Schade                MID   £6.2m    3      0       9       7       0        0        0        0     0     83      14.0%    1.5     5       
 Yehor Yarmoliuk             MID   £4.7m    0      0       0       0       0        0        0        0     0     0       0.4%     1.5     2.1     
 Kaye Furo                   FWD   £4.4m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Igor Thiago Nascimento RodriguesFWD   £7.8m    9      3       37      7       0.28     0        0.28     1     0     90      9.1%     5.5     3.6     
