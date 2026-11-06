@@ -1,6 +1,6 @@
 EVERTON
 =================================================================================================================================================
-Updated: 2026-11-06 03:19:37
+Updated: 2026-11-06 11:11:51
 Gameweek: GW9
 Players: 25
 
@@ -16,7 +16,7 @@ Ainsley Maitland-Niles      DEF   £4.5m    0      0       0       0       0    
 Vitalii Mykolenko           DEF   £4.6m    6      0       27      7       0        0.04     0.04     0     0     90      2.4%     1.8     4.2     
 Jake O'Brien                DEF   £4.8m    6      0       20      5       0.2      0.08     0.28     0     0     90      0.3%     2.5     2.4     
 Nathan Patterson            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-James Tarkowski             DEF   £6.2m    6      0       26      9       0        0        0        0     0     90      19.2%    2.8     6       
+James Tarkowski             DEF   £6.2m    6      0       26      9       0        0        0        0     0     90      19.3%    2.8     6       
 Carlos Alcaraz Durán        MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     0.8     
 Harrison Armstrong          MID   £5.0m    3      0       13      3       0.35     0.04     0.39     0     0     90      0.3%     2.5     2.9     
 Kiernan Dewsbury-Hall       MID   £6.6m    4      1       29      7       0.15     0.28     0.43     0     0     90      6.4%     5.2     4.6     
@@ -29,5 +29,5 @@ Hayden Hackney              MID   £5.3m    1      0       4       0       0    
 Brennan Johnson             MID   £5.8m    0      0       0       0       0        0        0        0     0     10      0.1%     1.2     1.6     
 Christian Nørgaard          MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Merlin Röhl                 MID   £4.9m    3      0       8       7       0.05     0.02     0.07     0     0     90      0.0%     1.8     2.2     
-Thierno Barry               FWD   £5.6m    9      3       31      2       1.29     0.21     1.5      1     0     79      7.9%     4.8     4.3     
+Thierno Barry               FWD   £5.6m    9      3       31      2       1.29     0.21     1.5      1     0     79      8.2%     4.8     4.3     
 Norberto Bercique Gomes BetuncalFWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.4%     0       1       

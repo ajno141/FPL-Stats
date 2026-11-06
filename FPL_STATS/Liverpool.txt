@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-11-06 03:19:37
+Updated: 2026-11-06 11:11:51
 Gameweek: GW9
 Players: 36
 
@@ -27,7 +27,7 @@ Cameron Humphreys           MID   £4.5m    0      0       0       0       0    
 Saša Lukić                  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     1       2.5     
 Daizen Maeda                MID   £5.3m    1      0       0       0       0.09     0        0.09     0     0     20      0.2%     2.8     2.1     
 Azor Matusiwa               MID   £4.9m    4      0       16      6       0        0        0        0     1     20      0.0%     1.5     2       
-Kasey McAteer               MID   £4.3m    0      0       0       0       0        0        0        0     0     0       0.8%     0       1       
+Kasey McAteer               MID   £4.3m    0      0       0       0       0        0        0        0     0     0       0.9%     0       1       
 Anis Mehmeti                MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Florentino Ibrain Morris LuísMID   £4.8m    8      1       32      6       0.22     0.01     0.23     1     0     69      0.1%     4       3       
 Marcelino Núñez             MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0       3       
