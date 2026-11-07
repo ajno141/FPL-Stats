@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-11-07 09:15:06
+Updated: 2026-11-07 15:44:11
 Gameweek: GW10
 Players: 30
 
@@ -24,7 +24,7 @@ Nicolò Savona               DEF   £4.5m    0      0       0       0       0   
 Neco Williams               DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       5.4%     2.6     3.6     
 Dilane Bakwa                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Nicolás Domínguez           MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0.6     2       
-Morgan Gibbs-White          MID   £7.8m    0      0       0       0       0        0        0        0     0     0       9.4%     1.2     4.2     
+Morgan Gibbs-White          MID   £7.8m    0      0       0       0       0        0        0        0     0     0       9.3%     1.2     4.2     
 Callum Hudson-Odoi          MID   £5.7m    0      0       0       0       0        0        0        0     0     0       0.1%     0.6     1       
 Omari Hutchinson            MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 James McAtee                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     2.8     2.9     

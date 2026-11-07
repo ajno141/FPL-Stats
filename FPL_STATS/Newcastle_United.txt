@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-11-07 09:15:06
+Updated: 2026-11-07 15:44:11
 Gameweek: GW10
 Players: 33
 
@@ -23,7 +23,7 @@ Rúben dos Santos Gato Alves DiasDEF   £5.5m    0      0       0       0       
 Elliot Anderson             MID   £6.3m    0      0       0       0       0        0        0        0     0     0       3.6%     2.4     3       
 Allan Andrade Elias         MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.4     1       
 Ayyoub Bouaddi              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.6     1       
-Rayan Cherki                MID   £7.9m    0      0       0       0       0        0        0        0     0     0       33.3%    2.2     5.6     
+Rayan Cherki                MID   £7.9m    0      0       0       0       0        0        0        0     0     0       33.2%    2.2     5.6     
 Jérémy Doku                 MID   £7.5m    0      0       0       0       0        0        0        0     0     0       4.6%     4.4     4.6     
 Claudio Echeverri           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Enzo Fernández              MID   £6.9m    0      0       0       0       0        0        0        0     0     0       3.7%     1.6     2.6     

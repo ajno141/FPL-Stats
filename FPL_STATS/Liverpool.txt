@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-11-07 09:15:06
+Updated: 2026-11-07 15:44:11
 Gameweek: GW10
 Players: 36
 
@@ -16,7 +16,7 @@ Issa Diop                   DEF   £3.9m    0      0       0       0       0    
 Darnell Furlong             DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.5%     0       1       
 Jacob Greaves               DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       1.0%     0.2     0.8     
 Ben Johnson                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Cédric Kipré                DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.8%     0       0       
+Cédric Kipré                DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Dara O'Shea                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       2.8%     3.4     3       
 Abdoul Ouattara             DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.1%     3.8     2.8     
 Wes Burns                   MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -27,7 +27,7 @@ Cameron Humphreys           MID   £4.5m    0      0       0       0       0    
 Saša Lukić                  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.8     2.5     
 Daizen Maeda                MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.2%     2.2     2.1     
 Azor Matusiwa               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     1.2     2       
-Kasey McAteer               MID   £4.3m    0      0       0       0       0        0        0        0     0     0       0.8%     0       1       
+Kasey McAteer               MID   £4.3m    0      0       0       0       0        0        0        0     0     0       0.9%     0       1       
 Anis Mehmeti                MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Florentino Ibrain Morris LuísMID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     3.2     3       
 Marcelino Núñez             MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0       3       
