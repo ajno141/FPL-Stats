@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-11-07 19:39:36
+Updated: 2026-11-07 23:01:21
 Gameweek: GW10
 Players: 29
 
@@ -23,7 +23,7 @@ Tyler Adams                 MID   £5.0m    0      0       0       0       0    
 Amine Adli                  MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     2       3.3     
 David Brooks                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     0.8     
 Ryan Christie               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     2       1.9     
-Lewis Cook                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     2       2       
+Lewis Cook                  MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     2       2       
 Ben Gannon-Doak             MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.6     1       
 Justin Kluivert             MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.9%     2.6     4       
 Junior Kroupi               MID   £7.3m    0      0       0       0       0        0        0        0     0     0       0.7%     1       2.5     
