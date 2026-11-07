@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-11-06 22:59:02
+Updated: 2026-11-07 02:39:50
 Gameweek: GW10
 Players: 30
 
@@ -32,7 +32,7 @@ Dan Ndoye                   MID   £5.5m    0      0       0       0       0    
 Ibrahim Sangaré             MID   £4.7m    0      0       0       0       0        0        0        0     0     0       0.3%     0.4     1.2     
 Xaver Schlager              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     2.2     2.7     
 Ryan Yates                  MID   £4.4m    0      0       0       0       0        0        0        0     0     0       1.0%     0.2     1       
-Liam Delap                  FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       1.4%     1.6     2.1     
+Liam Delap                  FWD   £5.3m    0      0       0       0       0        0        0        0     0     0       1.4%     1.6     2.1     
 Arnaud Kalimuendo           FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0.6     1       
 Igor Jesus Maciel da Cruz   FWD   £5.6m    0      0       0       0       0        0        0        0     0     0       1.1%     0       2.4     
 Chris Wood                  FWD   £5.7m    0      0       0       0       0        0        0        0     0     0       0.8%     0.8     1       

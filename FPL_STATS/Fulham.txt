@@ -1,6 +1,6 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-11-06 22:59:02
+Updated: 2026-11-07 02:39:50
 Gameweek: GW10
 Players: 28
 
@@ -32,5 +32,5 @@ Kevin Santos Lopes de MacedoMID   £5.2m    0      0       0       0       0    
 Emile Smith Rowe            MID   £5.2m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0.8     
 Macaulay Zepa               MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
 Gonzalo García              FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       3.8%     1.6     2.4     
-Jonah Kusi-Asare            FWD   £4.4m    0      0       0       0       0        0        0        0     0     0       4.3%     0       0       
+Jonah Kusi-Asare            FWD   £4.3m    0      0       0       0       0        0        0        0     0     0       4.3%     0       0       
 Rodrigo Muniz Carvalho      FWD   £5.3m    0      0       0       0       0        0        0        0     0     0       0.3%     0.6     0.9     

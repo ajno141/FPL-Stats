@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-11-06 22:59:02
+Updated: 2026-11-07 02:39:50
 Gameweek: GW10
 Players: 37
 
@@ -17,15 +17,15 @@ Ferdi Kadıoğlu              DEF   £4.4m    0      0       0       0       0  
 João Pedro Loureiro da CostaDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     1.8     1.6     
 Pascal Struijk              DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     -0.4    1.2     
 Michael Svoboda             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
-Luka Vušković               DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       7.8%     5.2     6.4     
+Luka Vušković               DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       7.9%     5.2     6.4     
 Mats Wieffer                DEF   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     2.7     
 Igor Julio dos Santos de PauloDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 José María Andrés Baixauli  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     1.6     3.3     
-Yasin Ayari                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       2.1%     5.6     5.4     
+Yasin Ayari                 MID   £5.5m    0      0       0       0       0        0        0        0     0     0       2.1%     5.6     5.4     
 Femi Azeez                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amario Cozier-Duberry       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Pascal Groß                 MID   £6.2m    0      0       0       0       0        0        0        0     0     0       47.3%    2.6     6.7     
+Pascal Groß                 MID   £6.3m    0      0       0       0       0        0        0        0     0     0       47.3%    2.6     6.7     
 Diego Gómez Amarilla        MID   £5.0m    0      0       0       0       0        0        0        0     0     0       4.0%     3.6     4.7     
 Jack Hinshelwood            MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.6%     1.6     6       
 Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
