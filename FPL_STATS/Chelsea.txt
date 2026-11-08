@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-11-08 16:00:08
+Updated: 2026-11-08 20:23:10
 Gameweek: GW10
 Players: 37
 
@@ -21,7 +21,7 @@ Stephen Mfuni               DEF   £4.0m    1      0       5       6       0.03 
 Ethan Pinnock               DEF   £4.5m    3      0       -2      10      0        0.11     0.11     0     0     90      0.1%     2.8     3.1     
 Bobby Thomas                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       7.5%     1.6     4       
 Luke Woolfenden             DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Milan van Ewijk             DEF   £3.9m    1      0       7       8       0        0.1      0.1      0     0     90      7.0%     2.8     2.2     
+Milan van Ewijk             DEF   £3.9m    1      0       7       8       0        0.1      0.1      0     0     90      6.9%     2.8     2.2     
 Kai Andrews                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Raphael Borges Rodrigues    MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Josh Eccles                 MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -30,7 +30,7 @@ Matt Grimes                 MID   £4.8m    1      0       3       1       0    
 Gustavo Hamer               MID   £5.3m    1      0       4       0       0        0.06     0.06     0     0     4       0.1%     0.6     1       
 Ephron Mason-Clark          MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.1%     1       1.4     
 Frank Onyeka                MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.6     1.7     
-Jack Rudoni                 MID   £4.9m    2      0       19      8       0.12     0.26     0.38     0     0     85      1.1%     5.2     3.9     
+Jack Rudoni                 MID   £4.9m    2      0       19      8       0.12     0.26     0.38     0     0     85      1.2%     5.2     3.9     
 Tatsuhiro Sakamoto          MID   £4.8m    2      0       15      9       0.25     0.03     0.28     0     0     86      0.1%     2.6     2.3     
 George Shepherd             MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Loum Tchaouna               MID   £5.3m    1      0       2       0       0.16     0        0.16     0     0     4       0.1%     0.2     1.2     
