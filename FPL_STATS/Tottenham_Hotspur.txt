@@ -1,6 +1,6 @@
 TOTTENHAM HOTSPUR
 =================================================================================================================================================
-Updated: 2026-11-07 23:01:21
+Updated: 2026-11-08 02:19:54
 Gameweek: GW10
 Players: 30
 
@@ -15,7 +15,7 @@ Tyler Bindon                DEF   £4.0m    0      0       0       0       0    
 Murillo Costa dos Santos    DEF   £5.5m    4      0       8       11      0.1      0.06     0.16     0     0     90      2.0%     2.4     3.5     
 Ousmane Diomande            DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       0.5%     0.6     2       
 Nikola Milenković           DEF   £5.4m    2      0       3       8       0        0        0        0     0     90      0.8%     0.4     2.3     
-Daniel Muñoz Mejía          DEF   £5.3m    2      0       12      8       0.02     0.01     0.03     0     0     64      4.2%     2.4     1.9     
+Daniel Muñoz Mejía          DEF   £5.2m    2      0       12      8       0.02     0.01     0.03     0     0     64      4.2%     2.4     1.9     
 Luca Netz                   DEF   £4.4m    0      0       -1      2       0        0.01     0.01     0     0     25      0.0%     0.2     0.8     
 Jair Paula da Cunha Filho   DEF   £4.4m    9      1       29      7       0.47     0        0.47     1     0     90      0.2%     2.8     3.1     
 Omar Richards               DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       

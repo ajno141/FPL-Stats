@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-11-07 23:01:21
+Updated: 2026-11-08 02:19:54
 Gameweek: GW10
 Players: 36
 
@@ -41,4 +41,4 @@ Ali Al-Hamadi               FWD   £5.0m    0      0       0       0       0    
 Emersonn Correia da Silva   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       3.0%     1.4     3.7     
 Zian Flemming               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     1.6     2       
 George Hirst                FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Sindre Walle Egeli          FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       2.7%     0.2     1       
+Sindre Walle Egeli          FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       2.6%     0.2     1       
