@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-11-08 20:23:10
+Updated: 2026-11-08 23:51:46
 Gameweek: GW10
 Players: 29
 
@@ -12,26 +12,26 @@ Fraser Forster              GK    £4.0m    0      0       0       0       0    
 Đorđe Petrović              GK    £4.5m    2      0       6       0       0        0        0        0     0     90      3.2%     4.2     3       
 Julián Araujo Zúñiga        DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bafodé Diakité              DEF   £4.9m    1      0       4       2       0        0        0        0     0     11      0.1%     0.8     1       
-James Hill                  DEF   £5.6m    4      0       4       14      0.23     0        0.23     0     0     90      2.9%     6       4.2     
+James Hill                  DEF   £5.6m    4      0       4       14      0.35     0        0.35     0     0     90      2.9%     6       4.2     
 Veljko Milosavljevic        DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-António João Pereira de Albuquerque Tavares da SilvaDEF   £5.1m    3      0       10      13      0        0.01     0.01     0     0     90      3.6%     5.4     4       
+António João Pereira de Albuquerque Tavares da SilvaDEF   £5.1m    3      0       8       13      0        0.01     0.01     0     0     90      3.6%     5.4     4       
 Adam Smith                  DEF   £4.5m    1      0       -3      2       0.03     0.01     0.04     0     0     78      0.2%     3.8     2.3     
 Julio Soler Barreto         DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
 Juanlu Sánchez              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
-Adrien Truffert             DEF   £5.4m    2      0       6       5       0.02     0.01     0.03     0     0     90      3.3%     4.6     3.3     
-Tyler Adams                 MID   £5.0m    4      0       13      14      0        0.01     0.01     0     0     90      0.3%     2.8     2.6     
-Amine Adli                  MID   £4.8m    1      0       11      2       0        0.06     0.06     0     0     5       0.0%     2.2     2.8     
+Adrien Truffert             DEF   £5.4m    2      0       6       6       0.02     0.01     0.03     0     0     90      3.3%     4.6     3.3     
+Tyler Adams                 MID   £5.0m    4      0       13      15      0        0.01     0.01     0     0     90      0.3%     2.8     2.6     
+Amine Adli                  MID   £4.8m    1      0       7       2       0        0.06     0.06     0     0     5       0.0%     2.2     2.8     
 David Brooks                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     0.8     
-Ryan Christie               MID   £5.0m    7      1       18      4       0.12     0.01     0.13     0     1     66      0.0%     3.4     2.4     
+Ryan Christie               MID   £5.0m    7      1       18      6       0.13     0.01     0.14     0     1     66      0.0%     3.4     2.4     
 Lewis Cook                  MID   £5.0m    1      0       -1      1       0        0        0        0     0     23      0.1%     2.2     1.9     
 Ben Gannon-Doak             MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.6     1       
 Justin Kluivert             MID   £5.9m    3      0       6       1       0.03     0.01     0.04     0     0     67      0.9%     3.2     3.9     
 Junior Kroupi               MID   £7.3m    1      0       3       2       0        0.01     0.01     0     0     22      0.7%     1.2     2       
 Alex Scott                  MID   £5.9m    0      0       0       0       0        0        0        0     0     0       2.1%     0       6       
-Rayan Vitor Simplício Rocha MID   £6.3m    2      0       16      8       0.05     0.05     0.1      0     0     85      2.4%     4       3       
-Marcus Tavernier            MID   £6.7m    3      0       12      12      0.5      0.09     0.59     0     0     90      30.9%    5.4     5.8     
+Rayan Vitor Simplício Rocha MID   £6.3m    2      0       16      8       0.02     0.05     0.07     0     0     85      2.4%     4       3       
+Marcus Tavernier            MID   £6.7m    3      0       12      12      0.5      0.09     0.59     0     0     90      31.0%    5.4     5.8     
 Alex Tóth                   MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Álvaro Rodríguez            FWD   £6.0m    1      0       2       0       0.3      0.01     0.31     0     0     5       0.2%     0.8     1       
-Francisco Evanilson de Lima BarbosaFWD   £6.5m    9      3       39      9       0.85     0.04     0.89     1     0     84      22.8%    8.6     6.1     
+Francisco Evanilson de Lima BarbosaFWD   £6.5m    9      3       39      9       0.85     0.04     0.89     1     0     84      23.0%    8.6     6.1     
 Enes Ünal                   FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
