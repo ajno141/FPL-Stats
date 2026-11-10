@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-11-09 22:19:12
+Updated: 2026-11-10 04:11:40
 Gameweek: GW10
 Players: 33
 
@@ -20,7 +20,7 @@ Matheus Nunes               DEF   £5.9m    1      0       14      5       0    
 Nico O'Reilly               DEF   £6.2m    1      0       -3      3       0.23     0.01     0.24     0     0     45      8.1%     1.8     1.9     
 Vitor de Oliveira Nunes dos ReisDEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Rúben dos Santos Gato Alves DiasDEF   £5.5m    1      0       1       4       0        0.02     0.02     0     0     90      2.0%     2.2     2.8     
-Elliot Anderson             MID   £6.3m    2      0       18      11      0.09     0.24     0.33     0     0     90      3.6%     2.8     2.9     
+Elliot Anderson             MID   £6.2m    2      0       18      11      0.09     0.24     0.33     0     0     90      3.6%     2.8     2.9     
 Allan Andrade Elias         MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.4     1       
 Ayyoub Bouaddi              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.6     1       
 Rayan Cherki                MID   £7.9m    9      2       36      5       0.16     0.05     0.21     1     0     90      33.5%    4       6       
