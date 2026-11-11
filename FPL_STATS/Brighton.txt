@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-11-11 07:03:45
+Updated: 2026-11-11 15:05:36
 Gameweek: GW10
 Players: 37
 
@@ -17,7 +17,7 @@ Ferdi Kadıoğlu              DEF   £4.3m    0      0       0       0       0  
 João Pedro Loureiro da CostaDEF   £4.5m    6      0       30      3       0.15     0.05     0.2      0     0     90      0.0%     3.5     2.1     
 Pascal Struijk              DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1.2     
 Michael Svoboda             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     1       
-Luka Vušković               DEF   £5.3m    12     3       37      6       0.01     0.04     0.05     0     1     90      9.1%     7.5     7       
+Luka Vušković               DEF   £5.3m    12     3       37      6       0.01     0.04     0.05     0     1     90      9.2%     7.5     7       
 Mats Wieffer                DEF   £4.8m    0      0       3       2       0.09     0.09     0.18     0     0     45      0.1%     0.2     2       
 Igor Julio dos Santos de PauloDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 José María Andrés Baixauli  MID   £5.5m    0      0       6       3       0        0.15     0.15     0     0     45      0.1%     1.2     2.9     
@@ -40,6 +40,6 @@ Malick Yalcouyé             MID   £4.4m    1      0       3       0       0   
 Zadok Yohanna               MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Promise David               FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0.5     
 Evan Ferguson               FWD   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Charalampos Kostoulas       FWD   £5.8m    2      0       12      4       0.24     0.05     0.29     0     0     81      9.9%     4.5     4.7     
+Charalampos Kostoulas       FWD   £5.8m    2      0       12      4       0.24     0.05     0.29     0     0     81      9.8%     4.5     4.7     
 Georginio Rutter            FWD   £5.3m    1      0       5       1       0        0        0        0     0     8       0.4%     1       2       
 Stefanos Tzimas             FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
