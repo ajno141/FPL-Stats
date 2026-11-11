@@ -1,6 +1,6 @@
 CHELSEA
 =================================================================================================================================================
-Updated: 2026-11-11 00:34:55
+Updated: 2026-11-11 07:03:45
 Gameweek: GW10
 Players: 37
 
@@ -19,7 +19,7 @@ Liam Kitching               DEF   £4.0m    0      0       0       0       0    
 Joel Latibeaudiere          DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Stephen Mfuni               DEF   £4.0m    1      0       5       6       0.03     0.01     0.04     0     0     90      0.2%     2.6     3.8     
 Ethan Pinnock               DEF   £4.5m    3      0       -2      10      0        0.11     0.11     0     0     90      0.1%     2.8     3.1     
-Bobby Thomas                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       7.4%     1.6     4       
+Bobby Thomas                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       7.3%     1.6     4       
 Luke Woolfenden             DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Milan van Ewijk             DEF   £3.9m    1      0       7       8       0        0.1      0.1      0     0     90      6.9%     2.8     2.2     
 Kai Andrews                 MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
