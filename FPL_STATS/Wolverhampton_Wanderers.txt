@@ -1,6 +1,6 @@
 WOLVERHAMPTON WANDERERS
 =================================================================================================================================================
-Updated: 2026-11-12 10:20:03
+Updated: 2026-11-12 18:26:49
 Gameweek: GW10
 Players: 31
 
@@ -27,7 +27,7 @@ Nilson Angulo               MID   £5.0m    0      0       1       3       0    
 Djiamgone Jocelin Ta Bi     MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Habib Diarra                MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1.8     
 Malick Fofana               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0.2     1       
-Enzo Le Fée                 MID   £5.7m    11     3       33      8       0.79     0.06     0.85     1     0     87      2.7%     6.5     4.6     
+Enzo Le Fée                 MID   £5.7m    11     3       33      8       0.79     0.06     0.85     1     0     87      2.8%     6.5     4.6     
 Romaine Mundle              MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Chris Rigg                  MID   £4.8m    1      0       3       0       0        0        0        0     0     2       0.0%     1.5     1.3     
 Noah Sadiki                 MID   £4.8m    5      0       14      12      0        0.08     0.08     0     0     90      0.2%     3       2.5     
