@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-11-13 11:35:18
+Updated: 2026-11-13 18:44:19
 Gameweek: GW10
 Players: 29
 
@@ -30,7 +30,7 @@ Ethan Nwaneri               MID   £5.4m    0      0       0       0       0    
 Declan Rice                 MID   £7.5m    3      0       14      5       0.13     0.03     0.16     0     0     62      13.7%    5.8     5       
 Bukayo Saka                 MID   £9.4m    0      0       0       0       0        0        0        0     0     0       5.5%     0.8     5.3     
 Christos Tzolis             MID   £6.1m    3      0       15      1       0.22     0.06     0.28     0     0     68      3.9%     1.5     3.1     
-Martín Zubimendi Ibáñez     MID   £5.2m    1      0       3       0       0        0        0        0     0     1       0.5%     0.5     1       
+Martín Zubimendi Ibáñez     MID   £5.2m    1      0       3       0       0        0        0        0     0     1       0.4%     0.5     1       
 Martin Ødegaard             MID   £6.7m    11     3       44      2       0.24     0.34     0.58     1     0     90      16.5%    5       5       
 Gabriel Fernando de Jesus   FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Viktor Gyökeres             FWD   £7.0m    1      0       6       3       0.03     0.01     0.04     0     0     27      3.0%     2       1.6     
