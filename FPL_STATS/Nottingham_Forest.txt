@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-11-13 18:44:19
+Updated: 2026-11-13 23:55:52
 Gameweek: GW10
 Players: 34
 
@@ -17,7 +17,7 @@ Ayden Heaven                DEF   £4.3m    -1     0       -3      5       0    
 Harry Maguire               DEF   £4.6m    0      0       -4      2       0        0        0        0     0     45      5.1%     1       1.6     
 Lisandro Martínez           DEF   £4.8m    0      0       0       0       0        0        0        0     0     0       0.9%     0       1.1     
 Noussair Mazraoui           DEF   £4.3m    3      0       7       8       0.02     0.06     0.08     0     1     90      0.4%     1.5     1.8     
-Luke Shaw                   DEF   £4.2m    0      0       0       0       0        0        0        0     0     0       3.3%     0       2.4     
+Luke Shaw                   DEF   £4.2m    0      0       0       0       0        0        0        0     0     0       3.2%     0       2.4     
 Leny Yoro                   DEF   £4.8m    2      0       -2      11      0        0.02     0.02     0     0     90      0.5%     2       1.9     
 Matthijs de Ligt            DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Carlos Baleba               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.2%     1.2     2       
