@@ -1,6 +1,6 @@
 NOTTINGHAM FOREST
 =================================================================================================================================================
-Updated: 2026-11-14 18:22:19
+Updated: 2026-11-14 22:38:17
 Gameweek: GW10
 Players: 34
 
@@ -21,7 +21,7 @@ Luke Shaw                   DEF   £4.2m    0      0       0       0       0    
 Leny Yoro                   DEF   £4.8m    2      0       -2      11      0        0.02     0.02     0     0     90      0.5%     2       1.9     
 Matthijs de Ligt            DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Carlos Baleba               MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.2%     1.2     2       
-Bruno Borges Fernandes      MID   £11.6m   10     0       38      1       0.99     0.56     1.55     1     1     90      20.4%    3.2     5       
+Bruno Borges Fernandes      MID   £11.6m   10     0       38      1       0.99     0.56     1.55     1     1     90      20.3%    3.2     5       
 Toby Collyer                MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amad Diallo                 MID   £5.7m    2      0       9       4       0.37     0.03     0.4      0     0     65      0.3%     2       1.8     
 Patrick Dorgu               MID   £5.7m    11     2       44      5       0.35     0.16     0.51     1     1     24      0.3%     2.8     3.5     

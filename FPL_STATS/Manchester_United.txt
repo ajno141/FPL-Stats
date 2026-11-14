@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-11-14 18:22:19
+Updated: 2026-11-14 22:38:17
 Gameweek: GW10
 Players: 36
 
@@ -12,7 +12,7 @@ Vitezslav Jaros             GK    £4.0m    0      0       0       0       0    
 Giorgi Mamardashvili        GK    £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Armin Pecsi                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Freddie Woodman             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.9%     0       0       
-Ronald Araujo               DEF   £5.5m    7      0       13      11      0.8      0.05     0.85     0     0     90      4.4%     5.5     4.4     
+Ronald Araujo               DEF   £5.5m    7      0       13      11      0.8      0.05     0.85     0     0     90      4.5%     5.5     4.4     
 Conor Bradley               DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jeremie Frimpong            DEF   £5.2m    0      0       0       0       0        0        0        0     0     0       1.2%     0.2     0.8     
 Joe Gomez                   DEF   £4.9m    1      0       -1      0       0        0        0        0     0     1       0.0%     0.5     1       
