@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-11-14 05:22:55
+Updated: 2026-11-14 12:22:31
 Gameweek: GW10
 Players: 33
 
@@ -13,7 +13,7 @@ Max Alleyne                 DEF   £5.0m    0      0       0       0       0    
 Rayan Aït-Nouri             DEF   £5.1m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Kaden Braithwaite           DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
 Marc Guéhi                  DEF   £6.0m    0      0       7       1       0        0.34     0.34     0     0     45      14.0%    0.2     4.1     
-Joško Gvardiol              DEF   £5.6m    0      0       -6      4       0        0        0        0     0     45      22.6%    0.8     4.4     
+Joško Gvardiol              DEF   £5.6m    0      0       -6      4       0        0        0        0     0     45      22.5%    0.8     4.4     
 Abdukodir Khusanov          DEF   £5.3m    1      0       10      4       0        0.19     0.19     0     0     90      1.2%     2.2     2.6     
 Rico Lewis                  DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.2%     0.2     1       
 Matheus Nunes               DEF   £5.9m    1      0       14      5       0        0.37     0.37     0     0     45      1.0%     1.2     3.1     
@@ -37,5 +37,5 @@ Iliman Ndiaye               MID   £5.8m    2      0       20      9       0    
 Kalvin Phillips             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Floyd Samba                 MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Antoine Semenyo             MID   £8.2m    0      0       0       0       0        0        0        0     0     0       5.6%     0.2     5.3     
+Antoine Semenyo             MID   £8.2m    0      0       0       0       0        0        0        0     0     0       5.5%     0.2     5.3     
 Erling Haaland              FWD   £15.8m   2      0       6       0       0.5      0.02     0.52     0     0     90      78.8%    6.2     7       
