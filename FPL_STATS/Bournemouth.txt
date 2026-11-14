@@ -1,6 +1,6 @@
 BOURNEMOUTH
 =================================================================================================================================================
-Updated: 2026-11-14 12:22:31
+Updated: 2026-11-14 18:22:19
 Gameweek: GW10
 Players: 29
 
@@ -29,7 +29,7 @@ Justin Kluivert             MID   £5.9m    3      0       6       1       0.03 
 Junior Kroupi               MID   £7.3m    1      0       3       2       0        0.01     0.01     0     0     22      0.7%     1.5     2       
 Alex Scott                  MID   £5.9m    0      0       0       0       0        0        0        0     0     0       2.1%     0       6       
 Rayan Vitor Simplício Rocha MID   £6.3m    2      0       16      8       0.02     0.05     0.07     0     0     85      2.4%     4.5     3       
-Marcus Tavernier            MID   £6.7m    3      0       12      12      0.5      0.09     0.59     0     0     90      31.4%    6.5     5.8     
+Marcus Tavernier            MID   £6.7m    3      0       12      12      0.5      0.09     0.59     0     0     90      31.5%    6.5     5.8     
 Alex Tóth                   MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Daniel Jebbison             FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Álvaro Rodríguez            FWD   £6.0m    1      0       2       0       0.3      0.01     0.31     0     0     5       0.2%     0.8     1       
