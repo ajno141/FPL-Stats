@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-11-15 16:27:22
+Updated: 2026-11-15 21:10:01
 Gameweek: GW10
 Players: 37
 
@@ -36,7 +36,7 @@ Boubacar Kamara             MID   £5.0m    4      0       9       14      0.04 
 Luka Lynch                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Johan Manzambi              MID   £6.2m    2      0       19      9       0.07     0.29     0.36     0     0     77      8.5%     5.2     5.7     
 Ibrahim Mbaye               MID   £6.0m    1      0       5       2       0        0.09     0.09     0     0     12      0.1%     1.8     1.4     
-John McGinn                 MID   £5.4m    10     0       36      5       0.79     0.18     0.97     1     1     70      3.6%     4.2     4.4     
+John McGinn                 MID   £5.4m    10     0       36      5       0.79     0.18     0.97     1     1     70      3.7%     4.2     4.4     
 Amadou Onana                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Alysson Edward Franco da Rocha dos SantosMID   £4.9m    16     3       48      7       0.28     0        0.28     1     2     70      0.2%     4.8     3.1     
 Tammy Abraham               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
