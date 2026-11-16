@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-11-16 07:53:15
+Updated: 2026-11-16 17:45:16
 Gameweek: GW10
 Players: 36
 
@@ -28,7 +28,7 @@ Romain Esse                 MID   £5.0m    0      0       0       0       0    
 Matheus França de Oliveira  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Zavier Gozo                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Evann Guessand              MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
-Will Hughes                 MID   £4.3m    0      0       0       0       0        0        0        0     0     0       5.6%     0.5     1       
+Will Hughes                 MID   £4.3m    0      0       0       0       0        0        0        0     0     0       5.5%     0.5     1       
 Daichi Kamada               MID   £5.0m    2      0       12      5       0.36     0.05     0.41     0     0     90      0.6%     1.8     3.6     
 Jefferson Lerma Solís       MID   £4.8m    3      0       16      13      0.06     0.03     0.09     0     0     90      0.1%     1.2     2.3     
 Dwight McNeil               MID   £5.3m    1      0       3       0       0.02     0        0.02     0     0     3       0.1%     1.5     1.4     
