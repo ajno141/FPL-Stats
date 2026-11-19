@@ -1,13 +1,13 @@
 FULHAM
 =================================================================================================================================================
-Updated: 2026-11-18 23:33:12
+Updated: 2026-11-19 04:27:45
 Gameweek: GW10
 Players: 28
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Benjamin Lecomte            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       1.1%     0       0       
-Bernd Leno                  GK    £4.5m    3      0       17      0       0        0        0        0     0     90      4.4%     4.3     3.9     
+Bernd Leno                  GK    £4.5m    3      0       17      0       0        0        0        0     0     90      4.3%     4.3     3.9     
 Alfie McNally               GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 David Affengruber           DEF   £4.5m    2      0       13      9       0        0.01     0.01     0     0     90      0.5%     3.7     4.6     
 Joachim Andersen            DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
@@ -31,6 +31,6 @@ Harrison Reed               MID   £4.3m    0      0       0       0       0    
 Kevin Santos Lopes de MacedoMID   £5.2m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Emile Smith Rowe            MID   £5.2m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0.8     
 Macaulay Zepa               MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
-Gonzalo García              FWD   £5.9m    2      0       6       2       0.08     0.01     0.09     0     0     65      3.6%     2       2.4     
+Gonzalo García              FWD   £5.8m    2      0       6       2       0.08     0.01     0.09     0     0     65      3.5%     2       2.4     
 Jonah Kusi-Asare            FWD   £4.3m    0      0       0       0       0        0        0        0     0     0       4.2%     0       0       
 Rodrigo Muniz Carvalho      FWD   £5.3m    7      2       29      1       0.15     0        0.15     1     0     25      0.3%     3       1.6     

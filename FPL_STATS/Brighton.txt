@@ -1,6 +1,6 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-11-18 23:33:12
+Updated: 2026-11-19 04:27:45
 Gameweek: GW10
 Players: 37
 
@@ -26,7 +26,7 @@ Femi Azeez                  MID   £5.5m    0      0       0       0       0    
 Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amario Cozier-Duberry       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Pascal Groß                 MID   £6.3m    10     2       34      3       0.87     0.65     1.52     1     0     90      48.3%    4       7       
-Diego Gómez Amarilla        MID   £5.0m    9      1       32      5       0.13     0.05     0.18     1     0     90      4.4%     4.7     5.1     
+Diego Gómez Amarilla        MID   £5.1m    9      1       32      5       0.13     0.05     0.18     1     0     90      4.4%     4.7     5.1     
 Jack Hinshelwood            MID   £5.9m    1      0       1       1       0.05     0.01     0.06     0     0     12      0.6%     1       5       
 Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Younes Ibrahim              MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -41,5 +41,5 @@ Zadok Yohanna               MID   £4.8m    0      0       0       0       0    
 Promise David               FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0.5     
 Evan Ferguson               FWD   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Charalampos Kostoulas       FWD   £5.8m    2      0       12      4       0.24     0.05     0.29     0     0     81      9.7%     2       4.7     
-Georginio Rutter            FWD   £5.3m    1      0       5       1       0        0        0        0     0     8       0.4%     1       2       
+Georginio Rutter            FWD   £5.2m    1      0       5       1       0        0        0        0     0     8       0.4%     1       2       
 Stefanos Tzimas             FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

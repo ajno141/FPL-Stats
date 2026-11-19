@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-11-18 23:33:12
+Updated: 2026-11-19 04:27:45
 Gameweek: GW10
 Players: 36
 
@@ -32,13 +32,13 @@ Ryan Gravenberch            MID   £5.8m    0      0       0       0       0    
 Curtis Jones                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lewis Koumas                MID   £5.0m    1      0       3       0       0        0        0        0     0     1       0.1%     1       1.1     
 Alexis Mac Allister         MID   £5.4m    9      1       31      14      0.22     0.04     0.26     1     0     90      1.4%     4.3     2.7     
-James McConnell             MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
+James McConnell             MID   £4.3m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Victor Munoz                MID   £6.5m    0      0       4       3       0        0.08     0.08     0     0     21      0.7%     0.3     3       
 Rio Ngumoha                 MID   £5.7m    1      0       5       1       0.03     0        0.03     0     0     14      0.5%     1       1.1     
 Trey Nyoni                  MID   £4.8m    1      0       3       4       0        0.03     0.03     0     0     21      0.1%     1       1       
 Dominik Szoboszlai          MID   £6.7m    7      1       31      7       0.02     0.49     0.51     0     1     68      13.4%    2.7     3.6     
 Endo Wataru                 MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Florian Wirtz               MID   £7.2m    13     3       49      10      0.32     0.14     0.46     1     1     90      5.9%     7       4.6     
+Florian Wirtz               MID   £7.2m    13     3       49      10      0.32     0.14     0.46     1     1     90      6.0%     7       4.6     
 Jayden Danns                FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Hugo Ekitiké                FWD   £7.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Alexander Isak              FWD   £9.3m    8      2       34      3       0.53     0.02     0.55     1     0     90      25.3%    6.3     6.8     
