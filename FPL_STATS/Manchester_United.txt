@@ -1,6 +1,6 @@
 MANCHESTER UNITED
 =================================================================================================================================================
-Updated: 2026-11-19 04:27:45
+Updated: 2026-11-19 13:45:46
 Gameweek: GW10
 Players: 36
 
@@ -12,7 +12,7 @@ Vitezslav Jaros             GK    £4.0m    0      0       0       0       0    
 Giorgi Mamardashvili        GK    £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Armin Pecsi                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Freddie Woodman             GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.9%     0       0       
-Ronald Araujo               DEF   £5.5m    7      0       13      11      0.8      0.05     0.85     0     0     90      4.5%     7       4.4     
+Ronald Araujo               DEF   £5.5m    7      0       13      11      0.8      0.05     0.85     0     0     90      4.6%     7       4.4     
 Conor Bradley               DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Jeremie Frimpong            DEF   £5.1m    0      0       0       0       0        0        0        0     0     0       1.2%     0       0.8     
 Joe Gomez                   DEF   £4.9m    1      0       -1      0       0        0        0        0     0     1       0.0%     0.3     1       
@@ -41,4 +41,4 @@ Endo Wataru                 MID   £4.8m    0      0       0       0       0    
 Florian Wirtz               MID   £7.2m    13     3       49      10      0.32     0.14     0.46     1     1     90      6.0%     7       4.6     
 Jayden Danns                FWD   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Hugo Ekitiké                FWD   £7.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Alexander Isak              FWD   £9.3m    8      2       34      3       0.53     0.02     0.55     1     0     90      25.3%    6.3     6.8     
+Alexander Isak              FWD   £9.3m    8      2       34      3       0.53     0.02     0.55     1     0     90      25.4%    6.3     6.8     
