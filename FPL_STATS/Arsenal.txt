@@ -1,6 +1,6 @@
 ARSENAL
 =================================================================================================================================================
-Updated: 2026-11-20 02:44:26
+Updated: 2026-11-20 10:34:54
 Gameweek: GW10
 Players: 29
 
@@ -22,13 +22,13 @@ Eberechi Eze                MID   £6.2m    1      0       1       2       0.1  
 Fábio Ferreira Vieira       MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Bruno Guimarães Rodriguez MouraMID   £6.7m    3      0       19      7       0.08     0.09     0.17     0     0     88      2.2%     2.3     3.5     
 Myles Lewis-Skelly          MID   £5.3m    0      0       0       0       0        0        0        0     0     0       0.5%     0.7     1.9     
-Noni Madueke                MID   £6.2m    8      2       36      5       0.37     0.39     0.76     0     1     90      0.5%     4.3     3.1     
+Noni Madueke                MID   £6.2m    8      2       36      5       0.37     0.39     0.76     0     1     90      0.6%     4.3     3.1     
 Gabriel Martinelli Silva    MID   £6.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Mikel Merino Zazón          MID   £5.7m    1      0       9       5       0.07     0.13     0.2      0     0     27      0.4%     1.7     1.1     
 Reiss Nelson                MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ethan Nwaneri               MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Declan Rice                 MID   £7.5m    3      0       14      5       0.13     0.03     0.16     0     0     62      13.7%    4.7     5       
-Bukayo Saka                 MID   £9.4m    0      0       0       0       0        0        0        0     0     0       5.4%     0       5.3     
+Bukayo Saka                 MID   £9.4m    0      0       0       0       0        0        0        0     0     0       5.3%     0       5.3     
 Christos Tzolis             MID   £6.1m    3      0       15      1       0.22     0.06     0.28     0     0     68      3.9%     2       3.1     
 Martín Zubimendi Ibáñez     MID   £5.2m    1      0       3       0       0        0        0        0     0     1       0.4%     0.7     1       
 Martin Ødegaard             MID   £6.7m    11     3       44      2       0.24     0.34     0.58     1     0     90      16.5%    5.7     5       
