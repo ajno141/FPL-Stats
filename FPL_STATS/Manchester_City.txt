@@ -1,6 +1,6 @@
 MANCHESTER CITY
 =================================================================================================================================================
-Updated: 2026-11-22 08:00:16
+Updated: 2026-11-22 16:11:02
 Gameweek: GW11
 Players: 31
 
@@ -8,7 +8,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Alex Cairns                 GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Lucas Estella Perri         GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
-James Trafford              GK    £5.1m    2      0       9       0       0        0        0        0     0     90      6.9%     6       5.1     
+James Trafford              GK    £5.1m    2      0       9       0       0        0        0        0     0     90      7.1%     6       5.1     
 Michael Zetterer            GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.7%     0       0       
 Melvin Bard                 DEF   £4.5m    1      0       3       0       0        0        0        0     0     1       0.0%     0.5     1       
 Jaka Bijol                  DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.5%     2       4.2     
@@ -30,10 +30,10 @@ Ilia Gruev                  MID   £5.0m    0      0       0       0       0    
 Jack Harrison               MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Daniel James                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1.2     
 Sean Longstaff              MID   £4.8m    1      0       7       5       0.06     0.21     0.27     0     0     90      0.1%     1.2     1.1     
-Noah Okafor                 MID   £5.7m    15     3       52      3       0.27     0.06     0.33     2     0     72      0.6%     5.2     4.3     
+Noah Okafor                 MID   £5.7m    15     3       52      3       0.27     0.06     0.33     2     0     72      0.7%     5.2     4.3     
 Anton Stach                 MID   £6.0m    1      0       3       0       0        0.05     0.05     0     0     4       1.6%     0.8     3.4     
 Harry Wilson                MID   £6.1m    4      0       15      0       0.17     0        0.17     0     1     1       1.1%     2.5     1.8     
-Dominic Calvert-Lewin       FWD   £6.0m    9      0       25      5       1.4      0.03     1.43     1     1     90      16.6%    3.8     4.4     
+Dominic Calvert-Lewin       FWD   £6.0m    9      0       25      5       1.4      0.03     1.43     1     1     90      16.7%    3.8     4.4     
 Mateo Joseph Fernández-RegatilloFWD   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lukas Nmecha                FWD   £5.2m    0      0       0       0       0        0        0        0     0     0       0.4%     1       1.4     
 Joël Piroe                  FWD   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
