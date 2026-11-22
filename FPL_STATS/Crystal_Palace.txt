@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-11-21 21:04:33
+Updated: 2026-11-22 01:11:58
 Gameweek: GW11
 Players: 36
 
@@ -23,7 +23,7 @@ Borna Sosa                  DEF   £4.5m    0      0       0       0       0    
 Takehiro Tomiyasu           DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0.8     
 Justin Devenny              MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Cheick Doucouré             MID   £4.7m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Joél Drakes-Thomas          MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
+Joél Drakes-Thomas          MID   £4.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Romain Esse                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Matheus França de Oliveira  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Zavier Gozo                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
@@ -31,7 +31,7 @@ Evann Guessand              MID   £5.3m    1      0       4       2       0.09 
 Will Hughes                 MID   £4.3m    0      0       0       0       0        0        0        0     0     0       5.4%     0.2     1       
 Daichi Kamada               MID   £5.0m    2      0       13      7       0.09     0.1      0.19     0     0     90      0.6%     2       3.5     
 Jefferson Lerma Solís       MID   £4.8m    1      0       2       2       0.02     0        0.02     0     0     17      0.1%     1.2     2.1     
-Dwight McNeil               MID   £5.3m    0      0       14      10      0.08     0.12     0.2      0     0     88      0.1%     1.2     1.2     
+Dwight McNeil               MID   £5.2m    0      0       14      10      0.08     0.12     0.2      0     0     88      0.1%     1.2     1.2     
 Darío Osorio                MID   £5.4m    1      0       3       0       0        0        0        0     0     1       0.0%     1.8     1.6     
 Yéremy Pino Santos          MID   £5.5m    12     3       46      9       0.5      0.34     0.84     1     1     78      0.3%     3.8     3.6     
 Jesurun Rak-Sakyi           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       

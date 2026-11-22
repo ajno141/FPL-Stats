@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-11-21 21:04:33
+Updated: 2026-11-22 01:11:58
 Gameweek: GW11
 Players: 37
 
@@ -13,19 +13,19 @@ Matty Cash                  DEF   £4.3m    0      0       0       0       0    
 Modou Kéba Cissé            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lucas Digne                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Andrés García               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
-Taylor Harwood-Bellis       DEF   £4.5m    7      1       28      4       0.08     0.04     0.12     0     0     90      0.0%     1.8     3.5     
+Taylor Harwood-Bellis       DEF   £4.5m    7      1       28      5       0.08     0.04     0.12     0     0     90      0.0%     1.8     3.5     
 Victor Lindelöf             DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.7%     1.5     2.6     
-Ian Maatsen                 DEF   £4.4m    5      0       26      1       0.06     0.08     0.14     0     0     90      0.5%     2.2     2.2     
+Ian Maatsen                 DEF   £4.4m    5      0       27      1       0.06     0.05     0.11     0     0     90      0.5%     2.2     2.2     
 Tyrone Mings                DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.4%     0       3       
 Kosta Nedeljkovic           DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Triston Rowe                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0       
 Matteo Ruggeri              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1.5     
-Pau Torres                  DEF   £4.4m    7      1       28      4       0.04     0.04     0.08     0     0     90      0.3%     3.2     2.1     
-Aaron Wan-Bissaka           DEF   £4.5m    8      2       36      8       0        0.04     0.04     0     0     90      0.2%     2       3       
+Pau Torres                  DEF   £4.4m    7      1       28      6       0.04     0.04     0.08     0     0     90      0.3%     3.2     2.1     
+Aaron Wan-Bissaka           DEF   £4.5m    8      2       37      9       0        0.04     0.04     0     0     90      0.2%     2       3       
 Leon Bailey                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ross Barkley                MID   £4.9m    1      0       3       0       0.05     0.01     0.06     0     0     17      0.2%     1       1.5     
 Lamare Bogarde              MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
-Emiliano Buendía Stati      MID   £5.9m    1      0       8       6       0.2      0.14     0.34     0     0     59      1.0%     0.5     3       
+Emiliano Buendía Stati      MID   £5.9m    1      0       8       6       0.2      0.18     0.38     0     0     59      1.0%     0.5     3       
 Bradley Burrowes            MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
 Alejandro Garnacho Ferreyra MID   £5.7m    0      0       0       0       0        0        0        0     0     0       0.3%     0.2     1       
 Joao Gomes                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     1       1.9     
@@ -34,12 +34,12 @@ George Hemmings             MID   £4.4m    0      0       0       0       0    
 Samuel Iling-Junior         MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Boubacar Kamara             MID   £5.0m    3      0       13      8       0        0.11     0.11     0     0     90      0.4%     3.2     3.4     
 Luka Lynch                  MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Johan Manzambi              MID   £6.2m    1      0       13      5       0.06     0.03     0.09     0     0     59      8.8%     2.8     5.1     
-Ibrahim Mbaye               MID   £6.0m    1      0       8       1       0.02     0.05     0.07     0     0     30      0.1%     1.8     1.4     
-John McGinn                 MID   £5.5m    1      0       7       6       0.07     0.12     0.19     0     0     30      4.9%     4.2     4.1     
+Johan Manzambi              MID   £6.2m    1      0       13      5       0.14     0.03     0.17     0     0     59      8.8%     2.8     5.1     
+Ibrahim Mbaye               MID   £6.0m    1      0       8       1       0.02     0.06     0.08     0     0     30      0.1%     1.8     1.4     
+John McGinn                 MID   £5.5m    1      0       7       6       0.1      0.17     0.27     0     0     30      4.9%     4.2     4.1     
 Amadou Onana                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Alysson Edward Franco da Rocha dos SantosMID   £4.9m    3      0       14      4       0.08     0.07     0.15     0     0     90      0.6%     5.5     3.1     
+Alysson Edward Franco da Rocha dos SantosMID   £4.9m    3      0       15      4       0.08     0.07     0.15     0     0     90      0.6%     5.5     3.1     
 Tammy Abraham               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
-Nicolas Jackson             FWD   £7.2m    2      0       7       0       0.15     0.23     0.38     0     0     72      35.9%    8.8     5.6     
+Nicolas Jackson             FWD   £7.2m    2      0       8       0       0.1      0.23     0.33     0     0     72      35.9%    8.8     5.6     
 Brian Madjo                 FWD   £5.3m    1      0       3       0       0        0        0        0     0     17      0.1%     0.5     0.7     
 Ollie Watkins               FWD   £7.8m    0      0       0       0       0        0        0        0     0     0       2.2%     0       0       

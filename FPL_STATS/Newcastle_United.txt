@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-11-21 21:04:33
+Updated: 2026-11-22 01:11:58
 Gameweek: GW11
 Players: 33
 
@@ -33,9 +33,9 @@ Mateo Kovačić               MID   £5.3m    0      0       0       0       0  
 Ryan McAidoo                MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0.7     
 Jeremy Monga                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Divine Mukasa               MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
-Iliman Ndiaye               MID   £5.8m    2      0       14      4       0        0.56     0.56     0     0     77      5.3%     2.8     3.5     
+Iliman Ndiaye               MID   £5.7m    2      0       14      4       0        0.56     0.56     0     0     77      5.3%     2.8     3.5     
 Kalvin Phillips             MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Tijjani Reijnders           MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Floyd Samba                 MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Antoine Semenyo             MID   £8.2m    0      0       0       0       0        0        0        0     0     0       5.3%     0       5.3     
-Erling Haaland              FWD   £15.8m   2      0       5       0       1.03     0.05     1.08     0     0     90      78.6%    3.5     6.5     
+Antoine Semenyo             MID   £8.1m    0      0       0       0       0        0        0        0     0     0       5.3%     0       5.3     
+Erling Haaland              FWD   £15.8m   2      0       5       0       1.03     0.05     1.08     0     0     90      78.5%    3.5     6.5     
