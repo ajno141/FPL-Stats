@@ -1,6 +1,6 @@
 CRYSTAL PALACE
 =================================================================================================================================================
-Updated: 2026-11-22 21:45:57
+Updated: 2026-11-23 02:00:22
 Gameweek: GW11
 Players: 36
 
@@ -26,7 +26,7 @@ Cheick Doucouré             MID   £4.7m    0      0       0       0       0   
 Joél Drakes-Thomas          MID   £4.3m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Romain Esse                 MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Matheus França de Oliveira  MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Zavier Gozo                 MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
+Zavier Gozo                 MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Evann Guessand              MID   £5.3m    1      0       4       2       0.09     0.15     0.24     0     0     11      0.0%     0.2     1       
 Will Hughes                 MID   £4.3m    0      0       0       0       0        0        0        0     0     0       5.4%     0.2     1       
 Daichi Kamada               MID   £5.0m    2      0       13      7       0.09     0.1      0.19     0     0     90      0.6%     2       3.5     
