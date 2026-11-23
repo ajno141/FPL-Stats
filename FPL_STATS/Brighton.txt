@@ -1,13 +1,13 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-11-23 10:38:21
+Updated: 2026-11-23 22:13:42
 Gameweek: GW11
 Players: 37
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Jason Steele                GK    £3.9m    0      0       0       0       0        0        0        0     0     0       3.4%     0       0       
-Bart Verbruggen             GK    £4.7m    2      0       15      0       0        0        0        0     0     90      24.5%    5.2     5.4     
+Bart Verbruggen             GK    £4.7m    2      0       15      0       0        0        0        0     0     90      24.6%    5.2     5.4     
 Olivier Boscagli            DEF   £4.5m    7      1       25      5       0        0.35     0.35     0     0     66      0.8%     4.2     4.6     
 Diego Coppola               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Maxim De Cuyper             DEF   £5.5m    1      0       10      3       0        0.45     0.45     0     0     90      50.0%    4.2     6.9     
@@ -21,7 +21,7 @@ Luka Vušković               DEF   £5.3m    0      0       2       7       0  
 Mats Wieffer                DEF   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     2       
 Igor Julio dos Santos de PauloDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 José María Andrés Baixauli  MID   £5.5m    1      0       11      6       0        0.03     0.03     0     0     90      0.1%     1       2.6     
-Yasin Ayari                 MID   £5.5m    3      0       12      5       0.42     0.15     0.57     0     0     66      2.5%     4.5     4.9     
+Yasin Ayari                 MID   £5.5m    3      0       12      5       0.42     0.15     0.57     0     0     66      2.4%     4.5     4.9     
 Femi Azeez                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amario Cozier-Duberry       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
@@ -40,6 +40,6 @@ Malick Yalcouyé             MID   £4.4m    0      0       0       0       0   
 Zadok Yohanna               MID   £4.7m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Promise David               FWD   £5.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       0.5     
 Evan Ferguson               FWD   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Charalampos Kostoulas       FWD   £5.7m    1      0       3       4       0.3      0.01     0.31     0     0     23      9.0%     1.8     4.4     
+Charalampos Kostoulas       FWD   £5.7m    1      0       3       4       0.3      0.01     0.31     0     0     23      8.9%     1.8     4.4     
 Georginio Rutter            FWD   £5.2m    2      0       11      6       0.37     0.08     0.45     0     0     66      0.4%     1.2     2       
 Stefanos Tzimas             FWD   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
