@@ -1,6 +1,6 @@
 LIVERPOOL
 =================================================================================================================================================
-Updated: 2026-11-23 02:00:22
+Updated: 2026-11-23 10:38:21
 Gameweek: GW11
 Players: 36
 
@@ -9,7 +9,7 @@ PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG    
 David Button                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.6%     0       0       
 Alex Palmer                 GK    £3.9m    0      0       0       0       0        0        0        0     0     0       3.3%     0       0       
 Kjell Scherpen              GK    £4.4m    0      0       0       0       0        0        0        0     0     0       0.4%     0       1.8     
-Christian Walton            GK    £4.4m    3      0       25      0       0        0        0        0     0     90      0.5%     2       2.1     
+Christian Walton            GK    £4.4m    3      0       22      0       0        0        0        0     0     90      0.5%     2       2.1     
 Kayne van Oevelen           GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Leif Davis                  DEF   £4.0m    1      0       4       4       0        0.04     0.04     0     0     82      6.2%     0.3     2.6     
 Issa Diop                   DEF   £3.9m    0      0       -1      7       0        0        0        0     0     90      9.5%     1       1.9     
