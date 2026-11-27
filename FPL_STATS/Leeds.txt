@@ -1,6 +1,6 @@
 LEEDS
 =================================================================================================================================================
-Updated: 2026-11-27 03:11:17
+Updated: 2026-11-27 12:24:00
 Gameweek: GW11
 Players: 43
 
@@ -10,7 +10,7 @@ Jack Butland                GK    £4.4m    0      0       0       0       0    
 Harvey Cartwright           GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Thimothée Lo-Tutala         GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Dillon Phillips             GK    £3.9m    0      0       0       0       0        0        0        0     0     0       1.2%     0       0       
-Konstantinos Tzolakis       GK    £4.7m    10     2       44      0       0        0        0        0     0     90      13.9%    5.7     5.4     
+Konstantinos Tzolakis       GK    £4.7m    10     2       44      0       0        0        0        0     0     90      14.1%    5.7     5.4     
 Semi Ajayi                  DEF   £4.2m    6      0       22      6       0        0        0        0     0     90      11.8%    4.7     4.4     
 Lewie Coyle                 DEF   £4.0m    6      0       23      4       0        0        0        0     0     83      0.6%     4       2.8     
 Cody Drameh                 DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       

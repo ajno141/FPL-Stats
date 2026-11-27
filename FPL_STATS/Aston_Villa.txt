@@ -1,15 +1,15 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-11-27 03:11:17
+Updated: 2026-11-27 12:24:00
 Gameweek: GW11
 Players: 37
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Marco Bizot                 GK    £4.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
-Zion Suzuki                 GK    £5.1m    6      0       26      0       0        0        0        0     0     90      4.0%     2.3     3.7     
+Zion Suzuki                 GK    £5.1m    6      0       26      0       0        0        0        0     0     90      4.1%     2.3     3.7     
 James Wright                GK    £4.0m    0      0       0       0       0        0        0        0     0     0       0.4%     0       0       
-Matty Cash                  DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       3.2%     0.3     2.2     
+Matty Cash                  DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       3.1%     0.3     2.2     
 Modou Kéba Cissé            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Lucas Digne                 DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Andrés García               DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       1.0%     0       0       
@@ -20,7 +20,7 @@ Tyrone Mings                DEF   £4.5m    0      0       0       0       0    
 Kosta Nedeljkovic           DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Triston Rowe                DEF   £4.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       0       
 Matteo Ruggeri              DEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1.5     
-Pau Torres                  DEF   £4.4m    7      1       28      6       0.04     0.04     0.08     0     0     90      0.3%     3.7     2.1     
+Pau Torres                  DEF   £4.4m    7      1       28      6       0.04     0.04     0.08     0     0     90      0.4%     3.7     2.1     
 Aaron Wan-Bissaka           DEF   £4.5m    8      2       37      9       0        0.04     0.04     0     0     90      0.2%     2.7     3       
 Leon Bailey                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ross Barkley                MID   £4.9m    1      0       3       0       0.05     0.01     0.06     0     0     17      0.2%     1       1.5     
@@ -40,6 +40,6 @@ John McGinn                 MID   £5.5m    1      0       7       6       0.1  
 Amadou Onana                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Alysson Edward Franco da Rocha dos SantosMID   £4.9m    3      0       15      4       0.08     0.07     0.15     0     0     90      0.7%     7       3.1     
 Tammy Abraham               FWD   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
-Nicolas Jackson             FWD   £7.3m    2      0       8       0       0.1      0.23     0.33     0     0     72      36.8%    7.3     5.6     
+Nicolas Jackson             FWD   £7.3m    2      0       8       0       0.1      0.23     0.33     0     0     72      37.1%    7.3     5.6     
 Brian Madjo                 FWD   £5.3m    1      0       3       0       0        0        0        0     0     17      0.1%     0.7     0.7     
 Ollie Watkins               FWD   £7.8m    0      0       0       0       0        0        0        0     0     0       2.2%     0       0       
