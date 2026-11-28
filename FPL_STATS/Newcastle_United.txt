@@ -1,6 +1,6 @@
 NEWCASTLE UNITED
 =================================================================================================================================================
-Updated: 2026-11-28 12:13:52
+Updated: 2026-11-28 20:13:18
 Gameweek: GW12
 Players: 33
 
@@ -13,17 +13,17 @@ Max Alleyne                 DEF   £5.0m    0      0       0       0       0    
 Rayan Aït-Nouri             DEF   £5.1m    0      0       0       0       0        0        0        0     0     0       0.3%     0       0       
 Kaden Braithwaite           DEF   £3.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
 Marc Guéhi                  DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       12.0%    0.5     3.9     
-Joško Gvardiol              DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       18.1%    0.8     4.1     
+Joško Gvardiol              DEF   £5.5m    0      0       0       0       0        0        0        0     0     0       18.0%    0.8     4.1     
 Abdukodir Khusanov          DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       1.2%     1.8     2.5     
 Rico Lewis                  DEF   £4.3m    0      0       0       0       0        0        0        0     0     0       0.2%     0       1       
 Matheus Nunes               DEF   £5.9m    0      0       0       0       0        0        0        0     0     0       0.9%     0.8     3.1     
-Nico O'Reilly               DEF   £6.2m    0      0       0       0       0        0        0        0     0     0       7.9%     1       1.9     
+Nico O'Reilly               DEF   £6.2m    0      0       0       0       0        0        0        0     0     0       7.8%     1       1.9     
 Vitor de Oliveira Nunes dos ReisDEF   £4.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       1       
 Rúben dos Santos Gato Alves DiasDEF   £5.5m    0      0       0       0       0        0        0        0     0     0       1.9%     1.2     2.7     
 Elliot Anderson             MID   £6.2m    0      0       0       0       0        0        0        0     0     0       3.5%     4       3.5     
 Allan Andrade Elias         MID   £6.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0.5     1       
 Ayyoub Bouaddi              MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.2%     0.8     1.2     
-Rayan Cherki                MID   £7.8m    0      0       0       0       0        0        0        0     0     0       29.2%    2.8     5.5     
+Rayan Cherki                MID   £7.8m    0      0       0       0       0        0        0        0     0     0       29.1%    2.8     5.5     
 Jérémy Doku                 MID   £7.5m    0      0       0       0       0        0        0        0     0     0       3.6%     1.5     3.9     
 Claudio Echeverri           MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Enzo Fernández              MID   £6.9m    0      0       0       0       0        0        0        0     0     0       3.2%     1.2     2.4     
