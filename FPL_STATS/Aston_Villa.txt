@@ -1,6 +1,6 @@
 ASTON VILLA
 =================================================================================================================================================
-Updated: 2026-11-27 21:31:07
+Updated: 2026-11-28 03:28:40
 Gameweek: GW12
 Players: 37
 
@@ -24,10 +24,10 @@ Pau Torres                  DEF   £4.4m    0      0       0       0       0    
 Aaron Wan-Bissaka           DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.2%     2       3       
 Leon Bailey                 MID   £5.4m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Ross Barkley                MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.2%     0.8     1.5     
-Lamare Bogarde              MID   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
+Lamare Bogarde              MID   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
 Emiliano Buendía Stati      MID   £5.8m    0      0       0       0       0        0        0        0     0     0       1.0%     0.5     3       
-Bradley Burrowes            MID   £4.4m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
-Alejandro Garnacho Ferreyra MID   £5.7m    0      0       0       0       0        0        0        0     0     0       0.3%     0.2     1       
+Bradley Burrowes            MID   £4.3m    0      0       0       0       0        0        0        0     0     0       0.5%     0       0       
+Alejandro Garnacho Ferreyra MID   £5.6m    0      0       0       0       0        0        0        0     0     0       0.3%     0.2     1       
 Joao Gomes                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.5     1.9     
 Leon Goretzka               MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.1%     2.8     2.6     
 George Hemmings             MID   £4.3m    0      0       0       0       0        0        0        0     0     0       0.7%     0.2     1.7     

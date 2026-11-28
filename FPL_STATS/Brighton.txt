@@ -1,13 +1,13 @@
 BRIGHTON
 =================================================================================================================================================
-Updated: 2026-11-27 21:31:07
+Updated: 2026-11-28 03:28:40
 Gameweek: GW12
 Players: 37
 
 PLAYER                      POS   PRICE    PTS    BONUS   BPS     DC      xG       xA       xGI      G     A     MIN     OWN      FORM    PPG     
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Jason Steele                GK    £3.9m    0      0       0       0       0        0        0        0     0     0       3.2%     0       0       
-Bart Verbruggen             GK    £4.7m    0      0       0       0       0        0        0        0     0     0       25.7%    4.8     5.4     
+Bart Verbruggen             GK    £4.8m    0      0       0       0       0        0        0        0     0     0       25.7%    4.8     5.4     
 Olivier Boscagli            DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.7%     4.5     4.6     
 Diego Coppola               DEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Maxim De Cuyper             DEF   £5.6m    0      0       0       0       0        0        0        0     0     0       51.1%    4       6.9     
@@ -17,7 +17,7 @@ Ferdi Kadıoğlu              DEF   £4.3m    0      0       0       0       0  
 João Pedro Loureiro da CostaDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     3       1.7     
 Pascal Struijk              DEF   £4.9m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1.2     
 Michael Svoboda             DEF   £5.0m    0      0       0       0       0        0        0        0     0     0       0.1%     0       1       
-Luka Vušković               DEF   £5.3m    0      0       0       0       0        0        0        0     0     0       12.2%    4.5     6.4     
+Luka Vušković               DEF   £5.4m    0      0       0       0       0        0        0        0     0     0       12.2%    4.5     6.4     
 Mats Wieffer                DEF   £4.8m    0      0       0       0       0        0        0        0     0     0       0.1%     0.2     2       
 Igor Julio dos Santos de PauloDEF   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 José María Andrés Baixauli  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.1%     0.8     2.6     
@@ -25,7 +25,7 @@ Yasin Ayari                 MID   £5.5m    0      0       0       0       0    
 Femi Azeez                  MID   £5.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Facundo Buonanotte          MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
 Amario Cozier-Duberry       MID   £5.0m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
-Pascal Groß                 MID   £6.3m    0      0       0       0       0        0        0        0     0     0       50.0%    4       6.7     
+Pascal Groß                 MID   £6.4m    0      0       0       0       0        0        0        0     0     0       50.0%    4       6.7     
 Diego Gómez Amarilla        MID   £5.1m    0      0       0       0       0        0        0        0     0     0       4.6%     3.8     4.9     
 Jack Hinshelwood            MID   £5.9m    0      0       0       0       0        0        0        0     0     0       0.6%     0.8     4.3     
 Harry Howell                MID   £4.5m    0      0       0       0       0        0        0        0     0     0       0.0%     0       0       
